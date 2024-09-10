@@ -1,5 +1,5 @@
 import streamlit as st
-from OllamaLLM import generate_text
+from Embeddings import generate_text
 
 st.title("Physics Chatbot",anchor=False)
 model = st.sidebar.selectbox("Select Model",["gemma2:2b"])  

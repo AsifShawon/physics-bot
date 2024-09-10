@@ -2,8 +2,8 @@ import PyPDF2
 from langchain_ollama import OllamaEmbeddings
 from langchain_core.vectorstores import InMemoryVectorStore
 from langchain.text_splitter import CharacterTextSplitter
-from langchain.chains.question_answering import load_qa_chain
 from langchain_community.llms import Ollama
+from langchain.prompts import PromptTemplate
 
 # Function to extract text from PDF
 def extract_text_from_pdf(pdf_path):
@@ -35,8 +35,30 @@ def generate_text(model, text):
 
     retriever = vectorStore.as_retriever()
     llm = Ollama(model="gemma2:2b")
-    qa_chain = load_qa_chain(llm, chain_type="stuff")
+
+    template = """
+    You are a Physics bot and answer only physics questions and in English.
+    If there is no exact answer,don't reply with partial answer. and ask user physics related question.
+    Answer based on this RAG content: {rag_content} and jsut simmillar to this.
+    Question: {question}
+    """
+    prompt = PromptTemplate(template=template, input_variables=["rag_content", "question"])
+
+    # Retrieve relevant chunks
     question = text
-    relevant_docs = retriever.get_relevant_documents(question)
-    answer = qa_chain.run(input_documents=relevant_docs, question=question)
+    relevant_docs = retriever.invoke(question)
+
+    # Combine the relevant document content
+    rag_content = "\n".join([doc.page_content for doc in relevant_docs])
+
+    # Create the input for the chain
+    chain_input = {"rag_content": rag_content, "question": question}
+
+    # Create the chain and invoke it
+    chain = prompt | llm
+    answer = chain.invoke(chain_input)
+
     print(answer)
+    return answer
+
+# generate_text("gemma2:2b", "What is the formula for the force of gravity?")
