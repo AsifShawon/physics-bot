@@ -58,7 +58,7 @@ def search(user_query):
 
     retriver = db.as_retriever(
         search_type="similarity_score_threshold",
-        search_kwargs={'k':3, 'score_threshold': 0.5}
+        search_kwargs={'k':3, 'score_threshold':0.5}
     )
     print("query:", query)
 
@@ -66,6 +66,9 @@ def search(user_query):
 
     retrived_docs = ""
     for doc in docs:
-        retrived_docs.join(doc.page_content.strip()+"\n")
+        retrived_docs += doc.page_content +"\n"
+
+    print(retrived_docs)
 
     return retrived_docs
+# search("The uses of computer?")

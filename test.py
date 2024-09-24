@@ -1,7 +1,8 @@
-from langchain_community.llms import Ollama
+import streamlit as st
+from st_chat_message import message
 
-llm = Ollama(model="gemma2:2b")
+message("Hello world!", is_user=True, avatar_style="")
+message("Hi", avatar_style="b")
 
-prompt = "What is the speed of light?"
-response = llm.invoke(prompt)
-print(response)
+
+

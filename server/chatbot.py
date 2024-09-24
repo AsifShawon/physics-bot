@@ -1,13 +1,15 @@
 import streamlit as st
 import time
+from st_chat_message import message as stcm
 from OllamaLLM import generate_text, clear_chat_history
 
 st.title("Physics Chatbot", anchor=False)
 
 with st.sidebar:
-    st.title('Welcome !')
-    button = st.button("New Chat")
+    st.header('Welcome !', divider="red")
     model = st.selectbox("Select a model", ["llama3.1:8b", "gemma2:9b", "gemma2:2b"])
+    st.subheader(f"Model we are using: :red[{model}]", divider="gray")
+    button = st.button("New Chat")
     if button:
         st.session_state.clear()
         clear_chat_history()
@@ -16,8 +18,11 @@ if "messages" not in st.session_state.keys():
     st.session_state.messages = [{"role": "assistant", "content": "How may I assist you today?"}]
     
 for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.write(message["content"])
+    if message["role"] == "user":
+        stcm(message["content"], is_user=True, avatar_style="adventurer")
+    else:
+        stcm(message["content"])
+        
 
 def generate_response(prompt):
     print(model)
@@ -27,25 +32,25 @@ def generate_response(prompt):
 
 if prompt := st.chat_input("Type something..."):
     st.session_state.messages.append({"role": "user", "content": prompt})
-    with st.chat_message("user"):
-        st.write(prompt)
+    # with st.chat_message("user"):
+    stcm(prompt, is_user=True)
 
 if st.session_state.messages[-1]["role"] != "assistant":
-    with st.chat_message("assistant"):
-        with st.spinner("Thinking..."):
+    # with st.chat_message("assistant"):
+    with st.spinner("Thinking..."):
 
-            start = time.time()
-            print(f"Start: {start}")
-            response = generate_response(prompt)
-            end = time.time()
-            print(f"End: {end}")
-            print(f"Total: {start-end}")
+        start = time.time()
+        print(f"Start: {start}")
+        response = generate_response(prompt)
+        end = time.time()
+        print(f"End: {end}")
+        print(f"Total: {start-end}")
 
-            placeholder = st.empty()
-            full_response = ''
-            for item in response:
-                full_response += item
-                placeholder.markdown(full_response)
-            placeholder.markdown(full_response)
+        # placeholder = stcm("")
+        full_response = ''
+        for item in response:
+            full_response += item
+            # placeholder.markdown(full_response)
+        stcm(full_response)
     message = {"role": "assistant", "content": full_response}
     st.session_state.messages.append(message)

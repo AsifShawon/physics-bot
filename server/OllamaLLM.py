@@ -1,41 +1,40 @@
 from langchain_community.llms import Ollama
 from langchain_core.output_parsers import StrOutputParser
-from langchain.prompts import ChatPromptTemplate 
+from langchain.prompts import ChatPromptTemplate
 from langchain.schema import SystemMessage, AIMessage, HumanMessage
 from pdfToVectoreStore import search
 
-
 chatHistory = []
-systemMessage = "You are a helpful physics assistant. You do not respond as 'User' or pretend to be 'User'. You only respond once as 'Assistant'. You only answer physics-related questions and ignore any non-physics-related questions. If the question is not about physics, respond with 'I can only answer physics questions.'"
+systemMessage = "You are a helpful physics assistant. You are given documents from a physics book to help answer the questions. If the answer is not in the documents, respond with 'I'm not sure'. Do not respond to questions unrelated to physics."
+
 chatHistory.append(SystemMessage(content=systemMessage))
 
 def generate_text(model, query):
-
-    # context from physics documents
+    # Retrieve context from physics documents
     retrieved_text = search(query)
-    context = ("Here are some documents that might help you answer better: \n"
-               + query + "\n"
-               + retrieved_text)
-    
+
+    if retrieved_text:
+        context = (f"Here are some documents that might help answer the question: \n{retrieved_text}\n"
+                   f"Answer the question: {query} based on these documents. If the answer is not found in the documents, respond with 'I'm not sure'.")
+    else:
+        context = f"The question is: {query}. "
+
+    # Add to chat history and generate response
     chatHistory.append(HumanMessage(content=context))
     model = Ollama(model=model)
     prompt = ChatPromptTemplate.from_messages(chatHistory)
     parser = StrOutputParser()
-    
+
+    # Chain the prompt, model, and parser
     chain = prompt | model | parser
-    
     response = chain.invoke({})
+
+    # Add the response to chat history
     chatHistory.append(AIMessage(content=response))
-    
-    # for msg in chatHistory:
-    #     print(f"{msg.type}: {msg.content}")
-    
+
     return response
 
-# Test with your model and input
-# response = generate_text("gemma2:2b", "What is the speed of light?")
-# print(response)
+# To clear chat history for a new session
 def clear_chat_history():
     chatHistory.clear()
-    systemMessage = "You are a helpful physics assistant. You do not respond as 'User' or pretend to be 'User'. You only respond once as 'Assistant'. You only answer physics-related questions and ignore any non-physics-related questions. If the question is not about physics, respond with 'I can only answer physics questions.'"
     chatHistory.append(SystemMessage(content=systemMessage))
