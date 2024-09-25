@@ -20,7 +20,7 @@ def extract_text_from_pdf(pdf_path):
             pdf_text += page.extract_text()
     return pdf_text
 
-def split_text_into_chunks(texts, chunk_size=1000, overlap=100):
+def split_text_into_chunks(texts, chunk_size=800, overlap=50):
     # splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=overlap)
     splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=overlap)
     documents = [Document(page_content=texts)]
@@ -58,7 +58,7 @@ def search(user_query):
 
     retriver = db.as_retriever(
         search_type="similarity_score_threshold",
-        search_kwargs={'k':3, 'score_threshold':0.5}
+        search_kwargs={'k':1, 'score_threshold':0.5}
     )
     print("query:", query)
 
@@ -71,7 +71,7 @@ def search(user_query):
     print(retrived_docs)
 
     return retrived_docs
-# # search("The uses of computer?")
+# search("The uses of computer?")
 # with open("Physics_book.txt", "w", encoding="utf-8") as f:
 #     f.write(extract_text_from_pdf(file_path))
 #     print("done")
