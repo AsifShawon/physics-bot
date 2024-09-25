@@ -71,7 +71,7 @@ def search(user_query):
     print(retrived_docs)
 
     return retrived_docs
-# search("The uses of computer?")
-with open("Physics_book.txt", "w", encoding="utf-8") as f:
-    f.write(extract_text_from_pdf(file_path))
-    print("done")
+# # search("The uses of computer?")
+# with open("Physics_book.txt", "w", encoding="utf-8") as f:
+#     f.write(extract_text_from_pdf(file_path))
+#     print("done")
