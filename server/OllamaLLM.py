@@ -6,21 +6,31 @@ from pdfToVectoreStore import search
 
 # Initialize chat history and system message
 chatHistory = []
-systemMessage = "You are a helpful physics assistant. You are given documents from a physics book to help answer the questions. If the answer is not in the documents, respond with 'I'm not sure'. Do not respond to questions unrelated to physics."
+systemMessage = """You are a helpful physics assistant. 
+Always try to provide examples directly from the physics book. 
+Your topics are []
+If the answer is not found in the documents, respond with 'I'm not sure'. 
+Do not answer questions unrelated to physics."""
+
 chatHistory.append(SystemMessage(content=systemMessage))
 
 # Initialize model once
-ollama_model = Ollama(model="llama3.2:3b")
+# "llama3.2:3b", "gemma2:9b", "gemma2:2b", "qwen2.5:3b"
+ollama_model = Ollama(model="gemma2:2b")
+# ollama_model = Ollama(model="qwen2.5:3b")
 
 def generate_text(query):
     # Retrieve context from physics documents
     retrieved_text = search(query)
 
-    if retrieved_text:
+    # Check if relevant content was found
+    if retrieved_text != "No relevant docs were retrieved using the relevance score threshold 0.5":
+        # Modify the context to request specific examples from the retrieved documents
         context = (f"Here are some documents that might help answer the question: \n{retrieved_text}\n"
-                   f"Answer the question: {query} based on these documents. Do the maths properly. If the answer is not found in the documents, respond with 'Ask me physics related question'.")
+                   f"Please provide an example from the book related to the question: {query}. "
+                   f"Only use information from the provided documents. If no example is available in the documents, respond with 'I'm not sure'.")
     else:
-        context = f"The question is: {query}. "
+        context = f"The question is: {query}. Unfortunately, I couldn't find any relevant documents. Can you try asking a more specific physics-related question?"
 
     # Add context to chat history
     chatHistory.append(HumanMessage(content=context))

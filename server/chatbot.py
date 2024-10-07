@@ -8,8 +8,8 @@ st.title("Physics Chatbot", anchor=False)
 with st.sidebar:
     st.header('Welcome !', divider="red")
     # model = st.selectbox("Select a model", ["llama3.2:3b", "gemma2:9b", "gemma2:2b", "qwen2.5:3b"])
-    model = "llama3.2:3b"
-    st.subheader(f"Model we are using: :red[llama3.2:3b]", divider="gray")
+    model = "gemma2:2b"
+    st.subheader(f"Model we are using: :red[gemma2:2b-instruct-fp16]", divider="gray")
     button = st.button("New Chat")
     if button:
         st.session_state.clear()
