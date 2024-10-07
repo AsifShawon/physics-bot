@@ -1,43 +1,54 @@
 import os
+import json
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
-from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
-import PyPDF2
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 # embedding = OllamaEmbeddings(model="all-minilm:33m")
 embedding = OllamaEmbeddings(model="nomic-embed-text:latest")
+# embedding = OllamaEmbeddings(model="mxbai-embed-large:latest")
 current_directory = os.path.dirname(os.path.abspath(__file__))
-vector_directory = os.path.join(current_directory, "db", "chroma_db_physics_recursive_nomic")
-file_path = os.path.join(current_directory, "Physics.pdf")
+vector_directory = os.path.join(current_directory, "db", "chroma_db_physics_json_nomic")
+json_file_path = os.path.join(current_directory, "chunked_physics_data.json")
 
-def extract_text_from_pdf(pdf_path):
-    pdf_text = ""
-    with open(pdf_path, 'rb') as file:
-        reader = PyPDF2.PdfReader(file)
-        for page_num in range(len(reader.pages)):
-            page = reader.pages[page_num]
-            pdf_text += page.extract_text()
-    return pdf_text
+def load_json_data(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        return json.load(file)
 
-def split_text_into_chunks(texts, chunk_size=800, overlap=50):
-    # splitter = CharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=overlap)
-    splitter = RecursiveCharacterTextSplitter(chunk_size=chunk_size, chunk_overlap=overlap)
-    documents = [Document(page_content=texts)]
-    return splitter.split_documents(documents)
+def create_documents_from_json(json_data, max_chunk_size=800):
+    documents = []
+    splitter = RecursiveCharacterTextSplitter(chunk_size=max_chunk_size, chunk_overlap=100)
+    for chapter in json_data:
+        chapter_name = chapter['chapter']
+        title = chapter['title']
+        for chunk in chapter['chunks']:
+            content = chunk['data']
+            split_docs = splitter.split_documents([Document(page_content=content)])
+            for doc in split_docs:
+                doc.metadata = {
+                    "chapter": chapter_name,
+                    "title": title,
+                    "topic": chunk['topic']
+                }
+                documents.append(doc)
+    return documents
 
-def embed_documents(pdf_path):
+def embed_documents(json_file_path):
+    json_data = load_json_data(json_file_path)
+    docs = create_documents_from_json(json_data)
 
-    pdf_documents = extract_text_from_pdf(pdf_path)
-    docs = split_text_into_chunks(pdf_documents)
-
-    Chroma.from_documents(collection_name="physics_db_recursive",embedding=embedding, persist_directory=vector_directory, documents=docs)
+    Chroma.from_documents(
+        collection_name="physics_db_json",
+        embedding=embedding,
+        persist_directory=vector_directory,
+        documents=docs
+    )
     print("Database created")
 
-
-def db_to_retriver():
+def db_to_retriever():
     return Chroma(
-        collection_name="physics_db_recursive",
+        collection_name="physics_db_json",
         persist_directory=vector_directory,
         embedding_function=embedding
     )      
@@ -46,32 +57,34 @@ def search(user_query):
     if not os.path.exists(vector_directory):
         print("Creating database")
 
-        if not os.path.exists(file_path):
-            raise FileNotFoundError(f"{file_path} File not found")
+        if not os.path.exists(json_file_path):
+            raise FileNotFoundError(f"{json_file_path} File not found")
 
-        embed_documents(file_path)
+        embed_documents(json_file_path)
     else:
         print("Database already exists")
             
     query = user_query
-    db = db_to_retriver()
+    db = db_to_retriever()
 
-    retriver = db.as_retriever(
+    retriever = db.as_retriever(
         search_type="similarity_score_threshold",
-        search_kwargs={'k':1, 'score_threshold':0.5}
+        search_kwargs={'k': 3, 'score_threshold': 0.5}
     )
     print("query:", query)
 
-    docs = retriver.invoke(query)
+    docs = retriever.invoke(query)
 
-    retrived_docs = ""
+    retrieved_docs = ""
     for doc in docs:
-        retrived_docs += doc.page_content +"\n"
+        retrieved_docs += f"Chapter: {doc.metadata['chapter']}\n"
+        retrieved_docs += f"Title: {doc.metadata['title']}\n"
+        retrieved_docs += f"Content: {doc.page_content}\n\n"
 
-    print(retrived_docs)
+    print(retrieved_docs)
 
-    return retrived_docs
-# search("The uses of computer?")
-# with open("Physics_book.txt", "w", encoding="utf-8") as f:
-#     f.write(extract_text_from_pdf(file_path))
-#     print("done")
+    return retrieved_docs
+
+# Example usage
+reply = search("Ohm's law")
+# print(reply)
