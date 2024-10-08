@@ -10,7 +10,7 @@ embedding = OllamaEmbeddings(model="nomic-embed-text:latest")
 # embedding = OllamaEmbeddings(model="mxbai-embed-large:latest")
 current_directory = os.path.dirname(os.path.abspath(__file__))
 vector_directory = os.path.join(current_directory, "db", "chroma_db_physics_json_nomic")
-json_file_path = os.path.join(current_directory, "chunked_physics_data.json")
+json_file_path = os.path.join(current_directory, "chunked_physics_data_2.json")
 
 def load_json_data(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -53,6 +53,9 @@ def db_to_retriever():
         embedding_function=embedding
     )      
 
+def to_unicode(text):
+    return text.encode('unicode_escape').decode('ascii')
+
 def search(user_query):
     if not os.path.exists(vector_directory):
         print("Creating database")
@@ -64,7 +67,7 @@ def search(user_query):
     else:
         print("Database already exists")
             
-    query = user_query
+    query = to_unicode(user_query)
     db = db_to_retriever()
 
     retriever = db.as_retriever(
@@ -86,5 +89,5 @@ def search(user_query):
     return retrieved_docs
 
 # Example usage
-reply = search("Ohm's law")
+search("speed of light")
 # print(reply)
