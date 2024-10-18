@@ -72,7 +72,7 @@ def search(user_query):
 
     retriever = db.as_retriever(
         search_type="similarity_score_threshold",
-        search_kwargs={'k': 3, 'score_threshold': 0.5}
+        search_kwargs={'k': 1, 'score_threshold': 0.5}
     )
     print("query:", query)
 
@@ -89,5 +89,5 @@ def search(user_query):
     return retrieved_docs
 
 # Example usage
-search("speed of light")
+# search("speed of light")
 # print(reply)
