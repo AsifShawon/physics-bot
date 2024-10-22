@@ -1,0 +1,835 @@
+### **Topic**: 11.1 Production of Current Electricity
+
+- **Type**: Conceptual  
+  - **Main**: What is electric current?  
+  - **Follow-Up-1**: How is electric current produced from moving electrons?  
+  - **Follow-Up-2**: Describe the flow of current when two objects with different potentials are connected.  
+  - **Follow-Up-3**: How does the potential difference between two points in a conductor affect the electric current?  
+  - **Follow-Up-4**: How does temperature affect the flow of electric current?
+
+- **Type**: Conceptual  
+  - **Main**: Explain the relationship between charge and current.  
+  - **Follow-Up-1**: What is the formula for calculating electric current in terms of charge and time?  
+  - **Follow-Up-2**: If charge increases but time remains constant, how does current change?  
+  - **Follow-Up-3**: How would a decrease in time affect the electric current for a fixed charge?
+
+- **Type**: Application-based  
+  - **Main**: Describe an experiment to demonstrate the production of electric current from static electricity.  
+  - **Follow-Up-1**: What role do plug keys K1 and K2 play in the setup?  
+  - **Follow-Up-2**: Why is it important to first discharge the metal plates before closing the circuit?  
+  - **Follow-Up-3**: How does the galvanometer indicate that current has been produced?  
+  - **Follow-Up-4**: What changes would you observe in the galvanometer if the potential difference between the plates was doubled?
+
+- **Type**: Application-based  
+  - **Main**: What materials are required to build a simple circuit demonstrating current flow?  
+  - **Follow-Up-1**: How would you connect a battery, a resistor, and a galvanometer to form a simple circuit?  
+  - **Follow-Up-2**: What would happen if there was a break in the circuit?  
+  - **Follow-Up-3**: How does the galvanometer help in detecting current flow?  
+  - **Follow-Up-4**: How could the circuit be modified to allow for variable current flow?
+
+- **Type**: Numerical  
+  - **Main**: If 15 C of charge flows through a conductor in 3 seconds, what is the current in the conductor?  
+  - **Follow-Up-1**: If the charge increases to 30 C but the time remains the same, what will be the new current?  
+  - **Follow-Up-2**: How would the current change if the time taken for the charge to flow was reduced to 1 second?  
+  - **Follow-Up-3**: If the current in a wire is 5 A, how much charge flows through the wire in 10 seconds?
+
+- **Type**: Numerical  
+  - **Main**: A 2 A current flows through a circuit for 5 minutes. Calculate the total charge that passes through the circuit.  
+  - **Follow-Up-1**: If the current doubles, how much charge would pass through the circuit in the same time?  
+  - **Follow-Up-2**: Convert the time into seconds and recalculate the charge for a current of 4 A.  
+  - **Follow-Up-3**: If the current remains 2 A but the time is halved, how does the total charge change?
+
+- **Type**: Critical Thinking  
+  - **Main**: Why is it important to maintain a potential difference to ensure continuous current flow?  
+  - **Follow-Up-1**: What would happen to the flow of current if the potential difference drops to zero?  
+  - **Follow-Up-2**: Can current flow in a circuit with no potential difference? Why or why not?  
+  - **Follow-Up-3**: How does the concept of potential difference relate to energy transfer in a circuit?  
+  - **Follow-Up-4**: Could static electricity be used to produce a continuous flow of current? Why or why not?
+
+- **Type**: Critical Thinking  
+  - **Main**: Compare the behavior of charges in a conductor when it is isolated versus when it is connected to a circuit.  
+  - **Follow-Up-1**: How does the presence of a conducting path change the distribution of charge on a conductor?  
+  - **Follow-Up-2**: Why do charges remain on the surface of an isolated conductor?  
+  - **Follow-Up-3**: What is the difference between electrostatic charge and electric current?  
+  - **Follow-Up-4**: How does the material of the conductor affect the flow of current?
+
+- **Type**: Practical  
+  - **Main**: How can you measure the current in a simple circuit?  
+  - **Follow-Up-1**: What equipment would you need to measure the current accurately?  
+  - **Follow-Up-2**: How would you connect an ammeter in a circuit to ensure correct readings?  
+  - **Follow-Up-3**: What would happen if the ammeter was connected incorrectly?  
+  - **Follow-Up-4**: How can you ensure that the current is flowing in the correct direction?
+
+- **Type**: Practical  
+  - **Main**: Design an experiment to show the effect of varying the potential difference on the electric current in a circuit.  
+  - **Follow-Up-1**: What instruments would you use to vary and measure the potential difference?  
+  - **Follow-Up-2**: How would you ensure that the circuit remains intact during the experiment?  
+  - **Follow-Up-3**: How does increasing the potential difference affect the current in the circuit?  
+  - **Follow-Up-4**: How can you make the experiment safer when working with high potential differences?
+
+---
+
+### **Topic**: 11.2 Direction of Electric Current
+
+- **Type**: Conceptual  
+  - **Main**: What is the conventional direction of electric current?  
+  - **Follow-Up-1**: Why was the conventional current originally thought to flow from positive to negative?  
+  - **Follow-Up-2**: How does the actual direction of current differ from the conventional direction?  
+  - **Follow-Up-3**: Why is it important to distinguish between conventional and actual current?
+
+- **Type**: Conceptual  
+  - **Main**: Explain how electron flow relates to the actual direction of electric current.  
+  - **Follow-Up-1**: What is the role of electrons in determining the actual direction of current?  
+  - **Follow-Up-2**: How does the potential difference influence the movement of electrons?  
+  - **Follow-Up-3**: Why is the electron flow considered the true direction of current?
+
+- **Type**: Conceptual  
+  - **Main**: Compare and contrast the flow of current and the flow of electrons in a circuit.  
+  - **Follow-Up-1**: How do conventional current and electron flow move relative to each other?  
+  - **Follow-Up-2**: In which direction do electrons move in a battery circuit?  
+  - **Follow-Up-3**: How does conventional current make circuit diagrams easier to interpret?
+
+- **Type**: Application-based  
+  - **Main**: How does reversing the polarity of a battery affect the direction of current in a circuit?  
+  - **Follow-Up-1**: What happens to the flow of electrons when the battery is reversed?  
+  - **Follow-Up-2**: How does reversing the current affect the functioning of a device like an LED?  
+  - **Follow-Up-3**: How can you use a diode to ensure the current flows in only one direction?
+
+- **Type**: Application-based  
+  - **Main**: Why is it important to consider the direction of current when designing a circuit?  
+  - **Follow-Up-1**: How would incorrect placement of components like a diode affect current flow?  
+  - **Follow-Up-2**: What precautions should be taken when connecting components to ensure correct current flow?  
+  - **Follow-Up-3**: How does the direction of current influence the operation of an electric motor?
+
+- **Type**: Numerical  
+  - **Main**: If a circuit has a potential difference of 10 V and the current is 5 A, what is the direction of the current based on conventional flow?  
+  - **Follow-Up-1**: If the battery is reversed, how will the direction of current change?  
+  - **Follow-Up-2**: Calculate the new current if the potential difference is doubled but the battery’s direction remains the same.  
+  - **Follow-Up-3**: How does Ohm’s Law relate to changes in potential difference and current direction?
+
+- **Type**: Numerical  
+  - **Main**: A 6 A current flows from the positive to the negative terminal of a battery. How much charge passes through the circuit in 2 minutes?  
+  - **Follow-Up-1**: How much charge would pass if the current was reversed but remained at 6 A?  
+  - **Follow-Up-2**: What is the total charge if the current remains the same but flows for 4 minutes?  
+  - **Follow-Up-3**: If the current drops to 3 A, how does this affect the total charge in 2 minutes?
+
+- **Type**: Critical Thinking  
+  - **Main**: Why is the distinction between conventional and actual current
+
+ important for understanding circuit behavior?  
+  - **Follow-Up-1**: How would the incorrect assumption about current direction impact circuit design?  
+  - **Follow-Up-2**: Does the distinction between current directions affect power consumption in a circuit?  
+  - **Follow-Up-3**: How does current direction influence the safety of electrical systems?
+
+- **Type**: Practical  
+  - **Main**: Design an experiment to demonstrate the conventional and actual direction of current.  
+  - **Follow-Up-1**: What materials would you need to differentiate between conventional and electron flow?  
+  - **Follow-Up-2**: How would you measure the current in both directions?  
+  - **Follow-Up-3**: How would reversing the battery affect the experimental outcomes?  
+  - **Follow-Up-4**: How can you ensure the safety of the experiment when dealing with high currents?
+
+---
+
+
+### **Topic**: 11.3 Electric Symbols
+
+- **Type**: Conceptual  
+  - **Main**: What is the purpose of using symbols in electrical circuit diagrams?  
+  - **Follow-Up-1**: Why is it important to standardize symbols in circuit diagrams?  
+  - **Follow-Up-2**: How do symbols help in understanding complex circuits?  
+  - **Follow-Up-3**: What are the basic symbols used for a battery and a switch in a circuit?
+
+- **Type**: Conceptual  
+  - **Main**: Explain the significance of using an ammeter and a voltmeter in a circuit.  
+  - **Follow-Up-1**: What is the symbol for an ammeter, and how is it connected in a circuit?  
+  - **Follow-Up-2**: How is a voltmeter symbolized, and how does it differ in connection from an ammeter?  
+  - **Follow-Up-3**: Why is it important to place the ammeter in series and the voltmeter in parallel?
+
+- **Type**: Application-based  
+  - **Main**: How would you draw a simple circuit using symbols to represent a battery, a resistor, and a bulb?  
+  - **Follow-Up-1**: What is the correct way to connect a switch in this circuit to control the bulb?  
+  - **Follow-Up-2**: How would the circuit change if you added a second battery in series?  
+  - **Follow-Up-3**: How does the addition of a second bulb in parallel affect the current in the circuit?
+
+- **Type**: Application-based  
+  - **Main**: Design a circuit using electric symbols to show a series connection of a battery, resistor, and ammeter.  
+  - **Follow-Up-1**: How would you modify the circuit to include a voltmeter to measure the voltage across the resistor?  
+  - **Follow-Up-2**: What changes would you make to place the resistor and another device in parallel?  
+  - **Follow-Up-3**: How would you depict a fuse in the circuit using the correct symbol?
+
+- **Type**: Numerical  
+  - **Main**: If a circuit has a battery of 12 V, a resistor of 5 Ω, and a current of 2 A, draw the circuit using appropriate symbols.  
+  - **Follow-Up-1**: How would you represent the connection of an ammeter and a voltmeter to measure current and voltage, respectively?  
+  - **Follow-Up-2**: If the resistor was doubled, how would you modify the circuit diagram and calculate the new current?  
+  - **Follow-Up-3**: What would be the power consumed by the resistor in this circuit?
+
+- **Type**: Critical Thinking  
+  - **Main**: Why is it important to ensure that symbols are correctly placed and connected in a circuit diagram?  
+  - **Follow-Up-1**: What could happen if a voltmeter is connected in series instead of parallel?  
+  - **Follow-Up-2**: Why should fuses and switches be connected in series with the circuit components?  
+  - **Follow-Up-3**: How do incorrect symbol placements lead to misunderstandings in complex circuit designs?
+
+- **Type**: Practical  
+  - **Main**: Create a circuit diagram using symbols to represent two resistors in parallel connected to a battery.  
+  - **Follow-Up-1**: What would happen to the circuit if one of the resistors was disconnected?  
+  - **Follow-Up-2**: How would you modify the circuit to include an indicator lamp that lights when current is flowing?  
+  - **Follow-Up-3**: What safety precautions should you consider when working with this circuit?
+
+---
+
+### **Topic**: 11.4 Conductor, Insulator, and Semiconductor
+
+- **Type**: Conceptual  
+  - **Main**: What are conductors, and how do they facilitate the flow of electric current?  
+  - **Follow-Up-1**: Why are metals like copper and silver considered good conductors?  
+  - **Follow-Up-2**: How does the atomic structure of conductors allow for free movement of electrons?  
+  - **Follow-Up-3**: What are some common applications of conductors in daily life?
+
+- **Type**: Conceptual  
+  - **Main**: Define an insulator and explain why certain materials resist the flow of electric current.  
+  - **Follow-Up-1**: Why do materials like rubber and plastic serve as good insulators?  
+  - **Follow-Up-2**: What role do insulators play in electrical safety?  
+  - **Follow-Up-3**: How does the lack of free electrons in insulators affect their conductivity?
+
+- **Type**: Conceptual  
+  - **Main**: What is a semiconductor, and how does it differ from conductors and insulators?  
+  - **Follow-Up-1**: Why are materials like silicon and germanium used as semiconductors?  
+  - **Follow-Up-2**: How can the conductivity of a semiconductor be altered?  
+  - **Follow-Up-3**: What is the role of doping in increasing semiconductor conductivity?
+
+- **Type**: Application-based  
+  - **Main**: Explain how conductors, insulators, and semiconductors are used in a household electrical system.  
+  - **Follow-Up-1**: How are conductors used in wiring and electrical circuits in homes?  
+  - **Follow-Up-2**: Why are insulating materials essential in the wiring of electrical appliances?  
+  - **Follow-Up-3**: How are semiconductors used in electronic devices like smartphones and computers?
+
+- **Type**: Numerical  
+  - **Main**: If a copper wire has a resistance of 2 Ω and a voltage of 10 V is applied, calculate the current flowing through the wire.  
+  - **Follow-Up-1**: How would the current change if the resistance was halved?  
+  - **Follow-Up-2**: What would be the power consumed by the copper wire if the voltage was increased to 20 V?  
+  - **Follow-Up-3**: If the wire was replaced with an insulator, what current would flow through the circuit?
+
+- **Type**: Critical Thinking  
+  - **Main**: Compare the roles of conductors, insulators, and semiconductors in electronic devices.  
+  - **Follow-Up-1**: How does the combination of these materials enhance the functionality of an electronic circuit?  
+  - **Follow-Up-2**: Why is it necessary to use insulators alongside conductors in electrical systems?  
+  - **Follow-Up-3**: In what situations would a semiconductor be preferable to a conductor or insulator?
+
+- **Type**: Practical  
+  - **Main**: Design an experiment to test the conductivity of different materials, including metals, plastics, and semiconductors.  
+  - **Follow-Up-1**: How would you measure the current passing through each material?  
+  - **Follow-Up-2**: What would you expect to observe when testing a good conductor versus an insulator?  
+  - **Follow-Up-3**: How would the experiment change if you tested the materials at different temperatures?
+
+---
+
+### **Topic**: 11.5 Ohm’s Law
+
+- **Type**: Conceptual  
+  - **Main**: State Ohm’s Law and explain its significance in electrical circuits.  
+  - **Follow-Up-1**: How does Ohm’s Law relate voltage, current, and resistance?  
+  - **Follow-Up-2**: Why is Ohm’s Law only applicable for certain materials?  
+  - **Follow-Up-3**: What are the limitations of Ohm’s Law in practical applications?
+
+- **Type**: Conceptual  
+  - **Main**: How is the resistance of a conductor calculated using Ohm’s Law?  
+  - **Follow-Up-1**: How does temperature affect the resistance of a conductor?  
+  - **Follow-Up-2**: What is the significance of a straight-line graph of voltage versus current in confirming Ohm’s Law?  
+  - **Follow-Up-3**: Why do some materials not obey Ohm’s Law?
+
+- **Type**: Application-based  
+  - **Main**: Describe how you would verify Ohm’s Law experimentally.  
+  - **Follow-Up-1**: What equipment would you use to measure voltage and current in the experiment?  
+  - **Follow-Up-2**: How would you plot a voltage-current graph to verify the proportionality between them?  
+  - **Follow-Up-3**: What conclusions can you draw if the graph is a straight line?
+
+- **Type**: Application-based  
+  - **Main**: Use Ohm’s Law to calculate the resistance of a circuit with a 10 V battery and 2 A current.  
+  - **Follow-Up-1**: How would the current change if the voltage was increased to 20 V, assuming resistance remains constant?  
+  - **Follow-Up-2**: If the resistance was doubled, what would happen to the current?  
+  - **Follow-Up-3**: What would be the total voltage needed to maintain a current of 5 A with a resistance of 4Ω?
+
+- **Type**: Numerical  
+  - **Main**: A 12 V battery is connected to a resistor with a current of 3 A. Calculate the resistance of the circuit.  
+  - **Follow-Up-1**: How much power is dissipated in the resistor?  
+  - **Follow-Up-2**: If the current is doubled, what happens to the power dissipation?  
+  - **Follow-Up-3**: What would the voltage need to be if the current remains 3 A but the resistance increases to 10 Ω?
+
+- **Type**: Numerical  
+  - **Main**: In a circuit with a 24 V battery and a 6 Ω resistor, calculate the current flowing through the resistor.  
+  - **Follow-Up-1**: What would be the current if the resistance was reduced to 3 Ω?  
+  - **Follow-Up-2**: How does changing the voltage to 48 V affect the current?  
+  - **Follow-Up-3**: Calculate the power dissipated in the circuit for each scenario.
+
+- **Type**: Critical Thinking  
+  - **Main**: Why is Ohm’s Law fundamental to understanding electric circuits?  
+  - **Follow-Up-1**: How does the concept of resistance help in controlling current in a circuit?  
+  - **Follow-Up-2**: What are the practical applications of Ohm’s Law in household electrical devices?  
+  - **Follow-Up-3**: How would circuits be designed differently without the knowledge of Ohm’s Law?
+
+- **Type**: Practical  
+  - **Main**: Create a simple circuit to verify Ohm’s Law using a battery, resistor, ammeter, and voltmeter.  
+  - **Follow-Up-1**: How would you ensure that the measurements of voltage and current are accurate?  
+  - **Follow-Up-2**: What precautions would you take to prevent overheating of the resistor?  
+  - **Follow-Up-3**: How could you adjust the circuit to explore the effect of changing resistance on current?
+
+---
+
+### **Topic**: 11.6 Resistance: Fixed and Variable
+
+- **Type**: Conceptual  
+  - **Main**: What is electrical resistance, and how does it affect the flow of current?  
+  - **Follow-Up-1**: What factors affect the resistance of a conductor?  
+  - **Follow-Up-2**: How does the length of a conductor influence its resistance?  
+  - **Follow-Up-3**: Why do thicker wires have lower resistance than thinner wires?
+
+- **Type**: Conceptual  
+  - **Main**: Explain the difference between fixed and variable resistances.  
+  - **Follow-Up-1**: How does a fixed resistor function in a circuit?  
+  - **Follow-Up-2**: What is the purpose of using a variable resistor in an electrical circuit?  
+  - **Follow-Up-3**: Why is it important to control resistance in certain applications?
+
+- **Type**: Application-based  
+  - **Main**: How would you use a rheostat to control the brightness of a bulb?  
+  - **Follow-Up-1**: What happens to the current when the resistance of the rheostat is increased?  
+  - **Follow-Up-2**: How can you use a rheostat to maintain a constant current in a circuit?  
+  - **Follow-Up-3**: What are some practical applications of rheostats in everyday devices?
+
+- **Type**: Numerical  
+  - **Main**: A 100 Ω fixed resistor is connected to a 12 V battery. Calculate the current flowing through the resistor.  
+  - **Follow-Up-1**: If the resistance is halved, what will be the new current?  
+  - **Follow-Up-2**: Calculate the power dissipated by the resistor.  
+  - **Follow-Up-3**: How much energy is used by the resistor in 10 minutes?
+
+- **Type**: Critical Thinking  
+  - **Main**: Why is it important to use resistors in electrical circuits?  
+  - **Follow-Up-1**: How does resistance protect electrical components from damage?  
+  - **Follow-Up-2**: What would happen if there were no resistors in circuits?  
+  - **Follow-Up-3**: How does the concept of resistance contribute to the efficient use of electrical energy?
+
+- **Type**: Practical  
+  - **Main**: Demonstrate the use of a variable resistor to adjust the current in a circuit.  
+  - **Follow-Up-1**: How would you connect the variable resistor in the circuit to control current?  
+  - **Follow-Up-2**: What would you observe if the resistance was gradually increased?  
+  - **Follow-Up-3**: How could this setup be used in real-life applications like controlling the speed of a fan?
+
+---
+
+### **Topic**: 11.7 Electromotive Force and Potential Difference
+
+- **Type**: Conceptual  
+  - **Main**: What is electromotive force (emf), and how does it differ from potential difference?  
+  - **Follow-Up-1**: Why is emf often considered the source of energy in a circuit?  
+  - **Follow-Up-2**: How does potential difference influence the flow of current in a conductor?  
+  - **Follow-Up-3**: What is the significance of emf in maintaining the flow of current in a closed circuit?
+
+- **Type**: Conceptual  
+  - **Main**: Explain how the potential difference between two points in a circuit is related to work done on a charge.  
+  - **Follow-Up-1**: How does potential difference affect the energy conversion in a circuit?  
+  - **Follow-Up-2**: What is the relationship between potential difference and current according to Ohm’s Law?  
+  - **Follow-Up-3**: Why is potential difference important in determining the direction of current flow?
+
+- **Type**: Application-based  
+  - **Main**: How would you measure the electromotive force of a battery using a voltmeter?  
+  - **Follow-Up-1**: Why must the battery be disconnected from the circuit to measure its emf?  
+  - **Follow-Up-2**: How can you measure the potential difference across a resistor while the circuit is in operation?  
+  - **Follow-Up-3**: What does the difference between emf and potential difference indicate about the energy losses in the circuit?
+
+- **Type**: Numerical  
+  - **Main**: If a battery has an emf of 12 V and supplies a current of 2 A to a circuit, what is the total energy supplied in 10 seconds?  
+  - **Follow-Up-1**: If the potential difference across the load is 10 V, how much energy is lost as heat in the circuit?  
+  - **Follow-Up-2**: Calculate the power output of the battery.  
+  - **Follow-Up-3**: What would happen to the power if the current was increased to 3 A?
+
+- **Type**: Critical Thinking  
+  - **Main**: Why is it important to consider both emf and potential difference in circuit design?  
+  - **Follow-Up-1**: How do energy losses in a circuit impact the performance of electrical devices?  
+  - **Follow-Up-2**: What would happen if the potential difference in a circuit was equal to the emf of the battery?  
+  - **Follow-Up-3**: How does the internal resistance of a battery affect its emf?
+
+- **Type**: Practical  
+  - **Main**: Design an experiment to measure the potential difference across different components in a circuit.  
+  - **Follow-Up-1**: How would you ensure accurate measurement of potential difference?  
+  - **Follow-Up-2**: What equipment would you use to measure potential difference, and how would you connect it?  
+  - **Follow-Up-3**: How would you use your measurements to calculate the total emf of the circuit?
+
+---
+
+---
+
+### **Topic**: 11.8 Dependence of Resistance
+
+- **Type**: Conceptual  
+  - **Main**: What factors affect the resistance of a conductor?  
+  - **Follow-Up-1**: How does the length of a conductor influence its resistance?  
+  - **Follow-Up-2**: What effect does the cross-sectional area of a conductor have on its resistance?  
+  - **Follow-Up-3**: How does the material of a conductor determine its resistance?
+
+- **Type**: Conceptual  
+  - **Main**: Explain how temperature affects the resistance of a conductor.  
+  - **Follow-Up-1**: Why does resistance increase with temperature in most conductors?  
+  - **Follow-Up-2**: What are the exceptions where resistance decreases with increasing temperature?  
+  - **Follow-Up-3**: How does the atomic structure of a conductor change with temperature, affecting its resistance?
+
+- **Type**: Application-based  
+  - **Main**: How would you experimentally measure the effect of length on the resistance of a wire?  
+  - **Follow-Up-1**: What equipment would you need to perform this experiment?  
+  - **Follow-Up-2**: How would you ensure that temperature remains constant during the experiment?  
+  - **Follow-Up-3**: What results would you expect if the length of the wire is doubled?
+
+- **Type**: Application-based  
+  - **Main**: Describe an experiment to investigate the relationship between cross-sectional area and resistance.  
+  - **Follow-Up-1**: What apparatus would be necessary for this experiment?  
+  - **Follow-Up-2**: How would you vary the cross-sectional area while keeping other factors constant?  
+  - **Follow-Up-3**: How would you analyze the data to confirm the relationship between resistance and cross-sectional area?
+
+- **Type**: Numerical  
+  - **Main**: A copper wire has a resistance of 4 Ω and a length of 2 meters. If the length is doubled, what will be the new resistance?  
+  - **Follow-Up-1**: How would the resistance change if the cross-sectional area was doubled instead of the length?  
+  - **Follow-Up-2**: Calculate the resistance if the wire was made of aluminum, which has a higher resistivity than copper.  
+  - **Follow-Up-3**: What would be the resistance of the same copper wire at a higher temperature if its resistivity increases by 20%?
+
+- **Type**: Numerical  
+  - **Main**: The resistance of a wire is directly proportional to its length. If a 3 m wire has a resistance of 6 Ω, calculate the resistance of a 9 m wire of the same material and thickness.  
+  - **Follow-Up-1**: If the cross-sectional area of the 9 m wire is doubled, what will be its new resistance?  
+  - **Follow-Up-2**: What would be the resistance of the 9 m wire if it was made of a material with twice the resistivity of the original material?  
+  - **Follow-Up-3**: If the 9 m wire is heated and its resistance increases by 10%, calculate the new resistance.
+
+- **Type**: Critical Thinking  
+  - **Main**: Why is it important to consider the dependence of resistance on length and cross-sectional area in electrical wiring?  
+  - **Follow-Up-1**: How does the choice of wire material affect energy loss in a circuit?  
+  - **Follow-Up-2**: What are the practical implications of using longer wires in an electrical system?  
+  - **Follow-Up-3**: How can engineers minimize resistance in high-voltage transmission lines?
+
+- **Type**: Critical Thinking  
+  - **Main**: Explain how resistance varies with temperature and why this is significant in electronic devices.  
+  - **Follow-Up-1**: Why must devices that operate in extreme temperatures use materials with low temperature coefficients of resistance?  
+  - **Follow-Up-2**: How does temperature dependence of resistance affect the efficiency of power transmission?  
+  - **Follow-Up-3**: In what scenarios would materials with increasing resistance at higher temperatures be useful?
+
+- **Type**: Practical  
+  - **Main**: Design a circuit to demonstrate the effect of length on the resistance of a wire.  
+  - **Follow-Up-1**: How would you measure the resistance of different wire lengths accurately?  
+  - **Follow-Up-2**: How can you ensure that all other factors remain constant while varying the length?  
+  - **Follow-Up-3**: How would you interpret the results to verify the direct proportionality between length and resistance?
+
+---
+
+### **Topic**: 11.9 Resistivity and Conductivity
+
+- **Type**: Conceptual  
+  - **Main**: What is resistivity, and how is it different from resistance?  
+  - **Follow-Up-1**: How does resistivity depend on the material of the conductor?  
+  - **Follow-Up-2**: How does the temperature affect the resistivity of materials?  
+  - **Follow-Up-3**: What is the significance of low resistivity materials in electrical systems?
+
+- **Type**: Conceptual  
+  - **Main**: Define conductivity and explain its relationship with resistivity.  
+  - **Follow-Up-1**: Why are conductors like copper and silver highly conductive?  
+  - **Follow-Up-2**: How do you calculate the conductivity of a material if you know its resistivity?  
+  - **Follow-Up-3**: What are some common applications of materials with high conductivity?
+
+- **Type**: Conceptual  
+  - **Main**: Explain how resistivity varies among different materials such as metals, semiconductors, and insulators.  
+  - **Follow-Up-1**: How does the atomic structure of metals contribute to their low resistivity?  
+  - **Follow-Up-2**: Why do semiconductors have intermediate resistivity?  
+  - **Follow-Up-3**: What makes insulators have very high resistivity, and how is this useful in electrical systems?
+
+- **Type**: Application-based  
+  - **Main**: How would you experimentally determine the resistivity of a material?  
+  - **Follow-Up-1**: What equipment would you use to measure resistivity?  
+  - **Follow-Up-2**: How would you ensure accurate measurements of length, cross-sectional area, and resistance?  
+  - **Follow-Up-3**: How would you calculate the resistivity using your experimental data?
+
+- **Type**: Application-based  
+  - **Main**: Describe an experiment to measure the conductivity of different materials like copper, aluminum, and plastic.  
+  - **Follow-Up-1**: How would you set up the experiment to compare the conductivity of these materials?  
+  - **Follow-Up-2**: What conclusions would you expect from the comparison of metals versus plastics?  
+  - **Follow-Up-3**: How would temperature affect your results, particularly for semiconductors?
+
+- **Type**: Numerical  
+  - **Main**: A wire has a resistivity of \(1.7 \times 10^{-8}\, \Omega \cdot m\). If its length is 2 m and cross-sectional area is \(1 \times 10^{-6} m^2\), calculate its resistance.  
+  - **Follow-Up-1**: How would the resistance change if the cross-sectional area was halved?  
+  - **Follow-Up-2**: What would the resistance be if the wire was made of a material with twice the resistivity?  
+  - **Follow-Up-3**: Calculate the conductivity of the wire based on its resistivity.
+
+- **Type**: Numerical  
+  - **Main**: Calculate the resistivity of a material if a 5 m long wire with a cross-sectional area of \(2 \times 10^{-6} m^2\) has a resistance of 0.5 Ω.  
+  - **Follow-Up-1**: If the length is doubled but the cross-sectional area remains the same, what will be the new resistance?  
+  - **Follow-Up-2**: Calculate the resistivity if the resistance increases by 20% due to a temperature change.  
+  - **Follow-Up-3**: What would the conductivity of the material be if the resistivity is known?
+
+- **Type**: Critical Thinking  
+  - **Main**: Why is it important to use materials with low resistivity in electrical wiring?  
+  - **Follow-Up-1**: How does the choice of material impact energy loss in a circuit?  
+  - **Follow-Up-2**: What would be the consequences of using high-resistivity materials in power transmission lines?  
+  - **Follow-Up-3**: How can high-conductivity materials improve the efficiency of electrical systems?
+
+- **Type**: Practical  
+  - **Main**: Design an experiment to measure the resistivity and conductivity of a given material.  
+  - **Follow-Up-1**: How would you ensure that temperature remains constant during the experiment?  
+  - **Follow-Up-2**: What precautions would you take to minimize errors in measuring resistance, length, and area?  
+  - **Follow-Up-3**: How would you use the results to calculate both resistivity and conductivity?
+
+---
+
+### **Topic**: 11.10 Series and Parallel Circuits
+
+- **Type**: Conceptual  
+  - **Main**: What is a series circuit, and how are components connected in such a circuit?  
+  - **Follow-Up-1**: How does current flow in a series circuit, and how is it the same through all components?  
+  - **Follow-Up-2**: How is the total resistance in a series circuit calculated?  
+  - **Follow-Up-3**: Why is the voltage different across each component in a series circuit?
+
+- **Type**: Conceptual  
+  - **Main**: What is a parallel circuit, and how are components connected in such a circuit?  
+  - **Follow-Up-1**: How does the current behave in a parallel circuit, and why does it split between branches?  
+  - **Follow-Up-2**: How is the total resistance calculated in a parallel circuit?  
+  - **Follow-Up-3**: Why is the voltage the same across all components in a parallel circuit?
+
+- **Type**: Application-based  
+  - **Main**: How would you calculate the total resistance in a circuit with three resistors in series?  
+  - **Follow-Up-1**: What changes would you observe in the current if another resistor was added to the series circuit?  
+  - **Follow-Up-2**: How does the addition of more resistors in series affect the overall current in the circuit?  
+  - **Follow-Up-3**: How does the power consumption change in a series circuit when resistance is increased?
+
+- **Type**: Application-based  
+  - **Main**: Describe an experiment to measure the total resistance of resistors connected in parallel.  
+  - **Follow-Up-1**: How would you set up the circuit to ensure accurate measurements of total resistance?  
+  - **Follow-Up-2**: How does the addition of another resistor in parallel affect the overall resistance?  
+  - **Follow-Up-3**: Why does adding more resistors in parallel decrease the total resistance?
+
+- **Type**: Numerical  
+  - **Main**: In a series circuit, three resistors of 4 Ω, 6 Ω, and 10 Ω are connected. Calculate the total resistance.  
+  - **Follow-Up-1**: If the total voltage across the circuit is 20 V, calculate the current flowing through the circuit.  
+  - **Follow-Up-2**: What will the total resistance be if a 5 Ω resistor is added in series?  
+  - **Follow-Up-3**: Calculate the voltage drop across each resistor in the original circuit.
+
+- **Type**: Numerical  
+  - **Main**: In a parallel circuit, two resistors of 5 Ω and 10 Ω are connected. Calculate the total resistance.  
+  - **Follow-Up-1**: If the total current in the circuit is 3 A, calculate the current through each resistor.  
+  - **Follow-Up-2**: What will the total resistance be if a 15 Ω resistor is added in parallel?  
+  - **Follow-Up-3**: If the voltage across the circuit is 12 V, calculate the power dissipated by each resistor.
+
+- **Type**: Critical Thinking  
+  - **Main**: Why are parallel circuits commonly used in household wiring systems?  
+  - **Follow-Up-1**: How do parallel circuits ensure that each appliance gets the same voltage?  
+  - **Follow-Up-2**: What would happen if household appliances were connected in series instead of parallel?  
+  - **Follow-Up-3**: Why is it important to calculate the total resistance in parallel circuits accurately?
+
+- **Type**: Critical Thinking  
+  - **Main**: Compare the advantages and disadvantages of series and parallel circuits in different applications.  
+  - **Follow-Up-1**: In what situations would a series circuit be more beneficial than a parallel circuit?  
+  - **Follow-Up-2**: Why is it easier to detect faults in parallel circuits compared to series circuits?  
+  - **Follow-Up-3**: How do parallel circuits improve the efficiency and safety of electrical systems?
+
+- **Type**: Practical  
+  - **Main**: Design an experiment to compare the total resistance in series and parallel circuits using the same resistors.  
+  - **Follow-Up-1**: How would you measure the resistance in each circuit setup?  
+  - **Follow-Up-2**: What differences in current and voltage would you expect to observe between the two setups?  
+  - **Follow-Up-3**: How would you interpret the results to confirm the relationships between total resistance in series and parallel circuits?
+
+---
+
+
+### **Topic 11.11 Equivalent Resistance and Its Uses in Circuits**
+
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: What is meant by the equivalent resistance in a circuit?  
+  - **Follow-Up-1**: Why is equivalent resistance important in analyzing circuits?  
+  - **Follow-Up-2**: How does the concept of equivalent resistance simplify complex circuits?  
+  - **Follow-Up-3**: Can equivalent resistance be used to compare different types of circuits? Explain how.  
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: How does the equivalent resistance differ between series and parallel circuits?  
+  - **Follow-Up-1**: Why is the equivalent resistance in a parallel combination always smaller than the smallest resistor?  
+  - **Follow-Up-2**: How does the total current behave in a parallel circuit as more resistors are added?  
+  - **Follow-Up-3**: In which scenario would you use a series combination instead of a parallel combination?  
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: How is the current distributed in a parallel circuit?  
+  - **Follow-Up-1**: Why does the current divide among resistors in a parallel combination?  
+  - **Follow-Up-2**: What happens to the individual currents in each resistor if the resistance of one branch is decreased?  
+  - **Follow-Up-3**: How does the potential difference remain the same across all branches of a parallel circuit?  
+---
+
+#### **Type**: Numerical  
+- **Main Question**: Three resistors of 2Ω, 4Ω, and 6Ω are connected in series. Calculate the equivalent resistance.  
+  - **Follow-Up-1**: What will be the total current in the circuit if a 12V battery is connected?  
+  - **Follow-Up-2**: Calculate the potential drop across each resistor.  
+  - **Follow-Up-3**: If the 4Ω resistor is replaced with an 8Ω resistor, how does this affect the total resistance and current?  
+---
+
+#### **Type**: Numerical  
+- **Main Question**: Calculate the equivalent resistance of three resistors: 5Ω, 10Ω, and 15Ω connected in parallel.  
+  - **Follow-Up-1**: If the total current in the circuit is 6A, calculate the current through each resistor.  
+  - **Follow-Up-2**: What is the total power consumed by the circuit?  
+  - **Follow-Up-3**: How does the total resistance change if a 20Ω resistor is added in parallel?  
+---
+
+#### **Type**: Application-Based  
+- **Main Question**: In a house, several appliances are connected in parallel to ensure consistent performance. Why is a parallel combination used instead of a series combination?  
+  - **Follow-Up-1**: How does a parallel connection ensure that each appliance operates at the same voltage?  
+  - **Follow-Up-2**: What happens to the other appliances if one appliance fails in a parallel circuit?  
+  - **Follow-Up-3**: Why is it unsafe to connect high-power appliances in series?
+---
+
+#### **Type**: Application-Based  
+- **Main Question**: Design a circuit with three resistors (R1 = 10Ω, R2 = 20Ω, R3 = 30Ω) where they are connected in series with a 24V battery.  
+  - **Follow-Up-1**: Calculate the equivalent resistance of the circuit.  
+  - **Follow-Up-2**: What is the current flowing through the circuit?  
+  - **Follow-Up-3**: If one resistor is removed, how does this impact the overall circuit?
+---
+
+#### **Type**: Problem-Solving  
+- **Main Question**: A circuit contains resistors of 6Ω, 12Ω, and 18Ω connected in parallel. If the total current in the circuit is 9A, calculate the equivalent resistance.  
+  - **Follow-Up-1**: What is the voltage across the entire parallel combination?  
+  - **Follow-Up-2**: Determine the current through each resistor.  
+  - **Follow-Up-3**: What would happen to the current distribution if the 18Ω resistor is removed?  
+---
+
+#### **Type**: Problem-Solving  
+- **Main Question**: Calculate the power consumed by a 60W bulb when connected in series with a 100Ω resistor across a 240V source.  
+  - **Follow-Up-1**: How much power is consumed by the resistor?  
+  - **Follow-Up-2**: What is the total energy consumed in 2 hours?  
+  - **Follow-Up-3**: How would the power distribution change if another 60W bulb is added in series?  
+---
+
+#### **Type**: Numerical (Multiple Resistors)  
+- **Main Question**: Two resistors, R1 = 8Ω and R2 = 12Ω, are connected in parallel, followed by another resistor of 6Ω in series. Calculate the total resistance of the circuit.  
+  - **Follow-Up-1**: What is the total current flowing through the circuit if a 24V battery is connected?  
+  - **Follow-Up-2**: Calculate the voltage across the 6Ω resistor.  
+  - **Follow-Up-3**: If the 8Ω resistor is replaced with a 4Ω resistor, how will the total resistance and current change?
+---
+
+### **Topic 11.12 Electric Power**
+
+---
+#### **Type**: Conceptual  
+- **Main Question**: What is electric power and how is it calculated in a circuit?  
+  - **Follow-Up-1**: What are the SI units of power and energy in an electrical context?  
+  - **Follow-Up-2**: How is power related to voltage and current in a circuit?  
+  - **Follow-Up-3**: How can power be calculated using resistance and current?
+
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: Explain the concept of energy consumption in kilowatt-hours (kWh).  
+  - **Follow-Up-1**: Why is energy consumption typically measured in kWh instead of joules?  
+  - **Follow-Up-2**: How would you convert kWh to joules?  
+  - **Follow-Up-3**: What factors affect the total energy consumption of an electrical device?
+
+---
+#### **Type**: Conceptual  
+- **Main Question**: Explain the difference between electric power and electrical energy.  
+  - **Follow-Up-1**: How is energy consumption in households measured?  
+  - **Follow-Up-2**: Why is power considered the rate of energy transfer in a circuit?  
+  - **Follow-Up-3**: What is the relationship between time and energy consumption for a fixed-power device?
+
+---
+#### **Type**: Numerical  
+- **Main Question**: Calculate the power consumed by a 500W heater connected to a 220V source.  
+  - **Follow-Up-1**: How much energy is consumed if the heater runs for 4 hours?  
+  - **Follow-Up-2**: If the heater's resistance is 100Ω, calculate the current flowing through it.  
+  - **Follow-Up-3**: What is the total cost of running the heater for 5 hours a day for 30 days, if the electricity rate is $0.12 per kWh?
+---
+#### **Type**: Numerical  
+- **Main Question**: A television with a power rating of 150W is used for 3 hours daily. Calculate the total energy consumed in one month.  
+  - **Follow-Up-1**: How much will it cost if the electricity rate is $0.15 per kWh?  
+  - **Follow-Up-2**: If the television is used for 5 hours instead of 3, what will be the new energy consumption?  
+  - **Follow-Up-3**: How would the power consumption change if a higher power-rated television is used?
+---
+#### **Type**: Application-Based  
+- **Main Question**: How does increasing the voltage in a circuit affect the power consumed by an appliance?  
+  - **Follow-Up-1**: What will happen to the power consumption if resistance remains constant but the voltage doubles?  
+  - **Follow-Up-2**: How does power consumption vary with current in a resistive circuit?  
+  - **Follow-Up-3**: Why is it important to match the voltage rating of an appliance with the power supply?
+---
+#### **Type**: Application-Based  
+- **Main Question**: A refrigerator consumes 1kWh of energy every day. Calculate the total energy consumption for a month.  
+  - **Follow-Up-1**: How much will it cost to run the refrigerator for a month if the electricity rate is $0.10 per kWh?  
+  - **Follow-Up-2**: If a more energy-efficient refrigerator consumes only 0.8kWh per day, calculate the monthly savings.  
+  - **Follow-Up-3**: What other factors might influence the actual power consumption of the refrigerator?
+---
+#### **Type**: Problem-Solving  
+- **Main Question**: A 60W bulb is connected in a 220V circuit. Calculate the current flowing through the bulb.  
+  - **Follow-Up-1**: How much energy is consumed if the bulb is on for 6 hours?
+  - **Follow-Up-2**: What is the total cost if this bulb is used every day for a month at an electricity rate of $0.13 per kWh?  
+  - **Follow-Up-3**: How would the energy consumption change if the bulb is replaced with an 80W bulb?
+---
+#### **Type**: Problem-Solving  
+- **Main Question**: A water heater has a resistance of 30Ω and is connected to a 240V source. Calculate the power consumed.  
+  - **Follow-Up-1**: How much energy is consumed in 3 hours?  
+  - **Follow-Up-2**: If the power supply is reduced to 120V, calculate the new power consumption.  
+  - **Follow-Up-3**: What is the total cost of operating the heater for 6 hours a day for 20 days at a rate of $0.14 per kWh?
+
+---
+
+### **Topic 11.13 System Loss and Load Shedding**
+
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: What is meant by system loss in electricity transmission?  
+  - **Follow-Up-1**: How does resistance in transmission wires contribute to system loss?  
+  - **Follow-Up-2**: Why is high-voltage transmission used to reduce system loss?  
+  - **Follow-Up-3**: Explain how power loss due to resistance is related to the square of the current.  
+  - **Follow-Up-4**: What measures can be taken to minimize system loss?
+
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: Explain the concept of load shedding.  
+  - **Follow-Up-1**: Why does load shedding occur?  
+  - **Follow-Up-2**: How does the supply-demand imbalance lead to load shedding?  
+  - **Follow-Up-3**: What steps can be taken to prevent or minimize load shedding in a country?  
+  - **Follow-Up-4**: How does load shedding affect industries and daily life?
+
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: How does increasing the transmission line voltage reduce system loss?  
+  - **Follow-Up-1**: What is the relationship between voltage, current, and power loss in a transmission line?  
+  - **Follow-Up-2**: Why does increasing voltage lead to a decrease in current?  
+  - **Follow-Up-3**: How does this reduction in current help in reducing power loss due to resistance?  
+  - **Follow-Up-4**: Can higher transmission voltage completely eliminate system loss? Why or why not?
+
+---
+
+#### **Type**: Numerical  
+- **Main Question**: A transmission line has a resistance of 0.5Ω, and the current passing through it is 10A. Calculate the power loss due to resistance.  
+  - **Follow-Up-1**: What happens to the power loss if the current is doubled?  
+  - **Follow-Up-2**: How much power loss occurs if the resistance is reduced to 0.25Ω?  
+  - **Follow-Up-3**: If the transmission voltage is increased, how does that affect the current and the power loss?  
+  - **Follow-Up-4**: Calculate the power loss if the current is 5A and the resistance remains 0.5Ω.
+
+---
+
+#### **Type**: Application-Based  
+- **Main Question**: How would you reduce system loss in a power grid?  
+  - **Follow-Up-1**: What changes can be made to transmission lines to reduce energy loss?  
+  - **Follow-Up-2**: How do transformers help in reducing system loss in long-distance electricity transmission?  
+  - **Follow-Up-3**: Why is it important to regularly maintain and upgrade transmission systems?  
+  - **Follow-Up-4**: How can the use of alternative energy sources like solar power reduce system loss?
+
+---
+
+#### **Type**: Application-Based  
+- **Main Question**: How can smart grids help in reducing the frequency and impact of load shedding?  
+  - **Follow-Up-1**: Explain the role of demand-response systems in managing load shedding.  
+  - **Follow-Up-2**: How can real-time monitoring of electricity consumption help prevent load shedding?  
+  - **Follow-Up-3**: What is the role of energy storage systems in preventing load shedding during peak demand hours?  
+  - **Follow-Up-4**: How can consumers contribute to reducing load shedding through energy-efficient practices?
+
+---
+
+#### **Type**: Problem-Solving  
+- **Main Question**: A city experiences a 5% system loss in electricity transmission. If the city requires 1,000 MW of power, calculate the amount of electricity that needs to be generated at the power plant to meet this demand.  
+  - **Follow-Up-1**: How much energy is lost due to system inefficiencies?  
+  - **Follow-Up-2**: What would be the system loss if the transmission line efficiency improves by 2%?  
+  - **Follow-Up-3**: If the city’s demand increases by 20%, how much more electricity needs to be generated to compensate for the system loss?  
+  - **Follow-Up-4**: How does the system loss affect the total energy consumption of the city over a year?
+
+---
+
+#### **Type**: Problem-Solving  
+- **Main Question**: During peak hours, the electricity demand exceeds supply by 50MW, leading to load shedding. If each household uses an average of 2kW, how many households are affected by the load shedding?  
+  - **Follow-Up-1**: What would happen if the demand increases by 20%?  
+  - **Follow-Up-2**: How many households could be reconnected if the supply is increased by 10MW?  
+  - **Follow-Up-3**: How could energy-efficient appliances help in reducing the number of households affected by load shedding?  
+  - **Follow-Up-4**: What would be the economic impact of load shedding on these households over a month?
+
+---
+
+### **Topic 11.14 Safe and Effective Use of Electricity**
+
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: What are the primary dangers associated with electricity?  
+  - **Follow-Up-1**: Explain how damaged insulation can lead to electrical hazards.  
+  - **Follow-Up-2**: Why is it dangerous to use electrical appliances in damp conditions?  
+  - **Follow-Up-3**: How can overheating of electrical cables cause fires?  
+  - **Follow-Up-4**: What are some of the safety devices used to prevent electrical accidents?
+
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: Why is earthing important in electrical appliances?  
+  - **Follow-Up-1**: How does earthing protect users from electric shocks?  
+  - **Follow-Up-2**: Explain the role of the earth wire in preventing short circuits.  
+  - **Follow-Up-3**: Why are appliances like refrigerators and washing machines required to be earthed?  
+  - **Follow-Up-4**: What happens if an electrical device is not properly earthed?
+
+---
+
+#### **Type**: Conceptual  
+- **Main Question**: What is the role of circuit breakers in ensuring electrical safety?  
+  - **Follow-Up-1**: How does a circuit breaker differ from a fuse?  
+  - **Follow-Up-2**: Explain how a circuit breaker prevents electrical overloads.  
+  - **Follow-Up-3**: Why is it important to install circuit breakers in household circuits?  
+  - **Follow-Up-4**: How does a circuit breaker respond to a short circuit?
+
+---
+
+#### **Type**: Numerical  
+- **Main Question**: An electric kettle consumes 1.5kW of power and operates for 2 hours daily. Calculate the total energy consumed in a month.  
+  - **Follow-Up-1**: What is the cost of using the kettle if the electricity rate is $0.12 per kWh?  
+  - **Follow-Up-2**: How much would the energy consumption be reduced if the kettle operates for only 1 hour per day?  
+  - **Follow-Up-3**: If the power rating of the kettle is increased to 2kW, calculate the new monthly energy consumption.  
+  - **Follow-Up-4**: How does the energy consumption change if the kettle is replaced with an energy-efficient model consuming 1kW?
+
+---
+
+#### **Type**: Numerical  
+- **Main Question**: A house has a fuse rated at 10A. If the total power consumption of the house is 2kW, calculate the voltage supply to the house.  
+  - **Follow-Up-1**: What happens if an appliance with a power rating of 1.5kW is added to the circuit?  
+  - **Follow-Up-2**: Calculate the new total power consumption if another 500W appliance is connected.  
+  - **Follow-Up-3**: Will the fuse blow if the total current exceeds the fuse rating? Justify your answer.  
+  - **Follow-Up-4**: How can the household prevent electrical overloads in this situation?
+
+---
+
+#### **Type**: Application-Based  
+- **Main Question**: How should electrical appliances be used safely in damp environments like bathrooms and kitchens?  
+  - **Follow-Up-1**: What are the risks of using electrical appliances with wet hands?  
+  - **Follow-Up-2**: Why should appliances in damp environments have extra insulation?  
+  - **Follow-Up-3**: What precautions should be taken to prevent electrical accidents in the kitchen?  
+  - **Follow-Up-4**: How can ground fault circuit interrupters (GFCI) improve electrical safety in bathrooms?
+
+---
+
+#### **Type**: Application-Based  
+- **Main Question**: What precautions should be taken while using extension cords and multi-plugs in a household?  
+  - **Follow-Up-1**: Why is it dangerous to overload extension cords with multiple high-power appliances?  
+  - **Follow-Up-2**: How can users ensure that extension cords are used safely?  
+  - **Follow-Up-3**: What should be
+
+ done if the extension cord becomes damaged or frayed?  
+  - **Follow-Up-4**: How can smart plugs and surge protectors help in improving safety while using extension cords?
+
+---
+
+#### **Type**: Problem-Solving  
+- **Main Question**: A house experiences frequent short circuits due to damaged insulation in a wire. How can this problem be fixed to ensure electrical safety?  
+  - **Follow-Up-1**: What should be done to replace the damaged wire and prevent future incidents?  
+  - **Follow-Up-2**: How can proper insulation prevent short circuits in electrical systems?  
+  - **Follow-Up-3**: What other measures can be taken to ensure the house is electrically safe?  
+  - **Follow-Up-4**: Why is it important to regularly inspect and maintain electrical wiring in the house?
+
+---
+
+#### **Type**: Problem-Solving  
+- **Main Question**: A household circuit is protected by a 15A circuit breaker. If multiple appliances are connected with a combined current draw of 20A, the circuit breaker trips frequently. How can this issue be resolved?  
+  - **Follow-Up-1**: What would happen if the circuit breaker is replaced with one rated for 20A? Is this a good solution?  
+  - **Follow-Up-2**: How can the electrical load be balanced to prevent the circuit breaker from tripping?  
+  - **Follow-Up-3**: How can the household reduce its overall power consumption to avoid overloading the circuit?  
+  - **Follow-Up-4**: What role does energy-efficient appliances play in reducing the total electrical load?
+
+---
+
+

@@ -1,0 +1,810 @@
+
+### **Topic**: 14.1 Basis of Bio-Physics**
+
+#### **Type**: Conceptual**
+- **Main**: What is the relationship between biology and physics in the field of bio-physics?
+  - **Follow-Up-1**: How does bio-physics bridge the gap between biological and physical sciences?
+  - **Follow-Up-2**: Can you explain why scientists initially thought that the laws of physics and biology were different?
+  - **Follow-Up-3**: Why is bio-physics considered a powerful tool for exploring the complexities of life?
+
+#### **Type**: Application-Based**
+- **Main**: How can bio-physics be used to explain the functions of the human body as a system?
+  - **Follow-Up-1**: In what ways does bio-physics help us understand the electrical signals in the human brain?
+  - **Follow-Up-2**: How can the study of bio-physics lead to advancements in medical technologies?
+  - **Follow-Up-3**: Provide an example of a medical instrument that is based on principles from bio-physics.
+
+#### **Type**: Analytical**
+- **Main**: Compare and contrast how the laws of physics apply to living organisms and non-living systems.
+  - **Follow-Up-1**: How does the study of bio-physics challenge the belief that living systems follow different rules from non-living ones?
+  - **Follow-Up-2**: What are some of the universal laws of physics that also govern biological systems?
+  - **Follow-Up-3**: In what ways has bio-physics helped scientists understand cellular functions?
+
+#### **Type**: Numerical**
+- **Main**: If a living system follows the same physical laws as a mechanical system, how would you calculate the energy transformation in a human muscle during movement?
+  - **Follow-Up-1**: Assume a human leg muscle applies a force of 100 N over a distance of 0.5 m. How much work is done by the muscle?
+  - **Follow-Up-2**: How would you calculate the efficiency of energy conversion in a biological system like the human body?
+  - **Follow-Up-3**: If the muscle consumes 50 J of energy, how much of this energy is converted into useful work?
+
+#### **Type**: Conceptual (Intermediate)**
+- **Main**: Explain how bio-physics views the human body as a machine.
+  - **Follow-Up-1**: What does it mean to say that bio-physics applies "simple laws of physics" to complex life systems?
+  - **Follow-Up-2**: How does the understanding of bio-physics improve medical diagnosis techniques?
+  - **Follow-Up-3**: Why is it essential to study bio-physics to understand human health?
+
+#### **Type**: Advanced Analytical**
+- **Main**: How does the concept of bio-physics demonstrate that the physical laws are universal?
+  - **Follow-Up-1**: Why is the ability of bio-physics to unify biology and physics important for the future of science?
+  - **Follow-Up-2**: How do physical laws such as thermodynamics apply to biological processes like metabolism?
+  - **Follow-Up-3**: In what ways has bio-physics helped to clarify the mechanical nature of biological systems?
+
+---
+
+
+### **Topic**: 14.2 Contributions of Jagadish Chandra Bose**
+
+#### **Type**: Conceptual**
+- **Main**: Who was Jagadish Chandra Bose and what were his key contributions to bio-physics?
+  - **Follow-Up-1**: Why is Bose considered a pioneer in both physics and biology?
+  - **Follow-Up-2**: What was the significance of Bose's invention of the crescograph in plant physiology?
+  - **Follow-Up-3**: How did Bose’s work demonstrate the electrical nature of stimuli in plants?
+
+#### **Type**: Historical**
+- **Main**: Describe the life and educational background of Jagadish Chandra Bose and how it influenced his research in bio-physics.
+  - **Follow-Up-1**: What role did Bose’s early education in India and later studies in England play in shaping his scientific career?
+  - **Follow-Up-2**: How did Bose overcome the lack of research facilities in his early career?
+  - **Follow-Up-3**: What were some of the key challenges Bose faced in his research, and how did he overcome them?
+
+#### **Type**: Analytical**
+- **Main**: How did Jagadish Chandra Bose’s research change the understanding of plant stimuli?
+  - **Follow-Up-1**: What was the traditional belief about the nature of plant stimuli, and how did Bose’s findings contradict this?
+  - **Follow-Up-2**: How did Bose demonstrate that plant responses to stimuli are electrical rather than chemical?
+  - **Follow-Up-3**: How has Bose’s research on plant stimuli influenced modern bio-physics and biology?
+
+#### **Type**: Conceptual (Intermediate)**
+- **Main**: What is the significance of Bose’s decision to make his inventions and discoveries freely available to the public?
+  - **Follow-Up-1**: How did Bose’s approach to intellectual property differ from other scientists of his time?
+  - **Follow-Up-2**: What impact did Bose’s open-access philosophy have on the development of radio technology and bio-physics?
+  - **Follow-Up-3**: Why is Bose's legacy important in the context of scientific ethics?
+
+#### **Type**: Application-Based**
+- **Main**: How did Bose’s work on the conduction of stimuli in plants contribute to the development of modern bio-physics?
+  - **Follow-Up-1**: What modern medical or biological applications can be traced back to Bose’s discoveries about plant responses?
+  - **Follow-Up-2**: How can the principles Bose discovered be applied to understanding human neurological responses?
+  - **Follow-Up-3**: Can Bose’s research methods in plant physiology be applied to other biological systems today?
+
+#### **Type**: Advanced Analytical**
+- **Main**: Discuss the interdisciplinary nature of Bose’s work in bio-physics, blending physics with plant biology.
+  - **Follow-Up-1**: How did Bose’s discoveries demonstrate the interconnectedness of biological and physical sciences?
+  - **Follow-Up-2**: Why is Bose’s work considered a cornerstone in the field of bio-physics, particularly in the study of life sciences?
+  - **Follow-Up-3**: How do Bose’s contributions continue to influence scientific research in the 21st century?
+
+#### **Type**: Numerical**
+- **Main**: If Jagadish Chandra Bose's crescograph measures plant growth at a rate of 1 mm per minute, how would you calculate the total growth over 6 hours?
+  - **Follow-Up-1**: Assume a plant grows 2 mm per minute using the crescograph. How much would it grow in 4 hours?
+  - **Follow-Up-2**: If a plant's growth rate slows down to half its initial rate after 3 hours, how would you calculate the total growth after 6 hours?
+  - **Follow-Up-3**: How can the crescograph be used to measure differences in growth rates between various plant species?
+
+---
+
+
+
+### **Topic**: 14.3 Human Body and Machine**
+
+#### **Type**: Conceptual**
+- **Main**: In what ways can the human body be compared to a machine?
+  - **Follow-Up-1**: How do different organs in the body function similarly to parts of a machine?
+  - **Follow-Up-2**: Why is it essential to understand the body’s functions through a mechanistic view?
+  - **Follow-Up-3**: How does the coordination of organs in the human body resemble the operation of complex machinery?
+
+#### **Type**: Application-Based**
+- **Main**: How can the concept of energy transformation in machines be applied to understand the human body?
+  - **Follow-Up-1**: Explain how the human body converts chemical energy from food into mechanical energy.
+  - **Follow-Up-2**: How does the heart's pumping mechanism compare to an electric pump in a machine?
+  - **Follow-Up-3**: How does the body’s filtration system, such as the kidney, resemble that of a mechanical filtration system?
+
+#### **Type**: Analytical**
+- **Main**: Compare the efficiency of energy use in the human body with that of man-made machines.
+  - **Follow-Up-1**: How does the body maintain balance between energy intake and energy use in daily activities?
+  - **Follow-Up-2**: In what ways is the body more efficient than a machine when it comes to energy conservation?
+  - **Follow-Up-3**: Why is the human body capable of functions beyond any machine's capacity, such as self-repair and growth?
+
+#### **Type**: Conceptual (Intermediate)**
+- **Main**: Explain how the human body transforms chemical energy into mechanical energy during physical movement.
+  - **Follow-Up-1**: What processes in the body are responsible for this energy transformation?
+  - **Follow-Up-2**: How does the body store energy, and how is it released when needed for mechanical tasks?
+  - **Follow-Up-3**: What are the key differences between energy transformation in a machine versus in the human body?
+
+#### **Type**: Numerical**
+- **Main**: If a person consumes 2000 calories of food, calculate how much energy is used by the body in a day if only 70% is efficiently utilized for work.
+  - **Follow-Up-1**: If a person walks 5 km and burns 500 calories, how would you calculate the mechanical work done by the body?
+  - **Follow-Up-2**: How does the energy consumed by a machine compare to the energy used by a human in a similar task, like lifting weights?
+  - **Follow-Up-3**: If the human heart pumps 5 liters of blood per minute, how much work does the heart perform over 24 hours?
+
+#### **Type**: Advanced Analytical**
+- **Main**: Discuss the ways in which the human body’s energy conversion systems surpass mechanical systems in terms of flexibility and adaptability.
+  - **Follow-Up-1**: How does the body’s ability to repair itself and adapt to energy requirements differ from machines?
+  - **Follow-Up-2**: In what ways do machines fail to replicate the complex interactions between organs that occur in the human body?
+  - **Follow-Up-3**: How does the human body optimize energy use in conditions such as extreme cold or starvation?
+
+#### **Type**: Problem-Solving**
+- **Main**: Given that the human body requires more energy when performing vigorous tasks, how does the body adjust its internal energy supply?
+  - **Follow-Up-1**: How does the heart increase its work rate during exercise to supply more oxygen and nutrients to the muscles?
+  - **Follow-Up-2**: How do the lungs adapt their function to meet increased oxygen demand during strenuous activity?
+  - **Follow-Up-3**: In what ways do the kidneys help balance the body’s energy by removing waste products?
+
+---
+
+
+### **Topic**: 14.4 Instruments Used for Diagnosis of Diseases**
+
+#### **Type**: Conceptual**
+- **Main**: Why are modern instruments important for diagnosing diseases accurately?
+  - **Follow-Up-1**: What were the challenges of diagnosing diseases before the invention of modern medical instruments?
+  - **Follow-Up-2**: How has the development of medical devices influenced the accuracy of disease diagnosis?
+  - **Follow-Up-3**: Why is it difficult for a doctor to diagnose diseases without the use of proper instruments?
+
+#### **Type**: Application-Based**
+- **Main**: How does an X-ray machine help diagnose fractures and other bone-related conditions?
+  - **Follow-Up-1**: What are some of the medical conditions that can be identified using X-ray imaging?
+  - **Follow-Up-2**: How do doctors use X-rays to treat cancer cells?
+  - **Follow-Up-3**: What precautions should be taken during X-ray procedures to minimize radiation exposure?
+
+#### **Type**: Analytical**
+- **Main**: How has the invention of instruments like the X-ray machine changed the way doctors diagnose and treat patients?
+  - **Follow-Up-1**: Compare the role of medical instruments in the diagnosis of diseases in the past and present.
+  - **Follow-Up-2**: How do modern diagnostic tools improve patient outcomes compared to traditional methods?
+  - **Follow-Up-3**: In what ways have instruments like X-ray, MRI, and ultrasound made medical procedures less invasive?
+
+#### **Type**: Numerical**
+- **Main**: If the wavelength of an X-ray is 10^-10 meters, how does its energy compare to visible light with a wavelength of 5 x 10^-7 meters?
+  - **Follow-Up-1**: Calculate the energy of an X-ray photon using the equation E = hν, where the frequency of X-rays is 3 x 10^18 Hz.
+  - **Follow-Up-2**: If an X-ray machine emits radiation at 0.2 millisieverts (mSv) per image, how many images can be taken safely in one session if the maximum safe exposure is 1 mSv?
+  - **Follow-Up-3**: How does the intensity of X-rays change with distance from the source, assuming it follows an inverse square law?
+
+#### **Type**: Conceptual (Intermediate)**
+- **Main**: Explain how instruments like the MRI machine provide more detailed images of soft tissues compared to X-rays.
+  - **Follow-Up-1**: What are the key differences between MRI and CT scan in terms of imaging techniques?
+  - **Follow-Up-2**: Why is MRI considered safer than X-rays when imaging soft tissues, particularly the brain?
+  - **Follow-Up-3**: How does MRI use magnetic fields and radio waves to produce images of internal organs?
+
+#### **Type**: Advanced Analytical**
+- **Main**: How do advances in medical instruments reflect the application of physics in the field of medicine?
+  - **Follow-Up-1**: Discuss how the invention of ultrasound has contributed to safer, non-invasive medical procedures.
+  - **Follow-Up-2**: In what ways have diagnostic instruments helped reduce mortality rates in modern medical practices?
+  - **Follow-Up-3**: How do medical instruments like CT scanners integrate computational techniques to improve diagnostic accuracy?
+
+#### **Type**: Problem-Solving**
+- **Main**: How would you assess the risk versus the benefit of using a diagnostic instrument like a CT scan, which uses radiation?
+  - **Follow-Up-1**: What factors should be considered when determining whether a patient should undergo an X-ray or an MRI?
+  - **Follow-Up-2**: How do you evaluate the potential risks of repeated exposure to diagnostic radiation in patients with chronic conditions?
+  - **Follow-Up-3**: What steps can doctors take to minimize the risks associated with diagnostic radiation?
+
+---
+
+### Topic: 14.5 Ultra Sonography
+
+#### Type 1: Conceptual  
+- **Main**: What is the basic principle of ultra sonography, and how does it produce an image?
+    - **Follow-Up-1**: How does the nature of tissues affect the ultrasound waves used in ultra sonography?
+    - **Follow-Up-2**: What role does sound wave reflection play in the generation of images in ultra sonography?
+    - **Follow-Up-3**: What is the frequency range of the ultrasound waves used for medical diagnosis?
+    - **Follow-Up-4**: Why is ultra sonography considered safer than X-rays for imaging?
+
+- **Main**: Describe the process through which the transducer generates ultrasound waves.
+    - **Follow-Up-1**: How does electrical stimulation produce ultrasound waves in the transducer?
+    - **Follow-Up-2**: What materials are commonly used in the construction of a transducer?
+    - **Follow-Up-3**: Explain why a narrow beam of ultrasound waves is important for diagnostic purposes.
+
+#### Type 2: Application-Based  
+- **Main**: Explain how ultra sonography is used in obstetrics and gynecology.
+    - **Follow-Up-1**: How does ultra sonography help monitor fetal development?
+    - **Follow-Up-2**: What can ultra sonography reveal about fetal maturity and position?
+    - **Follow-Up-3**: In what way is ultra sonography useful for identifying uterine tumors?
+    - **Follow-Up-4**: How is ultra sonography used to detect abnormalities in the female reproductive system?
+
+- **Main**: How is ultra sonography applied in diagnosing gall bladder stones?
+    - **Follow-Up-1**: What are the advantages of using ultra sonography to detect gall bladder stones?
+    - **Follow-Up-2**: How do the sound waves behave when they encounter gall bladder stones?
+    - **Follow-Up-3**: How can the size and location of gall bladder stones be determined through ultra sonography?
+
+#### Type 3: Numerical  
+- **Main**: Calculate the wavelength of a 7 MHz ultrasound wave traveling through body tissues at a speed of 1540 m/s.
+    - **Follow-Up-1**: What happens to the wavelength if the frequency increases to 10 MHz?
+    - **Follow-Up-2**: How does an increase in frequency affect the resolution of the image in ultra sonography?
+    - **Follow-Up-3**: If the sound waves travel through bone, how does the speed change compared to soft tissues?
+
+- **Main**: If the beam frequency is 8 MHz and the speed of sound in body tissue is 1540 m/s, calculate the time it takes for the wave to travel 2 cm and return.
+    - **Follow-Up-1**: How would the time change if the depth increased to 5 cm?
+    - **Follow-Up-2**: How does the depth of the organ being imaged affect the overall time of imaging?
+    - **Follow-Up-3**: What implications do these time differences have on the clarity and quality of the ultrasound image?
+
+#### Type 4: Comparison  
+- **Main**: Compare the uses of ultra sonography with those of X-rays.
+    - **Follow-Up-1**: In what scenarios would ultra sonography be more appropriate than X-rays?
+    - **Follow-Up-2**: How does the safety profile of ultra sonography differ from that of X-rays?
+    - **Follow-Up-3**: What are the limitations of ultra sonography compared to X-rays in medical diagnostics?
+
+- **Main**: How does ultra sonography compare with MRI in terms of diagnostic applications?
+    - **Follow-Up-1**: In which situations would MRI be preferred over ultra sonography, and why?
+    - **Follow-Up-2**: What are the primary advantages of ultra sonography in diagnostic imaging?
+    - **Follow-Up-3**: How do ultra sonography and MRI differ in the type of tissues they are best suited for imaging?
+
+#### Type 5: Advanced Conceptual  
+- **Main**: Discuss the process by which sound waves are converted into visual images in ultra sonography.
+    - **Follow-Up-1**: How do tissue interfaces affect the reflection of ultrasound waves?
+    - **Follow-Up-2**: What are the key factors that influence the resolution of an ultrasound image?
+    - **Follow-Up-3**: Why does the transducer need to be in continuous motion during an ultrasound scan?
+
+- **Main**: Explain the concept of echocardiography and its use in ultra sonography.
+    - **Follow-Up-1**: What makes ultra sonography suitable for examining heart conditions?
+    - **Follow-Up-2**: How do tissue properties in the heart affect the reflection of ultrasound waves?
+    - **Follow-Up-3**: What are the benefits of using echocardiography in diagnosing heart defects compared to other imaging techniques?
+
+#### Type 6: Critical Thinking  
+- **Main**: Why is it necessary to limit the duration of exposure during ultra sonography?
+    - **Follow-Up-1**: What are the potential risks of prolonged exposure to high-frequency sound waves?
+    - **Follow-Up-2**: How can the movement of the transducer prevent potential harm during an ultrasound?
+    - **Follow-Up-3**: In what ways can ultra sonography be misused, and how can medical professionals mitigate these risks?
+
+- **Main**: How has the development of ultra sonography improved medical diagnostics over the years?
+    - **Follow-Up-1**: What technological advancements have enhanced the precision of ultrasound imaging?
+    - **Follow-Up-2**: What challenges remain in the field of ultra sonography, and how might they be addressed in the future?
+
+---
+
+### **Topic**:: 14.6 CT Scan**
+
+#### Type 1: Conceptual  
+- **Main**: What does CT stand for, and how does it create a 3D image from multiple 2D slices?
+    - **Follow-Up-1**: Explain the process of tomography and how it differs from standard imaging techniques.
+    - **Follow-Up-2**: What is the role of X-rays in CT scans, and how do they interact with tissues?
+    - **Follow-Up-3**: How does a CT scan use digital geometry processing to reconstruct images?
+
+- **Main**: How does a CT scan differentiate between different tissues in the body?
+    - **Follow-Up-1**: Why is a CT scan particularly useful for imaging soft tissues compared to traditional X-rays?
+    - **Follow-Up-2**: How do varying levels of tissue density affect the clarity of CT scan images?
+    - **Follow-Up-3**: What makes a CT scan more effective in identifying cancerous growths compared to other imaging methods?
+
+- **Main**: Explain the significance of rotation in a CT scan’s imaging process.
+    - **Follow-Up-1**: How does the speed of rotation impact the resolution of images in a CT scan?
+    - **Follow-Up-2**: Why is it important to capture images from multiple angles around the body?
+    - **Follow-Up-3**: What are the technological limits of CT scan rotation speed?
+
+#### Type 2: Application-Based  
+- **Main**: How is a CT scan used to diagnose cancer in organs like the lungs and liver?
+    - **Follow-Up-1**: What features of a tumor can be identified using CT scans?
+    - **Follow-Up-2**: How does a CT scan help differentiate between benign and malignant tumors?
+    - **Follow-Up-3**: How is contrast dye used to enhance tumor visibility in CT scans?
+
+- **Main**: Discuss the role of CT scans in identifying cardiovascular diseases.
+    - **Follow-Up-1**: How can a CT scan detect blockages in blood vessels?
+    - **Follow-Up-2**: What additional information can a CT scan provide in assessing heart function?
+    - **Follow-Up-3**: How does a CT scan assist in pre-surgical planning for cardiovascular conditions?
+
+- **Main**: How do CT scans help in detecting internal bleeding after trauma?
+    - **Follow-Up-1**: Why is CT preferred over MRI in emergency trauma situations involving internal bleeding?
+    - **Follow-Up-2**: How does a CT scan differentiate between blood clots and other tissue abnormalities?
+    - **Follow-Up-3**: What are the key indicators of internal bleeding visible in a CT scan?
+
+- **Main**: How is CT scanning used to detect brain injuries?
+    - **Follow-Up-1**: Why is CT scanning critical in identifying skull fractures or brain hemorrhages?
+    - **Follow-Up-2**: How does a CT scan reveal changes in brain tissue post-injury?
+    - **Follow-Up-3**: Why is speed of imaging important in the diagnosis of traumatic brain injuries using CT scans?
+
+- **Main**: How does the use of contrast agents enhance the diagnostic capabilities of a CT scan?
+    - **Follow-Up-1**: What are the risks associated with using contrast agents during a CT scan?
+    - **Follow-Up-2**: In which medical conditions is contrast most useful in CT scanning?
+    - **Follow-Up-3**: How do contrast agents help in distinguishing between healthy and abnormal tissues?
+
+#### Type 3: Numerical  
+- **Main**: A CT scan takes 150 slices of a patient’s brain, each slice being 0.4 mm thick. Calculate the total thickness of the brain section scanned.
+    - **Follow-Up-1**: What is the total thickness if the slice thickness is increased to 0.5 mm?
+    - **Follow-Up-2**: How does increasing slice thickness affect the detail and resolution of the scan?
+    - **Follow-Up-3**: If 200 slices are taken at 0.3 mm thickness, what would the total thickness of the scanned area be?
+
+- **Main**: If a CT scan takes 250 images of the abdominal area in 30 seconds, calculate the time taken per image.
+    - **Follow-Up-1**: How would the total time change if the scan captured 300 images in the same period?
+    - **Follow-Up-2**: What implications do faster imaging times have on the patient and image clarity?
+    - **Follow-Up-3**: How does adjusting the number of images taken impact the overall resolution of the CT scan?
+
+- **Main**: A 3D image created by a CT scan requires 500 slices, each measuring 0.25 mm. Calculate the total length of the scanned section.
+    - **Follow-Up-1**: How would the total length change if each slice thickness was reduced to 0.2 mm?
+    - **Follow-Up-2**: What is the benefit of reducing slice thickness in CT scanning?
+    - **Follow-Up-3**: If only 400 slices were taken with the same thickness, how would the total scanned length be affected?
+
+#### Type 4: Comparison  
+- **Main**: Compare the diagnostic capabilities of CT scans and MRI scans.
+    - **Follow-Up-1**: In what specific scenarios would a CT scan be preferred over an MRI?
+    - **Follow-Up-2**: How do the imaging techniques of CT and MRI differ in terms of radiation exposure and safety?
+    - **Follow-Up-3**: What are the limitations of CT scans in terms of diagnosing neurological conditions compared to MRI?
+
+- **Main**: Compare the use of CT scans and X-rays for detecting bone fractures.
+    - **Follow-Up-1**: How does a CT scan provide more detailed information on complex fractures compared to a standard X-ray?
+    - **Follow-Up-2**: What are the advantages of CT scans in diagnosing small or hidden fractures?
+    - **Follow-Up-3**: Why is a CT scan more effective in detecting fractures in joints compared to X-rays?
+
+- **Main**: Compare the use of CT scans and ultrasounds in diagnosing abdominal conditions.
+    - **Follow-Up-1**: How do CT scans provide more detailed images than ultrasounds in abdominal diagnoses?
+    - **Follow-Up-2**: In what cases would an ultrasound be preferred over a CT scan?
+    - **Follow-Up-3**: What are the key differences in image resolution and diagnostic precision between the two techniques?
+
+- **Main**: Compare the radiation exposure risks of CT scans with those of other imaging techniques, like X-rays and PET scans.
+    - **Follow-Up-1**: How does the radiation dosage of a CT scan compare to that of a standard X-ray?
+    - **Follow-Up-2**: What measures are taken to minimize radiation exposure during a CT scan?
+    - **Follow-Up-3**: How does the radiation risk of a CT scan compare to that of a PET scan?
+
+#### Type 5: Advanced Conceptual  
+- **Main**: Explain the use of multi-slice CT scans and how they improve diagnostic imaging.
+    - **Follow-Up-1**: How does the number of slices impact the detail and accuracy of a CT scan?
+    - **Follow-Up-2**: What are the benefits of using multi-slice CT technology in diagnosing cardiovascular conditions?
+    - **Follow-Up-3**: How does multi-slice CT scanning enhance the detection of abnormalities in organs like the liver or pancreas?
+
+- **Main**: How does contrast-enhanced CT scanning work, and what are the benefits of using contrast agents?
+    - **Follow-Up-1**: How do contrast agents improve the detection of tumors in a CT scan?
+    - **Follow-Up-2**: What are the risks associated with using contrast agents, and how can they be mitigated?
+    - **Follow-Up-3**: In which types of medical diagnoses are contrast agents most frequently used?
+
+- **Main**: Discuss the technological advancements that have improved CT scanning over the past decade.
+    - **Follow-Up-1**: How have improvements in detector sensitivity enhanced CT scan image quality?
+    - **Follow-Up-2**: What role does AI play in processing CT scan images more efficiently?
+    - **Follow-Up-3**: How has the development of low-dose CT scanning reduced radiation exposure without compromising image quality?
+
+#### Type 6: Critical Thinking  
+- **Main**: Why is it important to limit the number of CT scans a patient undergoes over time?
+    - **Follow-Up-1**: What are the long-term risks of repeated exposure to CT scan radiation?
+    - **Follow-Up-2**: How can medical professionals balance the need for diagnostic imaging with patient safety?
+    - **Follow-Up-3**: What alternative imaging techniques can be used to reduce a patient’s exposure to radiation?
+
+- **Main**: How has the development of CT scanning technology impacted the early detection of diseases like cancer and cardiovascular conditions?
+    - **Follow-Up-1**: How does early detection through CT scans improve patient outcomes in cancer treatment?
+    - **Follow-Up-2**: What are the cost implications of using CT scans for early disease detection on a large scale?
+    - **Follow-Up-3**: How can governments and healthcare systems ensure equitable access to CT scanning technology for early diagnosis?
+
+---
+
+
+---
+
+### **Topic**:: 14.7 Magnetic Resonance Imaging (MRI)**
+
+#### Type 1: Conceptual  
+- **Main**: What is the principle behind Magnetic Resonance Imaging (MRI) and how does it create images of the body?
+    - **Follow-Up-1**: Explain the role of the magnetic field in MRI imaging.
+    - **Follow-Up-2**: How do radio waves interact with the magnetic field to produce images?
+    - **Follow-Up-3**: What is nuclear magnetic resonance, and how is it applied in MRI?
+    - **Follow-Up-4**: Why is MRI considered a safer alternative to X-rays for certain diagnoses?
+
+- **Main**: Describe the components of an MRI machine and their functions.
+    - **Follow-Up-1**: What is the role of the magnet in an MRI machine?
+    - **Follow-Up-2**: How do the gradient coils contribute to image creation in an MRI?
+    - **Follow-Up-3**: What role do radiofrequency coils play in the MRI process?
+
+#### Type 2: Application-Based  
+- **Main**: How is MRI used in diagnosing neurological conditions?
+    - **Follow-Up-1**: Why is MRI preferred for detecting brain tumors and spinal cord injuries?
+    - **Follow-Up-2**: How can MRI help differentiate between different types of brain injuries?
+    - **Follow-Up-3**: What advantages does MRI offer in visualizing soft tissue abnormalities in the brain?
+
+- **Main**: Discuss how MRI is applied in cardiac imaging.
+    - **Follow-Up-1**: How does MRI help in diagnosing heart conditions like myocarditis or cardiac tumors?
+    - **Follow-Up-2**: Why is MRI useful in evaluating the structure and function of the heart?
+    - **Follow-Up-3**: How does MRI help in monitoring post-surgical recovery in cardiac patients?
+
+- **Main**: How is MRI used in orthopedic diagnostics?
+    - **Follow-Up-1**: Why is MRI preferred over X-rays for detecting ligament and cartilage injuries?
+    - **Follow-Up-2**: How can MRI identify abnormalities in joints that may not be visible in other imaging techniques?
+    - **Follow-Up-3**: What role does MRI play in diagnosing sports injuries, such as torn ligaments?
+
+#### Type 3: Numerical  
+- **Main**: If an MRI scanner generates a magnetic field of 3 Tesla, calculate the frequency of the radio waves needed to excite hydrogen protons in the body (gyromagnetic ratio of hydrogen is 42.58 MHz/T).
+    - **Follow-Up-1**: How would the frequency change if the magnetic field strength is reduced to 1.5 Tesla?
+    - **Follow-Up-2**: What effect does the magnetic field strength have on the clarity of the MRI image?
+    - **Follow-Up-3**: How does changing the frequency of radio waves influence the depth of imaging?
+
+- **Main**: An MRI scan takes 15 minutes to complete 60 images. Calculate the average time taken per image.
+    - **Follow-Up-1**: How long would it take to complete 100 images at the same rate?
+    - **Follow-Up-2**: How does increasing the number of images affect the overall resolution and detail of the MRI scan?
+    - **Follow-Up-3**: If the scan time per image is reduced by 10%, how long would it take to complete 80 images?
+
+#### Type 4: Comparison  
+- **Main**: Compare the diagnostic applications of MRI with CT scans.
+    - **Follow-Up-1**: In which situations would MRI be preferred over CT, and why?
+    - **Follow-Up-2**: How do MRI and CT scans differ in terms of imaging soft tissues and bones?
+    - **Follow-Up-3**: What are the risks associated with MRI compared to CT scans?
+
+- **Main**: Compare the use of MRI and X-rays for diagnosing musculoskeletal injuries.
+    - **Follow-Up-1**: Why is MRI more effective than X-rays for visualizing soft tissue injuries?
+    - **Follow-Up-2**: How do MRI and X-rays differ in their ability to detect bone fractures and joint damage?
+    - **Follow-Up-3**: In which cases would an X-ray be preferred over an MRI?
+
+#### Type 5: Advanced Conceptual  
+- **Main**: Explain the physics behind the alignment of protons in the body during an MRI scan.
+    - **Follow-Up-1**: How does the application of a magnetic field affect the behavior of hydrogen protons in body tissues?
+    - **Follow-Up-2**: What happens when radiofrequency pulses are applied to these aligned protons during the scan?
+    - **Follow-Up-3**: How is the signal emitted by the protons converted into a detailed image by the MRI machine?
+
+- **Main**: How does functional MRI (fMRI) differ from traditional MRI, and what are its applications?
+    - **Follow-Up-1**: How does fMRI measure brain activity by detecting changes in blood flow?
+    - **Follow-Up-2**: What are the key applications of fMRI in neuroscience research?
+    - **Follow-Up-3**: How can fMRI be used to map brain functions related to speech and motor activity?
+
+- **Main**: Discuss the safety concerns associated with MRI, especially in patients with implanted medical devices.
+    - **Follow-Up-1**: Why is MRI contraindicated for patients with certain pacemakers and metal implants?
+    - **Follow-Up-2**: How can the presence of metal in the body distort MRI images or pose risks to patients?
+    - **Follow-Up-3**: What precautions are taken to ensure patient safety during MRI procedures?
+
+#### Type 6: Critical Thinking  
+- **Main**: Why is MRI considered one of the safest imaging techniques, despite the powerful magnetic fields it uses?
+    - **Follow-Up-1**: How do MRI machines minimize risks associated with exposure to magnetic fields?
+    - **Follow-Up-2**: What are the potential long-term effects of repeated MRI scans on patients, if any?
+    - **Follow-Up-3**: How does MRI compare with other imaging techniques in terms of risk-benefit analysis?
+
+- **Main**: How has the development of MRI technology impacted early diagnosis of diseases?
+    - **Follow-Up-1**: In what ways has MRI improved the detection and monitoring of neurological disorders?
+    - **Follow-Up-2**: What are the economic and logistical challenges in making MRI widely available for early diagnosis?
+    - **Follow-Up-3**: How can advancements in MRI technology help reduce the cost and increase accessibility to this diagnostic tool?
+
+---
+
+
+
+---
+
+### **Topic**:: 14.8 ECG (Electrocardiogram)**
+
+#### Type 1: Conceptual  
+- **Main**: What is an electrocardiogram (ECG), and how does it measure electrical impulses from the heart?
+    - **Follow-Up-1**: How do electrical impulses from the heart translate into the ECG waveforms?
+    - **Follow-Up-2**: What is the significance of different leads (electrodes) placed on various parts of the body during ECG?
+    - **Follow-Up-3**: How do abnormalities in the P-wave, QRS complex, and T-wave indicate different types of heart conditions?
+
+- **Main**: How do the electrical activities of different parts of the heart appear on the ECG?
+    - **Follow-Up-1**: What role does the sinoatrial (SA) node play in initiating the heartbeat as seen in the ECG?
+    - **Follow-Up-2**: How does the depolarization of the ventricles appear in the QRS complex?
+    - **Follow-Up-3**: What does the T-wave represent in terms of electrical recovery of the heart muscle?
+
+- **Main**: Explain the importance of a 12-lead ECG and how each lead provides unique information about heart function.
+    - **Follow-Up-1**: What are the specific purposes of limb leads and chest leads in an ECG?
+    - **Follow-Up-2**: How do the leads help detect localized heart damage, such as in a myocardial infarction?
+    - **Follow-Up-3**: What does it mean if certain leads show elevated ST segments, and how does this relate to heart disease?
+
+#### Type 2: Application-Based  
+- **Main**: How is ECG used to diagnose myocardial infarction (heart attack)?
+    - **Follow-Up-1**: What specific changes in an ECG trace indicate a heart attack?
+    - **Follow-Up-2**: How can the location of the heart attack be determined based on the affected leads in an ECG?
+    - **Follow-Up-3**: How does the timing of ECG during or after a heart attack affect the diagnosis?
+
+- **Main**: How is ECG used in diagnosing arrhythmias (abnormal heart rhythms)?
+    - **Follow-Up-1**: What is the role of ECG in identifying tachycardia (rapid heartbeat) and bradycardia (slow heartbeat)?
+    - **Follow-Up-2**: How can ECG detect atrial fibrillation, and what does this condition look like on the trace?
+    - **Follow-Up-3**: How does the detection of ventricular fibrillation in an ECG require immediate medical intervention?
+
+#### Type 3: Comparison  
+- **Main**: Compare ECG with echocardiography in terms of their diagnostic capabilities.
+    - **Follow-Up-1**: When would a doctor choose an ECG over echocardiography for diagnosing heart conditions?
+    - **Follow-Up-2**: How does ECG provide electrical information while echocardiography offers structural imaging?
+    - **Follow-Up-3**: What are the strengths and limitations of using ECG for real-time heart monitoring compared to echocardiography?
+
+- **Main**: Compare ECG and Holter monitoring for diagnosing long-term heart conditions.
+    - **Follow-Up-1**: What are the key differences between a short-duration ECG test and 24-hour Holter monitoring?
+    - **Follow-Up-2**: How does Holter monitoring provide more comprehensive data on intermittent arrhythmias?
+    - **Follow-Up-3**: In what situations would Holter monitoring be preferred over a standard ECG?
+
+#### Type 4: Numerical  
+- **Main**: If an ECG records a heart rate of 75 beats per minute, calculate how many beats occur in 40 seconds.
+    - **Follow-Up-1**: How would the number of beats change if the heart rate increases to 100 bpm?
+    - **Follow-Up-2**: How does the heart rate measured by ECG affect the RR interval on the trace?
+    - **Follow-Up-3**: What is the significance of a prolonged QT interval, and how is it calculated from the ECG?
+
+- **Main**: If the PR interval in an ECG is 0.16 seconds, how does this compare to the normal range of 0.12 to 0.20 seconds?
+    - **Follow-Up-1**: What might an extended PR interval indicate about heart function?
+    - **Follow-Up-2**: How does the measurement of the QRS complex duration help in diagnosing ventricular problems?
+    - **Follow-Up-3**: If the QRS complex is longer than 0.12 seconds, what heart conditions might this suggest?
+
+---
+
+### **Topic**:: 14.8 Endoscopy**
+
+#### Type 1: Conceptual  
+- **Main**: What is endoscopy, and how does it allow doctors to view internal structures of the body?
+    - **Follow-Up-1**: What is the principle of total internal reflection, and how is it applied in the function of the endoscope?
+    - **Follow-Up-2**: What are the advantages of using fiber optics in endoscopic procedures?
+    - **Follow-Up-3**: How does light transmitted through an endoscope provide clear images of internal organs?
+
+- **Main**: How does an endoscope provide a live video feed of internal organs during a procedure?
+    - **Follow-Up-1**: What are the components of an endoscope, and how do they work together to create images?
+    - **Follow-Up-2**: How is the flexibility of modern endoscopes beneficial for navigating through narrow body cavities?
+    - **Follow-Up-3**: What improvements in endoscopy technology have increased the precision of diagnostic imaging?
+
+#### Type 2: Application-Based  
+- **Main**: How is endoscopy used to diagnose gastrointestinal conditions?
+    - **Follow-Up-1**: How does endoscopy help in detecting conditions such as ulcers, polyps, and tumors in the digestive tract?
+    - **Follow-Up-2**: How can endoscopy be used to take biopsies for further analysis?
+    - **Follow-Up-3**: How is endoscopy used to monitor ongoing conditions, such as inflammatory bowel disease?
+
+- **Main**: How is endoscopy used in the diagnosis of respiratory disorders?
+    - **Follow-Up-1**: What is the role of bronchoscopy (a type of endoscopy) in diagnosing lung diseases?
+    - **Follow-Up-2**: How can an endoscope be used to detect abnormalities in the bronchi and lungs?
+    - **Follow-Up-3**: How does bronchoscopy aid in diagnosing conditions such as lung cancer, infections, or chronic bronchitis?
+
+#### Type 3: Comparison  
+- **Main**: Compare the use of endoscopy with X-ray imaging in diagnosing internal conditions.
+    - **Follow-Up-1**: When is endoscopy preferred over X-rays for internal diagnostics?
+    - **Follow-Up-2**: How does the clarity of images from an endoscope differ from that of X-ray imaging?
+    - **Follow-Up-3**: What are the relative risks of using endoscopy compared to X-ray imaging?
+
+- **Main**: Compare endoscopy with capsule endoscopy, where a small camera is swallowed to capture images.
+    - **Follow-Up-1**: How does capsule endoscopy provide advantages in diagnosing conditions in areas that traditional endoscopes cannot reach?
+    - **Follow-Up-2**: What are the limitations of capsule endoscopy compared to traditional endoscopy?
+    - **Follow-Up-3**: In what situations would traditional endoscopy be preferred over capsule endoscopy?
+
+#### Type 4: Numerical  
+- **Main**: During a 40-minute endoscopy procedure, if the camera captures 4 images per minute, how many total images are taken?
+    - **Follow-Up-1**: If the camera captures 6 images per minute, how does this impact the total number of images in the same time frame?
+    - **Follow-Up-2**: How does increasing the number of images affect the precision of diagnosis in endoscopy?
+    - **Follow-Up-3**: What factors determine the optimal number of images taken during a diagnostic endoscopy?
+
+---
+
+### **Topic**:: 14.8 Radiotherapy**
+
+#### Type 1: Conceptual  
+- **Main**: What is radiotherapy, and how does it work to treat cancer?
+    - **Follow-Up-1**: How does ionizing radiation target and destroy cancer cells while minimizing damage to surrounding tissues?
+    - **Follow-Up-2**: What is the difference between external beam radiation and brachytherapy (internal radiation)?
+    - **Follow-Up-3**: How is the effectiveness of radiotherapy measured during and after treatment?
+
+- **Main**: How does radiotherapy interact with cancer cells at the molecular level?
+    - **Follow-Up-1**: What role do DNA breaks play in the destruction of cancer cells during radiotherapy?
+    - **Follow-Up-2**: How do healthy cells repair themselves after exposure to radiation, and why are cancer cells less capable of repair?
+    - **Follow-Up-3**: What factors determine the sensitivity of cancer cells to radiotherapy?
+
+#### Type 2: Application-Based  
+- **Main**: How is radiotherapy used to treat different types of cancer, such as breast cancer and lung cancer?
+    - **Follow-Up-1**: How is radiotherapy tailored to the location and type of cancer being treated?
+    - **Follow-Up-2**: How is radiotherapy combined with other treatments, such as surgery or chemotherapy, to improve outcomes?
+    - **Follow-Up-3**: What follow-up care is necessary after radiotherapy treatment to monitor for cancer recurrence?
+
+- **Main**: How does radiotherapy help in shrinking tumors before surgery?
+    - **Follow-Up-1**: What advantages does pre-surgical radiotherapy offer for patients with large tumors?
+    - **Follow-Up-2**: How is radiotherapy used to minimize the risk of metastasis (spread of cancer) before surgery?
+    - **Follow-Up-3**: How is the dose of radiation adjusted based on tumor size and location?
+
+#### Type 3: Numerical  
+- **Main**: A patient receives 45 Gy of radiation over 15 sessions. How much radiation is delivered in each session?
+    - **Follow-Up-1**: How does the total radiation dose vary depending on the type and stage of cancer being treated?
+    - **Follow-Up-2**: What are the potential side effects of increasing the radiation dose per session?
+    - **Follow-Up-3**: How is the total dose of radiation spread across multiple sessions to reduce damage to healthy tissues?
+
+---
+
+
+---
+
+### **Topic**:: 14.8 Exercise Tolerance Test (ETT)**
+
+#### **Type**: Conceptual
+
+- **Main**: What is the Exercise Tolerance Test (ETT)?
+    - **Follow-Up-1**: Why is ETT important for diagnosing heart conditions?
+    - **Follow-Up-2**: How does ETT assess heart function under stress?
+    - **Follow-Up-3**: What physiological changes occur during an ETT?
+    - **Follow-Up-4**: How does ETT relate to cardiovascular health?
+
+- **Main**: How does ETT help in diagnosing coronary artery diseases?
+    - **Follow-Up-1**: What are coronary artery blockages, and how does ETT detect them?
+    - **Follow-Up-2**: Why can blockages be harder to detect when the patient is at rest?
+    - **Follow-Up-3**: What are the symptoms of coronary artery disease that ETT can reveal?
+    - **Follow-Up-4**: What are some limitations of ETT in detecting coronary artery diseases?
+
+- **Main**: Explain the relationship between ETT and ECG.
+    - **Follow-Up-1**: How does an ECG monitor heart activity during an ETT?
+    - **Follow-Up-2**: What specific changes in ECG indicate a problem during an ETT?
+    - **Follow-Up-3**: How are ECG results interpreted in relation to coronary artery disease?
+    - **Follow-Up-4**: How do ECG readings help in determining the severity of a blockage?
+
+#### **Type**: Application-Based
+
+- **Main**: Describe the procedure for conducting an ETT.
+    - **Follow-Up-1**: How is the treadmill or stationary bicycle used in the ETT process?
+    - **Follow-Up-2**: What are the steps taken to ensure patient safety during the test?
+    - **Follow-Up-3**: How do physicians increase the exercise intensity in an ETT?
+    - **Follow-Up-4**: How does a physician prepare a patient for an ETT?
+    - **Follow-Up-5**: How do environmental conditions affect the results of an ETT?
+
+- **Main**: How does the ETT provide insight into a patient’s heart function?
+    - **Follow-Up-1**: What specific factors are monitored during an ETT?
+    - **Follow-Up-2**: What are common signs of heart problems observed in an ETT?
+    - **Follow-Up-3**: How do abnormal results in ETT influence treatment decisions?
+
+#### **Type**: Diagnostic
+
+- **Main**: What diagnostic information can be obtained from an ETT about coronary artery disease?
+    - **Follow-Up-1**: How can ETT reveal information about blockages in coronary arteries?
+    - **Follow-Up-2**: What are the specific ECG changes during an ETT that indicate ischemia?
+    - **Follow-Up-3**: How is ETT data combined with other tests to confirm a diagnosis?
+    - **Follow-Up-4**: What are some limitations of ETT as a diagnostic tool?
+
+#### **Type**: Comparative
+
+- **Main**: Compare the effectiveness of ETT with other heart diagnostic tests, like echocardiography.
+    - **Follow-Up-1**: How does ETT differ from an echocardiogram in diagnosing heart conditions?
+    - **Follow-Up-2**: What are the advantages of ETT over invasive tests like angiography?
+    - **Follow-Up-3**: When would a physician recommend an ETT over other diagnostic methods?
+    - **Follow-Up-4**: What factors may limit the effectiveness of ETT compared to other methods?
+
+- **Main**: Compare ETT and nuclear stress testing.
+    - **Follow-Up-1**: How does the sensitivity of ETT compare with that of nuclear stress testing?
+    - **Follow-Up-2**: In what situations is nuclear stress testing preferred over ETT?
+    - **Follow-Up-3**: What are the risks and benefits of ETT versus nuclear stress testing?
+
+#### **Type**: Numerical/Quantitative
+
+- **Main**: How is heart rate and rhythm measured quantitatively during an ETT?
+    - **Follow-Up-1**: If a patient’s resting heart rate is 80 bpm and reaches 150 bpm during the test, calculate the percentage increase.
+    - **Follow-Up-2**: What is the target heart rate range for a 50-year-old patient undergoing an ETT?
+    - **Follow-Up-3**: How is the degree of coronary artery blockage estimated from ETT results?
+
+- **Main**: How does exercise intensity in ETT correlate with heart rate changes?
+    - **Follow-Up-1**: How is the treadmill speed adjusted to match the desired heart rate increase?
+    - **Follow-Up-2**: What is the mathematical relationship between oxygen consumption and heart rate during ETT?
+    - **Follow-Up-3**: How do physicians determine the appropriate exercise intensity for different age groups during ETT?
+
+#### **Type**: Risk-Based
+
+- **Main**: What are the risks associated with ETT?
+    - **Follow-Up-1**: What precautions are taken to minimize risks during ETT?
+    - **Follow-Up-2**: In what cases should ETT be avoided or postponed?
+    - **Follow-Up-3**: How are patients with pre-existing conditions handled during ETT?
+
+#### **Type**: Patient-Centered
+
+- **Main**: How should a patient prepare for an ETT?
+    - **Follow-Up-1**: What dietary or medication restrictions must be followed before the test?
+    - **Follow-Up-2**: How does a physician explain the purpose of ETT to a patient?
+    - **Follow-Up-3**: What are some concerns patients might have before undergoing ETT?
+
+---
+
+
+---
+
+### **Topic**:: 14.8 Angiography**
+
+#### **Type**: Conceptual
+
+- **Main**: What is angiography, and why is it used to examine blood vessels?
+    - **Follow-Up-1**: How does angiography help in detecting blockages in arteries and veins?
+    - **Follow-Up-2**: What is the role of the dye used in angiography?
+    - **Follow-Up-3**: What are the major risks associated with angiography?
+    - **Follow-Up-4**: What is the difference between angiography and angioplasty?
+
+- **Main**: How does an angiogram work in studying the circulatory system?
+    - **Follow-Up-1**: What is the process of inserting a catheter in angiography?
+    - **Follow-Up-2**: How does the dye injected during an angiogram make blood vessels visible?
+    - **Follow-Up-3**: What precautions are taken during angiography to prevent complications?
+    - **Follow-Up-4**: How long does the dye remain in the system after the angiogram, and how is it removed?
+
+- **Main**: Explain the purpose of using X-rays in angiography.
+    - **Follow-Up-1**: What is the significance of contrast dye in making arteries visible in an X-ray?
+    - **Follow-Up-2**: How do X-rays in angiography differ from X-rays used in regular diagnostics?
+    - **Follow-Up-3**: How do physicians interpret X-ray images from an angiogram to diagnose conditions?
+
+#### **Type**: Application-Based
+
+- **Main**: Describe the step-by-step process of performing angiography.
+    - **Follow-Up-1**: How is the patient prepared for angiography?
+    - **Follow-Up-2**: What role does the X-ray play during the angiography process?
+    - **Follow-Up-3**: How is the catheter inserted, and how is the dye introduced into the bloodstream?
+    - **Follow-Up-4**: How does the physician observe the real-time movement of the dye through the blood vessels?
+
+- **Main**: What are the indications for performing angiography?
+    - **Follow-Up-1**: How does a physician determine whether angiography is necessary?
+    - **Follow-Up-2**: What symptoms of vascular diseases prompt an angiography?
+    - **Follow-Up-3**: When is angioplasty performed in conjunction with angiography?
+    - **Follow-Up-4**: How does angiography help in planning for surgical interventions?
+
+- **Main**: What are the treatment options if a blockage is detected during angiography?
+    - **Follow-Up-1**: How does angioplasty work as a treatment during angiography?
+    - **Follow-Up-2**: What are the differences between angioplasty and stenting?
+    - **Follow-Up-3**: What follow-up care is needed after angioplasty during angiography?
+
+#### **Type**: Comparative
+
+- **Main**: Compare the effectiveness of angiography with other diagnostic techniques for vascular diseases.
+    - **Follow-Up-1**: How does angiography differ from Doppler ultrasound in detecting blood flow issues?
+    - **Follow-Up-2**: What are the advantages and disadvantages of angiography versus Magnetic Resonance Imaging (MRI)?
+    - **Follow-Up-3**: In what situations would angiography be preferred over a non-invasive diagnostic tool?
+
+- **Main**: Compare angiography and CT angiography.
+    - **Follow-Up-1**: What are the main differences in procedure between traditional angiography and CT angiography?
+    - **Follow-Up-2**: How do the risks of traditional angiography compare with those of CT angiography?
+    - **Follow-Up-3**: What are the situations where CT angiography would be more beneficial than traditional angiography?
+
+- **Main**: How does angioplasty differ from bypass surgery?
+    - **Follow-Up-1**: Under what conditions is angioplasty more suitable than bypass surgery?
+    - **Follow-Up-2**: What are the advantages of angioplasty over bypass surgery?
+    - **Follow-Up-3**: When would bypass surgery be preferred over angioplasty?
+
+#### **Type**: Numerical/Quantitative
+
+- **Main**: How is the size of arterial blockages measured during angiography?
+    - **Follow-Up-1**: How do physicians calculate the percentage of artery blockage from angiographic images?
+    - **Follow-Up-2**: If a coronary artery is 80% blocked, what would the remaining flow capacity be in comparison to normal?
+    - **Follow-Up-3**: How are the lengths of stents calculated during angioplasty following angiography?
+
+- **Main**: How is the contrast dye dose calculated in angiography?
+    - **Follow-Up-1**: How do physicians calculate the appropriate dye volume based on patient weight or size?
+    - **Follow-Up-2**: What factors determine the amount of contrast dye needed for effective imaging?
+    - **Follow-Up-3**: How do physicians adjust the dosage of dye in patients with compromised kidney function?
+
+---
+
+### **Topic**:: 14.8 Isotopes and Their Uses**
+
+#### **Type**: Conceptual
+
+- **Main**: What are isotopes, and how are they different from regular atoms of an element?
+    - **Follow-Up-1**: How do the atomic structures of isotopes differ from each other?
+    - **Follow-Up-2**: What role do neutrons play in creating isotopes?
+    - **Follow-Up-3**: Give examples of common isotopes used in medicine.
+    - **Follow-Up-4**: Why are some isotopes radioactive while others are stable?
+
+- **Main**: What are the medical uses of isotopes?
+    - **Follow-Up-1**: How are radioactive isotopes used in diagnosing diseases?
+    - **Follow-Up-2**: What types of isotopes are used for cancer treatment?
+    - **Follow-Up-3**: How does Technetium-99m work in medical imaging?
+    - **Follow-Up-4**: Explain how iodine-131 is used to treat thyroid conditions.
+
+#### **Type**: Application-Based
+
+- **Main**: Describe how isotopes are used in nuclear medicine.
+    - **Follow-Up-1**: How are isotopes administered to patients for diagnostic purposes?
+    - **Follow-Up-2**: What precautions are taken to ensure safety when handling radioactive isotopes?
+    - **Follow-Up-3**: How are the isotopes selected for different types of scans (e.g., brain, bone, liver)?
+    - **Follow-Up-4**: What is the role of gamma rays in imaging with isotopes like Technetium-99m?
+
+- **Main**: How are isotopes used in radiotherapy for treating cancer?
+    - **Follow-Up-1**: How does the isotope Cobalt-60 destroy cancer cells?
+    - **Follow-Up-2**: What are the side effects of using isotopes in cancer treatment?
+    - **Follow-Up-3**: How are isotopes targeted to specific cancerous tissues without affecting healthy cells?
+
+- **Main**: How are isotopes used in food preservation and pest control?
+    - **Follow-Up-1**: Explain how radioactive isotopes help in extending the shelf life of food products.
+    - **Follow-Up-2**: How are isotopes used to sterilize medical equipment and food packaging?
+    - **Follow-Up-3**: What are the environmental impacts of using isotopes in agriculture?
+
+#### **Type**: Comparative
+
+- **Main**: Compare the use of radioactive isotopes for diagnosis and treatment.
+    - **Follow-Up-1**: How do the functions of isotopes in diagnostic imaging differ from those in radiotherapy?
+    - **Follow-Up-2**: What are the similarities and differences between the isotopes used for diagnostic and therapeutic purposes?
+    - **Follow-Up-3**: How do physicians decide which isotope to use for imaging versus treatment?
+
+- **Main**: Compare the roles of iodine-131 and Technetium-99m in medical imaging and treatment.
+    - **Follow-Up-1**: What is the primary difference in how iodine-131 and Technetium-99m are used in the body?
+    - **Follow-Up-2**: How do the half-lives of these isotopes impact their use in medical treatments?
+    - **Follow-Up-3**: Which isotope would be preferred in imaging the thyroid, and why?
+
+#### **Type**: Numerical/Quantitative
+
+- **Main**: How is the half-life of an isotope important in medical applications?
+    - **Follow-Up-1**: What is the half-life of iodine-131, and how does it affect its use in treating thyroid conditions?
+    - **Follow-Up-2**: How do physicians calculate the effective dosage of radioactive isotopes for cancer treatment?
+    - **Follow-Up-3**: If a sample of Technetium-99m has a half-life of 6 hours, how much remains after 24 hours?
+
+- **Main**: How is radiation dosage measured in nuclear medicine?
+    - **Follow-Up-1**: How is the dose of radiation determined when using isotopes like Technetium-99m for imaging?
+    - **Follow-Up-2**: What factors affect the calculation of radiation dose for different types of patients?
+    - **Follow-Up-3**: How do physicians balance the benefits of radiation exposure against the
+
+ risks?
+
+#### **Type**: Safety and Risk
+
+- **Main**: What safety precautions are taken when using isotopes in medical treatment?
+    - **Follow-Up-1**: What are the risks associated with exposure to radioactive isotopes?
+    - **Follow-Up-2**: How are radioactive isotopes stored and disposed of safely in hospitals?
+    - **Follow-Up-3**: What measures are in place to protect healthcare workers from radiation during isotope-based treatments?
+
+---

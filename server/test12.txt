@@ -1,0 +1,553 @@
+### **Topic**: 12.1 Magnetic Effect of Current**
+
+#### **Type**: Conceptual**
+- **Main**: What is the magnetic effect of an electric current?
+- **Follow-Up-1**: How did Oersted demonstrate the magnetic effect of current?
+- **Follow-Up-2**: Why does a compass needle move when placed near a current-carrying wire?
+- **Follow-Up-3**: How does changing the direction of the electric current affect the magnetic field?
+
+#### **Type**: Conceptual**
+- **Main**: How is the direction of the magnetic field around a current-carrying wire determined?
+- **Follow-Up-1**: What rule can be used to find the direction of the magnetic field around a straight current-carrying wire?
+- **Follow-Up-2**: Why does reversing the current reverse the direction of the magnetic field?
+- **Follow-Up-3**: How is the magnetic field affected by the direction of current in a solenoid compared to a straight wire?
+
+#### **Type**: Application-Based**
+- **Main**: How can you practically demonstrate the magnetic effect of current using a compass and wire?
+- **Follow-Up-1**: Describe an experiment where you observe the deflection of a compass needle near a current-carrying wire.
+- **Follow-Up-2**: How would you modify the setup to observe the effect of increasing current on the strength of the magnetic field?
+- **Follow-Up-3**: How does this experiment help illustrate the relationship between current and magnetic fields?
+
+#### **Type**: Application-Based**
+- **Main**: How is the magnetic effect of current utilized in creating devices like electromagnets?
+- **Follow-Up-1**: Explain how a solenoid enhances the magnetic effect of a current-carrying wire.
+- **Follow-Up-2**: What happens when an iron rod is placed inside a current-carrying solenoid?
+- **Follow-Up-3**: In what practical applications are electromagnets used today, and how do they function?
+
+#### **Type**: Analytical**
+- **Main**: Explain the relationship between the strength of the magnetic field and the current in a wire.
+- **Follow-Up-1**: How does increasing the current in a wire affect the magnetic field strength?
+- **Follow-Up-2**: How does the distance from the current-carrying wire affect the magnetic field strength?
+- **Follow-Up-3**: How does coiling the wire (as in a solenoid) influence the intensity of the magnetic field?
+
+#### **Type**: Analytical**
+- **Main**: How does the shape of the magnetic field differ between a straight current-carrying wire and a solenoid?
+- **Follow-Up-1**: Compare the magnetic field pattern around a straight wire and a solenoid.
+- **Follow-Up-2**: What causes the magnetic field lines inside a solenoid to become more concentrated?
+- **Follow-Up-3**: How can the polarity of the magnetic field in a solenoid be reversed?
+
+#### **Type**: Numerical**
+- **Main**: If the current in a wire is 5 A and the distance from the wire is 2 cm, calculate the strength of the magnetic field using Ampère’s Law.
+- **Follow-Up-1**: How would the magnetic field strength change if the current is doubled to 10 A while the distance remains the same?
+- **Follow-Up-2**: If the distance from the wire is increased to 4 cm, how does the magnetic field strength change?
+- **Follow-Up-3**: What happens to the magnetic field strength if the current is reduced to half its initial value?
+
+#### **Type**: Advanced Analytical**
+- **Main**: Discuss how the discovery of the magnetic effect of current has influenced the development of electrical devices.
+- **Follow-Up-1**: How did the understanding of current-induced magnetic fields contribute to the development of electromagnets?
+- **Follow-Up-2**: What role does the magnetic effect of current play in modern electrical devices like motors and generators?
+- **Follow-Up-3**: How has the discovery of the magnetic effect of current shaped advancements in electromagnetic theory?
+
+---
+
+### **Topic**: 12.2 Magnetic Effect of Current Carrying Conductor**
+
+#### **Type**: Conceptual**
+- **Main**: What happens to the magnetic field when an electric current flows through a conductor?
+- **Follow-Up-1**: How can the magnetic field around a conductor be visualized?
+- **Follow-Up-2**: Why does the direction of the magnetic field around the conductor change when the current direction is reversed?
+- **Follow-Up-3**: How is the magnetic field around a current-carrying conductor affected by the strength of the current?
+
+#### **Type**: Conceptual**
+- **Main**: How does the arrangement of iron filings around a current-carrying wire demonstrate the magnetic field?
+- **Follow-Up-1**: What pattern do iron filings form around a current-carrying wire, and why?
+- **Follow-Up-2**: How can the arrangement of iron filings be used to determine the direction of the magnetic field?
+- **Follow-Up-3**: How does increasing or decreasing the current affect the alignment of iron filings?
+
+#### **Type**: Application-Based**
+- **Main**: How can the magnetic field produced by a current-carrying conductor be detected using a compass?
+- **Follow-Up-1**: How would you set up an experiment to observe the deflection of a compass near a current-carrying conductor?
+- **Follow-Up-2**: How can changing the distance between the compass and the wire affect the deflection?
+- **Follow-Up-3**: What would happen if the direction of the current was reversed during the experiment?
+
+#### **Type**: Application-Based**
+- **Main**: How does the magnetic field of a current-carrying conductor interact with the field of a nearby permanent magnet?
+- **Follow-Up-1**: Describe an experiment to demonstrate the interaction between a current-carrying wire and a magnet.
+- **Follow-Up-2**: How does the direction and strength of the current affect the force between the wire and the magnet?
+- **Follow-Up-3**: What practical applications utilize the interaction between a current-carrying conductor and a magnetic field?
+
+#### **Type**: Analytical**
+- **Main**: Explain how the direction of the magnetic field around a current-carrying conductor is determined using the right-hand rule.
+- **Follow-Up-1**: What does the right-hand rule suggest about the relationship between current direction and magnetic field direction?
+- **Follow-Up-2**: How does the field change if you alter the orientation of the conductor?
+- **Follow-Up-3**: Why does the magnetic field form concentric circles around a straight current-carrying conductor?
+
+#### **Type**: Analytical**
+- **Main**: How does the strength of the magnetic field around a conductor change with increasing distance from the wire?
+- **Follow-Up-1**: What mathematical relationship describes the decrease in magnetic field strength as the distance from a current-carrying wire increases?
+- **Follow-Up-2**: How does the current in the wire influence the strength of the magnetic field at various distances?
+- **Follow-Up-3**: What experimental methods could be used to measure the magnetic field strength at different points from a conductor?
+
+---
+
+### **Topic**: 12.3 Solenoid**
+
+#### **Type**: Conceptual**
+- **Main**: What is a solenoid, and how does it produce a magnetic field?
+- **Follow-Up-1**: How does the magnetic field inside a solenoid compare to the field outside of it?
+- **Follow-Up-2**: How does increasing the number of coils in the solenoid affect the magnetic field strength?
+- **Follow-Up-3**: Why is the magnetic field inside a solenoid similar to that of a bar magnet?
+
+#### **Type**: Conceptual**
+- **Main**: How does inserting an iron rod inside a solenoid enhance its magnetic field?
+- **Follow-Up-1**: What effect does the presence of an iron core have on the magnetic field generated by a solenoid?
+- **Follow-Up-2**: Why does the solenoid become an electromagnet when an iron rod is placed inside it?
+- **Follow-Up-3**: How does the magnetic polarity of the solenoid change when the direction of the current is reversed?
+
+#### **Type**: Application-Based**
+- **Main**: How can solenoids be used to create electromagnets for practical purposes?
+- **Follow-Up-1**: What are some common applications of electromagnets created by solenoids?
+- **Follow-Up-2**: How is the strength of an electromagnet adjusted by changing the current or number of coils in the solenoid?
+- **Follow-Up-3**: How does the use of a solenoid in devices like electric bells or motors demonstrate the principle of electromagnetism?
+
+#### **Type**: Analytical**
+- **Main**: How does the magnetic field strength inside a solenoid depend on the number of turns in the coil?
+- **Follow-Up-1**: What is the relationship between the number of turns in a solenoid and the intensity of the magnetic field it produces?
+- **Follow-Up-2**: How does the current flowing through the solenoid affect the magnetic field strength?
+- **Follow-Up-3**: What role does the length of the solenoid play in determining the field strength inside it?
+
+#### **Type**: Numerical**
+- **Main**: Calculate the magnetic field strength inside a solenoid with 500 turns, a current of 2 A, and a length of 0.5 m.
+- **Follow-Up-1**: How would the magnetic field strength change if the number of turns in the solenoid is doubled?
+- **Follow-Up-2**: If the current is increased to 4 A, how does that affect the magnetic field strength inside the solenoid?
+- **Follow-Up-3**: What happens to the magnetic field strength if the length of the solenoid is halved?
+
+---
+
+### **Topic**: 12.4 Electromagnet**
+
+#### **Type**: Conceptual**
+- **Main**: What is an electromagnet, and how is it created using a solenoid?
+- **Follow-Up-1**: How does an electromagnet differ from a permanent magnet?
+- **Follow-Up-2**: How can the strength of an electromagnet be controlled?
+- **Follow-Up-3**: Why does the electromagnet lose its magnetism when the current is switched off?
+
+#### **Type**: Conceptual**
+- **Main**: How does the shape of the iron core affect the strength of the electromagnet?
+- **Follow-Up-1**: Why is a U-shaped iron core more effective for creating a strong electromagnet?
+- **Follow-Up-2**: How does reducing the distance between the poles of the iron core increase the magnet's strength?
+- **Follow-Up-3**: What practical applications use U-shaped electromagnets for lifting heavy objects?
+
+#### **Type**: Application-Based**
+- **Main**: How are electromagnets used in devices like electric bells or cranes?
+- **Follow-Up-1**: How does an electric bell use an electromagnet to produce sound?
+- **Follow-Up-2**: How do cranes use powerful electromagnets to lift heavy steel objects?
+- **Follow-Up-3**: How is the strength of the electromagnet in a crane controlled to release or pick up materials?
+
+#### **Type**: Application-Based**
+- **Main**: How are electromagnets used in medical equipment, such as MRI machines or devices to remove metal from the eye?
+- **Follow-Up-1**: How do MRI machines use electromagnets to create detailed images of the human body?
+- **Follow-Up-2**: How can electromagnets safely remove metallic objects from a patient's body, such as metal fragments from the eye?
+- **Follow-Up-3**: What safety precautions are necessary when using powerful electromagnets in medical applications?
+
+#### **Type**: Analytical**
+- **Main**: How does the number of turns in a solenoid affect the strength of the electromagnet it creates?
+- **Follow-Up-1**: What is the relationship between the number of turns in a solenoid and the intensity of the magnetic field in the electromagnet?
+- **Follow-Up-2**: How does increasing the current in the solenoid increase the magnetic strength of the electromagnet?
+- **Follow-Up-3**: How does using a soft iron core in the solenoid enhance the strength of the electromagnet?
+
+#### **Type**: Numerical**
+- **Main**: If an electromagnet has a solenoid with 1000 turns and a current of 3 A, calculate the strength of the magnetic field it generates.
+- **Follow-Up-1**: How would the magnetic field strength change if the current is increased to 6 A?
+- **Follow-Up-2**: If the solenoid has only 500 turns, how does that affect the magnetic field strength?
+- **Follow-Up-3**: What happens to the electromagnet's field strength if the number of turns is doubled but the current remains constant?
+
+---
+
+---
+
+### **Topic**: 12.5 Electromagnetic Induction**
+
+#### **Type**: Conceptual**
+- **Main**: What is electromagnetic induction, and how does it occur?
+- **Follow-Up-1**: How did Michael Faraday demonstrate electromagnetic induction?
+- **Follow-Up-2**: What is the relationship between a changing magnetic field and the production of electric current?
+- **Follow-Up-3**: What role does a closed circuit play in the process of electromagnetic induction?
+
+#### **Type**: Conceptual**
+- **Main**: How does Lenz's Law explain the direction of induced current in electromagnetic induction?
+- **Follow-Up-1**: What does Lenz's Law state about the direction of induced current in a loop or coil?
+- **Follow-Up-2**: Why is the induced current always in a direction that opposes the change in magnetic flux?
+- **Follow-Up-3**: How does Lenz's Law demonstrate the conservation of energy in electromagnetic induction?
+
+#### **Type**: Application-Based**
+- **Main**: How can electromagnetic induction be demonstrated using a coil and a moving magnet?
+- **Follow-Up-1**: Describe an experiment to observe induced current when a magnet is moved into and out of a coil.
+- **Follow-Up-2**: How does the speed of the magnet’s motion affect the amount of induced current?
+- **Follow-Up-3**: How can the direction of the induced current be changed during this experiment?
+
+#### **Type**: Application-Based**
+- **Main**: How is electromagnetic induction applied in the functioning of devices like electric generators?
+- **Follow-Up-1**: How do generators use the principle of electromagnetic induction to convert mechanical energy into electrical energy?
+- **Follow-Up-2**: What are the factors that affect the efficiency of electromagnetic induction in a generator?
+- **Follow-Up-3**: How do power stations use electromagnetic induction to supply electricity to homes and industries?
+
+#### **Type**: Analytical**
+- **Main**: Explain the factors that determine the magnitude of the induced electromotive force (emf) in a coil.
+- **Follow-Up-1**: How does the number of turns in a coil affect the amount of induced emf?
+- **Follow-Up-2**: How does the rate of change of the magnetic field influence the induced emf?
+- **Follow-Up-3**: How does the strength of the magnetic field contribute to the induced emf in a circuit?
+
+#### **Type**: Analytical**
+- **Main**: How does the relative motion between a conductor and a magnetic field affect electromagnetic induction?
+- **Follow-Up-1**: What is the relationship between the speed of motion of the conductor and the magnitude of induced current?
+- **Follow-Up-2**: How does reversing the direction of the motion affect the direction of the induced current?
+- **Follow-Up-3**: What happens when there is no relative motion between the conductor and the magnetic field?
+
+#### **Type**: Numerical**
+- **Main**: A magnet is moved through a coil with 100 turns, inducing an emf of 2 V. What would be the induced emf if the coil had 200 turns?
+- **Follow-Up-1**: If the magnet is moved faster, how would this affect the induced emf?
+- **Follow-Up-2**: What happens to the induced emf if the strength of the magnet is doubled but the number of turns in the coil remains the same?
+- **Follow-Up-3**: Calculate the induced emf if the magnetic field changes at a rate of 0.5 T/s and the coil has 50 turns.
+
+---
+
+### **Topic**: 12.6 Induced Current and Induced Voltage**
+
+#### **Type**: Conceptual**
+- **Main**: What is the difference between induced current and induced voltage?
+- **Follow-Up-1**: How is induced voltage generated in a closed circuit during electromagnetic induction?
+- **Follow-Up-2**: What factors affect the magnitude of induced current in a circuit?
+- **Follow-Up-3**: How does changing the distance between a coil and a magnet affect the induced voltage?
+
+#### **Type**: Conceptual**
+- **Main**: How is induced voltage produced by moving a conductor through a magnetic field?
+- **Follow-Up-1**: What role does the relative motion between the conductor and the magnetic field play in inducing voltage?
+- **Follow-Up-2**: How does the strength of the magnetic field affect the amount of induced voltage?
+- **Follow-Up-3**: Why is it necessary for the conductor to move at an angle to the magnetic field to generate induced voltage?
+
+#### **Type**: Application-Based**
+- **Main**: How can induced current be produced by moving a coil towards or away from a magnet?
+- **Follow-Up-1**: Describe an experiment where a coil is moved towards a magnet to produce an induced current.
+- **Follow-Up-2**: How does reversing the direction of motion of the coil affect the induced current?
+- **Follow-Up-3**: How can the number of turns in the coil or the speed of movement be adjusted to increase the induced current?
+
+#### **Type**: Application-Based**
+- **Main**: How do transformers use the concept of induced voltage to step up or step down voltage levels?
+- **Follow-Up-1**: How does the ratio of turns in the primary and secondary coils of a transformer affect the induced voltage?
+- **Follow-Up-2**: How is the principle of electromagnetic induction applied in step-up and step-down transformers?
+- **Follow-Up-3**: How do transformers efficiently transmit electrical power over long distances using induced voltage?
+
+#### **Type**: Analytical**
+- **Main**: How does the rate of change in magnetic flux affect the induced current and voltage in a circuit?
+- **Follow-Up-1**: What happens to the induced current when the rate of change in magnetic flux is increased?
+- **Follow-Up-2**: How does the angle between the magnetic field and the moving conductor affect the induced voltage?
+- **Follow-Up-3**: Why is there no induced voltage if the conductor moves parallel to the magnetic field lines?
+
+#### **Type**: Numerical**
+- **Main**: A coil of 100 turns is placed in a magnetic field that changes at a rate of 0.02 T/s, generating an induced voltage of 1 V. What would be the induced voltage if the coil had 200 turns?
+- **Follow-Up-1**: How does the induced voltage change if the rate of change of the magnetic field is doubled?
+- **Follow-Up-2**: If the coil is rotated at a faster rate, how does that affect the induced voltage?
+- **Follow-Up-3**: Calculate the induced voltage in a coil of 500 turns if the magnetic field changes at a rate of 0.05 T/s.
+
+---
+
+### **Topic**: 12.7 Effect of Magnet on Current Carrying Wire**
+
+#### **Type**: Conceptual**
+- **Main**: What is the effect of a magnetic field on a current-carrying wire?
+- **Follow-Up-1**: How does the interaction between the magnetic field of the wire and an external magnetic field cause the wire to experience a force?
+- **Follow-Up-2**: How does the direction of the current in the wire affect the direction of the force experienced by the wire?
+- **Follow-Up-3**: Why does the wire move in a direction perpendicular to both the current and the magnetic field?
+
+#### **Type**: Conceptual**
+- **Main**: How does the right-hand rule help in determining the direction of the force on a current-carrying wire in a magnetic field?
+- **Follow-Up-1**: How can the right-hand rule be applied to predict the movement of a wire in a magnetic field?
+- **Follow-Up-2**: What factors determine the magnitude and direction of the force on the wire?
+- **Follow-Up-3**: Why does reversing the current or the magnetic field reverse the direction of the force on the wire?
+
+#### **Type**: Application-Based**
+- **Main**: How is the effect of a magnetic field on a current-carrying wire demonstrated in an experiment?
+- **Follow-Up-1**: Describe an experiment where a wire is placed between the poles of a magnet and current is passed through it.
+- **Follow-Up-2**: How can the strength of the magnetic field or the current be adjusted to increase the force on the wire?
+- **Follow-Up-3**: How does reversing the current or the magnetic field affect the movement of the wire during the experiment?
+
+#### **Type**: Analytical**
+- **Main**: Explain how the force on a current-carrying wire in a magnetic field depends on the strength of the magnetic field and the current in the wire.
+- **Follow-Up-1**: What is the mathematical relationship between the force on the wire, the current, the magnetic field strength, and the length of the wire?
+- **Follow-Up-2**: How does increasing the strength of the magnetic field affect the force on the wire?
+- **Follow-Up-3**: Why does the force on the wire increase if the current is increased while the magnetic field strength remains constant?
+
+#### **Type**: Numerical**
+- **Main**: A wire of length 0.5 m carries a current of 4 A and is placed in a magnetic field of 0.2 T. Calculate the force acting on the wire.
+- **Follow-Up-1**: How would the force change if the current is increased to 8 A while the magnetic field strength remains the same?
+- **Follow-Up-2**: What happens to the force on the wire if the length of the wire is doubled?
+
+**: Calculate the force on a wire of length 1 m carrying a current of 5 A in a magnetic field of 0.1 T.
+
+---
+
+---
+
+### **Topic**: 12.8 Electric Motor**
+
+#### **Type**: Conceptual**
+- **Main**: What is the basic principle behind an electric motor?
+- **Follow-Up-1**: How does a current-carrying coil experience a force in a magnetic field?
+- **Follow-Up-2**: What is the function of the commutator in an electric motor?
+- **Follow-Up-3**: How does the magnetic field cause rotation in an electric motor?
+
+#### **Type**: Conceptual**
+- **Main**: How is electrical energy converted into mechanical energy in an electric motor?
+- **Follow-Up-1**: What role does the armature play in an electric motor?
+- **Follow-Up-2**: How does the interaction between the magnetic field and the current in the armature create motion?
+- **Follow-Up-3**: What happens to the direction of rotation if the direction of the current is reversed?
+
+#### **Type**: Conceptual**
+- **Main**: How does the commutator maintain continuous rotation in an electric motor?
+- **Follow-Up-1**: Why does the commutator switch the direction of the current in the coil every half turn?
+- **Follow-Up-2**: What would happen to the rotation if the commutator was not present?
+- **Follow-Up-3**: How does the inertia of the rotating coil assist in continuous motion during the switch in current direction?
+
+#### **Type**: Conceptual**
+- **Main**: How does the strength of the magnetic field affect the operation of an electric motor?
+- **Follow-Up-1**: What happens to the motor’s speed if the strength of the magnetic field is increased?
+- **Follow-Up-2**: How does using a stronger magnet affect the efficiency of the motor?
+- **Follow-Up-3**: Why is it important to maintain a constant magnetic field strength for stable motor operation?
+
+#### **Type**: Application-Based**
+- **Main**: How is the speed of an electric motor controlled in practical applications?
+- **Follow-Up-1**: What methods are used to increase or decrease the speed of an electric motor?
+- **Follow-Up-2**: How does adjusting the current in the motor affect its speed?
+- **Follow-Up-3**: How does increasing the number of turns in the coil affect the motor’s performance?
+
+#### **Type**: Application-Based**
+- **Main**: How are electric motors used in common household devices?
+- **Follow-Up-1**: How does an electric motor function in an electric fan?
+- **Follow-Up-2**: What role does the electric motor play in washing machines?
+- **Follow-Up-3**: How does the electric motor work in a vacuum cleaner?
+
+#### **Type**: Application-Based**
+- **Main**: How is the efficiency of an electric motor increased in industrial applications?
+- **Follow-Up-1**: How do multiple coils in the armature improve the motor’s performance?
+- **Follow-Up-2**: Why is it important to use powerful magnets in industrial motors?
+- **Follow-Up-3**: How does increasing the length of the wire in the coil enhance the motor’s operation?
+
+#### **Type**: Analytical**
+- **Main**: Explain the role of torque in an electric motor.
+- **Follow-Up-1**: What is the relationship between current, magnetic field, and torque in a motor?
+- **Follow-Up-2**: How does the length of the coil affect the torque generated by the motor?
+- **Follow-Up-3**: Why does the torque on the coil vary during rotation, and how does the commutator compensate for this?
+
+#### **Type**: Analytical**
+- **Main**: How does the interaction between the armature and magnetic field create rotational motion in an electric motor?
+- **Follow-Up-1**: What is the significance of the magnetic flux lines passing through the coil?
+- **Follow-Up-2**: How does the angle between the magnetic field and the current-carrying coil affect the force on the armature?
+- **Follow-Up-3**: Why does the armature experience maximum torque when the coil is perpendicular to the magnetic field?
+
+#### **Type**: Numerical**
+- **Main**: Calculate the force on a wire of length 0.2 m carrying a current of 5 A in a magnetic field of 0.3 T.
+- **Follow-Up-1**: What would happen to the force if the current is doubled to 10 A?
+- **Follow-Up-2**: How does the force change if the length of the wire is increased to 0.4 m?
+- **Follow-Up-3**: What happens to the force if the magnetic field strength is reduced to 0.1 T?
+
+#### **Type**: Numerical**
+- **Main**: A motor with a coil of 100 turns experiences a torque of 0.4 Nm when a current of 2 A flows through it in a magnetic field of 0.5 T. Calculate the area of the coil.
+- **Follow-Up-1**: How would the torque change if the number of turns is increased to 200?
+- **Follow-Up-2**: What happens to the torque if the current is doubled to 4 A?
+- **Follow-Up-3**: How does reducing the magnetic field strength to 0.25 T affect the torque?
+
+#### **Type**: Advanced Analytical**
+- **Main**: Discuss how commutation is critical to the operation of a DC motor.
+- **Follow-Up-1**: How does the commutator ensure that the coil in a DC motor experiences torque in the same direction?
+- **Follow-Up-2**: What are the advantages of using a split-ring commutator in a motor?
+- **Follow-Up-3**: How would the motor’s operation be affected if the commutator switched the current too early or too late?
+
+#### **Type**: Advanced Analytical**
+- **Main**: How does the design of the armature affect the performance of an electric motor?
+- **Follow-Up-1**: Why is it advantageous to use a soft iron core in the armature of a motor?
+- **Follow-Up-2**: How does increasing the number of armature windings improve the motor’s efficiency?
+- **Follow-Up-3**: What happens if the armature is too large or too small for the magnetic field it interacts with?
+
+---
+
+### **Topic**: 12.9 Generator**
+
+#### **Type**: Conceptual**
+- **Main**: What is the basic principle of an electric generator?
+- **Follow-Up-1**: How does an electric generator convert mechanical energy into electrical energy?
+- **Follow-Up-2**: What role does electromagnetic induction play in the functioning of a generator?
+- **Follow-Up-3**: How does the rotation of a coil in a magnetic field generate an electric current?
+
+#### **Type**: Conceptual**
+- **Main**: How does an alternating current (AC) generator differ from a direct current (DC) generator?
+- **Follow-Up-1**: What is the key structural difference between an AC and a DC generator?
+- **Follow-Up-2**: How does the slip-ring in an AC generator ensure the production of alternating current?
+- **Follow-Up-3**: Why is a commutator used in a DC generator to maintain unidirectional current?
+
+#### **Type**: Conceptual**
+- **Main**: What factors affect the magnitude of the induced emf in a generator?
+- **Follow-Up-1**: How does the speed of rotation of the coil influence the induced emf?
+- **Follow-Up-2**: How does the strength of the magnetic field affect the output of the generator?
+- **Follow-Up-3**: Why does increasing the number of turns in the coil result in a higher emf?
+
+#### **Type**: Application-Based**
+- **Main**: How are electric generators used to supply power in power plants?
+- **Follow-Up-1**: What type of energy is used to rotate the coils in large power plant generators?
+- **Follow-Up-2**: How does the mechanical energy from water, wind, or steam drive the generators in power plants?
+- **Follow-Up-3**: How do transformers work with generators to efficiently transmit electricity over long distances?
+
+#### **Type**: Application-Based**
+- **Main**: How does an AC generator produce alternating current?
+- **Follow-Up-1**: What role do the slip rings play in the operation of an AC generator?
+- **Follow-Up-2**: How does the changing direction of the coil in a magnetic field result in alternating current?
+- **Follow-Up-3**: Why does the current reverse direction every half rotation of the coil in an AC generator?
+
+#### **Type**: Analytical**
+- **Main**: Explain how the induced emf in a generator depends on the rate of change of the magnetic flux.
+- **Follow-Up-1**: How does Faraday’s Law of Electromagnetic Induction apply to the functioning of a generator?
+- **Follow-Up-2**: What happens to the induced emf if the speed of rotation of the coil is doubled?
+- **Follow-Up-3**: How does the angle between the magnetic field and the coil affect the magnitude of the induced emf?
+
+#### **Type**: Analytical**
+- **Main**: How does the design of the armature affect the performance of a generator?
+- **Follow-Up-1**: Why is a soft iron core used in the armature of a generator?
+- **Follow-Up-2**: How does the number of turns in the armature coil influence the generator’s output?
+- **Follow-Up-3**: What happens
+
+ if the armature is too large for the magnetic field it interacts with?
+
+#### **Type**: Numerical**
+- **Main**: A generator has a coil with 200 turns and produces an emf of 12 V when rotated at a speed of 300 rpm in a magnetic field of 0.5 T. Calculate the emf if the coil is rotated at 600 rpm.
+- **Follow-Up-1**: What happens to the emf if the number of turns is increased to 400?
+- **Follow-Up-2**: How does reducing the magnetic field strength to 0.25 T affect the emf?
+- **Follow-Up-3**: Calculate the emf if the speed is increased to 900 rpm while keeping the magnetic field and number of turns constant.
+
+#### **Type**: Numerical**
+- **Main**: A generator coil with 150 turns is rotated at 600 rpm in a magnetic field of 0.4 T, producing an emf of 10 V. What would be the emf if the magnetic field is doubled to 0.8 T?
+- **Follow-Up-1**: How would the emf change if the speed of rotation is doubled to 1200 rpm?
+- **Follow-Up-2**: What happens to the emf if the number of turns is reduced to 75?
+- **Follow-Up-3**: Calculate the emf if the speed is halved while the magnetic field and number of turns remain constant.
+
+#### **Type**: Advanced Analytical**
+- **Main**: Discuss the importance of electromagnetic induction in the operation of a generator.
+- **Follow-Up-1**: How does the rate of change of magnetic flux affect the induced current in a generator?
+- **Follow-Up-2**: Why is the direction of the induced current dependent on the direction of the coil’s rotation in the magnetic field?
+- **Follow-Up-3**: How does the strength of the magnetic field influence the overall efficiency of the generator?
+
+#### **Type**: Advanced Analytical**
+- **Main**: How does the frequency of the alternating current produced by a generator depend on the speed of rotation?
+- **Follow-Up-1**: What is the relationship between the number of revolutions per second and the frequency of the current produced?
+- **Follow-Up-2**: How does the design of the generator affect the frequency of the alternating current?
+- **Follow-Up-3**: What happens to the frequency if the rotational speed of the generator is increased?
+
+---
+
+---
+
+### **Topic**: 12.10 Transformer**
+
+#### **Type**: Conceptual**
+- **Main**: What is the basic principle behind the operation of a transformer?
+- **Follow-Up-1**: How does a transformer use electromagnetic induction to transfer electrical energy?
+- **Follow-Up-2**: What is the difference between a step-up and a step-down transformer?
+- **Follow-Up-3**: Why does a transformer only work with alternating current (AC) and not with direct current (DC)?
+
+#### **Type**: Conceptual**
+- **Main**: What are the key components of a transformer, and how do they function?
+- **Follow-Up-1**: What is the role of the primary coil in a transformer?
+- **Follow-Up-2**: How does the secondary coil produce an induced emf?
+- **Follow-Up-3**: Why is a soft iron core used in a transformer?
+
+#### **Type**: Conceptual**
+- **Main**: How does the number of turns in the primary and secondary coils affect the output of a transformer?
+- **Follow-Up-1**: How does the ratio of turns between the primary and secondary coils determine whether the transformer is a step-up or step-down transformer?
+- **Follow-Up-2**: Why does a step-up transformer increase voltage while decreasing current?
+- **Follow-Up-3**: How does a step-down transformer decrease voltage while increasing current?
+
+#### **Type**: Application-Based**
+- **Main**: How are transformers used to transmit electrical power over long distances?
+- **Follow-Up-1**: Why are step-up transformers used at power stations to increase voltage for transmission?
+- **Follow-Up-2**: How do step-down transformers reduce voltage for safe use in homes and industries?
+- **Follow-Up-3**: How do transformers help reduce energy loss during the transmission of electricity?
+
+#### **Type**: Application-Based**
+- **Main**: How are transformers used in everyday electrical devices?
+- **Follow-Up-1**: What is the role of a transformer in a smartphone charger?
+- **Follow-Up-2**: How do transformers in appliances like televisions and computers regulate voltage?
+- **Follow-Up-3**: Why is it important for transformers to provide the correct voltage to sensitive electronic devices?
+
+#### **Type**: Application-Based**
+- **Main**: How do step-up transformers play a role in the generation of electricity in power plants?
+- **Follow-Up-1**: How is the voltage increased at the power plant to facilitate the efficient transmission of electricity over long distances?
+- **Follow-Up-2**: How do transformers protect equipment from voltage fluctuations in power generation?
+- **Follow-Up-3**: How does a step-up transformer contribute to improving the efficiency of electrical power distribution?
+
+#### **Type**: Analytical**
+- **Main**: How does electromagnetic induction in the primary coil lead to an induced emf in the secondary coil of a transformer?
+- **Follow-Up-1**: What is the relationship between the changing magnetic field in the primary coil and the induced emf in the secondary coil?
+- **Follow-Up-2**: How does the rate of change of the magnetic field affect the induced emf in the secondary coil?
+- **Follow-Up-3**: Why does the transformer core need to be laminated to reduce energy losses?
+
+#### **Type**: Analytical**
+- **Main**: How does the efficiency of a transformer depend on the design and materials used?
+- **Follow-Up-1**: Why is it important to minimize energy losses in a transformer, and how can this be achieved?
+- **Follow-Up-2**: How does the use of high-quality materials for the core and windings improve the efficiency of a transformer?
+- **Follow-Up-3**: What role does insulation play in preventing energy loss in transformers?
+
+#### **Type**: Analytical**
+- **Main**: How does the power transferred between the primary and secondary coils of a transformer remain constant?
+- **Follow-Up-1**: What is the mathematical relationship between voltage, current, and power in the primary and secondary coils of a transformer?
+- **Follow-Up-2**: How does the increase in voltage in a step-up transformer result in a corresponding decrease in current to maintain constant power?
+- **Follow-Up-3**: How does the decrease in voltage in a step-down transformer result in a corresponding increase in current to maintain constant power?
+
+#### **Type**: Numerical**
+- **Main**: A transformer has 400 turns in its primary coil and 100 turns in its secondary coil. If the input voltage is 240 V, calculate the output voltage.
+- **Follow-Up-1**: What would happen to the output voltage if the number of turns in the secondary coil is increased to 200?
+- **Follow-Up-2**: If the input voltage is doubled to 480 V, how does that affect the output voltage?
+- **Follow-Up-3**: Calculate the output voltage if the transformer is used in reverse as a step-up transformer.
+
+#### **Type**: Numerical**
+- **Main**: A transformer has an input voltage of 120 V and an output voltage of 30 V. If the primary coil has 800 turns, calculate the number of turns in the secondary coil.
+- **Follow-Up-1**: What would happen to the output voltage if the number of turns in the secondary coil is doubled?
+- **Follow-Up-2**: If the input voltage is increased to 240 V, how does that affect the number of turns needed in the secondary coil to maintain the same output voltage?
+- **Follow-Up-3**: Calculate the number of turns in the primary coil if the transformer is used in reverse to step up the voltage.
+
+#### **Type**: Numerical**
+- **Main**: A step-down transformer reduces the voltage from 240 V to 12 V. If the transformer has 600 turns in the primary coil, calculate the number of turns in the secondary coil.
+- **Follow-Up-1**: What would happen to the output voltage if the number of turns in the primary coil is reduced to 300?
+- **Follow-Up-2**: Calculate the output voltage if the number of turns in the secondary coil is increased to 50.
+- **Follow-Up-3**: If the input voltage is increased to 480 V, how does that affect the output voltage?
+
+#### **Type**: Advanced Analytical**
+- **Main**: Discuss how transformer losses, such as eddy current and hysteresis losses, affect the efficiency of a transformer.
+- **Follow-Up-1**: What is the cause of eddy current losses in a transformer, and how can they be minimized?
+- **Follow-Up-2**: How do hysteresis losses occur in the transformer core, and how can they be reduced?
+- **Follow-Up-3**: Why is it important to use laminated cores in transformers to reduce energy losses?
+
+#### **Type**: Advanced Analytical**
+- **Main**: How does the design of a transformer core influence its efficiency and performance?
+- **Follow-Up-1**: Why are soft iron cores preferred in transformers, and how do they enhance the efficiency of the device?
+- **Follow-Up-2**: How does the shape and size of the core affect the magnetic flux and the induced emf in a transformer?
+- **Follow-Up-3**: Why is the core of a transformer often laminated, and how does this prevent energy loss?
+
+#### **Type**: Advanced Analytical**
+- **Main**: Explain how transformers maintain constant power while adjusting voltage and current levels.
+- **Follow-Up-1**: Why is the power input to the primary coil equal to the power output from the secondary coil, assuming an ideal transformer?
+- **Follow-Up-2**: How does the increase in voltage in a step-up transformer cause a corresponding decrease in current to maintain constant power?
+- **Follow-Up-3**: How does the decrease in voltage in a step-down transformer cause a corresponding increase in current to maintain constant power?
+
+#### **Type**: Problem-Solving**
+- **Main**: A transformer in a power plant steps up the voltage from 11 kV to 220 kV for long-distance transmission. What is the effect on the current, and why is this important for minimizing energy losses?
+- **Follow-Up-1**: How does stepping up the voltage reduce energy losses during transmission?
+- **Follow-Up-2**: What would happen if the transformer failed to step up the voltage to the required level for transmission?
+- **Follow-Up-3**: How can transformers improve efficiency in the transmission of electricity over long distances?
+
+#### **Type**: Problem-Solving**
+- **Main**: A step-down transformer reduces the voltage from 240 V to 12 V for use in a residential area. If the transformer supplies a current of 10 A to the secondary coil, calculate the current in the primary coil.
+- **Follow-Up-1**: How does the current in the primary coil compare to the current in the secondary coil, and why?
+- **Follow-Up-2**: What would happen to the current in the primary coil if the secondary coil's current is increased to 20 A?
+- **Follow-Up-3**: Why does the transformer maintain constant power while stepping down the voltage?
+
+---
+

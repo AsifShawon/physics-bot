@@ -1,0 +1,1960 @@
+{
+    "chapter": "6 - EFFECT OF HEAT ON SUBSTANCES",
+    "topics": [
+        {
+            "topic": "6.1 Heat and Temperature",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between heat and temperature?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does heat transfer occur between two bodies of different temperatures?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does temperature remain constant during a phase change despite heat transfer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the kinetic energy of molecules is related to temperature.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of the triple point of water?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the units joule (J) and calorie (Cal) relate to each other?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe a practical experiment to demonstrate the sensation of heat and cold using water at different temperatures.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does your perception of hot and cold change when moving your hand between containers of water?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What conclusions can be drawn about heat flow from such experiments?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways do thermometers utilize thermal contact to measure temperature?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Convert a body temperature of 98.6\u00b0F into Celsius.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Derive the relation between Celsius, Fahrenheit, and Kelvin scales.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the temperature is raised by 20\u00b0C, what is the equivalent increase in Kelvin?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A sample has a temperature of 310 K. What is its temperature in Celsius?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.2 Thermometric Properties of Matter",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the flow of heat between two bodies cease at thermal equilibrium?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Compare the analogy between heat flow and liquid flow used in the chapter.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What conditions are necessary for a system to achieve thermal equilibrium?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the molecular motions change when a body is heated?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are thermometric properties, and how are they utilized in thermometers?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is mercury often used in thermometers?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the concept of thermometric substances with examples.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do resistance and pressure serve as thermometric properties?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how a mercury thermometer measures temperature.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role does the length of the mercury column play in temperature measurement?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a gas thermometer differ from a mercury thermometer in operation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss the advantages of using gas thermometers at constant volume.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A thermometer shows a reading of 100\u00b0C. What is the equivalent temperature in Fahrenheit?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Derive the relation between the Celsius and Fahrenheit scales from fixed points.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a thermometer reads 37\u00b0C, what would be the reading in Kelvin?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Convert 273 K into Celsius.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.3 Relation among Celsius, Fahrenheit, and Kelvin Scale",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What factors influence the choice of thermometric properties for practical applications?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Compare the sensitivity of different thermometric substances like mercury and gas.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it essential to maintain standard pressure while measuring temperature?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the reading of a mercury thermometer change if the atmospheric pressure fluctuates?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the relationship between the Celsius, Fahrenheit, and Kelvin scales.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the fixed points used in constructing temperature scales?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do scientists prefer the Kelvin scale for thermodynamic calculations?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the fundamental interval differ between Celsius and Fahrenheit scales?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of absolute zero in the Kelvin scale?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Derive the equation relating the Celsius, Fahrenheit, and Kelvin scales.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the practical importance of converting temperatures between these scales.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can one accurately measure temperature in scientific experiments using multiple scales?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "When and why is it necessary to use Kelvin instead of Celsius or Fahrenheit in experiments?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Convert 100\u00b0C into Fahrenheit and Kelvin.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the Celsius equivalent of a temperature of 273 K?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Find the temperature in Fahrenheit if it is 310 K.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "At what temperature will the readings on the Celsius and Fahrenheit scales be the same?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A thermometer shows 32\u00b0F. What is the equivalent temperature in Celsius and Kelvin?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.4 Raise of Temperature and Internal Energy of a Body",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the advantages and limitations of using Celsius, Fahrenheit, and Kelvin scales in different scenarios.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the boiling and freezing point of water vary across the three temperature scales?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the Fahrenheit scale not commonly used in scientific research?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the absence of the Kelvin scale affect thermodynamic studies?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define internal energy. How is it related to the temperature of a body?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do molecular movements contribute to the internal energy of a substance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does potential and kinetic energy play in the internal energy of solids and gases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does an increase in temperature result only from the increase in kinetic energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does internal energy differ between solids, liquids, and gases?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain with an example how applying heat to a body increases its internal energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe the molecular changes that occur when a solid is heated.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the internal energy of a gas when compressed under high temperature?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of internal energy apply to everyday appliances like refrigerators?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If 100 J of heat energy is supplied to a gas, and its temperature increases by 2 K, calculate the change in internal energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A gas absorbs 200 J of energy, and only 50 J is used for external work. What is the change in its internal energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the internal energy of a body increases by 500 J, and its temperature rises from 25\u00b0C to 35\u00b0C, what is the heat supplied?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A body has an internal energy of 800 J at 300 K. If the temperature increases to 320 K, what is the new internal energy?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.5 Thermal Expansion of Substance",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain why only kinetic energy contributes to the temperature rise in a substance.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the increase in temperature differ between solids and gases when internal energy increases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does temperature remain constant during a phase change despite the supply of heat?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do intermolecular forces affect the internal energy of liquids?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is thermal expansion, and why do substances expand when heated?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the expansion differ among solids, liquids, and gases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the expansion of gases greater than that of solids or liquids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how molecular vibrations are responsible for thermal expansion in solids.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the nature of intermolecular forces affect the thermal expansion of a material?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why are gaps left between railway tracks or bridges during construction?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the knowledge of thermal expansion help engineers in designing structures?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the working of a bimetallic strip based on thermal expansion principles.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does thermal expansion affect the functioning of a thermometer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways is thermal expansion relevant to household appliances, such as pressure cookers or thermostats?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A copper rod of length 1 m expands by 1.67 \u00d7 10\u207b\u2075 m when the temperature increases by 1 K. What is its coefficient of linear expansion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a steel rod of length 2 m expands by 0.02 m after heating from 20\u00b0C to 70\u00b0C, find the coefficient of linear expansion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the increase in length of an aluminum rod (initial length 1.5 m) when the temperature rises from 30\u00b0C to 80\u00b0C, given the coefficient of linear expansion is 24 \u00d7 10\u207b\u2076 K\u207b\u00b9.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a rod has a coefficient of linear expansion 12 \u00d7 10\u207b\u2076 K\u207b\u00b9, how much will a 3 m rod expand for a 50 K rise in temperature?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A glass sheet with an area of 2 m\u00b2 expands by 4 \u00d7 10\u207b\u2076 m\u00b2 for each degree rise in temperature. What is its coefficient of superficial expansion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.6 Expansion of Solids",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does thermal expansion affect solids differently along their length, area, and volume?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do solids, though having rigid structures, still expand when heated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the non-linear relationship between attractive and repulsive forces among molecules affects expansion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do temperature changes impact the equilibrium position of molecules in solids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the expansion of a material dependent on its coefficient of expansion and not just the initial size?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the linear expansion of a solid?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the molecular structure of solids affect their expansion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the difference between linear, superficial, and volumetric expansion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do different materials have different coefficients of thermal expansion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is meant by the coefficient of linear expansion, and how is it measured?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why do engineers allow expansion gaps in railway lines and metal bridges?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the coefficient of linear expansion influence the design of buildings and machinery?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how the concept of linear expansion is used in measuring temperature with a bimetallic strip.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions need to be taken in the construction of pipelines due to thermal expansion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does thermal expansion help in fitting metal tires on wooden wheels?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A steel rod of length 1 m expands by 0.01 m when heated from 20\u00b0C to 70\u00b0C. What is the coefficient of linear expansion of steel?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a brass rod is 2 m long at 25\u00b0C, what will its length be at 75\u00b0C? Assume the coefficient of linear expansion is 19 \u00d7 10\u207b\u2076 K\u207b\u00b9.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the increase in length of an iron bar (length 3 m) when the temperature rises from 0\u00b0C to 50\u00b0C, given the coefficient of linear expansion as 12 \u00d7 10\u207b\u2076 K\u207b\u00b9.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A rod's initial length is 4 m, and it expands to 4.004 m after heating. If the temperature rise is 25 K, find the coefficient of linear expansion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much will a 5 m long copper rod expand when the temperature rises by 40 K, given \u03b1 = 17 \u00d7 10\u207b\u2076 K\u207b\u00b9?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.7 Expansion of Liquids",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why does the linear expansion occur along a specific direction in solids?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does thermal expansion affect mechanical stress in materials?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how superficial and volumetric expansions relate to linear expansion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it necessary to account for the thermal expansion of solids in precision instruments?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss the role of temperature and material properties in determining the extent of expansion.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is meant by the expansion of liquids, and how does it differ from the expansion of solids?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do liquids expand more than solids for the same temperature increase?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors influence the rate of expansion in liquids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the expansion behavior of water differ from other liquids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why don't liquids have a defined shape or linear expansion, unlike solids?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe an experiment to compare the expansion of different liquids.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the expansion of liquids utilized in mercury thermometers?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it necessary to account for liquid expansion when filling containers to full capacity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the expansion of liquid fuel in vehicle tanks affect transportation safety?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the practical consequences of liquid expansion in industrial pipelines?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a liquid expands by 0.02 L when heated from 25\u00b0C to 75\u00b0C, calculate the coefficient of volumetric expansion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A liquid at 20\u00b0C has a volume of 500 mL. If it expands by 5 mL when heated to 70\u00b0C, what is its coefficient of volume expansion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the final volume of 1.5 L of ethanol after it is heated from 30\u00b0C to 60\u00b0C, assuming the volumetric expansion coefficient is 1.12 \u00d7 10\u207b\u00b3 K\u207b\u00b9.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A flask containing 2 L of liquid expands to 2.005 L when heated by 50 K. Find the volumetric expansion coefficient of the liquid.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A 1.2 L liquid expands by 0.004 L for every 10\u00b0C rise in temperature. How much will it expand for a 30\u00b0C increase?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.8 Real and Apparent Expansion of Liquids",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the molecular structure of liquids affect their expansion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do different liquids expand at different rates under the same temperature increase?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the absence of intermolecular bonding in gases lead to greater expansion compared to liquids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does pressure play in the thermal expansion of liquids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to use liquids with a known expansion coefficient in scientific measurements?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between real and apparent expansion of liquids?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it not possible to observe the real expansion of a liquid directly?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the expansion of the container affect the measurement of liquid expansion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some examples where apparent expansion is observed in daily life?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is real expansion calculated if only the apparent expansion is measured?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe an experiment to demonstrate the difference between real and apparent expansion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do laboratories account for the expansion of measuring instruments containing liquids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the practical implications of ignoring the difference between real and apparent expansion in engineering?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the expansion of liquid mercury affect the accuracy of thermometers?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the real expansion of liquids is considered in the design of industrial storage tanks.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If the apparent expansion of a liquid is 5 \u00d7 10\u207b\u2076 m\u00b3 and the expansion of the container is 2 \u00d7 10\u207b\u2076 m\u00b3, calculate the real expansion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A liquid in a glass container shows an apparent expansion of 0.03 L when heated by 30 K. If the expansion of the glass is 0.01 L, find the real expansion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The real expansion of a liquid is 8 \u00d7 10\u207b\u2076 m\u00b3 for a certain temperature rise, and the container\u2019s expansion is 3 \u00d7 10\u207b\u2076 m\u00b3. What is the apparent expansion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A glass container expands by 0.002 L when heated, and the liquid inside shows a total expansion of 0.008 L. What is the real expansion of the liquid?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the coefficient of real expansion is 1.2 \u00d7 10\u207b\u00b3 K\u207b\u00b9 and the liquid volume is 1.5 L, how much will the liquid expand for a 40 K temperature rise?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.9 Effect of Heat on Change of State",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it important to account for the expansion of containers when measuring liquid expansion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do different container materials affect the measurement of apparent expansion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the real expansion always greater than the apparent expansion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the temperature dependence of materials complicate real and apparent expansion calculations?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the consequences of incorrect measurements of liquid expansion in practical applications?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does heat affect the state of matter?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain why temperature remains constant during a phase change.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of heat in breaking molecular bonds during a state change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the amount of energy required to change the state of a substance greater than just raising its temperature?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does pressure influence the state changes of matter?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how heat transforms ice into water and then into steam.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does sweating help in cooling the body?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the principle of state change used in refrigeration?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does state change play in the water cycle?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the melting of glaciers illustrate the effect of heat on the change of state?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How much heat is required to melt 5 kg of ice at 0\u00b0C if the latent heat of fusion is 334,000 J/kg?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the energy needed to convert 2 kg of water at 100\u00b0C into steam, given the latent heat of vaporization is 2,256,000 J/kg.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If 100 g of ice is heated to water at 0\u00b0C, how much energy is absorbed? Assume the specific latent heat of fusion for ice is 334 J/g.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How long will it take to boil 1 L of water (starting at 25\u00b0C) with a heater that supplies 500 W of power? (Assume no heat loss, specific heat of water = 4,200 J/kg\u00b7K).",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much heat must be removed to freeze 3 kg of water at 0\u00b0C into ice?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.10 Fusion, Vaporization, and Condensation",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain why gases require more energy to condense than liquids require to freeze.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do intermolecular forces differ in solids, liquids, and gases, and how does that affect heat absorption or release during state changes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does adding heat during a state change not increase the temperature?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of latent heat explain the cooling effect of evaporation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Compare the effects of heat on state changes under different atmospheric pressures.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define fusion, vaporization, and condensation.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the latent heat of fusion different from the latent heat of vaporization?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the molecular arrangement during fusion and vaporization?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how condensation is the reverse process of vaporization.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does pressure affect the boiling point and the condensation of liquids?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the concept of latent heat apply to the functioning of a pressure cooker?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do clothes dry faster on a windy day compared to a humid day?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the phenomenon of condensation help in the formation of dew?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the role of latent heat in cloud formation and precipitation.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does vaporization contribute to the cooling of water in an earthen pitcher?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the heat required to convert 500 g of ice at -10\u00b0C to steam at 100\u00b0C. (Given: specific heat of ice = 2,100 J/kg\u00b7K, latent heat of fusion = 334,000 J/kg, latent heat of vaporization = 2,256,000 J/kg).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is released when 1 kg of steam condenses to water at 100\u00b0C?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Determine the time required to melt 1 kg of ice at 0\u00b0C using a 200 W heater. (Latent heat of fusion = 334,000 J/kg).",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A refrigerator extracts 100 kJ of heat to freeze 500 g of water. What is the latent heat per gram of water?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy is needed to vaporize 2.5 kg of water at 100\u00b0C?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.11 Effect of Pressure on Boiling Point",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why does vaporization occur at the surface of a liquid during evaporation?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Compare the energy required for fusion and vaporization and explain why vaporization requires more energy.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the boiling point of water change with altitude?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the process of condensation release energy into the environment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the implications of latent heat transfer in weather phenomena like thunderstorms?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does pressure affect the boiling point of a liquid?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does water boil at a lower temperature at high altitudes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increased pressure raise the boiling point of water?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relationship between atmospheric pressure and vapor pressure during boiling?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how a pressure cooker uses increased pressure to cook food faster.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would the boiling point of water change on top of a mountain?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it difficult to boil an egg at high altitudes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how the principles of boiling are applied in distillation processes.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do industrial boilers use pressure control to manage boiling points?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why astronauts need specialized equipment for boiling water in space.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If water boils at 95\u00b0C at a certain altitude, what would be the pressure there compared to standard atmospheric pressure? (Assume normal boiling point is 100\u00b0C).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A pressure cooker raises the pressure to 2 atm. Calculate the new boiling point of water (latent heat and exact constants not needed for conceptual understanding).",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "At 80\u00b0C, the vapor pressure of a liquid is 0.5 atm. What must the pressure be for it to boil at 100\u00b0C?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the atmospheric pressure decreases by 10%, how will the boiling point of water change approximately?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the boiling point of a liquid at 0.7 atm using basic principles of vapor pressure.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.12 Latent Heat of Fusion and Latent Heat of Vaporization",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why does reducing the atmospheric pressure reduce the energy required to boil a liquid?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does boiling under reduced pressure benefit pharmaceutical industries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do pressure differences affect the cooking of food differently in liquids versus solids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Compare the effects of boiling at sea level and at high altitudes.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would changes in atmospheric pressure influence weather phenomena like fog or dew?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is latent heat of fusion and latent heat of vaporization?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does temperature remain constant during fusion and vaporization?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does latent heat differ between different substances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does vaporization require more energy than fusion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is latent heat used in air conditioning systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how the concept of latent heat is applied in the cooling effect of evaporation.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do refrigerators use the latent heat of vaporization to keep food cool?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the role of latent heat in weather phenomena such as thunderstorms.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the melting of icebergs affect ocean temperatures?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do burns caused by steam tend to be more severe than those caused by boiling water?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the energy required to melt 1.5 kg of ice at 0\u00b0C. (Latent heat of fusion = 334,000 J/kg).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is needed to vaporize 2 kg of water at 100\u00b0C? (Latent heat of vaporization = 2,256,000 J/kg).",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If 500 g of steam condenses into water at 100\u00b0C, how much heat is released?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A heater supplies 300 W of power. How long will it take to melt 2 kg of ice?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the energy absorbed when 0.1 kg of water turns to steam at 100\u00b0C?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.13 Dependence of Evaporation on Various Factors",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the latent heat requirements for fusion and vaporization and explain why vaporization requires more energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does latent heat play a role in the formation and dissipation of clouds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the latent heat of fusion critical in determining the freezing point of solutions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how latent heat transfer impacts environmental cooling during evaporation.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does latent heat play in the design of industrial cooling systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What factors influence the rate of evaporation?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does wind speed affect the rate of evaporation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does evaporation increase with surface area?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do temperature and humidity impact the rate of evaporation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how atmospheric pressure affects evaporation.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why do clothes dry faster on a sunny, windy day than on a humid day?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is evaporation used in cooling towers in power plants?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how evaporation helps in the natural cooling of the human body through sweating.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the evaporation of water from soil affect agricultural productivity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do puddles evaporate faster on a dry day than on a humid day?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A puddle of 0.5 L evaporates in 4 hours. What is the rate of evaporation in liters per hour?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the heat required to evaporate 3 kg of water, given the latent heat of vaporization is 2,256,000 J/kg.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the evaporation rate doubles when the wind speed increases by 50%, what will happen to the rate if wind speed triples?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If 0.1 kg of water evaporates at 25\u00b0C, how much energy is lost to the environment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A cooling tower evaporates 10 kg of water every hour. Calculate the total energy consumed in 5 hours.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.14 Thermal Capacity",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do temperature, humidity, and pressure interact to influence evaporation rates?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is evaporation a crucial factor in the design of cooling systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a decrease in humidity affect the rate of evaporation in arid regions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Compare the impact of evaporation on environmental cooling in tropical and desert climates.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the implications of evaporation on water conservation in agriculture?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is thermal capacity, and how is it defined?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the thermal capacity of an object depend on its material and mass?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between heat capacity and specific heat?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does a larger body generally have greater thermal capacity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the SI units of thermal capacity, and how are they derived?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how the thermal capacity of cooking pots affects their performance in kitchens.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the thermal capacity of building materials influence indoor temperature regulation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways does thermal capacity impact the design of thermal storage systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are water bodies better at moderating temperature changes compared to land masses?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the thermal capacity of an object affect how quickly it heats or cools?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If 500 J of energy raises the temperature of an object by 5 K, what is its thermal capacity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the heat required to raise the temperature of a metal block with thermal capacity 200 J/K by 15 K.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "An object has a thermal capacity of 150 J/K. How much heat is needed to increase its temperature by 10 K?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the temperature of a 2 kg metal block rises by 20 K after absorbing 4000 J, what is its thermal capacity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy is needed to heat an object with thermal capacity 500 J/K from 30\u00b0C to 80\u00b0C?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.15 Specific Heat",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the thermal capacity of an object influence energy transfer between hot and cold bodies?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do objects with higher thermal capacities cool down more slowly?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does thermal capacity relate to climate control in different regions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the implications of thermal capacity in designing spacecraft insulation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Compare the thermal capacities of water and metals. What are the consequences for heat storage?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define specific heat and explain its importance.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does specific heat differ from thermal capacity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does water have a higher specific heat than most other substances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors determine the specific heat of a substance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does specific heat influence weather and climate patterns?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does specific heat help explain why land heats and cools faster than water?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe how engineers use specific heat data to design cooling systems.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is water often used as a coolant in power plants?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does specific heat affect the choice of materials for kitchen utensils?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does specific heat play in regulating the Earth's climate?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How much energy is needed to raise the temperature of 2 kg of water by 10 K? (Specific heat of water = 4200 J/kg\u00b7K).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A 1.5 kg iron block is heated from 20\u00b0C to 100\u00b0C. Calculate the heat required if the specific heat of iron is 450 J/kg\u00b7K.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the specific heat of a material if 500 J of heat raises the temperature of 1 kg of it by 5 K?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the heat absorbed by 3 kg of copper (specific heat = 400 J/kg\u00b7K) when its temperature increases by 30 K.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the temperature of a 0.5 kg sample rises by 10 K after absorbing 1000 J, what is its specific heat?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.16 Relation Between Specific Heat and Thermal Capacity",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why do substances with high specific heat take longer to heat and cool?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Compare the specific heat of water with metals and explain the significance of the difference.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the specific heat of air influence weather conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are substances with low specific heat better suited for rapid heating applications?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss the importance of specific heat in thermal regulation of living organisms.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are specific heat and thermal capacity related?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Derive the formula that relates specific heat, thermal capacity, and mass.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the mass of an object affect its thermal capacity if specific heat is constant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is specific heat independent of the object's size, but thermal capacity is not?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the thermal capacity of an object if the specific heat is doubled?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how knowledge of the relation between specific heat and thermal capacity helps in designing heating systems.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do architects use specific heat and thermal capacity data to improve energy efficiency in buildings?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the role of thermal capacity in managing temperature changes in batteries.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the specific heat of food influence cooking times?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it essential to consider both specific heat and thermal capacity in industrial processes?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "6.17 Fundamental Principle of Calorimetry",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the thermal capacity of a 5 kg object with a specific heat of 900 J/kg\u00b7K.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "An object with a mass of 10 kg has a thermal capacity of 2500 J/K. What is its specific heat?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the specific heat of a material is 500 J/kg\u00b7K, what will be the thermal capacity of a 3 kg sample?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much heat is required to raise the temperature of 4 kg of a substance with specific heat 600 J/kg\u00b7K by 15 K?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A block with mass 2 kg has a specific heat of 420 J/kg\u00b7K. Find its thermal capacity.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the fundamental principle of calorimetry?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the principle of conservation of energy apply in calorimetry?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how thermal equilibrium is achieved between two bodies in a calorimeter.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it essential to minimize heat loss in calorimetry experiments?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the principle of calorimetry help determine the specific heat of a substance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is calorimetry used to measure the heat of fusion of ice?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe how calorimetry is applied in determining the heat content of foods.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the principle of calorimetry used in designing thermal insulation systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the role of calorimeters in industrial processes requiring precise temperature control.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can calorimetry be used to study chemical reactions that release or absorb heat?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "In a calorimetry experiment, 500 g of water at 80\u00b0C is mixed with 200 g of water at 20\u00b0C. What will be the final temperature? (Assume no heat loss, specific heat of water = 4200 J/kg\u00b7K).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A 1 kg metal block at 100\u00b0C is placed in 2 kg of water at 20\u00b0C. If the final temperature is 25\u00b0C, calculate the specific heat of the metal.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much heat is released when 0.5 kg of steam at 100\u00b0C condenses into water?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In a calorimeter, 200 g of copper at 150\u00b0C is mixed with 300 g of water at 25\u00b0C. Calculate the final temperature of the mixture.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much heat is needed to raise the temperature of 1 kg of water from 25\u00b0C to 75\u00b0C?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

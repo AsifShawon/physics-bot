@@ -1,0 +1,2879 @@
+{
+    "chapter": "",
+    "topics": [
+        {
+            "topic": "14.1 Basis of Bio-Physics",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the relationship between biology and physics in the field of bio-physics?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does bio-physics bridge the gap between biological and physical sciences?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can you explain why scientists initially thought that the laws of physics and biology were different?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is bio-physics considered a powerful tool for exploring the complexities of life?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can bio-physics be used to explain the functions of the human body as a system?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "In what ways does bio-physics help us understand the electrical signals in the human brain?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the study of bio-physics lead to advancements in medical technologies?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide an example of a medical instrument that is based on principles from bio-physics.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare and contrast how the laws of physics apply to living organisms and non-living systems.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the study of bio-physics challenge the belief that living systems follow different rules from non-living ones?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some of the universal laws of physics that also govern biological systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways has bio-physics helped scientists understand cellular functions?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a living system follows the same physical laws as a mechanical system, how would you calculate the energy transformation in a human muscle during movement?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Assume a human leg muscle applies a force of 100 N over a distance of 0.5 m. How much work is done by the muscle?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you calculate the efficiency of energy conversion in a biological system like the human body?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the muscle consumes 50 J of energy, how much of this energy is converted into useful work?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual (Intermediate)",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how bio-physics views the human body as a machine.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What does it mean to say that bio-physics applies \"simple laws of physics\" to complex life systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the understanding of bio-physics improve medical diagnosis techniques?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it essential to study bio-physics to understand human health?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "14.2 Contributions of Jagadish Chandra Bose",
+            "types": [
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the concept of bio-physics demonstrate that the physical laws are universal?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is the ability of bio-physics to unify biology and physics important for the future of science?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do physical laws such as thermodynamics apply to biological processes like metabolism?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways has bio-physics helped to clarify the mechanical nature of biological systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Who was Jagadish Chandra Bose and what were his key contributions to bio-physics?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is Bose considered a pioneer in both physics and biology?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What was the significance of Bose's invention of the crescograph in plant physiology?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How did Bose\u2019s work demonstrate the electrical nature of stimuli in plants?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Historical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe the life and educational background of Jagadish Chandra Bose and how it influenced his research in bio-physics.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role did Bose\u2019s early education in India and later studies in England play in shaping his scientific career?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How did Bose overcome the lack of research facilities in his early career?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What were some of the key challenges Bose faced in his research, and how did he overcome them?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How did Jagadish Chandra Bose\u2019s research change the understanding of plant stimuli?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What was the traditional belief about the nature of plant stimuli, and how did Bose\u2019s findings contradict this?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How did Bose demonstrate that plant responses to stimuli are electrical rather than chemical?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How has Bose\u2019s research on plant stimuli influenced modern bio-physics and biology?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual (Intermediate)",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the significance of Bose\u2019s decision to make his inventions and discoveries freely available to the public?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How did Bose\u2019s approach to intellectual property differ from other scientists of his time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What impact did Bose\u2019s open-access philosophy have on the development of radio technology and bio-physics?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is Bose's legacy important in the context of scientific ethics?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How did Bose\u2019s work on the conduction of stimuli in plants contribute to the development of modern bio-physics?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What modern medical or biological applications can be traced back to Bose\u2019s discoveries about plant responses?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the principles Bose discovered be applied to understanding human neurological responses?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can Bose\u2019s research methods in plant physiology be applied to other biological systems today?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the interdisciplinary nature of Bose\u2019s work in bio-physics, blending physics with plant biology.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How did Bose\u2019s discoveries demonstrate the interconnectedness of biological and physical sciences?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is Bose\u2019s work considered a cornerstone in the field of bio-physics, particularly in the study of life sciences?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do Bose\u2019s contributions continue to influence scientific research in the 21st century?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "14.3 Human Body and Machine",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If Jagadish Chandra Bose's crescograph measures plant growth at a rate of 1 mm per minute, how would you calculate the total growth over 6 hours?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Assume a plant grows 2 mm per minute using the crescograph. How much would it grow in 4 hours?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a plant's growth rate slows down to half its initial rate after 3 hours, how would you calculate the total growth after 6 hours?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the crescograph be used to measure differences in growth rates between various plant species?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "In what ways can the human body be compared to a machine?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do different organs in the body function similarly to parts of a machine?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it essential to understand the body\u2019s functions through a mechanistic view?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the coordination of organs in the human body resemble the operation of complex machinery?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can the concept of energy transformation in machines be applied to understand the human body?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how the human body converts chemical energy from food into mechanical energy.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the heart's pumping mechanism compare to an electric pump in a machine?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the body\u2019s filtration system, such as the kidney, resemble that of a mechanical filtration system?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the efficiency of energy use in the human body with that of man-made machines.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the body maintain balance between energy intake and energy use in daily activities?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways is the body more efficient than a machine when it comes to energy conservation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the human body capable of functions beyond any machine's capacity, such as self-repair and growth?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual (Intermediate)",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how the human body transforms chemical energy into mechanical energy during physical movement.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What processes in the body are responsible for this energy transformation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the body store energy, and how is it released when needed for mechanical tasks?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the key differences between energy transformation in a machine versus in the human body?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a person consumes 2000 calories of food, calculate how much energy is used by the body in a day if only 70% is efficiently utilized for work.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a person walks 5 km and burns 500 calories, how would you calculate the mechanical work done by the body?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the energy consumed by a machine compare to the energy used by a human in a similar task, like lifting weights?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the human heart pumps 5 liters of blood per minute, how much work does the heart perform over 24 hours?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the ways in which the human body\u2019s energy conversion systems surpass mechanical systems in terms of flexibility and adaptability.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the body\u2019s ability to repair itself and adapt to energy requirements differ from machines?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways do machines fail to replicate the complex interactions between organs that occur in the human body?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the human body optimize energy use in conditions such as extreme cold or starvation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "14.4 Instruments Used for Diagnosis of Diseases",
+            "types": [
+                {
+                    "type": "Problem-Solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Given that the human body requires more energy when performing vigorous tasks, how does the body adjust its internal energy supply?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the heart increase its work rate during exercise to supply more oxygen and nutrients to the muscles?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the lungs adapt their function to meet increased oxygen demand during strenuous activity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways do the kidneys help balance the body\u2019s energy by removing waste products?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why are modern instruments important for diagnosing diseases accurately?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What were the challenges of diagnosing diseases before the invention of modern medical instruments?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How has the development of medical devices influenced the accuracy of disease diagnosis?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it difficult for a doctor to diagnose diseases without the use of proper instruments?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does an X-ray machine help diagnose fractures and other bone-related conditions?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are some of the medical conditions that can be identified using X-ray imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do doctors use X-rays to treat cancer cells?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions should be taken during X-ray procedures to minimize radiation exposure?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How has the invention of instruments like the X-ray machine changed the way doctors diagnose and treat patients?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Compare the role of medical instruments in the diagnosis of diseases in the past and present.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do modern diagnostic tools improve patient outcomes compared to traditional methods?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways have instruments like X-ray, MRI, and ultrasound made medical procedures less invasive?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If the wavelength of an X-ray is 10^-10 meters, how does its energy compare to visible light with a wavelength of 5 x 10^-7 meters?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the energy of an X-ray photon using the equation E = h\u03bd, where the frequency of X-rays is 3 x 10^18 Hz.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If an X-ray machine emits radiation at 0.2 millisieverts (mSv) per image, how many images can be taken safely in one session if the maximum safe exposure is 1 mSv?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the intensity of X-rays change with distance from the source, assuming it follows an inverse square law?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual (Intermediate)",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how instruments like the MRI machine provide more detailed images of soft tissues compared to X-rays.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the key differences between MRI and CT scan in terms of imaging techniques?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is MRI considered safer than X-rays when imaging soft tissues, particularly the brain?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does MRI use magnetic fields and radio waves to produce images of internal organs?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do advances in medical instruments reflect the application of physics in the field of medicine?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Discuss how the invention of ultrasound has contributed to safer, non-invasive medical procedures.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways have diagnostic instruments helped reduce mortality rates in modern medical practices?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do medical instruments like CT scanners integrate computational techniques to improve diagnostic accuracy?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": ": 14.6 CT Scan",
+            "types": []
+        },
+        {
+            "topic": ": 14.7 Magnetic Resonance Imaging (MRI)",
+            "types": []
+        },
+        {
+            "topic": ": 14.8 ECG (Electrocardiogram)",
+            "types": []
+        },
+        {
+            "topic": ": 14.8 Endoscopy",
+            "types": []
+        },
+        {
+            "topic": ": 14.8 Radiotherapy",
+            "types": []
+        },
+        {
+            "topic": ": 14.8 Exercise Tolerance Test (ETT)",
+            "types": [
+                {
+                    "type": "Problem-Solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would you assess the risk versus the benefit of using a diagnostic instrument like a CT scan, which uses radiation?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What factors should be considered when determining whether a patient should undergo an X-ray or an MRI?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do you evaluate the potential risks of repeated exposure to diagnostic radiation in patients with chronic conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What steps can doctors take to minimize the risks associated with diagnostic radiation?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What is the basic principle of ultra sonography, and how does it produce an image?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the nature of tissues affect the ultrasound waves used in ultra sonography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does sound wave reflection play in the generation of images in ultra sonography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the frequency range of the ultrasound waves used for medical diagnosis?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is ultra sonography considered safer than X-rays for imaging?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Describe the process through which the transducer generates ultrasound waves.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does electrical stimulation produce ultrasound waves in the transducer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What materials are commonly used in the construction of a transducer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why a narrow beam of ultrasound waves is important for diagnostic purposes.",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Explain how ultra sonography is used in obstetrics and gynecology.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does ultra sonography help monitor fetal development?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What can ultra sonography reveal about fetal maturity and position?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what way is ultra sonography useful for identifying uterine tumors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is ultra sonography used to detect abnormalities in the female reproductive system?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is ultra sonography applied in diagnosing gall bladder stones?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the advantages of using ultra sonography to detect gall bladder stones?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the sound waves behave when they encounter gall bladder stones?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the size and location of gall bladder stones be determined through ultra sonography?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Calculate the wavelength of a 7 MHz ultrasound wave traveling through body tissues at a speed of 1540 m/s.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What happens to the wavelength if the frequency increases to 10 MHz?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does an increase in frequency affect the resolution of the image in ultra sonography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the sound waves travel through bone, how does the speed change compared to soft tissues?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "If the beam frequency is 8 MHz and the speed of sound in body tissue is 1540 m/s, calculate the time it takes for the wave to travel 2 cm and return.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the time change if the depth increased to 5 cm?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the depth of the organ being imaged affect the overall time of imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What implications do these time differences have on the clarity and quality of the ultrasound image?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the uses of ultra sonography with those of X-rays.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "In what scenarios would ultra sonography be more appropriate than X-rays?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the safety profile of ultra sonography differ from that of X-rays?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the limitations of ultra sonography compared to X-rays in medical diagnostics?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does ultra sonography compare with MRI in terms of diagnostic applications?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "In which situations would MRI be preferred over ultra sonography, and why?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the primary advantages of ultra sonography in diagnostic imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do ultra sonography and MRI differ in the type of tissues they are best suited for imaging?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Discuss the process by which sound waves are converted into visual images in ultra sonography.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do tissue interfaces affect the reflection of ultrasound waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the key factors that influence the resolution of an ultrasound image?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the transducer need to be in continuous motion during an ultrasound scan?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Explain the concept of echocardiography and its use in ultra sonography.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What makes ultra sonography suitable for examining heart conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do tissue properties in the heart affect the reflection of ultrasound waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the benefits of using echocardiography in diagnosing heart defects compared to other imaging techniques?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Why is it necessary to limit the duration of exposure during ultra sonography?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the potential risks of prolonged exposure to high-frequency sound waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the movement of the transducer prevent potential harm during an ultrasound?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways can ultra sonography be misused, and how can medical professionals mitigate these risks?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How has the development of ultra sonography improved medical diagnostics over the years?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What technological advancements have enhanced the precision of ultrasound imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What challenges remain in the field of ultra sonography, and how might they be addressed in the future?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What does CT stand for, and how does it create a 3D image from multiple 2D slices?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the process of tomography and how it differs from standard imaging techniques.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of X-rays in CT scans, and how do they interact with tissues?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a CT scan use digital geometry processing to reconstruct images?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does a CT scan differentiate between different tissues in the body?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is a CT scan particularly useful for imaging soft tissues compared to traditional X-rays?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do varying levels of tissue density affect the clarity of CT scan images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What makes a CT scan more effective in identifying cancerous growths compared to other imaging methods?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Explain the significance of rotation in a CT scan\u2019s imaging process.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the speed of rotation impact the resolution of images in a CT scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to capture images from multiple angles around the body?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the technological limits of CT scan rotation speed?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is a CT scan used to diagnose cancer in organs like the lungs and liver?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What features of a tumor can be identified using CT scans?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a CT scan help differentiate between benign and malignant tumors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is contrast dye used to enhance tumor visibility in CT scans?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Discuss the role of CT scans in identifying cardiovascular diseases.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can a CT scan detect blockages in blood vessels?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What additional information can a CT scan provide in assessing heart function?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a CT scan assist in pre-surgical planning for cardiovascular conditions?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How do CT scans help in detecting internal bleeding after trauma?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is CT preferred over MRI in emergency trauma situations involving internal bleeding?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a CT scan differentiate between blood clots and other tissue abnormalities?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the key indicators of internal bleeding visible in a CT scan?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is CT scanning used to detect brain injuries?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is CT scanning critical in identifying skull fractures or brain hemorrhages?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a CT scan reveal changes in brain tissue post-injury?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is speed of imaging important in the diagnosis of traumatic brain injuries using CT scans?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does the use of contrast agents enhance the diagnostic capabilities of a CT scan?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the risks associated with using contrast agents during a CT scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In which medical conditions is contrast most useful in CT scanning?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do contrast agents help in distinguishing between healthy and abnormal tissues?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "A CT scan takes 150 slices of a patient\u2019s brain, each slice being 0.4 mm thick. Calculate the total thickness of the brain section scanned.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the total thickness if the slice thickness is increased to 0.5 mm?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing slice thickness affect the detail and resolution of the scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If 200 slices are taken at 0.3 mm thickness, what would the total thickness of the scanned area be?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "If a CT scan takes 250 images of the abdominal area in 30 seconds, calculate the time taken per image.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the total time change if the scan captured 300 images in the same period?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What implications do faster imaging times have on the patient and image clarity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does adjusting the number of images taken impact the overall resolution of the CT scan?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "A 3D image created by a CT scan requires 500 slices, each measuring 0.25 mm. Calculate the total length of the scanned section.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the total length change if each slice thickness was reduced to 0.2 mm?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the benefit of reducing slice thickness in CT scanning?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If only 400 slices were taken with the same thickness, how would the total scanned length be affected?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the diagnostic capabilities of CT scans and MRI scans.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "In what specific scenarios would a CT scan be preferred over an MRI?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the imaging techniques of CT and MRI differ in terms of radiation exposure and safety?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the limitations of CT scans in terms of diagnosing neurological conditions compared to MRI?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the use of CT scans and X-rays for detecting bone fractures.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does a CT scan provide more detailed information on complex fractures compared to a standard X-ray?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the advantages of CT scans in diagnosing small or hidden fractures?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is a CT scan more effective in detecting fractures in joints compared to X-rays?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the use of CT scans and ultrasounds in diagnosing abdominal conditions.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do CT scans provide more detailed images than ultrasounds in abdominal diagnoses?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what cases would an ultrasound be preferred over a CT scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the key differences in image resolution and diagnostic precision between the two techniques?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the radiation exposure risks of CT scans with those of other imaging techniques, like X-rays and PET scans.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the radiation dosage of a CT scan compare to that of a standard X-ray?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What measures are taken to minimize radiation exposure during a CT scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the radiation risk of a CT scan compare to that of a PET scan?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Explain the use of multi-slice CT scans and how they improve diagnostic imaging.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the number of slices impact the detail and accuracy of a CT scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the benefits of using multi-slice CT technology in diagnosing cardiovascular conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does multi-slice CT scanning enhance the detection of abnormalities in organs like the liver or pancreas?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does contrast-enhanced CT scanning work, and what are the benefits of using contrast agents?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do contrast agents improve the detection of tumors in a CT scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the risks associated with using contrast agents, and how can they be mitigated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In which types of medical diagnoses are contrast agents most frequently used?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Discuss the technological advancements that have improved CT scanning over the past decade.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How have improvements in detector sensitivity enhanced CT scan image quality?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does AI play in processing CT scan images more efficiently?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How has the development of low-dose CT scanning reduced radiation exposure without compromising image quality?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Why is it important to limit the number of CT scans a patient undergoes over time?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the long-term risks of repeated exposure to CT scan radiation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can medical professionals balance the need for diagnostic imaging with patient safety?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What alternative imaging techniques can be used to reduce a patient\u2019s exposure to radiation?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How has the development of CT scanning technology impacted the early detection of diseases like cancer and cardiovascular conditions?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does early detection through CT scans improve patient outcomes in cancer treatment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the cost implications of using CT scans for early disease detection on a large scale?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can governments and healthcare systems ensure equitable access to CT scanning technology for early diagnosis?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What is the principle behind Magnetic Resonance Imaging (MRI) and how does it create images of the body?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the role of the magnetic field in MRI imaging.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do radio waves interact with the magnetic field to produce images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is nuclear magnetic resonance, and how is it applied in MRI?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is MRI considered a safer alternative to X-rays for certain diagnoses?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Describe the components of an MRI machine and their functions.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the role of the magnet in an MRI machine?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the gradient coils contribute to image creation in an MRI?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role do radiofrequency coils play in the MRI process?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is MRI used in diagnosing neurological conditions?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is MRI preferred for detecting brain tumors and spinal cord injuries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can MRI help differentiate between different types of brain injuries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What advantages does MRI offer in visualizing soft tissue abnormalities in the brain?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Discuss how MRI is applied in cardiac imaging.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does MRI help in diagnosing heart conditions like myocarditis or cardiac tumors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is MRI useful in evaluating the structure and function of the heart?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does MRI help in monitoring post-surgical recovery in cardiac patients?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is MRI used in orthopedic diagnostics?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is MRI preferred over X-rays for detecting ligament and cartilage injuries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can MRI identify abnormalities in joints that may not be visible in other imaging techniques?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does MRI play in diagnosing sports injuries, such as torn ligaments?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "If an MRI scanner generates a magnetic field of 3 Tesla, calculate the frequency of the radio waves needed to excite hydrogen protons in the body (gyromagnetic ratio of hydrogen is 42.58 MHz/T).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the frequency change if the magnetic field strength is reduced to 1.5 Tesla?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What effect does the magnetic field strength have on the clarity of the MRI image?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does changing the frequency of radio waves influence the depth of imaging?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "An MRI scan takes 15 minutes to complete 60 images. Calculate the average time taken per image.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How long would it take to complete 100 images at the same rate?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the number of images affect the overall resolution and detail of the MRI scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the scan time per image is reduced by 10%, how long would it take to complete 80 images?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the diagnostic applications of MRI with CT scans.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "In which situations would MRI be preferred over CT, and why?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do MRI and CT scans differ in terms of imaging soft tissues and bones?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the risks associated with MRI compared to CT scans?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the use of MRI and X-rays for diagnosing musculoskeletal injuries.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is MRI more effective than X-rays for visualizing soft tissue injuries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do MRI and X-rays differ in their ability to detect bone fractures and joint damage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In which cases would an X-ray be preferred over an MRI?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Explain the physics behind the alignment of protons in the body during an MRI scan.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the application of a magnetic field affect the behavior of hydrogen protons in body tissues?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens when radiofrequency pulses are applied to these aligned protons during the scan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the signal emitted by the protons converted into a detailed image by the MRI machine?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does functional MRI (fMRI) differ from traditional MRI, and what are its applications?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does fMRI measure brain activity by detecting changes in blood flow?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the key applications of fMRI in neuroscience research?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can fMRI be used to map brain functions related to speech and motor activity?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Discuss the safety concerns associated with MRI, especially in patients with implanted medical devices.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is MRI contraindicated for patients with certain pacemakers and metal implants?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the presence of metal in the body distort MRI images or pose risks to patients?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions are taken to ensure patient safety during MRI procedures?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Why is MRI considered one of the safest imaging techniques, despite the powerful magnetic fields it uses?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do MRI machines minimize risks associated with exposure to magnetic fields?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the potential long-term effects of repeated MRI scans on patients, if any?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does MRI compare with other imaging techniques in terms of risk-benefit analysis?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How has the development of MRI technology impacted early diagnosis of diseases?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "In what ways has MRI improved the detection and monitoring of neurological disorders?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the economic and logistical challenges in making MRI widely available for early diagnosis?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can advancements in MRI technology help reduce the cost and increase accessibility to this diagnostic tool?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What is an electrocardiogram (ECG), and how does it measure electrical impulses from the heart?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do electrical impulses from the heart translate into the ECG waveforms?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of different leads (electrodes) placed on various parts of the body during ECG?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do abnormalities in the P-wave, QRS complex, and T-wave indicate different types of heart conditions?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How do the electrical activities of different parts of the heart appear on the ECG?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role does the sinoatrial (SA) node play in initiating the heartbeat as seen in the ECG?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the depolarization of the ventricles appear in the QRS complex?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What does the T-wave represent in terms of electrical recovery of the heart muscle?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Explain the importance of a 12-lead ECG and how each lead provides unique information about heart function.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the specific purposes of limb leads and chest leads in an ECG?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the leads help detect localized heart damage, such as in a myocardial infarction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What does it mean if certain leads show elevated ST segments, and how does this relate to heart disease?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is ECG used to diagnose myocardial infarction (heart attack)?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What specific changes in an ECG trace indicate a heart attack?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the location of the heart attack be determined based on the affected leads in an ECG?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the timing of ECG during or after a heart attack affect the diagnosis?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is ECG used in diagnosing arrhythmias (abnormal heart rhythms)?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the role of ECG in identifying tachycardia (rapid heartbeat) and bradycardia (slow heartbeat)?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can ECG detect atrial fibrillation, and what does this condition look like on the trace?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the detection of ventricular fibrillation in an ECG require immediate medical intervention?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare ECG with echocardiography in terms of their diagnostic capabilities.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "When would a doctor choose an ECG over echocardiography for diagnosing heart conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does ECG provide electrical information while echocardiography offers structural imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the strengths and limitations of using ECG for real-time heart monitoring compared to echocardiography?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare ECG and Holter monitoring for diagnosing long-term heart conditions.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the key differences between a short-duration ECG test and 24-hour Holter monitoring?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Holter monitoring provide more comprehensive data on intermittent arrhythmias?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what situations would Holter monitoring be preferred over a standard ECG?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "If an ECG records a heart rate of 75 beats per minute, calculate how many beats occur in 40 seconds.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the number of beats change if the heart rate increases to 100 bpm?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the heart rate measured by ECG affect the RR interval on the trace?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of a prolonged QT interval, and how is it calculated from the ECG?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "If the PR interval in an ECG is 0.16 seconds, how does this compare to the normal range of 0.12 to 0.20 seconds?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What might an extended PR interval indicate about heart function?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the measurement of the QRS complex duration help in diagnosing ventricular problems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the QRS complex is longer than 0.12 seconds, what heart conditions might this suggest?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What is endoscopy, and how does it allow doctors to view internal structures of the body?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the principle of total internal reflection, and how is it applied in the function of the endoscope?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the advantages of using fiber optics in endoscopic procedures?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does light transmitted through an endoscope provide clear images of internal organs?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does an endoscope provide a live video feed of internal organs during a procedure?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the components of an endoscope, and how do they work together to create images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the flexibility of modern endoscopes beneficial for navigating through narrow body cavities?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What improvements in endoscopy technology have increased the precision of diagnostic imaging?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is endoscopy used to diagnose gastrointestinal conditions?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does endoscopy help in detecting conditions such as ulcers, polyps, and tumors in the digestive tract?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can endoscopy be used to take biopsies for further analysis?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is endoscopy used to monitor ongoing conditions, such as inflammatory bowel disease?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is endoscopy used in the diagnosis of respiratory disorders?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the role of bronchoscopy (a type of endoscopy) in diagnosing lung diseases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can an endoscope be used to detect abnormalities in the bronchi and lungs?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does bronchoscopy aid in diagnosing conditions such as lung cancer, infections, or chronic bronchitis?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the use of endoscopy with X-ray imaging in diagnosing internal conditions.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "When is endoscopy preferred over X-rays for internal diagnostics?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the clarity of images from an endoscope differ from that of X-ray imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the relative risks of using endoscopy compared to X-ray imaging?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare endoscopy with capsule endoscopy, where a small camera is swallowed to capture images.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does capsule endoscopy provide advantages in diagnosing conditions in areas that traditional endoscopes cannot reach?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the limitations of capsule endoscopy compared to traditional endoscopy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what situations would traditional endoscopy be preferred over capsule endoscopy?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "During a 40-minute endoscopy procedure, if the camera captures 4 images per minute, how many total images are taken?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the camera captures 6 images per minute, how does this impact the total number of images in the same time frame?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the number of images affect the precision of diagnosis in endoscopy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors determine the optimal number of images taken during a diagnostic endoscopy?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What is radiotherapy, and how does it work to treat cancer?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does ionizing radiation target and destroy cancer cells while minimizing damage to surrounding tissues?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between external beam radiation and brachytherapy (internal radiation)?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the effectiveness of radiotherapy measured during and after treatment?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does radiotherapy interact with cancer cells at the molecular level?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role do DNA breaks play in the destruction of cancer cells during radiotherapy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do healthy cells repair themselves after exposure to radiation, and why are cancer cells less capable of repair?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors determine the sensitivity of cancer cells to radiotherapy?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is radiotherapy used to treat different types of cancer, such as breast cancer and lung cancer?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is radiotherapy tailored to the location and type of cancer being treated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is radiotherapy combined with other treatments, such as surgery or chemotherapy, to improve outcomes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What follow-up care is necessary after radiotherapy treatment to monitor for cancer recurrence?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does radiotherapy help in shrinking tumors before surgery?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What advantages does pre-surgical radiotherapy offer for patients with large tumors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is radiotherapy used to minimize the risk of metastasis (spread of cancer) before surgery?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the dose of radiation adjusted based on tumor size and location?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "A patient receives 45 Gy of radiation over 15 sessions. How much radiation is delivered in each session?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the total radiation dose vary depending on the type and stage of cancer being treated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the potential side effects of increasing the radiation dose per session?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the total dose of radiation spread across multiple sessions to reduce damage to healthy tissues?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the Exercise Tolerance Test (ETT)?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is ETT important for diagnosing heart conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does ETT assess heart function under stress?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What physiological changes occur during an ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does ETT relate to cardiovascular health?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does ETT help in diagnosing coronary artery diseases?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are coronary artery blockages, and how does ETT detect them?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why can blockages be harder to detect when the patient is at rest?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the symptoms of coronary artery disease that ETT can reveal?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some limitations of ETT in detecting coronary artery diseases?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Explain the relationship between ETT and ECG.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does an ECG monitor heart activity during an ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What specific changes in ECG indicate a problem during an ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are ECG results interpreted in relation to coronary artery disease?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do ECG readings help in determining the severity of a blockage?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe the procedure for conducting an ETT.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the treadmill or stationary bicycle used in the ETT process?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the steps taken to ensure patient safety during the test?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do physicians increase the exercise intensity in an ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a physician prepare a patient for an ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do environmental conditions affect the results of an ETT?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does the ETT provide insight into a patient\u2019s heart function?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What specific factors are monitored during an ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are common signs of heart problems observed in an ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do abnormal results in ETT influence treatment decisions?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Diagnostic",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What diagnostic information can be obtained from an ETT about coronary artery disease?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can ETT reveal information about blockages in coronary arteries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the specific ECG changes during an ETT that indicate ischemia?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is ETT data combined with other tests to confirm a diagnosis?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some limitations of ETT as a diagnostic tool?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Comparative",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the effectiveness of ETT with other heart diagnostic tests, like echocardiography.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does ETT differ from an echocardiogram in diagnosing heart conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the advantages of ETT over invasive tests like angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "When would a physician recommend an ETT over other diagnostic methods?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors may limit the effectiveness of ETT compared to other methods?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare ETT and nuclear stress testing.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the sensitivity of ETT compare with that of nuclear stress testing?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what situations is nuclear stress testing preferred over ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the risks and benefits of ETT versus nuclear stress testing?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical/Quantitative",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is heart rate and rhythm measured quantitatively during an ETT?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a patient\u2019s resting heart rate is 80 bpm and reaches 150 bpm during the test, calculate the percentage increase.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the target heart rate range for a 50-year-old patient undergoing an ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the degree of coronary artery blockage estimated from ETT results?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does exercise intensity in ETT correlate with heart rate changes?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the treadmill speed adjusted to match the desired heart rate increase?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the mathematical relationship between oxygen consumption and heart rate during ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do physicians determine the appropriate exercise intensity for different age groups during ETT?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Risk-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the risks associated with ETT?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What precautions are taken to minimize risks during ETT?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what cases should ETT be avoided or postponed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are patients with pre-existing conditions handled during ETT?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": ": 14.8 Angiography",
+            "types": [
+                {
+                    "type": "Patient-Centered",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How should a patient prepare for an ETT?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What dietary or medication restrictions must be followed before the test?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a physician explain the purpose of ETT to a patient?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some concerns patients might have before undergoing ETT?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is angiography, and why is it used to examine blood vessels?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does angiography help in detecting blockages in arteries and veins?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of the dye used in angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the major risks associated with angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between angiography and angioplasty?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does an angiogram work in studying the circulatory system?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the process of inserting a catheter in angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the dye injected during an angiogram make blood vessels visible?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions are taken during angiography to prevent complications?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How long does the dye remain in the system after the angiogram, and how is it removed?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Explain the purpose of using X-rays in angiography.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the significance of contrast dye in making arteries visible in an X-ray?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do X-rays in angiography differ from X-rays used in regular diagnostics?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do physicians interpret X-ray images from an angiogram to diagnose conditions?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe the step-by-step process of performing angiography.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the patient prepared for angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does the X-ray play during the angiography process?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the catheter inserted, and how is the dye introduced into the bloodstream?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the physician observe the real-time movement of the dye through the blood vessels?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What are the indications for performing angiography?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does a physician determine whether angiography is necessary?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What symptoms of vascular diseases prompt an angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "When is angioplasty performed in conjunction with angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does angiography help in planning for surgical interventions?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What are the treatment options if a blockage is detected during angiography?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does angioplasty work as a treatment during angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the differences between angioplasty and stenting?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What follow-up care is needed after angioplasty during angiography?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Comparative",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the effectiveness of angiography with other diagnostic techniques for vascular diseases.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does angiography differ from Doppler ultrasound in detecting blood flow issues?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the advantages and disadvantages of angiography versus Magnetic Resonance Imaging (MRI)?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what situations would angiography be preferred over a non-invasive diagnostic tool?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare angiography and CT angiography.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the main differences in procedure between traditional angiography and CT angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the risks of traditional angiography compare with those of CT angiography?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the situations where CT angiography would be more beneficial than traditional angiography?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How does angioplasty differ from bypass surgery?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Under what conditions is angioplasty more suitable than bypass surgery?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the advantages of angioplasty over bypass surgery?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "When would bypass surgery be preferred over angioplasty?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": ": 14.8 Isotopes and Their Uses",
+            "types": [
+                {
+                    "type": "Numerical/Quantitative",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the size of arterial blockages measured during angiography?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do physicians calculate the percentage of artery blockage from angiographic images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a coronary artery is 80% blocked, what would the remaining flow capacity be in comparison to normal?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are the lengths of stents calculated during angioplasty following angiography?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is the contrast dye dose calculated in angiography?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do physicians calculate the appropriate dye volume based on patient weight or size?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors determine the amount of contrast dye needed for effective imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do physicians adjust the dosage of dye in patients with compromised kidney function?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are isotopes, and how are they different from regular atoms of an element?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do the atomic structures of isotopes differ from each other?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role do neutrons play in creating isotopes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give examples of common isotopes used in medicine.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are some isotopes radioactive while others are stable?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "What are the medical uses of isotopes?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How are radioactive isotopes used in diagnosing diseases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What types of isotopes are used for cancer treatment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Technetium-99m work in medical imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how iodine-131 is used to treat thyroid conditions.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how isotopes are used in nuclear medicine.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How are isotopes administered to patients for diagnostic purposes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions are taken to ensure safety when handling radioactive isotopes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are the isotopes selected for different types of scans (e.g., brain, bone, liver)?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of gamma rays in imaging with isotopes like Technetium-99m?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How are isotopes used in radiotherapy for treating cancer?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the isotope Cobalt-60 destroy cancer cells?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the side effects of using isotopes in cancer treatment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are isotopes targeted to specific cancerous tissues without affecting healthy cells?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How are isotopes used in food preservation and pest control?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how radioactive isotopes help in extending the shelf life of food products.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are isotopes used to sterilize medical equipment and food packaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the environmental impacts of using isotopes in agriculture?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Comparative",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the use of radioactive isotopes for diagnosis and treatment.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do the functions of isotopes in diagnostic imaging differ from those in radiotherapy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the similarities and differences between the isotopes used for diagnostic and therapeutic purposes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do physicians decide which isotope to use for imaging versus treatment?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Compare the roles of iodine-131 and Technetium-99m in medical imaging and treatment.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the primary difference in how iodine-131 and Technetium-99m are used in the body?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the half-lives of these isotopes impact their use in medical treatments?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Which isotope would be preferred in imaging the thyroid, and why?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical/Quantitative",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the half-life of an isotope important in medical applications?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the half-life of iodine-131, and how does it affect its use in treating thyroid conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do physicians calculate the effective dosage of radioactive isotopes for cancer treatment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a sample of Technetium-99m has a half-life of 6 hours, how much remains after 24 hours?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "How is radiation dosage measured in nuclear medicine?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the dose of radiation determined when using isotopes like Technetium-99m for imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors affect the calculation of radiation dose for different types of patients?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do physicians balance the benefits of radiation exposure against the",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Safety and Risk",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What safety precautions are taken when using isotopes in medical treatment?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the risks associated with exposure to radioactive isotopes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are radioactive isotopes stored and disposed of safely in hospitals?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What measures are in place to protect healthcare workers from radiation during isotope-based treatments?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

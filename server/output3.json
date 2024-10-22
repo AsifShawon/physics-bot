@@ -1,0 +1,1820 @@
+{
+    "chapter": "3",
+    "topics": [
+        {
+            "topic": "3.1 Inertia and Qualitative Concept of Force",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define inertia and explain how it relates to Newton's first law of motion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does mass influence the inertia of an object?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide examples from daily life that demonstrate inertia.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does inertia explain why passengers lurch forward when a vehicle stops suddenly?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how inertia is responsible for an object's resistance to changes in motion.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it necessary for passengers to wear seatbelts during a car journey?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how inertia affects the behavior of passengers when a car suddenly starts.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does a ball rolling on a flat surface eventually stop, even if no external force is applied?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does inertia play a role in the motion of satellites orbiting the Earth?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a body of mass 15 kg is at rest, calculate the force needed to overcome its inertia and accelerate it to 5 m/s\u00b2.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the inertia of an object with mass 20 kg. How much force would be required to move it?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much force is needed to stop a moving object with a mass of 50 kg traveling at 10 m/s?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a 500 kg car is moving at 30 m/s, calculate its inertia and the force required to bring it to rest.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would the absence of inertia affect the motion of everyday objects?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Discuss the importance of understanding inertia in vehicle safety design.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of inertia apply to astronauts in space?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how inertia affects both moving and stationary objects.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it harder to move a heavy object compared to a lighter one?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does inertia affect the motion of a car on a slippery road?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In which situations does inertia prevent an object from stopping immediately?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why a body in motion stays in motion until acted upon by an external force.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "In what ways does inertia affect the motion of objects in space?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does inertia influence the motion of planets in their orbits?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the effects of inertia on the movement of passengers in a bus taking a sharp turn.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it necessary to reduce inertia in certain mechanical devices, such as brakes?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 20 kg object is at rest. How much force is needed to accelerate it at 3 m/s\u00b2?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the inertia of a car with a mass of 1000 kg moving at 50 m/s.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a 500 kg object is moving with an acceleration of 5 m/s\u00b2, calculate the inertia it experiences.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a vehicle of 2000 kg is traveling at 30 m/s, how much inertia does it have?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.2 Nature of Force",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If friction were completely removed, what would happen to the concept of inertia?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Discuss how the principle of inertia can be useful in understanding why astronauts in space float.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does inertia impact sports activities such as baseball, where balls are hit at high speeds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does inertia help or hinder the operation of mechanical machines?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Differentiate between contact and non-contact forces with examples.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the difference between frictional force and gravitational force?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the concept of gravitational force and provide real-world examples.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how electromagnetic forces operate between charged particles.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of nuclear forces in the stability of atomic nuclei?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why do gravitational forces play a vital role in the structure of the solar system?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how the magnetic force is applied in MRI (Magnetic Resonance Imaging) technology.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the Earth's gravity affect the motion of objects on its surface?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how forces act on an airplane during takeoff and landing.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If two masses, 10 kg and 20 kg, are separated by 5 meters, calculate the gravitational force between them.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A car weighs 1500 N. What is its mass if the acceleration due to gravity is 9.8 m/s\u00b2?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the force required to move a 25 kg object with an acceleration of 2 m/s\u00b2.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are different types of forces (gravitational, electromagnetic, nuclear) important in the universe?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the significance of nuclear forces in maintaining atomic structure.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does electromagnetic force operate in everyday devices like mobile phones?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the force of gravity so important for the stability of planets and stars?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do gravitational forces differ from magnetic forces in their origin and effect?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does gravitational force keep satellites in orbit around the Earth?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how non-contact forces, like gravity, act on astronauts in space.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does the electromagnetic force play in keeping two magnets attracted?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does gravitational force affect the motion of water on Earth\u2019s surface, such as in ocean tides?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how contact forces play a crucial role in sports, such as soccer or basketball.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If the gravitational force between two objects is 100 N and their masses are 50 kg and 20 kg, calculate the distance between them.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the gravitational force between two 10 kg objects separated by 2 meters.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If two charges are separated by 0.5 meters and experience an electromagnetic force of 25 N, calculate the charge of the particles.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the force of attraction between two magnets if the force between them is inversely proportional to the square of the distance, with a constant of 0.4 N/m\u00b2.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.3 Balanced and Unbalanced Forces",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would daily life be affected if gravity was twice as strong on Earth?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are non-contact forces, like gravity, weaker than contact forces in terms of their observable effects?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of forces explain the motion of celestial bodies, such as stars and planets?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen to the universe if one of the four fundamental forces ceased to exist?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define balanced and unbalanced forces and explain their effects on objects.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What happens when two balanced forces act on an object?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do unbalanced forces cause motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide an example of a situation where balanced forces result in no movement.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do unbalanced forces explain the motion of a car accelerating on a road?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "In what situation would an airplane experience balanced forces during flight?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how a balanced force acts on a stationary object hanging from a ceiling.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the forces acting on an object when it falls due to gravity.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a car of mass 1000 kg is acted on by two opposing forces of 4000 N and 2500 N, calculate the net force and acceleration.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the force needed to move an object of mass 20 kg with an acceleration of 3 m/s\u00b2.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A stationary object has balanced forces acting on it. If one force is 10 N, what must the opposing force be?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define unbalanced forces and give examples from real life.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What causes an object to remain in place when balanced forces act on it?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does an unbalanced force result in acceleration?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how unbalanced forces lead to a change in the speed or direction of an object.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do objects with balanced forces acting on them not experience motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do balanced forces apply to a hanging object such as a chandelier?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do objects experience unbalanced forces during sudden changes in motion, such as braking?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In a game of tug-of-war, how can one team create unbalanced forces to win the game?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how balanced forces maintain the structural integrity of a stationary building.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the motion of a car change when one force acting on it becomes unbalanced?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.4 Momentum",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the net force acting on a 10 kg object being pushed by two forces: 50 N to the right and 30 N to the left.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A 20 kg object is subject to balanced forces of 100 N each in opposite directions. What will happen to the object\u2019s motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A stationary object experiences unbalanced forces of 20 N. Calculate its acceleration if its mass is 5 kg.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If two teams are pulling a rope with forces of 300 N and 250 N in opposite directions, calculate the net force acting on the rope.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define momentum and explain its relationship to mass and velocity.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does momentum differ from force?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the law of conservation of momentum, and how does it apply in collisions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is momentum affected when two objects collide and stick together?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do seatbelts protect passengers in terms of momentum?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is momentum related to the safety features of vehicles in crash tests?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how momentum is transferred between players during a game of billiards.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how momentum is conserved when a rocket launches into space.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the momentum of a 1500 kg car moving at 20 m/s.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a 2 kg ball is moving at 5 m/s, what is its momentum?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a truck with a mass of 2000 kg doubles its speed from 10 m/s to 20 m/s, how does its momentum change?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between linear momentum and angular momentum?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is momentum conserved during a car crash?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does momentum increase when the mass or velocity of an object increases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the importance of momentum conservation in space travel.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the relationship between impulse and momentum.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is momentum conserved in a head-on collision between two vehicles?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is momentum conservation important in sports like football and hockey?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how momentum changes during the launch of a space shuttle.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a person running at a high speed increase their momentum?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how airbags help reduce injury by altering momentum during car accidents.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.5 Effect of Force on Motion",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the momentum of a 2 kg object moving at a velocity of 10 m/s.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A car weighing 1500 kg is moving at 20 m/s. What is its momentum?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a 10 kg object moving at 5 m/s collides with a stationary object, what will be the total momentum after the collision?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the change in momentum of a 500 kg vehicle when it slows down from 30 m/s to 10 m/s.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does force affect the velocity of an object in motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe the different ways force can change the motion of an object.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the relationship between force, mass, and acceleration.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of force in changing the direction of motion of an object?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why does a moving car need more force to accelerate on a highway than on a city street?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does force help in changing the shape of an object, such as a rubber band?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the forces involved when a soccer ball is kicked and travels through the air.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the force needed to accelerate a 500 kg car at 3 m/s\u00b2.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A force of 200 N is applied to a 10 kg object. What is the object\u2019s acceleration?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What force is required to stop a 50 kg object moving at 10 m/s in 5 seconds?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do forces affect the shape and motion of an object?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe how a force can cause an object to decelerate.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how forces can change the direction of an object\u2019s motion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of force in stopping an object that is already in motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does force alter the velocity of a moving object?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.6 Relation Between Force and Acceleration (Newton\u2019s Second Law)",
+            "types": [
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is force required to change the speed of a vehicle on a hill?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does force affect the motion of a bicycle when brakes are applied?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the role of force in shaping the trajectory of a soccer ball when kicked.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does an object slow down after being thrown through the air?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do forces control the motion of roller coasters at theme parks?",
+                                    "a": ""
+                                }
+                            ]
+                        },
+                        {
+                            "main_question": {
+                                "q": "Calculate the force needed to accelerate a 15 kg object by 4 m/s\u00b2.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A car of mass 1000 kg is decelerating at a rate of 3 m/s\u00b2. Calculate the force causing this deceleration.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What force is required to stop a 500 kg object moving at 25 m/s within 10 seconds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If an object with mass 2 kg is moving at 10 m/s and comes to a stop in 5 seconds, what is the force acting on it?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain Newton's second law of motion and its mathematical form.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does mass affect the acceleration of an object when force is applied?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Newton\u2019s second law relate to everyday experiences like cycling uphill?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does a lighter object accelerate faster than a heavier one when the same force is applied?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is Newton\u2019s second law used to design vehicles for better performance?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do heavier trucks require more force to accelerate than smaller cars?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Newton\u2019s second law help us understand the launch of rockets into space?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A force of 500 N is applied to a 50 kg object. Calculate the acceleration of the object.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If an object accelerates at 2 m/s\u00b2 under a force of 100 N, what is its mass?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the force required to accelerate a 1000 kg car from rest to 20 m/s in 5 seconds.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does Newton\u2019s second law explain the effect of increasing mass on acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What happens to acceleration if the same force is applied to two objects of different masses?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can Newton\u2019s second law help explain the varying speeds of falling objects?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Newton\u2019s second law apply to objects that are accelerating down a hill?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do vehicles with larger masses require more force to achieve the same acceleration as smaller vehicles?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how Newton\u2019s second law applies to the design of safety equipment like helmets.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does a heavy truck require more force to accelerate compared to a motorcycle?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the role of Newton\u2019s second law in explaining why objects in free fall accelerate due to gravity.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Newton\u2019s second law explain why stopping a moving train takes much longer than stopping a car?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.7 Action and Reaction Force (Newton\u2019s Third Law)",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a 50 kg object is acted upon by a 100 N force, calculate the acceleration.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the force required to accelerate a 1500 kg truck at 2 m/s\u00b2.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A force of 200 N accelerates a 20 kg object by 5 m/s\u00b2. What is the mass of the object?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a car of 1200 kg mass experiences an acceleration of 3 m/s\u00b2, what is the force applied to the car?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "State Newton\u2019s third law of motion and provide examples.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how the forces in walking are an example of action",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do action and reaction forces not cancel each other out?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does Newton\u2019s third law play in swimming?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does Newton\u2019s third law explain the recoil of a gun when it is fired?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is action-reaction force involved in launching a rocket?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how a person jumps from a boat onto a dock and how the boat moves in response.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "State Newton's third law of motion and explain it with examples from daily life.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does Newton\u2019s third law apply when a person walks on the ground?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how action and reaction forces operate when a swimmer pushes against the water.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Newton\u2019s third law apply to a rocket being launched into space?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do action and reaction forces not cancel each other out if they are equal and opposite?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does Newton's third law explain the recoil of a gun when it is fired?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe the action and reaction forces involved when you push against a wall and the wall pushes back.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do action-reaction forces operate in a rowing boat when oars are pushed against the water?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how a car's tires interact with the road based on Newton's third law.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role do action and reaction forces play when jumping off a diving board?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A bullet with a mass of 0.02 kg is fired from a gun with a mass of 5 kg. If the bullet leaves the gun with a velocity of 500 m/s, calculate the recoil velocity of the gun.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the force exerted by a person pushing on a 50 kg box if the reaction force from the box is 200 N.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a rocket of mass 5000 kg expels gas at a velocity of 400 m/s and generates a reaction force of 6000 N, what is the velocity of the gas relative to the rocket?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A swimmer pushes the water backward with a force of 150 N. What is the reaction force exerted on the swimmer?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.8 Safe Journey: Force and Motion",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would the absence of reaction forces affect motion in real life?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Discuss the significance of reaction forces in ensuring stability while walking or standing.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Newton\u2019s third law explain the motion of birds in flight?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important for engineers to consider action-reaction forces when designing bridges or buildings?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can we apply Newton's third law to improve the efficiency of modern transportation systems like airplanes and rockets?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is controlling speed crucial for a safe journey?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the mass of a vehicle affect the force needed to control its speed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the relationship between a car\u2019s speed and the kinetic energy it possesses.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does excessive speed affect the distance needed to stop a vehicle safely?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss the importance of seatbelts in preventing injury during sudden deceleration.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does friction between tires and the road contribute to a safe journey?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it important to regularly check the condition of a car's brakes and tires before a long journey?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does controlling speed reduce the risk of accidents on wet or icy roads?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do vehicles need more braking force when traveling downhill?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the role of traffic laws in maintaining a safe traveling environment.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car of mass 1000 kg is traveling at a velocity of 30 m/s. Calculate the force needed to stop the car within 5 seconds.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a vehicle has a mass of 1500 kg and is traveling at 40 m/s, calculate the kinetic energy it possesses.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the braking distance required for a 1200 kg car traveling at 25 m/s if the braking force applied is 3000 N.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the frictional force between the tires and the road is 800 N and the car weighs 5000 N, calculate the coefficient of friction.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.9 Friction and Force of Friction",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the consequences of not wearing a seatbelt during a car crash?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does kinetic energy increase with speed, and why does this make high-speed travel more dangerous?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would road safety change if friction between tires and the road were eliminated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss the impact of poor road conditions on the force required to control a vehicle's speed.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important for drivers to reduce speed when approaching intersections or pedestrian crossings?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define friction and explain its role in the motion of objects.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the roughness of surfaces affect the magnitude of friction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Differentiate between static, sliding, and rolling friction.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is fluid friction and how does it affect the motion of objects in water?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how friction is necessary for walking or driving.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are tires designed with treads to maximize friction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do lubricants reduce friction in machines?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the force of friction acting on a 10 kg object with a coefficient of friction of 0.3.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the coefficient of friction between a surface and an object is 0.4, and the normal force is 200 N, calculate the frictional force.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define friction and explain its role in opposing the motion of objects.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the difference between static friction and kinetic friction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how friction helps us walk and drive vehicles safely.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does friction change when the surfaces in contact become smoother or rougher?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does friction always act in the direction opposite to motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do the treads on tires help increase friction during driving?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain why it is difficult to walk on a slippery surface due to reduced friction.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does friction play a role in the design of braking systems for cars and bicycles?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how friction affects the wear and tear of mechanical parts in machines.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do lubricants reduce friction between moving parts in an engine?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 10 kg object is pulled across a surface with a coefficient of kinetic friction of 0.3. Calculate the frictional force.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the normal force on an object is 500 N and the coefficient of friction is 0.25, calculate the force of friction.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the work done against friction when a 20 kg object is moved 10 meters with a frictional force of 50 N.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a car of mass 1500 kg experiences a frictional force of 400 N, calculate the coefficient of friction between the tires and the road.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.10 Effects of Friction on Motion",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What would happen if friction did not exist in the world?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is friction sometimes referred to as a \"necessary evil\" in engineering and design?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do different types of friction, such as rolling friction and fluid friction, influence the motion of vehicles?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What challenges arise in reducing friction to improve the efficiency of machines, and what solutions are available?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the understanding of friction help in designing better sports equipment, such as running shoes or skis?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does friction affect the motion of objects in everyday life?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does friction oppose the motion of an object and not help it?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the role of friction in stopping a moving vehicle.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does friction affect the speed of a moving object over time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between rolling friction and sliding friction, and how do they affect motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the roughness of a road affect the movement of a car?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do tires need to maintain friction with the road surface to control a car?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do athletes, such as sprinters, use friction to improve performance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how friction is essential for the functioning of brakes in a car.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does friction affect the performance of a cyclist on different terrains?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the frictional force acting on a 15 kg object sliding on a surface with a coefficient of friction of 0.25.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a car with a mass of 1200 kg is moving on a road with a frictional force of 500 N, calculate the deceleration caused by the friction.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A box weighing 100 N is pulled across a surface with a coefficient of friction of 0.3. Calculate the force needed to move the box.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the work done against friction when a 20 kg crate is pushed 10 meters with a frictional force of 80 N.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.11 Increasing and Decreasing Friction",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What would happen if friction did not exist in the world? How would it affect our daily activities?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is friction both beneficial and problematic in different situations?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does excessive friction in machinery lead to energy loss, and how can it be reduced?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to control friction in sports equipment, and how does this affect athletic performance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe the methods used to increase and decrease friction in everyday scenarios.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain why polishing or smoothing a surface decreases friction.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do lubricants work to reduce friction between two moving surfaces?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do mountain climbers need to increase friction while climbing?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing friction help athletes maintain grip during competitions?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how ball bearings reduce friction in rotating machinery.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do cyclists reduce tire pressure on muddy roads to increase friction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do shoes with tread patterns or spikes help increase friction in sports?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do people use chalk on their hands for better grip during weightlifting or gymnastics?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reducing friction between mechanical parts improve engine efficiency?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A box is being pulled across a rough surface with a coefficient of friction of 0.4. If the normal force is 200 N, calculate the frictional force.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the work done against friction when moving a 30 kg crate over 5 meters with a frictional force of 60 N.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A car with a mass of 1000 kg needs a force of 400 N to overcome friction. What is the coefficient of friction between the tires and the road?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the coefficient of friction between two surfaces is reduced from 0.5 to 0.2 by adding a lubricant, calculate the reduction in frictional force for a 500 N object.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "3.12 Friction: A Necessary Evil",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can controlling friction make machinery more efficient, and why is it important for energy conservation?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is reducing friction necessary in transportation systems, and how does it improve fuel efficiency?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do different sports increase or decrease friction to achieve better performance, and what are the benefits of each approach?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to balance friction in car tires for safety, and what role do tread patterns play in this?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is friction often referred to as a \"necessary evil\"?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the advantages and disadvantages of friction in everyday life?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does friction help us perform basic activities such as walking, driving, and writing?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some common problems caused by excessive friction in machinery?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does friction lead to energy waste in mechanical systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does friction allow a nail to stay fixed in a wall, and why is this important for construction?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do shoes and tires wear out over time due to friction, and how does this impact their performance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how friction enables us to write with a pencil or pen.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does air resistance, a type of friction, help a parachutist slow down and land safely?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What solutions can be used to reduce the negative effects of friction in machines without losing its positive benefits?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a car\u2019s tires exert a frictional force of 800 N on the road while traveling, calculate the work done by the friction force after the car travels 20 meters.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the energy lost to friction if a 200 kg object is moved 5 meters on a surface with a frictional force of 300 N.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A machine experiences a frictional force of 400 N and consumes 500 J of energy over a distance of 2 meters. Calculate the coefficient of friction.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A car with a mass of 1000 kg experiences a frictional force of 600 N. If the car travels 100 meters, calculate the energy wasted due to friction.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it impossible to completely eliminate friction, and what would be the consequences if it were removed?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does friction play a role in energy efficiency, and why is it necessary to find a balance between reducing and maintaining it?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways does friction contribute to the wear and tear of mechanical parts, and how can engineers minimize its negative effects?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do industries spend significant resources developing materials and techniques to control friction, and how does this impact the longevity of machines?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

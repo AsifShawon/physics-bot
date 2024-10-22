@@ -61,7 +61,7 @@ def get_reply_and_save(json_file):
         clear_chat_history()  # Clear chat history for the next question
 
     # Save the updated JSON data back to the file
-    save_json_data("llm_replied.json", json_data)
+    save_json_data("llm_output1.json", json_data)
 
 # Call the function
-get_reply_and_save('question.json')
+get_reply_and_save('test1.json')

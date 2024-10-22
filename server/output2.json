@@ -1,0 +1,1786 @@
+{
+    "chapter": "",
+    "topics": [
+        {
+            "topic": "2.1 Rest and Motion",
+            "types": [
+                {
+                    "type": "Definition",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is rest in physics?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can the state of rest be determined with respect to surroundings?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can an object be at rest for one observer but in motion for another? Explain.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to choose a reference frame to determine if an object is at rest?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Explanation",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the concept of motion in relation to a reference frame.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the reference point help in understanding motion or rest?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between absolute and relative motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is absolute rest impossible in the universe?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What does Ani\u2019s observation about objects being at rest signify?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Examples",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Give examples of objects in rest and motion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does a moving train exemplify relative motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can you describe a situation where an object is at rest for one observer but in motion for another?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do rotating objects like fans illustrate motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the concept of a reference frame affect whether an object is in rest or motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the difference between absolute and relative motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the motion of an object depend on the chosen reference frame?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give an example where a moving object is at rest relative to another object.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do we describe the motion of a body using a reference point?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A person is standing on a moving train. Explain the person's motion relative to the train and to the ground.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the person's motion change if the train accelerates or decelerates?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the person's relative velocity with respect to the train and the ground?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is meant by the relative nature of rest and motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the Earth\u2019s motion affect our understanding of rest and motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can an object be truly at rest anywhere in the universe?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the motion of the Earth impact objects on its surface?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can we distinguish between absolute rest and relative rest?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is absolute rest impossible in a universe where everything is in motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the movement of planets affect our perception of rest?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A person standing on a bus sees a person sitting on a bench. Who is in motion relative to the bus?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the bus\u2019s acceleration affect the person\u2019s perception of motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relative velocity of the person sitting on the bench if the bus is moving at 10 m/s?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Examples",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Provide three examples of relative motion observed in daily life.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the movement of the Sun impact our understanding of motion on Earth?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do passengers in a moving vehicle perceive themselves at rest while the outside world appears to move?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do we describe an object in motion relative to a stationary object?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the speed of an object change with respect to different reference frames?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it essential to define a reference point to understand motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "2.2 Types of Motion",
+            "types": [
+                {
+                    "type": "Application",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a car is moving at 60 km/h on a highway, explain how this motion is relative to the road and another moving car.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the motion of the car appear to a passenger in a second car moving at 50 km/h in the same direction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the relative velocity if the second car moves in the opposite direction?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Linear Motion",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is linear motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Provide examples of linear motion in daily life.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the motion of a car on a straight road represent linear motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can an object in linear motion change its velocity? Explain.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Rotational Motion",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is rotational motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the motion of a ceiling fan represent rotational motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the axis of rotation important in defining rotational motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give an example of rotational motion involving a rotating wheel.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Periodic and Vibratory Motion",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is periodic motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the movement of a pendulum exemplify periodic motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is vibratory motion, and how does it differ from periodic motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the motion of a guitar string represents vibratory motion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the motion of the Earth around the Sun considered periodic motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Multiple",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is rectilinear motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does rectilinear motion differ from general linear motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What conditions are necessary for a motion to be considered rectilinear?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between uniform and non-uniform motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Give examples of each type of motion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you determine if an object is in uniform or non-uniform motion from a distance-time graph?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car accelerates from rest to 20 m/s in 5 seconds. What is its acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How far does the car travel during this time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the car's average speed during this time?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Definition",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the characteristics of vibratory motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does vibratory motion differ from oscillatory motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give examples of vibratory motion in daily life.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the circular motion of an object differ from rotational motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Give examples of circular and rotational motion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the speed of an object in circular motion differ at different points along its path?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how centripetal force affects circular motion.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Examples",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between periodic and non-periodic motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Give examples of periodic motion in nature.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does periodic motion help in predicting events such as eclipses or tides?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the motion of a clock\u2019s pendulum is periodic.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A cyclist moves around a circular track with a radius of 50 meters. If the cyclist completes one full circle in 2 minutes, what is the cyclist\u2019s speed?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the time taken to complete a circle affect the speed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the speed if the radius of the track increases?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does uniform motion differ from uniform acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What conditions are necessary for a motion to be classified as uniformly accelerated motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the distance-time graph differ for uniform motion and uniformly accelerated motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A satellite orbits Earth in circular motion. What forces act on the satellite?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the speed of the satellite remain constant in circular motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of centripetal force in maintaining the satellite's orbit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "2.3 Scalar and Vector Quantities",
+            "types": [
+                {
+                    "type": "Definition",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define rotational motion and its key characteristics.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is angular velocity used to describe rotational motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give examples of rotational motion in the human body or natural systems.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Scalar Quantity",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is a scalar quantity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Give three examples of scalar quantities.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are scalar quantities expressed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is direction irrelevant in scalar quantities?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Vector Quantity",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is a vector quantity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is direction important in vector quantities?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do you represent a vector quantity in physics?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give examples of vector quantities.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is displacement different from distance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Representation",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do you represent vector quantities graphically?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What does the length and direction of the arrow represent in a vector diagram?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you calculate the resultant of two vectors?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can you add and subtract vector quantities graphically?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the triangle law of vector addition?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you find the components of a vector?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Two forces, one of 10 N and the other of 15 N, act on an object at right angles to each other. What is the magnitude of the resultant force?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the direction of the resultant force?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is displacement considered a vector quantity while distance is not?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the magnitude and direction of displacement differentiate it from distance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can displacement be zero while the distance is non-zero? Explain with an example.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A person walks 3 km east, then 4 km north. What is the total displacement of the person?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the total distance traveled by the person.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the direction of the displacement?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Graphical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can vectors be added graphically using the parallelogram method?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the advantages of using the graphical method for adding vectors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the triangle law of vector addition work?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does vector resolution help in understanding motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is meant by resolving a vector into its horizontal and vertical components?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does vector resolution apply to projectile motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "2.4 Quantities Related to Motion",
+            "types": [
+                {
+                    "type": "Application",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A force of 50 N is acting at an angle of 30\u00b0 to the horizontal. Calculate the horizontal and vertical components of this force.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the angle of application affect the magnitude of the components?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the angle increases, how will the horizontal and vertical components change?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Distance and Displacement",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between distance and displacement?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is displacement considered a vector quantity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can an object have a large distance but a small displacement?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give examples where distance and displacement differ significantly.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Speed and Velocity",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between speed and velocity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is velocity calculated differently from speed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can an object have varying speed but constant velocity? Explain.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can an object\u2019s velocity change while maintaining a constant speed?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Average and Instantaneous Speed",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define average speed and instantaneous speed.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is average speed calculated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is instantaneous speed useful in certain scenarios?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the speedometer in a car represent instantaneous speed?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the relationship between velocity and acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can you determine the acceleration of an object from a velocity-time graph?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the meaning of negative acceleration?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A ball is thrown vertically upward with an initial velocity of 20 m/s. How long does it take to reach its maximum height?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the maximum height reached by the ball?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How long does it take for the ball to return to its starting point?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is speed different from velocity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is velocity considered a vector quantity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can an object have the same speed but different velocities at different times?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give an example where an object\u2019s speed is constant, but its velocity changes.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does acceleration relate to velocity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can an object be accelerating even if its speed is constant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between positive and negative acceleration?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the meaning of uniform and non-uniform acceleration?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car accelerates uniformly from 0 to 30 m/s in 10 seconds. What is the acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How far does the car travel during this period?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the average speed of the car?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Examples",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Provide three real-world examples of non-uniform acceleration.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the motion of an object falling through a fluid an example of non-uniform acceleration?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does a car speeding up and then slowing down exhibit non-uniform acceleration?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car moving at 20 m/s decelerates uniformly at 4 m/s\u00b2 until it stops. How long does it take for the car to stop?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How far does the car travel during this time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the average speed of the car before it comes to a stop?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "2.5 Equations of Motion",
+            "types": [
+                {
+                    "type": "Graphical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is acceleration represented on a velocity-time graph?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What does a horizontal line on a velocity-time graph indicate?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you calculate the total distance traveled from a velocity-time graph?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "First Equation of Motion",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the first equation of motion and its derivation?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the first equation of motion used to find final velocity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give a practical example of how to apply the first equation of motion.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Second Equation of Motion",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the second equation of motion and its application?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can the second equation of motion be used to calculate displacement?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide an example where the second equation of motion is applied to a moving car.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What conditions are necessary for the second equation of motion to apply?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Multiple",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the third equation of motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the third equation of motion useful for calculating final velocity without knowing time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide a real-world example where the third equation of motion is applied.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the third equation of motion be modified for vertically falling bodies?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can you derive the equations of motion using calculus?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the assumptions made in deriving the equations of motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "When are the equations of motion applicable?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car starts from rest and accelerates uniformly at 2 m/s\u00b2. How long does it take for the car to reach a speed of 30 m/s?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How far does the car travel during this time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the car's average speed during this time?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Definition",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the significance of the three equations of motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Under what conditions do the equations of motion apply?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can these equations be derived using graphical methods?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the first equation of motion relate to acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the second equation of motion relate to displacement?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the third equation of motion useful when time is unknown?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car traveling at 15 m/s accelerates at 3 m/s\u00b2 for 5 seconds. What is its final velocity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How far does the car travel in this time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the average speed of the car during this period?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the second equation of motion derived from the concept of uniform acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What physical quantities are related by the second equation of motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the second equation of motion useful for determining displacement?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "2.6 Motion of Falling Bodies",
+            "types": [
+                {
+                    "type": "Application",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car moving with an initial velocity of 10 m/s accelerates at 2 m/s\u00b2 for 5 seconds. Calculate the final velocity.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How far does the car travel during this time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the average velocity of the car during this interval?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Acceleration due to Gravity",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is acceleration due to gravity, and how does it affect falling objects?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do objects fall at the same rate in the absence of air resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the value of acceleration due to gravity near Earth\u2019s surface?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does air resistance affect the falling speed of objects?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Laws of Falling Bodies",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are Galileo\u2019s three laws of falling bodies?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do these laws apply in a vacuum where there is no air resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how velocity changes with time for a freely falling object.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the distance covered by a falling object change with time?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Mathematical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A ball is dropped from a height of 100m. How long will it take to reach the ground? (Assume g = 9.8 m/s\u00b2)",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What will be the velocity of the ball just before it hits the ground?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the result change if the object is thrown downwards with an initial velocity?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the acceleration due to gravity vary with altitude?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the effect of air resistance on the motion of a falling object?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you measure the acceleration due to gravity experimentally?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A ball is dropped from a height of 100 m. How long does it take to reach the ground?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the velocity of the ball just before it hits the ground?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the answer change if the ball were thrown downward with an initial velocity of 20 m/s?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What factors affect the acceleration due to gravity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does the value of acceleration due to gravity vary with altitude?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is free fall different from regular falling objects?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does air resistance impact the motion of falling bodies?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A stone is thrown vertically upward with an initial velocity of 25 m/s. How long does it take for the stone to reach its highest point?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the maximum height reached by the stone?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How long does the stone take to return to the ground?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Examples",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Provide real-life examples of objects in free fall.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do two objects of different masses fall at the same rate in a vacuum?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the presence of air resistance affect objects like feathers and stones?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the acceleration due to gravity affect objects near the surface of the Earth?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role does air resistance play in the motion of a falling object?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the motion of a freely falling object change as it falls towards the ground?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A ball is thrown vertically upward with a velocity of 15 m/s. Calculate the time taken to reach its maximum height.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How long does the ball take to return to its original position?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the total distance traveled by the ball?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "2.7 Motion and Graphs",
+            "types": [
+                {
+                    "type": "Applications",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how terminal velocity is reached in free-falling objects.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What factors affect terminal velocity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does terminal velocity differ for a feather and a stone?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Distance-Time Graph",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What does a distance-time graph represent?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can you determine velocity from a distance-time graph?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What does a straight line in a distance-time graph indicate?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What does the slope of a distance-time graph represent?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Velocity-Time Graph",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is a velocity-time graph and its significance?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is acceleration calculated from a velocity-time graph?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What does the area under a velocity-time graph represent?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is indicated by a curved line in a velocity-time graph?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Graphical Interpretation",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do you interpret non-uniform motion using a distance-time graph?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the gradient of a tangent on a distance-time graph represent instantaneous speed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of a horizontal line in a velocity-time graph?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can you interpret the slope of a velocity-time graph?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What does the area under a velocity-time graph represent?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you determine the average acceleration from a velocity-time graph?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car's velocity-time graph is a straight line with a slope of 2 m/s\u00b2. What is the car's acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How far does the car travel in 10 seconds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the car's average speed during the first 10 seconds?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the relationship between the slope of a distance-time graph and the speed of an object?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What does a horizontal line on a distance-time graph indicate?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you use the area under a velocity-time graph to find displacement?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car accelerates uniformly, and its velocity-time graph shows a straight line with a slope of 3 m/s\u00b2. What is the car\u2019s acceleration?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How far does the car travel in 10 seconds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the car\u2019s average velocity during this time?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Multiple",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What does a curved line on a distance-time graph indicate?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can you calculate instantaneous speed from a curved distance-time graph?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What does the steepness of the curve on a velocity-time graph indicate?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car accelerates from rest at a rate of 3 m/s\u00b2 for 8 seconds. Plot the velocity-time graph for this motion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the car\u2019s velocity after 8 seconds.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Using the graph, find the total distance traveled by the car.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Graphical Interpretation",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What information can be obtained from the slope of a velocity-time graph?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the area under a velocity-time graph relate to displacement?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how you can determine average acceleration from a velocity-time graph.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Experimental",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can you experimentally verify the second law of motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What apparatus would you use to conduct such an experiment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you measure the acceleration of an object in this experiment?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Real-Life Applications",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the knowledge of motion help in designing roller coasters?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role does acceleration play in the experience of a roller coaster?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of free fall relate to the steepest drops in roller coasters?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

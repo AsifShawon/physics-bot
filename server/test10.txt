@@ -1,0 +1,522 @@
+### **Topic**: 10.1 Charge
+
+#### **Type**: Conceptual
+- **Main**: What is static electricity, and how is it different from current electricity?
+  - **Follow-Up-1**: Explain why the charges in static electricity remain stationary.
+  - **Follow-Up-2**: What is the role of protons and electrons in the formation of charge?
+  - **Follow-Up-3**: Describe a scenario where static electricity can naturally occur.
+  
+- **Main**: How does the structure of an atom relate to the production of electric charge?
+  - **Follow-Up-1**: What are the roles of protons, neutrons, and electrons in charge formation?
+  - **Follow-Up-2**: Why are electrons more likely to be transferred between objects compared to protons?
+  - **Follow-Up-3**: Explain the process through which an atom becomes positively charged.
+  - **Follow-Up-4**: In what situations does an atom gain negative charge?
+
+#### **Type**: Numerical
+- **Main**: Calculate the force between two charged objects if they each have a charge of 5 C and are separated by a distance of 3 meters in a vacuum. (Assume the value of Coulomb's constant as \( 9 \times 10^9 \, Nm^2/C^2 \)).
+  - **Follow-Up-1**: How would the force change if the distance between the two charges is halved?
+  - **Follow-Up-2**: What happens to the force if one charge is doubled while keeping the distance constant?
+  - **Follow-Up-3**: If the medium is changed from a vacuum to air, how does this affect the force between the charges?
+
+- **Main**: Two objects have charges of 20 C and 50 C, and they are separated by 2 meters in a vacuum. Calculate the force between them.
+  - **Follow-Up-1**: How does the force change if the distance is doubled?
+  - **Follow-Up-2**: If the charges are reduced by half, what will be the new force between the objects?
+  - **Follow-Up-3**: Describe how Coulomb’s law applies to this situation.
+
+#### **Type**: Application-Based
+- **Main**: Describe an experiment you could perform at home to demonstrate the presence of static electricity using a plastic comb and pieces of paper.
+  - **Follow-Up-1**: How does friction between the comb and a woolen cloth produce a charge on the comb?
+  - **Follow-Up-2**: Why does the comb attract small pieces of paper after being rubbed?
+  - **Follow-Up-3**: How could you prove that the charge on the comb is temporary?
+  
+- **Main**: How does the charge on an object affect its interaction with other charged or neutral objects?
+  - **Follow-Up-1**: What happens when a positively charged object comes near a negatively charged object?
+  - **Follow-Up-2**: Why do neutral objects sometimes get attracted to charged objects?
+  - **Follow-Up-3**: Explain how static electricity is used in practical applications like photocopying or inkjet printing.
+
+#### **Type**: Analytical
+- **Main**: Compare the behavior of conductors and insulators in terms of electron mobility and charge transfer.
+  - **Follow-Up-1**: Why can conductors easily transfer electric charge, while insulators cannot?
+  - **Follow-Up-2**: Describe a situation where using an insulator would be necessary to prevent unwanted charge transfer.
+  - **Follow-Up-3**: What happens to the charge distribution when an object made of a conductor is brought near a charged object?
+
+- **Main**: Explain why friction can result in the generation of electric charge on certain objects.
+  - **Follow-Up-1**: What properties of materials affect how much charge they can gain through friction?
+  - **Follow-Up-2**: Why does rubbing two objects together cause one to gain electrons and the other to lose them?
+  - **Follow-Up-3**: How does the concept of electron affinity play into this process?
+
+#### **Type**: Experimental
+- **Main**: Describe how you can use an electroscope to detect the presence of charge on an object.
+  - **Follow-Up-1**: What happens to the leaves of the electroscope when a charged object is brought close to it?
+  - **Follow-Up-2**: How can the electroscope be used to determine the type of charge (positive or negative) on an object?
+  - **Follow-Up-3**: Why do the leaves of the electroscope move apart when they are similarly charged?
+
+- **Main**: Demonstrate how to use friction to create a charged object and measure its effect on a neutral body.
+  - **Follow-Up-1**: Why does a charged rod attract a neutral pith ball?
+  - **Follow-Up-2**: How can you prove that the neutral pith ball becomes charged after coming into contact with the charged rod?
+  - **Follow-Up-3**: What other objects could be used in place of a pith ball to demonstrate the presence of static charge?
+
+#### **Type**: Conceptual (Advanced)
+- **Main**: Explain the concept of charge conservation and how it applies to charged systems.
+  - **Follow-Up-1**: Why does the total charge in an isolated system remain constant?
+  - **Follow-Up-2**: How can charge be redistributed among objects without creating or destroying charge?
+  - **Follow-Up-3**: In what types of situations would the principle of charge conservation be violated (if ever)?
+  
+- **Main**: Discuss how the behavior of charges is affected by the material properties of the objects involved.
+  - **Follow-Up-1**: Why are some materials more likely to become charged than others?
+  - **Follow-Up-2**: How do the molecular structures of materials influence their ability to gain or lose electrons?
+  - **Follow-Up-3**: What role does surface area play in determining how much charge a body can hold?
+
+---
+
+### **Topic**: 10.2 Electrification by Friction
+
+#### **Type**: Conceptual
+- **Main**: What is electrification by friction, and how does it occur between two objects?
+  - **Follow-Up-1**: Why do some materials gain electrons while others lose them during friction?
+  - **Follow-Up-2**: How is the concept of electron affinity related to electrification by friction?
+  - **Follow-Up-3**: Give examples of materials that become positively and negatively charged through friction.
+
+- **Main**: Explain how rubbing two objects together can result in one object becoming positively charged and the other negatively charged.
+  - **Follow-Up-1**: What happens at the atomic level when a glass rod is rubbed with silk?
+  - **Follow-Up-2**: Why does rubbing an ebonite rod with fur cause the ebonite to become negatively charged?
+  - **Follow-Up-3**: How can this principle be used to create static charge in common household items?
+
+#### **Type**: Numerical
+- **Main**: Two objects are rubbed together, one gains a charge of \(2 \, C\) and the other loses \(2 \, C\). If they are separated by a distance of 1 meter, calculate the force between them.
+  - **Follow-Up-1**: What happens to the force if the distance between the objects is doubled?
+  - **Follow-Up-2**: How does the force change if the charge on one of the objects is increased by 50%?
+  - **Follow-Up-3**: How would the force be different if the objects were in a medium other than a vacuum?
+
+- **Main**: A polythene rod is rubbed with flannel, and the rod gains a charge of \(10 \, C\). Calculate the force of attraction between the rod and the flannel if they are 2 meters apart.
+  - **Follow-Up-1**: How would the force change if the distance is reduced to 1 meter?
+  - **Follow-Up-2**: What is the relationship between the force and the distance between two charged bodies?
+  - **Follow-Up-3**: Calculate the new force if both the rod and the flannel are charged to \(20 \, C\).
+
+#### **Type**: Application-Based
+- **Main**: Describe how the rubbing of a balloon on a wool sweater can create static electricity, and explain the result when the balloon is brought near a wall.
+  - **Follow-Up-1**: Why does the balloon stick to the wall after being rubbed with wool?
+  - **Follow-Up-2**: How does the material of the wall affect whether the balloon will stick?
+  - **Follow-Up-3**: What would happen if the balloon is brought near a neutral object after being charged?
+
+- **Main**: Explain how the process of friction can be used to generate static electricity for industrial purposes, such as in a photocopying machine.
+  - **Follow-Up-1**: How does friction help separate charges in a photocopier?
+  - **Follow-Up-2**: What role does friction play in spray painting technology?
+  - **Follow-Up-3**: How could friction be applied in other static electricity-based technologies like electrostatic dust collectors?
+
+#### **Type**: Analytical
+- **Main**: Compare the effectiveness of different materials in gaining and losing electrons through friction.
+  - **Follow-Up-1**: Why do some materials like glass become positively charged more easily, while others like rubber tend to become negatively charged?
+  - **Follow-Up-2**: How does humidity affect the efficiency of charge transfer through friction?
+  - **Follow-Up-3**: What properties of materials affect their electron affinity during friction?
+
+- **Main**: Analyze how the distance between objects after electrification by friction affects the force of attraction or repulsion.
+  - **Follow-Up-1**: How does the force between two charged objects change as they move farther apart?
+  - **Follow-Up-2**: Why does reducing the distance between two oppositely charged objects increase the force between them?
+  - **Follow-Up-3**: How does the surrounding medium (air, vacuum, etc.) alter the force between two charged objects?
+
+#### **Type**: Experimental
+- **Main**: Design an experiment to demonstrate the concept of electrification by friction using household objects like a plastic ruler and paper.
+  - **Follow-Up-1**: Why do pieces of paper get attracted to the ruler after rubbing it on wool?
+  - **Follow-Up-2**: How can you prove that the ruler has gained a static charge?
+  - **Follow-Up-3**: What happens if you try the experiment with different materials like rubber or glass?
+
+---
+
+### **Topic**: 10.3 Electric Induction
+
+#### **Type**: Conceptual
+- **Main**: What is electrostatic induction, and how does it differ from electrification by friction?
+  - **Follow-Up-1**: Explain how a neutral body can become charged through induction.
+  - **Follow-Up-2**: What are the roles of the inducing and induced charges in induction?
+  - **Follow-Up-3**: Give examples of how induction is used in everyday life, such as in metal detectors or electrostatic precipitators.
+
+- **Main**: Describe the process of electrostatic induction with the help of a charged glass rod and a neutral conductor.
+  - **Follow-Up-1**: What happens to the free electrons in the conductor when the charged rod is brought near?
+  - **Follow-Up-2**: Why does one end of the conductor become positively charged while the other becomes negatively charged?
+  - **Follow-Up-3**: How is the concept of induction used in grounding electrical appliances?
+
+#### **Type**: Numerical
+- **Main**: A positively charged rod induces a charge on a neutral conductor. If the induced charge is \(5 \, C\), and the distance between the rod and the conductor is 1 meter, calculate the force of attraction.
+  - **Follow-Up-1**: What happens to the force if the induced charge is doubled?
+  - **Follow-Up-2**: How does increasing the distance between the rod and the conductor affect the force?
+  - **Follow-Up-3**: How would the force change if the rod is negatively charged instead of positively?
+
+- **Main**: Calculate the charge induced on a conductor when a positively charged body with a charge of \(10 \, C\) is brought near it at a distance of 0.5 meters. Assume the conductor has no initial charge.
+  - **Follow-Up-1**: How would the induced charge change if the distance is increased to 1 meter?
+  - **Follow-Up-2**: What is the force between the inducing and induced charges if the conductor gains a charge of \(2 \, C\)?
+  - **Follow-Up-3**: How does the nature of the conductor affect the amount of induced charge?
+
+#### **Type**: Application-Based
+- **Main**: Explain how electrostatic induction is used in the working of a Van de Graaff generator.
+  - **Follow-Up-1**: How does the movement of the belt in a Van de Graaff generator induce charges?
+  - **Follow-Up-2**: How is electrostatic induction utilized to produce high voltages in the generator?
+  - **Follow-Up-3**: What are the practical uses of the high voltage produced by this device?
+
+- **Main**: Describe how induction is used to charge an electroscope without directly touching it with a charged object.
+  - **Follow-Up-1**: Why does the electroscope’s leaves diverge when a charged object is brought near?
+  - **Follow-Up-2**: How can you determine whether the induced charge on the electroscope is positive or negative?
+  - **Follow-Up-3**: Explain how the electroscope can be grounded to remove the induced charge.
+
+#### **Type**: Analytical
+- **Main**: Compare the effectiveness of different materials in generating induced charges through electrostatic induction.
+  - **Follow-Up-1**: How does the conductivity of a material affect the amount of induced charge?
+  - **Follow-Up-2**: Why are conductors more effective at inducing charges than insulators?
+  - **Follow-Up-3**: How does the distance between the inducing and induced bodies affect the magnitude of the induced charge?
+
+- **Main**: Analyze the similarities and differences between electrostatic induction and electromagnetic induction.
+  - **Follow-Up-1**: How do the charges behave in electrostatic induction compared to electromagnetic induction?
+  - **Follow-Up-2**: What role does a magnetic field play in electromagnetic induction, and how is this different from electrostatic induction?
+  - **Follow-Up-3**: Describe a practical application of each type of induction.
+
+#### **Type**: Experimental
+- **Main**: Design an experiment to demonstrate the concept of electrostatic induction using a charged balloon and a neutral metal object.
+  - **Follow-Up-1**: What happens when you bring the charged balloon close to the metal object?
+  - **Follow-Up-2**: How can you prove that the metal object has become charged through induction?
+  - **Follow-Up-3**: What would happen if the balloon is negatively charged instead of positively?
+
+---
+
+### **Topic**: 10.4 Electroscope
+
+#### **Type**: Conceptual
+- **Main**: What is an electroscope, and how is it used to detect the presence of an electric charge?
+  - **Follow-Up-1**: Why do the leaves of the electroscope diverge when a charged object is brought near?
+  - **Follow-Up-2**: Explain how the electroscope can be used to determine the type of charge (positive or negative) on an object.
+  - **Follow-Up-3**: How can an electroscope be charged by induction?
+
+- **Main**: Explain the process of charging an electroscope by contact.
+  - **Follow-Up-1**: What happens to the charge on the electroscope when a positively charged object is touched to its metal disk?
+  - **Follow-Up-2**: Why do the leaves remain apart even after the charged object is removed?
+  - **Follow-Up-3**: How can the electroscope be discharged after it has been charged?
+
+#### **Type**: Numerical
+- **Main**: If an electroscope is charged with \(10 \, C\) of positive charge, calculate the force between its leaves if they are separated by a distance of 0.1 meters.
+  - **Follow-Up-1**: How would the force change if the charge is increased to \(20 \, C\)?
+  - **Follow-Up-2**: What happens to the force if the distance between the leaves is reduced to 0.05 meters?
+  - **Follow-Up-3**: How does the force change if the electroscope is charged with negative charge instead?
+
+#### **Type**: Application-Based
+- **Main**: Describe how an electroscope can be used to detect the presence of a small amount of charge on an object.
+  - **Follow-Up-1**: How can you increase the sensitivity of the electroscope to detect smaller charges?
+  - **Follow-Up-2**: What changes would you observe in the electroscope if a highly charged object is brought near it?
+  - **Follow-Up-3**: How can the electroscope be used to determine if an object is neutral?
+
+---
+
+
+### **Topic**: 10.5 Electric Force
+
+#### **Type**: Conceptual
+- **Main**: What is electric force, and how is it defined between two charged objects?
+  - **Follow-Up-1**: How does the electric force between two objects depend on the magnitude of the charges?
+  - **Follow-Up-2**: What happens to the electric force as the distance between two charged objects increases?
+  - **Follow-Up-3**: Compare the electric force with gravitational force. How are they similar and how are they different?
+
+- **Main**: Explain Coulomb's Law and its significance in calculating electric force.
+  - **Follow-Up-1**: Why is the force directly proportional to the product of the charges and inversely proportional to the square of the distance between them?
+  - **Follow-Up-2**: What is the role of the medium between the two charges in determining the electric force?
+  - **Follow-Up-3**: How does Coulomb's law apply to real-life situations such as the forces between atoms in a molecule?
+
+- **Main**: Describe the difference between attractive and repulsive electric forces.
+  - **Follow-Up-1**: Why do like charges repel each other, while opposite charges attract?
+  - **Follow-Up-2**: How does the force between two like charges differ from the force between two opposite charges?
+  - **Follow-Up-3**: Explain how the nature of the charges (positive or negative) affects the direction of the electric force.
+
+#### **Type**: Numerical
+- **Main**: Two charges, \( q_1 = 10 \, C \) and \( q_2 = 20 \, C \), are placed 2 meters apart in a vacuum. Calculate the force between them. (Use \( k = 9 \times 10^9 \, Nm^2/C^2 \)).
+  - **Follow-Up-1**: What happens to the force if the distance between the charges is halved?
+  - **Follow-Up-2**: How does the force change if the charges are reduced by half while keeping the distance constant?
+  - **Follow-Up-3**: Calculate the force if the charges are placed in water, where the dielectric constant is 80.
+
+- **Main**: Calculate the force between two charged bodies with charges of \( 15 \, C \) and \( 25 \, C \) placed 3 meters apart in air. Use Coulomb’s Law.
+  - **Follow-Up-1**: How would the force change if one charge is doubled?
+  - **Follow-Up-2**: What effect does tripling the distance between the charges have on the force?
+  - **Follow-Up-3**: Calculate the force if the medium between the charges is oil, with a dielectric constant of 2.5.
+
+#### **Type**: Application-Based
+- **Main**: How can Coulomb’s law be applied in calculating the force between two point charges in a physics lab experiment?
+  - **Follow-Up-1**: Describe an experiment where two charged spheres are suspended and the force between them is measured.
+  - **Follow-Up-2**: What would happen to the force if the spheres are replaced with objects of larger size but the same charge?
+  - **Follow-Up-3**: Explain how to determine whether the force between two objects is attractive or repulsive using Coulomb's law.
+
+- **Main**: Explain how the concept of electric force applies to everyday situations like rubbing a balloon on your hair.
+  - **Follow-Up-1**: Why does the balloon stick to your hair after being rubbed on it?
+  - **Follow-Up-2**: How is the electric force responsible for the balloon’s attraction to a neutral wall?
+  - **Follow-Up-3**: How does distance affect the strength of the attraction between the balloon and other objects?
+
+#### **Type**: Analytical
+- **Main**: Analyze how the electric force between two charges changes when the medium between them is changed from air to water.
+  - **Follow-Up-1**: How does the dielectric constant of the medium affect the magnitude of the electric force?
+  - **Follow-Up-2**: Why does the electric force decrease when a medium with a high dielectric constant is introduced?
+  - **Follow-Up-3**: Compare the electric force between two charges in air, water, and vacuum.
+
+- **Main**: Compare the behavior of electric force in different geometrical arrangements of charges, such as point charges, spherical charges, and linear charge distributions.
+  - **Follow-Up-1**: How does the electric force behave differently in the case of two point charges versus two spherical objects?
+  - **Follow-Up-2**: What is the effect of charge distribution along a line on the overall force experienced by a test charge nearby?
+  - **Follow-Up-3**: Explain why the force between spherical charges is calculated using their centers as reference points.
+
+#### **Type**: Experimental
+- **Main**: Design an experiment to measure the force between two charged objects using a simple spring balance.
+  - **Follow-Up-1**: How can you ensure that the charges on the two objects remain constant throughout the experiment?
+  - **Follow-Up-2**: What steps would you take to minimize external forces, such as gravity, that could affect the measurements?
+  - **Follow-Up-3**: How would you calculate the electric force if the spring balance reading gives you the force in Newtons?
+
+- **Main**: Demonstrate how to calculate the force between two charged spheres using Coulomb’s law and a graphical method.
+  - **Follow-Up-1**: How can you use a force-distance graph to analyze the relationship between the force and distance between charges?
+  - **Follow-Up-2**: What kind of graph would you expect if you plot force against the square of the distance?
+  - **Follow-Up-3**: How could experimental data be used to determine the value of the Coulomb constant?
+
+---
+
+### **Topic**: 10.6 Electric Field
+
+#### **Type**: Conceptual
+- **Main**: What is an electric field, and how is it related to electric force?
+  - **Follow-Up-1**: How is the direction of an electric field determined for a positive and negative charge?
+  - **Follow-Up-2**: How does the strength of the electric field vary with distance from the source charge?
+  - **Follow-Up-3**: Explain the concept of electric field lines and their significance in visualizing electric fields.
+
+- **Main**: Define electric field intensity and explain how it is calculated.
+  - **Follow-Up-1**: What is the unit of electric field intensity, and what does it represent?
+  - **Follow-Up-2**: How can you calculate the electric field intensity at a point due to a point charge?
+  - **Follow-Up-3**: What is the relationship between electric field intensity and the force experienced by a test charge placed in the field?
+
+- **Main**: Describe how electric field lines behave around isolated charges, dipoles, and systems of multiple charges.
+  - **Follow-Up-1**: How do the electric field lines look around a positive charge and a negative charge?
+  - **Follow-Up-2**: Why do electric field lines never cross each other?
+  - **Follow-Up-3**: What happens to the electric field lines when two equal positive charges are placed near each other?
+
+#### **Type**: Numerical
+- **Main**: Calculate the electric field intensity at a point 2 meters away from a charge of \( 5 \, C \).
+  - **Follow-Up-1**: How does the electric field intensity change if the distance is increased to 4 meters?
+  - **Follow-Up-2**: What would the electric field intensity be at a distance of 1 meter from the charge?
+  - **Follow-Up-3**: Calculate the force on a \( 2 \, C \) test charge placed at a point where the electric field intensity is \( 10^3 \, N/C \).
+
+- **Main**: A charge of \( 15 \, C \) creates an electric field. Calculate the electric field intensity at a distance of 5 meters from the charge.
+  - **Follow-Up-1**: How would the intensity change if the charge is reduced to \( 7.5 \, C \)?
+  - **Follow-Up-2**: Calculate the force on a \( 3 \, C \) test charge placed in the field.
+  - **Follow-Up-3**: If the medium between the charge and the point is changed from air to water, how does the electric field intensity change?
+
+#### **Type**: Application-Based
+- **Main**: Explain how electric fields are applied in technologies such as photocopy machines and inkjet printers.
+  - **Follow-Up-1**: How do electric fields help in directing ink droplets in an inkjet printer?
+  - **Follow-Up-2**: Describe how electric fields are used to create copies in a photocopier.
+  - **Follow-Up-3**: What would happen if the electric field used in these devices was too weak or too strong?
+
+- **Main**: How is the concept of electric fields used in the design of lightning rods to protect buildings?
+  - **Follow-Up-1**: Why are lightning rods pointed, and how does this shape affect
+
+ the electric field around them?
+  - **Follow-Up-2**: How does the electric field around a lightning rod prevent a lightning strike?
+  - **Follow-Up-3**: What role does grounding play in the effectiveness of a lightning rod system?
+
+#### **Type**: Analytical
+- **Main**: Analyze how electric field intensity varies in the region between two oppositely charged plates (a parallel plate capacitor).
+  - **Follow-Up-1**: How does the distance between the plates affect the electric field intensity?
+  - **Follow-Up-2**: Why is the electric field between the plates considered uniform?
+  - **Follow-Up-3**: How does increasing the charge on the plates affect the electric field intensity?
+
+- **Main**: Compare the behavior of electric fields around point charges and dipoles.
+  - **Follow-Up-1**: How do the field lines behave differently around a dipole compared to a single point charge?
+  - **Follow-Up-2**: What happens to the electric field in the space between the two charges of a dipole?
+  - **Follow-Up-3**: How does the electric field strength change as you move farther from the dipole compared to a single point charge?
+
+#### **Type**: Experimental
+- **Main**: Design an experiment to visualize electric field lines using small test charges or pieces of paper in an electrostatic field.
+  - **Follow-Up-1**: What materials would you need to visualize the electric field lines between two charged plates?
+  - **Follow-Up-2**: How can you ensure that the test charges are small enough not to disturb the electric field significantly?
+  - **Follow-Up-3**: How would you record and analyze the pattern of electric field lines observed?
+
+- **Main**: Create a demonstration to show how electric fields affect the motion of charged particles in a vacuum.
+  - **Follow-Up-1**: What equipment would you need to create a uniform electric field in a vacuum?
+  - **Follow-Up-2**: How would you track the motion of the particles as they move through the electric field?
+  - **Follow-Up-3**: What factors would you need to control to ensure that the motion observed is due solely to the electric field?
+
+---
+
+### **Topic**: 10.7 Electric Potential
+
+#### **Type**: Conceptual
+- **Main**: What is electric potential, and how is it defined in relation to work done on a charge?
+  - **Follow-Up-1**: How does electric potential differ from electric potential energy?
+  - **Follow-Up-2**: Why is the electric potential of a point charge dependent on its distance from the charge?
+  - **Follow-Up-3**: What is the relationship between electric field and electric potential?
+
+- **Main**: Explain electric potential difference. How does it relate to the flow of electric charge?
+  - **Follow-Up-1**: How can we measure the potential difference between two points in a circuit?
+  - **Follow-Up-2**: What happens to a charge when moved in the direction of an electric field versus against the field?
+  - **Follow-Up-3**: What instruments are commonly used to measure potential difference in circuits?
+
+- **Main**: Discuss the concept of zero potential and how it applies to grounding and the earth’s potential.
+  - **Follow-Up-1**: Why is the earth's electric potential typically considered zero?
+  - **Follow-Up-2**: What happens to the potential of a positively charged object when it is grounded?
+  - **Follow-Up-3**: How is grounding used in electrical safety systems to prevent potential hazards?
+
+#### **Type**: Numerical
+- **Main**: Calculate the electric potential at a point 2 meters away from a \( 5 \, C \) charge. (Use Coulomb's constant \( 9 \times 10^9 \, Nm^2/C^2 \)).
+  - **Follow-Up-1**: How does the potential change if the distance is increased to 4 meters?
+  - **Follow-Up-2**: How would the potential differ if the charge were doubled to \( 10 \, C \)?
+  - **Follow-Up-3**: Calculate the electric potential energy of a \( 2 \, C \) test charge placed at this point.
+
+- **Main**: Two charges, \( q_1 = 8 \, C \) and \( q_2 = 12 \, C \), are placed 3 meters apart. Calculate the potential at the midpoint between them.
+  - **Follow-Up-1**: How would the potential change if the distance between the charges is doubled?
+  - **Follow-Up-2**: What is the potential difference between a point 1 meter from \( q_1 \) and the midpoint?
+  - **Follow-Up-3**: Calculate the work needed to bring a \( 1 \, C \) charge from infinity to the midpoint.
+
+#### **Type**: Application-Based
+- **Main**: How is electric potential utilized in a battery to drive current through a circuit?
+  - **Follow-Up-1**: What role does electric potential difference play in determining current flow in a circuit?
+  - **Follow-Up-2**: How does the potential difference between the battery terminals change as the battery discharges?
+  - **Follow-Up-3**: How do electric potential and resistance combine to regulate current in a circuit?
+
+- **Main**: Describe how electric potential affects the motion of charges in an electric field.
+  - **Follow-Up-1**: How does a positive charge move in relation to a region of high potential?
+  - **Follow-Up-2**: Why do negative charges move in the opposite direction of positive charges in an electric field?
+  - **Follow-Up-3**: How can electric potential explain the behavior of charged particles in devices like cathode-ray tubes?
+
+#### **Type**: Analytical
+- **Main**: Compare the electric potential at different points around a uniformly charged spherical conductor.
+  - **Follow-Up-1**: Why is the electric potential inside the conductor constant, and what does it mean for the electric field inside?
+  - **Follow-Up-2**: How does the potential vary at points inside versus outside the sphere?
+  - **Follow-Up-3**: Explain how shielding and the behavior of conductors can protect sensitive equipment from external electric fields.
+
+- **Main**: Discuss the difference between electric potential and electric potential energy in the context of gravitational potential energy.
+  - **Follow-Up-1**: How does the analogy between gravitational potential and electric potential help in understanding electrostatics?
+  - **Follow-Up-2**: In what ways does electric potential energy depend on the interaction between two charges?
+  - **Follow-Up-3**: Why is electric potential considered a scalar quantity, while electric field is a vector?
+
+#### **Type**: Experimental
+- **Main**: Design an experiment to measure electric potential difference across two points in a circuit.
+  - **Follow-Up-1**: What instruments would you use to measure the potential difference, and how would they be connected?
+  - **Follow-Up-2**: How could you verify that the potential difference is consistent with Ohm's Law in the circuit?
+  - **Follow-Up-3**: How would you determine if the potential difference changes as resistance in the circuit increases?
+
+- **Main**: Demonstrate the relationship between electric potential and electric field using a parallel plate setup.
+  - **Follow-Up-1**: How can you create a uniform electric field between two parallel plates, and how would you measure the potential at different points?
+  - **Follow-Up-2**: What would you expect to observe if a positive charge is placed between the plates?
+  - **Follow-Up-3**: How could you alter the electric field strength and observe its impact on electric potential?
+
+---
+
+### **Topic**: 10.8 Electric Capacitor
+
+#### **Type**: Conceptual
+- **Main**: What is a capacitor, and how does it store electrical energy?
+  - **Follow-Up-1**: How is the capacitance of a capacitor related to its physical properties, such as plate area and separation?
+  - **Follow-Up-2**: What is the role of the dielectric in a capacitor, and how does it affect the overall capacitance?
+  - **Follow-Up-3**: Compare the energy storage capacity of a capacitor to that of a battery.
+
+- **Main**: Explain the working principle of a parallel plate capacitor.
+  - **Follow-Up-1**: How does increasing the distance between the plates affect the capacitance?
+  - **Follow-Up-2**: How does increasing the plate area affect the capacitance of the capacitor?
+  - **Follow-Up-3**: How does the dielectric constant of the material between the plates impact the capacitance?
+
+#### **Type**: Numerical
+- **Main**: Calculate the capacitance of a parallel plate capacitor with plates of area \( 0.5 \, m^2 \) separated by \( 0.01 \, m \) with a dielectric constant of 4.
+  - **Follow-Up-1**: How would the capacitance change if the dielectric constant is increased to 6?
+  - **Follow-Up-2**: Calculate the charge stored on the capacitor if a \( 50 \, V \) potential difference is applied across it.
+  - **Follow-Up-3**: How would the energy stored in the capacitor change if the plate separation is reduced to \( 0.005 \, m \)?
+
+- **Main**: A capacitor with a capacitance of \( 10 \, \mu F \) is charged to a potential difference of \( 200 \, V \). Calculate the energy stored in the capacitor.
+  - **Follow-Up-1**: How does the stored energy change if the capacitance is doubled?
+  - **Follow-Up-2**: What happens to the energy if the potential difference is reduced to \( 100 \, V \)?
+  - **Follow-Up-3**: Calculate the charge on the capacitor at \( 200 \, V \).
+
+#### **Type**: Application-Based
+- **Main**: Explain the role of capacitors in electronic circuits such as timing circuits, filters, and power supplies.
+  - **Follow-Up-1**: How do capacitors smooth voltage fluctuations in power supplies?
+  - **Follow-Up-2**: Why are capacitors used in circuits that require energy storage and rapid discharge, such as camera flashes?
+  - **Follow-Up-3**: How does the use of capacitors in filters help in signal processing?
+
+- **Main**: Describe how capacitors are connected in series and parallel, and how these configurations affect the total capacitance.
+  - **Follow-Up-1**: How does the total capacitance change when capacitors are connected in series?
+  - **Follow-Up-2**: What happens to the total capacitance when capacitors are connected in parallel?
+  - **Follow-Up-3**: Why might an engineer choose to connect capacitors in series versus parallel in a specific application?
+
+#### **Type**: Analytical
+- **Main**: Compare the energy storage capabilities of capacitors with different dielectric materials.
+  - **Follow-Up-1**: How does increasing the dielectric constant affect the energy storage of a capacitor?
+  - **Follow-Up-2**: Why are some dielectric materials more effective than others for increasing capacitance?
+  - **Follow-Up-3**: How do air and vacuum compare as dielectric materials in
+
+ terms of energy storage?
+
+- **Main**: Analyze the effects of leakage in capacitors over time and how it impacts circuit performance.
+  - **Follow-Up-1**: What causes leakage in capacitors, and how can it be minimized?
+  - **Follow-Up-2**: How does leakage affect the charge storage and energy retention of capacitors?
+  - **Follow-Up-3**: Compare the performance of ideal capacitors and real-world capacitors in long-term energy storage.
+
+#### **Type**: Experimental
+- **Main**: Design an experiment to measure the capacitance of a parallel plate capacitor.
+  - **Follow-Up-1**: How would you measure the charge stored on the capacitor at different voltages?
+  - **Follow-Up-2**: What equipment would you need to accurately measure capacitance?
+  - **Follow-Up-3**: How would you calculate the energy stored in the capacitor at different voltage levels?
+
+- **Main**: Demonstrate the behavior of capacitors connected in series and parallel.
+  - **Follow-Up-1**: How would you measure the total capacitance of capacitors connected in series?
+  - **Follow-Up-2**: How would you verify that the total capacitance of capacitors connected in parallel is the sum of individual capacitances?
+  - **Follow-Up-3**: How would changing the capacitance values in the series or parallel arrangement affect the total capacitance?
+
+---
+
+### **Topic**: 10.9 Uses and Dangers of Static Electricity
+
+#### **Type**: Conceptual
+- **Main**: Describe the various uses of static electricity in daily life and industry.
+  - **Follow-Up-1**: How is static electricity used in electrostatic painting?
+  - **Follow-Up-2**: What role does static electricity play in inkjet printers?
+  - **Follow-Up-3**: How is static electricity utilized in air purifiers and dust collection?
+
+- **Main**: What are some of the dangers associated with static electricity?
+  - **Follow-Up-1**: Why is static electricity a risk during fuel transfer operations, such as refueling an airplane?
+  - **Follow-Up-2**: How can static electricity cause sparks that lead to explosions in flammable environments?
+  - **Follow-Up-3**: Explain the safety measures used to prevent static electricity buildup in industrial settings.
+
+#### **Type**: Numerical
+- **Main**: A fuel truck has a potential of \( 10,000 \, V \) due to static electricity buildup. If the capacitance between the truck and the ground is \( 2 \, \mu F \), calculate the charge stored on the truck.
+  - **Follow-Up-1**: How would the charge change if the capacitance is doubled?
+  - **Follow-Up-2**: Calculate the energy stored in the system.
+  - **Follow-Up-3**: How could grounding the truck safely discharge the stored energy?
+
+- **Main**: An inkjet printer uses charged ink particles to create images on paper. If the charge on each ink droplet is \( 2 \, \mu C \) and the electric field in the printer is \( 1000 \, N/C \), calculate the force on each droplet.
+  - **Follow-Up-1**: How does the force change if the charge on the droplet is doubled?
+  - **Follow-Up-2**: What happens to the force if the electric field strength is halved?
+  - **Follow-Up-3**: How does the motion of the droplet change as it passes through regions of different electric field strength?
+
+#### **Type**: Application-Based
+- **Main**: Explain how static electricity is used in spray painting to improve the efficiency and quality of the paint job.
+  - **Follow-Up-1**: Why is it important that the object being painted is grounded?
+  - **Follow-Up-2**: How does the charge on the paint particles help them stick to the surface of the object?
+  - **Follow-Up-3**: How does this process reduce the amount of wasted paint?
+
+- **Main**: Describe how static electricity is used in photocopiers to create copies of documents.
+  - **Follow-Up-1**: How do charged particles help transfer the toner to the paper in a photocopier?
+  - **Follow-Up-2**: Why is it necessary to ground certain parts of the photocopier during operation?
+  - **Follow-Up-3**: How does static electricity ensure that only the desired image or text is copied onto the paper?
+
+#### **Type**: Analytical
+- **Main**: Analyze the role of static electricity in the risk of explosions during fuel transfer.
+  - **Follow-Up-1**: What conditions make fuel transfer operations particularly susceptible to static discharge?
+  - **Follow-Up-2**: How can grounding and bonding procedures reduce the risk of static-related explosions?
+  - **Follow-Up-3**: Why is it important to discharge static electricity before refueling aircraft or large fuel tanks?
+
+- **Main**: Compare the beneficial uses of static electricity with the potential hazards it presents in industrial environments.
+  - **Follow-Up-1**: How is static electricity harnessed for beneficial purposes in manufacturing and printing?
+  - **Follow-Up-2**: What steps can be taken to minimize the hazards of static electricity in industrial settings?
+  - **Follow-Up-3**: Discuss how proper grounding and safety protocols can balance the uses and dangers of static electricity.
+
+#### **Type**: Experimental
+- **Main**: Design an experiment to demonstrate the attraction of small particles to a charged object using static electricity.
+  - **Follow-Up-1**: What materials would you need to generate static charge and observe particle movement?
+  - **Follow-Up-2**: How would you quantify the strength of the attraction based on the distance between the charged object and the particles?
+  - **Follow-Up-3**: How could you modify the setup to demonstrate the repulsion of similarly charged objects?
+
+- **Main**: Create an experiment to measure the buildup of static electricity on different materials through friction.
+  - **Follow-Up-1**: How would you measure the amount of charge generated on each material?
+  - **Follow-Up-2**: How can you test which material holds a greater static charge after friction?
+  - **Follow-Up-3**: How would you demonstrate the discharge of static electricity using a grounding technique?
+
+---
+
+

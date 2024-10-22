@@ -1,0 +1,2152 @@
+{
+    "chapter": "4 - Work, Energy, and Power",
+    "topics": [
+        {
+            "topic": "4.1 Work",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define work in the context of physics and explain how it differs from the everyday understanding of the term.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is no work done if a person holds a heavy object stationary?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Under what conditions can force be applied without doing work?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does displacement affect the definition of work?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is pushing against a wall without moving it considered no work in physics?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain why work is only done when force causes displacement in the direction of force.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the concept of work differ between a constant force and a variable force?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how work is related to energy transfer in a physical system.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can a moving object with no applied force still be doing work? Why or why not?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important that force and displacement must be in the same direction for work to be considered positive?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the concept of zero work with real-world examples.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does carrying an object horizontally result in no work done by gravity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is zero work possible when a force is applied over a displacement?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why walking with a heavy load on level ground does no work on the load.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of zero work apply to a satellite moving in a circular orbit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the work done if a 10 N force moves an object 5 meters in the direction of the force.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the work done if the force is applied perpendicular to the direction of displacement?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A person pushes a box with a force of 20 N over a distance of 8 meters. Calculate the work done.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a 15 N force moves an object 2 meters in the opposite direction of the force, what is the work done?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work is done by a 50 kg person climbing a 10 m high staircase (assuming g = 9.8 m/s\u00b2)?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A force of 30 N moves an object 10 m in the direction of the force. Calculate the work done.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the same force moves the object at a 30\u00b0 angle to the displacement, what is the new work done?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work is done when the force is doubled but the displacement remains the same?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A 500 N weight is lifted vertically 2 meters. Calculate the work done against gravity.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the work done if a 100 N force moves an object 4 meters horizontally, but friction acts against the motion with a force of 30 N?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the work done by a 60 kg person climbing a 100 m hill (g = 9.8 m/s\u00b2).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the same person climbs a 200 m hill, how does the work change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the incline is reduced and the person climbs the same vertical height, how does the work change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the work done if the person descends the hill instead of climbing it?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much more work is required if the person carries an additional 10 kg of load?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "In what real-life situations would work be zero even though force is applied?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Provide an example where work is done by a force but no displacement occurs.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a crane lifts a load to a certain height and holds it stationary, is work done during the lifting and holding phases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the angle between force and displacement affect the work done in a practical scenario (e.g., carrying a suitcase)?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the concept of work applies to the motion of a satellite in orbit.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe a situation where negative work is done, and explain its significance in everyday physics.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Provide an example from sports where negative work plays a role.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of negative work apply to braking in a car?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can negative work occur in weightlifting exercises? Why or why not?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does negative work relate to energy dissipation in mechanical systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is work done by gravitational force when an object falls freely from a certain height?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain why the work done by gravity depends on the height the object falls from.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If an object is thrown upward instead, how does the work done by gravity change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of work help in determining the velocity of a falling object just before it hits the ground?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does air resistance affect the work done by gravity during free fall?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss why work is considered a scalar quantity even though force and displacement are vector quantities.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would happen to the work done if the force and displacement are in opposite directions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the magnitude of work change when the angle between force and displacement increases from 0\u00b0 to 90\u00b0?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does increasing the displacement in the same direction as force increase the amount of work done?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the difference between positive work and negative work in physics.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how work done can be both positive and negative, and provide examples of each.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the significance of positive work in terms of energy transfer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of negative work relate to energy absorption in a system?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide an example of negative work done in mechanical systems.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what scenario would the total work done on an object be zero?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss how work done is affected by the angle between force and displacement, and derive the mathematical relationship.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the angle between force and displacement is 90\u00b0, explain why the work done is zero.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the work done when a force of 50 N is applied at a 45\u00b0 angle to the displacement of 5 meters.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the angle affect the amount of energy transferred through work?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what real-life situations is work maximized by reducing the angle between force and displacement?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A man of mass 70 kg climbs a mountain of height 200 meters. Calculate the work done by the man.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What factors would affect the total work done if the mountain height was doubled?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the man climbs at an angle, how does the angle affect the total work done?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference in work done if the man descends the mountain instead of climbing?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work is done by gravity during the ascent?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A force of 100 N is applied to pull a cart over a distance of 20 meters at a 60\u00b0 angle. Calculate the work done.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the work done if the angle changes to 30\u00b0 while the other conditions remain the same?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the force is increased to 150 N while keeping the same angle, how much work is done?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does friction impact the total work done in this scenario?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the work done if the cart is pushed instead of pulled, with the force still at a 60\u00b0 angle.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "4.2 energy",
+            "types": [
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A person pushes a lawnmower with a force of 200 N over a distance of 10 meters, but 50 N of friction opposes the motion. Calculate the net work done.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does increasing the force applied affect the net work done?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the lawnmower is pushed at a steeper angle, how does the angle affect the work done?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the work done if the person pushes the lawnmower uphill with the same force over the same distance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the work change if the lawnmower is pushed downhill instead?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define energy in the context of physics and explain how it relates to the ability to do work.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is energy transferred when work is done on an object?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the different forms of energy commonly encountered in everyday life?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does energy relate to the conservation of mechanical systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why energy is considered a scalar quantity.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the relationship between work and energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the concept of energy explain the ability of a system to do work?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how potential energy is related to work done against a force.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does kinetic energy contribute to the total energy in a mechanical system?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what situations does energy transformation occur without any work being done?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 70 kg person runs up a flight of stairs with a height of 5 meters. Calculate the gravitational potential energy gained (g = 9.8 m/s\u00b2).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the same person runs up a 10-meter staircase, how does the potential energy change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much kinetic energy does the person have if they are running at 5 m/s?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the total mechanical energy (potential + kinetic) of the person when running at the top of the stairs.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work is done if the person descends the stairs instead?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car has a mass of 1000 kg and is moving at a velocity of 20 m/s. Calculate its kinetic energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the car\u2019s speed doubles, how does its kinetic energy change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the car's kinetic energy if its mass is halved?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the work required to bring the car to rest from 20 m/s.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the kinetic energy change if the car moves at 30 m/s instead of 20 m/s?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how energy conservation applies to the motion of a pendulum.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the pendulum transform potential energy into kinetic energy as it swings?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "At what point in the pendulum\u2019s motion is the potential energy maximized, and when is kinetic energy maximized?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does friction affect the total energy in the pendulum system?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the length of the pendulum affect its energy transformations?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe the role of energy transformation in an electric motor.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is electrical energy converted into mechanical energy in a motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the efficiency of energy conversion affect the motor\u2019s performance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how heat energy is generated in an electric motor due to inefficiencies.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can improving energy efficiency reduce the operational costs of electric motors?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the law of conservation of energy and provide examples of how energy is transformed from one form to another.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it said that energy cannot be created or destroyed, only transformed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Give an example where chemical energy is transformed into mechanical energy.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does energy transformation explain the operation of a hydroelectric power plant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the law of conservation of energy apply to closed systems, such as in a sealed container of gas?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the difference between kinetic and potential energy, and provide examples of each.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is kinetic energy dependent on both mass and velocity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe a scenario where potential energy is converted to kinetic energy.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does an object at a higher altitude have more potential energy than an object at ground level?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the total mechanical energy of a system conserved when only kinetic and potential energies are considered?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 5 kg object is placed at a height of 10 meters above the ground. Calculate its gravitational potential energy (g = 9.8 m/s\u00b2).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the object falls to the ground, what will be its kinetic energy just before impact, assuming no air resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work is done by gravity as the object falls?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If air resistance does 20 J of work on the object, what will be its kinetic energy just before hitting the ground?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the object\u2019s velocity just before it hits the ground.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 2 kg block slides down a frictionless incline of height 5 meters. Calculate the block\u2019s speed at the bottom of the incline.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the total mechanical energy of the block at the top of the incline?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the potential energy of the block change as it slides down?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the block\u2019s kinetic energy change as it reaches the bottom?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would adding friction to the incline affect the final speed of the block?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the concept of mechanical energy and its two main forms: kinetic and potential.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is mechanical energy used in everyday machines, such as cars and bicycles?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss how mechanical energy is conserved in systems without friction.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do machines need energy input to perform work if mechanical energy is conserved?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does mechanical energy transform into other forms of energy, such as heat or sound, in real-life scenarios?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 10 kg object is moving with a velocity of 15 m/s. Calculate its kinetic energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the object\u2019s velocity is increased to 30 m/s, how does its kinetic energy change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work is required to bring the object to rest from its initial velocity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the object\u2019s mass is halved, how does this affect its kinetic energy at the same velocity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the object\u2019s momentum and compare it with its kinetic energy.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "4.3 Prime Sources of Energy:",
+            "types": [
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss how energy is stored in food and how it is converted into usable mechanical energy by the human body.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is chemical energy in food transformed into kinetic energy during exercise?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how energy stored in the body as fat can be released as mechanical energy.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of ATP in energy transfer in biological systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the law of conservation of energy demonstrated in the metabolic processes of living organisms?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the primary sources of energy used in modern societies?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do fossil fuels (coal, oil, and natural gas) serve as major sources of energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why the sun is considered the ultimate source of energy for most of the energy sources on Earth.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do renewable and nonrenewable energy sources differ in terms of availability and environmental impact?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of energy conversion in various prime energy sources?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the environmental impacts of using fossil fuels as a primary energy source.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the burning of coal contribute to air pollution and climate change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is oil considered both a valuable resource and a major environmental hazard?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does natural gas play in reducing carbon emissions compared to coal and oil?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does acid rain result from the combustion of fossil fuels?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a coal power plant consumes 1000 tons of coal per day to generate electricity, how much energy is produced if the energy content of coal is 24 MJ/kg?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Calculate the annual energy production if the plant operates 365 days a year.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much CO\u2082 is produced if burning 1 kg of coal releases 2.44 kg of CO\u2082?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the efficiency of the plant is 35%, how much useful energy is generated daily?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much coal would be saved annually if the plant's efficiency were increased to 40%?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A solar panel has an efficiency of 20% and receives 1000 W/m\u00b2 of sunlight. Calculate the energy output of a 10 m\u00b2 solar panel in one hour.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy would the panel generate over the course of a sunny day (10 hours)?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the panel's efficiency drops to 15%, how does the energy output change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy would be generated in a year, assuming 300 sunny days?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Compare the energy output of the solar panel to that of a small wind turbine producing 200 kWh per day.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is nuclear energy produced, and what makes it a significant source of energy?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the process of nuclear fission and how it generates energy.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the advantages and disadvantages of using nuclear energy compared to fossil fuels?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is nuclear waste managed, and why is it a significant concern for future generations?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss the role of nuclear energy in reducing greenhouse gas emissions.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does hydroelectric power generation work, and what are its benefits?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how the potential energy of water is converted into electrical energy in a hydroelectric dam.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the environmental and social impacts of building large hydroelectric dams?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does hydroelectricity contribute to energy sustainability?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What challenges do countries face when relying on hydroelectric power as a primary energy source?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the differences between renewable and nonrenewable energy sources, providing examples of each.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are fossil fuels considered nonrenewable, and how does their depletion affect global energy policies?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the main types of renewable energy, and how do they contribute to reducing environmental impact?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does energy from the sun drive most renewable energy sources, including solar, wind, and hydropower?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways are renewable energy technologies improving to make them more competitive with fossil fuels?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how biomass energy is produced and its role in the global energy mix.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is biomass converted into usable energy through processes like combustion and fermentation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the environmental benefits and drawbacks of using biomass as a fuel source?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does biomass contribute to energy sustainability, especially in developing countries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Compare the efficiency of biomass energy to other renewable energy sources like wind and solar.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wind turbine generates 500 kW of power at wind speeds of 12 m/s. Calculate the energy produced in one day.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is produced in a week if the wind speed stays constant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the wind speed decreases to 8 m/s, how does this affect the power generated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How many homes can be powered by this wind turbine if each home consumes 10 kWh per day?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the annual energy output of the turbine if it operates at full capacity for 250 days a year?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A geothermal plant has an output of 50 MW and operates 24 hours a day. Calculate the total energy produced in one month.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does this energy compare to that produced by a coal plant of the same capacity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the efficiency of the geothermal plant is 90%, how much total energy is utilized effectively?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much CO\u2082 emissions are avoided by using geothermal energy compared to coal?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors could influence the energy production from a geothermal plant, and how can these be managed?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is solar energy considered one of the most promising renewable energy sources?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do solar panels convert sunlight into electricity, and what are the key components involved?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What challenges do solar energy systems face, and how can they be overcome?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the efficiency of solar panels affect their overall energy output?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways can solar energy be integrated into the existing power grid to improve energy sustainability?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "4.4 Transformation of Energy:",
+            "types": [
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the use of natural gas reduce greenhouse gas emissions compared to coal and oil?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the environmental advantages of natural gas as a \"bridge fuel\" in the transition to renewable energy.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the main environmental concerns associated with natural gas extraction and use, such as fracking?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is natural gas used in combination with renewable energy sources in modern power systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What technologies are being developed to make natural gas even cleaner and more efficient?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define energy transformation and explain its significance in physical systems.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is energy transformed in a simple system like a pendulum?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the process of energy transformation in an electric motor.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does energy transformation occur in everyday activities like walking or running?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why energy transformations are never 100% efficient in real systems.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the role of energy transformation in power generation.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is mechanical energy converted into electrical energy in a power plant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how chemical energy from fossil fuels is transformed into electrical energy in thermal power plants.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the transformation of energy in a hydroelectric plant differ from that in a nuclear plant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is energy transformation essential for powering homes and industries?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A hydroelectric plant transforms potential energy into electrical energy. If the water falls from a height of 100 meters and the flow rate is 500 kg/s, calculate the power output assuming 80% efficiency (g = 9.8 m/s\u00b2).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the power output change if the height is doubled but the flow rate remains the same?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the energy produced in one hour at this power output.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the efficiency drops to 70%, how much energy is lost as heat?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the energy output change if the water flow rate is halved?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A car engine converts 25% of the chemical energy in gasoline into mechanical energy. If the car consumes 500 MJ of energy, how much mechanical energy is produced?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is lost in the form of heat and other inefficiencies?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the car's efficiency improves to 30%, how much more mechanical energy is produced from the same amount of gasoline?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate how much energy is required for the car to travel 100 km if its energy consumption is 5 MJ/km.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does improving the energy efficiency of a car affect its fuel consumption?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does energy transformation occur in a coal-fired power plant, from the burning of coal to the generation of electricity?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the role of steam in transforming thermal energy into mechanical energy in such a plant.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the turbine in a coal plant convert mechanical energy into electrical energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the energy that is not transformed into electricity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the efficiency of coal-fired power plants typically below 50%?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how solar panels transform light energy into electrical energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do photovoltaic cells convert solar radiation into usable electricity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the efficiency of a solar panel affect its energy output?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the energy that is not converted into electricity in a solar panel system?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can improvements in photovoltaic technology increase the overall efficiency of solar energy transformation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the law of conservation of energy and its role in energy transformation processes.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the law of conservation of energy apply to the transformation of kinetic energy into potential energy and vice versa?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why energy can neither be created nor destroyed, only transformed.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide an example of energy transformation where mechanical energy is conserved but converted into other forms.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the law of conservation of energy apply to the transformation of energy in a closed system like a battery?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how energy is transformed in everyday appliances, such as a refrigerator or a television.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does electrical energy in a refrigerator transform into cooling energy to preserve food?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a television transform electrical energy into light and sound energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss the inefficiencies in energy transformation in everyday household appliances.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can energy-efficient appliances reduce overall energy loss during transformation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wind turbine transforms 30% of the wind's kinetic energy into electrical energy. If the wind speed is 12 m/s and the air density is 1.225 kg/m\u00b3, calculate the power generated by a turbine with a blade radius of 30 meters.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the power output change if the wind speed increases to 15 m/s?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the total energy produced by the turbine in one day of operation at full capacity.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the turbine's efficiency increases to 35%, how much more electrical energy is produced?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does air density affect the power generated by the wind turbine?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "4.5 Power:",
+            "types": [
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A solar farm transforms 20% of the solar energy it receives into electricity. If the farm has a surface area of 10,000 m\u00b2 and receives 1000 W/m\u00b2 of sunlight, calculate the power generated by the farm.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is produced in one hour of sunlight?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the farm operates for 10 hours each day, how much energy is produced in a month?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the efficiency of the solar panels improves to 25%, how does the total energy output change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the energy output change if the farm receives only 800 W/m\u00b2 of sunlight due to cloudy weather?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define power in physics and explain its relationship to work and energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is power different from work, even though they are closely related?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is power considered a measure of how quickly work is done?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the difference between average power and instantaneous power.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of power apply to real-life scenarios like lifting weights or running?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the factors that affect the power output of a system.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does increasing the amount of work done in a shorter time period affect power?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does doing the same amount of work more slowly result in less power?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how force, displacement, and time interact to determine power output.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does power relate to energy consumption in machines and engines?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the power output of a person who lifts a 50 kg object to a height of 2 meters in 5 seconds (g = 9.8 m/s\u00b2).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the power if the person lifts the object in 3 seconds instead of 5?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy is expended during the lift?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the object is lifted to a height of 4 meters, how does the power output change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the power output change if the object is lifted twice as fast?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A motor does 1000 J of work in 10 seconds. Calculate the motor's power output.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the power output if the motor does the same work in 5 seconds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work does the motor do in 20 seconds at this power output?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the motor's efficiency is 80%, how much useful power is produced?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work does the motor do in one minute at full capacity?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is power calculated for a car engine, and why is it an important measure of performance?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how a car's horsepower rating relates to its acceleration and top speed.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does an increase in engine power improve the car's performance on the road?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does fuel efficiency relate to the power output of a car engine?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does power play in determining the towing capacity of a vehicle?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss how power is important in the context of household electrical appliances.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the power rating of an appliance, like a microwave or refrigerator, affect its energy consumption?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relationship between power and energy cost for operating high-power appliances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important for appliances to be energy-efficient in terms of power consumption?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the power rating of an air conditioner influence its cooling capacity?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the significance of the unit \"watt\" as a measure of power and how it relates to other energy units.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is power measured in watts, and how is this unit related to joules and seconds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does kilowatt-hour (kWh) differ from watt as a unit of energy consumption?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how watts, joules, and time are connected in determining the energy usage of electrical devices.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to consider both power and time when calculating energy bills?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the importance of power in physical exercises, like sprinting or weightlifting.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does power output relate to performance in short, intense activities like sprinting?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do athletes need to maximize power for quick, explosive movements?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is power output in weightlifting different from endurance-based exercises like long-distance running?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does power contribute to overall athletic performance in sports that require both speed and strength?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A pump raises 500 liters of water to a height of 20 meters in 30 seconds. Calculate the power output of the pump (1 liter of water = 1 kg, g = 9.8 m/s\u00b2).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the power output if the pump raises the same amount of water in 20 seconds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much work is done by the pump in raising the water?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the power output change if the height is doubled but the time remains the same?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the pump's efficiency is 75%, how much useful power is produced?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 1000 W motor lifts an elevator with a mass of 500 kg to a height of 10 meters. How long does it take for the motor to complete the lift (g = 9.8 m/s\u00b2)?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much work is done by the motor during the lift?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the power required if the elevator needs to be lifted in half the time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the power output change if the motor were 85% efficient?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the mass of the elevator is doubled, how does this affect the time and power required?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "4.6 Efficiency:",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is power an important factor in determining the energy consumption of industrial machines?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does increasing the power output of a machine affect its energy usage over time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how power efficiency can lead to cost savings in large-scale industrial operations.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it necessary to consider both power and time when evaluating the performance of industrial machinery?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can industries reduce power consumption without sacrificing production efficiency?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define efficiency in physics and explain why no system can be 100% efficient.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is efficiency calculated in the context of energy transfer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the main factors that cause a system to lose efficiency?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is friction a significant factor in reducing the efficiency of mechanical systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the efficiency of a machine affect the total energy output?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the importance of efficiency in the context of energy conservation.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it important to improve the efficiency of energy systems in industries and households?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do improvements in efficiency contribute to reducing energy costs?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how energy efficiency is related to environmental sustainability.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does efficiency play in the design of renewable energy systems like wind turbines and solar panels?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A motor uses 100 J of energy to lift a weight but only performs 80 J of useful work. Calculate the efficiency of the motor.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is wasted as heat or other forms?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the motor's efficiency improves to 90%, how much more useful work is performed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the energy loss if the motor's efficiency drops to 70%?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy would be required to perform 100 J of useful work at 75% efficiency?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A power plant generates 500 MW of electrical energy, but its input energy from coal is 1500 MW. Calculate the efficiency of the plant.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is lost as waste heat?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the plant's efficiency improves to 40%, how much electrical energy is produced?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much coal would be saved annually if the efficiency increases from 33% to 40%?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the amount of energy wasted over a 24-hour period at the current efficiency.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the efficiency of a car engine related to its fuel consumption?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how improving the efficiency of a car's engine reduces fuel usage.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do hybrid cars increase efficiency compared to traditional internal combustion engines?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the environmental benefits of increasing the efficiency of car engines?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the efficiency of a car change when driving at higher speeds or in stop-and-go traffic?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss how efficiency plays a role in the performance of renewable energy systems, such as solar panels and wind turbines.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the efficiency of a solar panel affect the total energy it can produce over a year?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the factors that reduce the efficiency of wind turbines?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can technological advancements improve the efficiency of renewable energy systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it crucial to maximize efficiency in renewable energy sources compared to fossil fuel power plants?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain why efficiency is expressed as a percentage and what it signifies about a system\u2019s performance.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is an efficiency greater than 100% physically impossible?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the concept of efficiency different in mechanical systems compared to electrical systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does efficiency impact the longevity and reliability of a machine?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of improving efficiency in large-scale power generation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Theoretical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the relationship between energy efficiency and the law of conservation of energy.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the law of conservation of energy explain why energy is always conserved, even in inefficient systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how increasing efficiency reduces the amount of energy lost as waste.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does improving efficiency not violate the conservation of energy principle?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does energy transformation in inefficient systems lead to increased waste, such as heat?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A machine performs 1500 J of useful work but requires 2000 J of input energy. Calculate the machine\u2019s efficiency.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is wasted as heat or other forms?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the machine\u2019s efficiency improves to 90%, how much useful work will it perform for the same input energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What input energy is required for the machine to perform 1500 J of useful work at 80% efficiency?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate how much energy would be wasted if the machine operated at 75% efficiency instead.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A hydroelectric power plant operates with an efficiency of 85% and generates 200 MW of electricity. How much energy is input into the system to achieve this output?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much energy is lost as waste during the process?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the efficiency drops to 80%, how much input energy is required to maintain the same output?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy would be saved annually if the efficiency increases from 85% to 90%?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What impact does a 5% improvement in efficiency have on the overall energy output of the plant?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual (new)",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is efficiency particularly important in the design of power plants and industrial machinery?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does improving efficiency lead to significant cost savings in large-scale operations?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are energy losses in the form of heat and friction more noticeable in large industrial machines?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do modern technologies aim to improve the efficiency of power plants?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the environmental impacts of improving the efficiency of industrial machinery?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based (new)",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the efficiency of household appliances, like refrigerators and air conditioners, impact energy consumption?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it important for appliances to have high energy efficiency ratings?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does using energy-efficient appliances help reduce electricity bills?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What technological advancements have improved the efficiency of household appliances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reducing the energy consumption of appliances contribute to sustainability?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
