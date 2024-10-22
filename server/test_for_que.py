@@ -100,6 +100,7 @@ Please provide a comprehensive answer that:
         
         for chapter_idx, chapter in enumerate(data, 1):
             print(f"\nProcessing Chapter {chapter_idx}/{total_chapters}: {chapter['chapter']}")
+            # print("hello")
             
             for topic in chapter["topics"]:
                 print(f"\nTopic: {topic['topic']}")
@@ -119,7 +120,7 @@ Please provide a comprehensive answer that:
 
 def main():
     GOOGLE_API_KEY = "AIzaSyAfBDLnOerYntiLjmwA0PmJ-yZmN5LvCJ0"
-    input_file = "output1.json"
+    input_file = "output2.json"
     
     try:
         generator = PhysicsQAGenerator(GOOGLE_API_KEY, input_file)
