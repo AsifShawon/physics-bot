@@ -1,0 +1,1839 @@
+{
+    "chapter": "",
+    "topics": [
+        {
+            "topic": "7.1 Periodic Motion Oscillatory or Harmonic Motion",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define periodic motion. Provide examples of both circular and linear periodic motion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is time period related to periodic motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Differentiate between circular and linear periodic motion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the motion of the hands of a clock represents periodic motion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the contraction and expansion of a spring considered periodic motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A pendulum completes 30 oscillations in 60 seconds. Calculate the time period of the pendulum.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the pendulum\u2019s frequency is 0.5 Hz, what is its time period?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A fan completes 10 rotations in 20 seconds. What is its time period?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How many complete oscillations will a pendulum make in 5 minutes if its time period is 2 seconds?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how periodic motion is used in clocks to measure time.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the periodic motion of a pendulum affect the accuracy of timekeeping?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the role of periodic motion in the functioning of electric fans.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide real-life examples where periodic motion plays an essential role in daily tasks.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define oscillatory or harmonic motion and describe how it differs from periodic motion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the oscillatory motion of a spring demonstrate harmonic motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the motion of a simple pendulum represents harmonic motion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what way does a vibrating tuning fork display harmonic motion?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the essential conditions for an object to exhibit harmonic motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the restoring force in a harmonic oscillator affect its motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the relationship between time period and frequency in harmonic motion.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how damping affects oscillatory motion.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the significance of time period in oscillatory motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can you calculate the time period of a simple pendulum based on its length?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the mass of an object affect the time period of a spring in oscillatory motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what situations can oscillatory motion become non-periodic?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.2 Waves",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe the role of oscillatory motion in shock absorbers.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does harmonic motion help maintain stability in vehicle suspensions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the consequences of poorly designed oscillatory systems in vehicles?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what other engineering applications is oscillatory motion utilized?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define a wave and describe the process by which a wave is created when a stone is thrown into water.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the difference between the movement of the water particles and the movement of the wave itself?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how energy is transferred in a wave without displacing the particles permanently.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Provide examples of mechanical waves in nature.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Differentiate between transverse and longitudinal waves.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Provide examples of transverse waves and longitudinal waves from everyday life.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the directions of vibration and wave propagation differ in transverse and longitudinal waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is sound considered a longitudinal wave while water waves are considered transverse?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "The wavelength of a transverse wave is 2 meters and its frequency is 3 Hz. Calculate the wave\u2019s velocity.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the velocity of sound in air is 340 m/s, calculate the wavelength of a sound wave with a frequency of 1000 Hz.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A longitudinal wave has a frequency of 500 Hz and travels at 200 m/s. What is its wavelength?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the time period of a wave is 0.02 seconds, what is its frequency?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how mechanical waves are used in communication systems.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do waves play a role in the transmission of sound in telecommunication devices?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways can understanding wave propagation help in designing better soundproof rooms?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do underwater waves affect the movement of ships or boats?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the importance of medium in the propagation of mechanical waves?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the absence of a medium affect the propagation of mechanical waves like sound?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the differences between mechanical and electromagnetic waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it that sound cannot travel in a vacuum?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.3 Wave Related Quantities",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the reflection of waves help in determining distances, such as in sonar technology?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how waves are used in echo-location systems by animals like bats.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do seismic waves help scientists in understanding the Earth\u2019s internal structure?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how medical imaging technologies like ultrasound make use of wave reflection.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define complete vibration in the context of waves.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does a complete vibration relate to wave motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the concept of complete vibration is applied in sound waves.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of complete vibrations in the study of wave mechanics?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wave completes 10 vibrations in 2 seconds. What is the frequency of the wave?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the time period of a wave is 0.5 seconds, calculate its frequency.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A vibrating particle completes 50 vibrations in 10 seconds. What is its time period?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the frequency of a wave if its time period is 0.1 seconds.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define time period and explain its significance in wave motion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the time period related to the frequency of a wave?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the relationship between time period and the wavelength of a wave.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the time period affect the speed of wave propagation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wave has a time period of 0.02 seconds. Calculate its frequency.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the frequency of a wave is 25 Hz, what is its time period?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The time period of a wave is 0.05 seconds. How many complete vibrations does it complete in 1 minute?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A sound wave takes 0.1 seconds to complete one oscillation. Find its frequency.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define amplitude in the context of waves and describe its role in wave motion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the amplitude of a wave related to the energy it carries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the amplitude of a sound wave affect its loudness?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the amplitude of a wave can be measured in different mediums.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how amplitude affects the intensity of sound in everyday experiences.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the amplitude of a wave influence the clarity of sound in music?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how controlling the amplitude of sound waves helps in reducing noise pollution.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is amplitude manipulated in audio recording technology to achieve better sound quality?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is wavelength and how is it defined in wave motion?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is wavelength related to the frequency of a wave?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relationship between wavelength and wave velocity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why different types of waves (e.g., sound and light) have different wavelengths.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wave travels at a speed of 300 m/s and has a frequency of 100 Hz. Calculate its wavelength.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a sound wave has a frequency of 200 Hz and a wavelength of 1.7 meters, calculate its speed.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The wavelength of a wave is 2 meters, and its time period is 0.5 seconds. Find the wave velocity.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A light wave has a wavelength of 500 nm and a speed of 3 x 10^8 m/s. Calculate its frequency.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define phase in wave motion and explain its importance.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does phase difference affect wave interference?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the concept of phase is used in determining the behavior of waves in a medium.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what way does phase difference impact sound quality in audio systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.4 A Few Relations",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the role of phase in noise-cancelling headphones.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the concept of phase difference utilized in radio signal transmission?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how wave phase is managed in light interference experiments like the double-slit experiment.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does phase synchronization affect the operation of complex machinery that relies on wave propagation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the relationship between frequency and time period in wave motion.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the frequency of a wave calculated from its time period?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the time period if the frequency of a wave is doubled?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the inverse relationship between frequency and time period important in wave mechanics?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wave has a frequency of 5 Hz. Calculate its time period.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the time period of a wave is 0.25 seconds, what is its frequency?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A wave completes 200 vibrations in 50 seconds. What is its frequency and time period?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the time period of a sound wave if its frequency is 250 Hz.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the relation between wave velocity and wavelength.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can the speed of a wave be calculated if its frequency and wavelength are known?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What effect does an increase in wavelength have on wave velocity if the frequency remains constant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe a real-life scenario where the relationship between wavelength and velocity is crucial.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wave has a frequency of 20 Hz and a wavelength of 0.5 meters. Calculate its velocity.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If a wave travels at 150 m/s and its wavelength is 3 meters, what is its frequency?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The wavelength of a wave is 2 meters and its velocity is 6 m/s. Calculate the frequency of the wave.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A wave travels with a velocity of 340 m/s and has a wavelength of 1.7 meters. What is its frequency?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the relationship between velocity and wavelength used in determining the speed of sound in air?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can this relation help in measuring the speed of water waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what way can the velocity-wavelength relation be applied to determine the frequency of light waves in optical fiber communication?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does this relation apply to seismic waves and their study in geology?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.5 Sound Wave",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What factors influence wave velocity in different mediums?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the nature of the medium affect the velocity of sound waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why sound travels faster in water than in air.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the velocity of light waves remain constant in a vacuum but changes in different media like water or glass?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define a sound wave and explain how it is produced.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is sound considered a mechanical wave?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between longitudinal and transverse waves, and why is sound classified as a longitudinal wave?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the process by which sound waves travel through different mediums like air, water, and solids.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the essential characteristics of sound waves?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the velocity of sound vary in different mediums?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why sound waves travel faster in solids compared to gases.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do temperature and humidity affect the velocity of sound?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "The speed of sound in air is 340 m/s. If a sound wave has a frequency of 500 Hz, calculate its wavelength.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the speed of sound in water is 1450 m/s, calculate the frequency of a sound wave with a wavelength of 2 meters.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A sound wave has a frequency of 1000 Hz and a wavelength of 0.34 meters. Calculate its velocity.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The frequency of a sound wave is 256 Hz, and its wavelength is 1.3 meters. What is the speed of the sound wave?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are sound waves used in communication systems like telephones?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the role of sound waves in musical instruments.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do sound waves help in medical diagnostics, such as ultrasound imaging?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the application of sound waves in underwater communication.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how sound waves create the sensation of hearing in the human ear.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is a medium necessary for the propagation of sound waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the frequency of sound waves affect the pitch of the sound we hear?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the relationship between sound wave amplitude and loudness.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.6 Echo",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does sound pollution occur and what are its effects on human health?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What measures can be taken to reduce sound pollution in urban areas?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do noise-cancelling technologies work in minimizing the effects of sound pollution?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the role of urban planning in controlling sound pollution in residential areas.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is an echo, and how is it produced?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the principle of sound reflection that causes an echo.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the minimum distance required between the source of sound and the reflector to hear an echo? Why?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it difficult to hear an echo in small rooms?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the concept of echo used to measure distances in real-world applications?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how sonar technology utilizes echoes to measure the depth of the ocean.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do animals like bats use echoes to navigate in the dark?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the use of echo in medical diagnostics, such as echocardiography.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If the speed of sound in air is 340 m/s, calculate the minimum distance required to hear an echo when the persistence of hearing is 0.1 seconds.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A person standing near a mountain hears an echo after 2 seconds. If the speed of sound in air is 340 m/s, calculate the distance of the mountain from the person.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the time taken for an echo to return is 1.5 seconds and the speed of sound is 330 m/s, calculate the distance to the reflecting surface.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A man standing on one side of a river claps and hears an echo after 4 seconds. If the speed of sound in air is 343 m/s, calculate the width of the river.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.7 Uses of Echo",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain why echoes are not commonly heard in day-to-day conversations.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the nature of the surface affect the strength of an echo?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do softer surfaces absorb sound and prevent the formation of an echo?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does distance influence the quality and volume of an echo?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is echo used to measure the depth of a well?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe the process of calculating the depth of a well using the time taken for an echo to return.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why can this method not be used if the well is less than 16.6 meters deep?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors can affect the accuracy of echo-based depth measurement?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do bats use echoes to hunt for prey?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how ultrasonic sound helps bats in navigating and hunting.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What challenges do bats face when relying on echo-location in areas with high electrical infrastructure?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is human technology, such as sonar, inspired by the natural echo-location systems used by bats?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A man claps near a well and hears the echo 3 seconds later. If the speed of sound in air is 340 m/s, calculate the depth of the well.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the speed of sound is 330 m/s and the echo is heard after 1.8 seconds, what is the depth of the well?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The time difference between the production of a sound and hearing its echo is 2.5 seconds. If the speed of sound is 343 m/s, calculate the depth of the well.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A person hears an echo after 1 second. If the distance between the person and the reflecting surface is 170 meters, what is the speed of sound in the medium?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is echo used in locating mineral resources underground?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the principle behind using echo to find mineral deposits.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What technologies utilize echo-based methods to detect valuable resources beneath the Earth\u2019s surface?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does echo-based resource detection differ from traditional methods of exploration?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.8 Variation of Velocity of Sound",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is echo used in sonar to detect objects underwater?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how echo helps in determining the distance and size of underwater objects.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the role of sonar in submarine navigation and marine exploration.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What challenges arise when using sonar in deep-sea exploration?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What factors affect the velocity of sound in different mediums?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the velocity of sound vary in solids, liquids, and gases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how temperature affects the velocity of sound in air.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the velocity of sound higher in solids compared to gases?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does humidity affect the velocity of sound in the air?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain why the velocity of sound is greater in humid air than in dry air.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the density of air change with humidity, and how does this affect sound propagation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe a real-world scenario where the effect of humidity on sound velocity is noticeable.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "The speed of sound in air at 0\u00b0C is 332 m/s. If the speed increases to 344 m/s at 20\u00b0C, calculate the rate of increase in sound velocity per degree Celsius.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the speed of sound at 30\u00b0C is 350 m/s, what would be the expected speed at 50\u00b0C?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A sound wave travels through water with a speed of 1450 m/s. If the temperature of the water increases by 10\u00b0C, estimate the change in sound velocity assuming a proportional relationship.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the velocity of sound in air at 10\u00b0C if the velocity at 0\u00b0C is 332 m/s, assuming a constant rate of increase with temperature.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the variation in sound velocity affect the design of audio systems in different environments?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why must engineers consider temperature and medium when designing sound systems for outdoor concerts?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how changes in sound velocity influence the acoustics of large buildings like concert halls.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what ways can knowledge of sound velocity help meteorologists in weather prediction?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain why the velocity of sound increases with the increase in temperature.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the kinetic theory of gases explain the relationship between temperature and sound velocity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does sound travel faster in summer than in winter?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what way does an increase in temperature affect the molecular motion in the air, thereby affecting sound propagation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.9 Audibility Range and Their Uses",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the velocity of sound in air vary at different altitudes, and what impact does this have on aviation communication?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how pilots use knowledge of sound velocity in air traffic control systems.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it essential to consider the speed of sound when designing communication systems for high-altitude aircraft?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does sound velocity variation with altitude affect military operations, especially those relying on sonar or radar?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the range of audibility for human hearing, and why are there limits to what we can hear?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Define infrasonic and ultrasonic sounds. How do these differ from sounds in the audible range?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are humans unable to hear sounds with frequencies below 20 Hz and above 20,000 Hz?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the significance of the human hearing range in designing audio devices like headphones.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do animals like bats and dogs use sounds beyond the human range of hearing?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What advantages do animals with ultrasonic hearing have over humans in terms of communication and navigation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how bats use ultrasonic sound to hunt for prey using echolocation.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do elephants communicate using infrasonic sounds, and why is this useful over long distances?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is ultrasonic sound used in medical diagnostics like ultrasonography?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe how ultrasonic waves help in detecting internal body structures during an ultrasound scan.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the advantages of using ultrasound in medical imaging compared to other methods like X-rays?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do ultrasonic waves help in breaking kidney stones through lithotripsy?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the principle of infrasonic sound used to detect natural disasters like earthquakes?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how seismologists use infrasonic waves to monitor seismic activities.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can infrasonic sound help in predicting volcanic eruptions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Discuss the role of infrasonic sound in early warning systems for tsunamis.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "The frequency of a sound wave is 50 Hz, and its velocity in air is 340 m/s. Calculate whether this sound is audible to humans.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A sound wave has a frequency of 10 Hz. Is this sound audible to humans? Justify your answer.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The frequency of a sound wave is 25,000 Hz, and its speed is 343 m/s. Calculate the wavelength of this sound and determine if it is within the audible range.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a sound wave with a frequency of 15 Hz travels through air at a speed of 340 m/s, what is its wavelength, and can humans hear it?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the range of audibility impact the design of hearing aids?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What factors must be considered when designing hearing aids to enhance sounds within the human audible range?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do modern hearing aids amplify sounds while filtering out infrasonic and ultrasonic noise?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the role of frequency modulation in hearing aid technology.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.10 Musical Sound and Its Characteristics",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is ultrasonic sound used in cleaning delicate equipment and materials?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how ultrasonic waves are used to clean jewelry and electronic components.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are ultrasonic cleaners preferred over traditional methods for cleaning complex machinery?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how ultrasonic waves can be used in non-destructive testing to detect flaws in metal objects.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is musical sound, and how is it different from noise?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Define the three main characteristics of musical sound: loudness, pitch, and quality (timbre).",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how the intensity of sound affects its loudness.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the pitch of a sound relate to its frequency?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the concept of pitch and its importance in musical sound.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does frequency influence the pitch of musical notes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do high-frequency sounds have a higher pitch compared to low-frequency sounds?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is pitch used to distinguish between the sound produced by different musical instruments?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the quality (timbre) of a musical sound used to differentiate between two musical instruments playing the same note?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how the harmonic content of a sound wave affects its timbre.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do two instruments, like a piano and a violin, sound different even when they play the same pitch and loudness?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can musicians modify the timbre of an instrument during a performance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a musical sound has a frequency of 500 Hz and its wavelength is 0.68 meters, calculate the speed of the sound wave.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A sound wave with a frequency of 256 Hz travels at 340 m/s. Calculate its wavelength.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The speed of sound in air is 343 m/s, and the frequency of a sound wave is 440 Hz (the standard pitch for musical tuning). Calculate the wavelength.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the frequency of a musical note is doubled, what happens to its wavelength, assuming the velocity of sound remains constant?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the loudness of a sound depend on its amplitude?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is the intensity of sound proportional to the square of its amplitude?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the loudness of a musical sound be increased without changing its pitch?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why the loudness of sound diminishes with distance from the source.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do musical instruments produce sound with varying pitch, loudness, and quality?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how a guitar produces different pitches by changing the length of vibrating strings.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how the construction of a wind instrument, such as a flute, affects the sound it produces.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do digital sound synthesizers replicate the characteristics of different musical instruments?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "7.11 Noise Pollution",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the factors that influence the quality of sound in a concert hall?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do reverberation and acoustics affect the musical experience in large venues?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the design of a concert hall important for enhancing the quality of musical sound?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does sound absorption by walls and ceilings impact the acoustics of a musical performance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define noise pollution and explain how it differs from regular sound.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are the primary sources of noise pollution in urban areas?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does prolonged exposure to noise pollution affect human health?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why certain sounds are classified as noise, while others are considered pleasant or musical.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the harmful effects of noise pollution on human health and the environment?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can noise pollution lead to psychological issues like stress and anxiety?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the impact of loud, continuous noise on hearing and how it leads to hearing loss.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the consequences of noise pollution on wildlife and natural habitats?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can urban planners and engineers help in reducing noise pollution in cities?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role does noise insulation play in reducing noise levels in residential and commercial buildings?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how green spaces and trees help reduce noise pollution in urban environments.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What steps can governments take to regulate noise levels in public places and industries?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can individuals reduce noise pollution in their daily lives?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are some simple ways to reduce noise pollution at home or in the workplace?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the use of noise-cancelling devices contribute to reducing the effects of noise pollution?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does public awareness play in controlling noise pollution?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A sound system in a residential area produces noise at a level of 85 dB. Calculate the reduction in sound intensity required to bring the noise level down to a safe limit of 70 dB.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the sound intensity is reduced by 50%, what is the new decibel level?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A vehicle horn produces a sound level of 100 dB. If a soundproof barrier reduces the sound intensity by 75%, what is the new decibel level experienced by a listener?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "The permissible noise level in a residential zone is 55 dB. If a factory produces noise at 75 dB, by what percentage should the noise be reduced to meet the permissible limit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does noise pollution affect the performance of students and workers?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it essential to control noise levels in educational institutions and offices?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can background noise impact concentration and productivity in workplaces?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What strategies can be employed to create a quieter and more focused learning or working environment?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do industries and factories contribute to noise pollution, and what measures can be taken to mitigate it?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how soundproofing machinery and industrial equipment can reduce noise pollution in factories.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the benefits of setting up factories away from residential areas to control noise pollution?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how noise regulations can be enforced in industries to ensure compliance with noise pollution standards.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

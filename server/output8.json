@@ -1,0 +1,1552 @@
+{
+    "chapter": "",
+    "topics": [
+        {
+            "topic": "8.1 Nature of Light",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the major properties of light?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does light behave when traveling through a homogeneous medium?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it said that light behaves both as a wave and as a particle?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how light enables us to see objects around us.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What historical misconceptions did humans have about the nature of light?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the time taken for light to travel from the Sun to Earth (given the speed of light as \\(3 \\times 10^8 \\, \\text{m/s}\\) and the distance between the Sun and Earth as \\(1.496 \\times 10^{11} \\, \\text{m}\\)).",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would be the time taken for light to travel across a distance of 300,000 km (approximately Earth-Moon distance)?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If light enters a medium where its speed decreases to \\(2 \\times 10^8 \\, \\text{m/s}\\), how long would it take to travel 1 meter in that medium?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much distance would light cover in 2.5 nanoseconds?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the dual nature of light (as both wave and particle) affect technologies like lasers or optical fibers?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe the role of light in photography.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does light's energy property help in the development of solar panels?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the importance of light polarization in 3D movie viewing.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.2 Laws of Reflection of Light",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If light is a form of energy, can it be stored? Why or why not?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do scientists reconcile the wave-particle duality in the quantum model of light?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What might be the limitations of the speed of light in scientific research and technology?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Could there be particles traveling faster than light? What would the implications be?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "State the two laws of reflection of light.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do the incident ray, the reflected ray, and the normal lie on the same plane?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can the angle of reflection ever be greater than the angle of incidence? Why or why not?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some examples of reflection in daily life?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A light ray strikes a plane mirror at an angle of incidence of 35\u00b0. Calculate the angle of reflection.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the angle between the incident ray and the reflected ray is 50\u00b0, what is the angle of incidence?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How many reflections will occur if a light beam strikes two parallel mirrors at an angle of 60\u00b0?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the angle of deviation if a ray is reflected twice by two mirrors inclined at 90\u00b0.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe the significance of regular reflection in optical devices like mirrors or telescopes.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does irregular reflection help in making objects visible in low light?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are convex mirrors used in vehicles to ensure safety?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how periscopes utilize the laws of reflection for their operation.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What would happen if the laws of reflection were not obeyed in a mirror?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Could reflection occur if the medium was not transparent or smooth? Explain.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of reflection extend to sound and other types of waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Could future technologies alter or exploit the laws of reflection in ways currently unforeseen?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define the laws of reflection of light.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain why the angle of incidence equals the angle of reflection.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the nature of the surface affect reflection?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is reflection necessary to form images in mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do the laws of reflection apply to curved mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how reflection is used in fiber optics.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A light ray strikes a mirror at a 40\u00b0 angle of incidence. Find the angle between the incident and reflected rays.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the angle between the incident and reflected rays is 60\u00b0, what is the angle of incidence?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A plane mirror reflects light at an angle of 30\u00b0. What was the angle of incidence?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the deviation of light if it reflects off two mirrors placed at a 90\u00b0 angle.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How many reflections occur in a mirror tunnel if light reflects 4 times? What is the total path length?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the angle of reflection change if the mirror is rotated by 10\u00b0?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the difference between specular and diffused reflection with examples.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does light reflect differently on rough surfaces?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are sound waves reflected similarly to light waves?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens if two plane mirrors are placed at a 180\u00b0 angle?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.3 Mirror",
+            "types": [
+                {
+                    "type": "Diagram-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Draw a diagram showing multiple reflections between two mirrors at 90\u00b0 angles.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Sketch the incident and reflected rays for a light beam striking a smooth metal surface.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Draw the path of a light ray passing through two plane mirrors inclined at 60\u00b0.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Illustrate how reflection from a curved surface affects the direction of the light ray.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is a mirror, and how does it form an image?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Differentiate between plane and spherical mirrors.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does silvering of glass help create a mirror?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do surfaces like calm water act as mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the two types of spherical mirrors? Describe them.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A spherical mirror has a radius of curvature of 40 cm. What is its focal length?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If an object is placed 60 cm from a concave mirror with a focal length of 20 cm, where will the image be formed? Use the mirror formula.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the magnification of an object placed 30 cm in front of a convex mirror with a focal length of 15 cm.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A plane mirror reflects light from a point source 2 meters in front. Where will the virtual image appear?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much time will light take to travel from an object to its image, if the mirror is 3 meters away from the object?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are concave mirrors used in telescopes and shaving mirrors?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are convex mirrors preferred in security systems and rearview mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how a dentist uses a concave mirror for examinations.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do convex mirrors assist in reducing blind spots on roads?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the process of forming a simple periscope using plane mirrors.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Diagram-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Draw and label a diagram of a concave and a convex mirror, indicating their focal points and center of curvature.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Show how parallel rays are reflected by a concave mirror to converge at the focus.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Draw a ray diagram showing image formation in a convex mirror when an object is placed at infinity.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Sketch the setup for a periscope using two plane mirrors.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What would happen if the silver coating on a mirror was imperfect?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do mirrors sometimes show distorted images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would our daily lives change if there were no mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can any other material replace glass for creating high-quality mirrors? Justify your answer.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do rearview mirrors on cars mention \u201cObjects in the mirror are closer than they appear\u201d?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between a plane mirror and a spherical mirror?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do convex mirrors form virtual images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are concave mirrors called converging mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is silvering of a mirror, and why is it important?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do mirrors with rough surfaces produce distorted reflections?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the purpose of the principal focus in a spherical mirror?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the focal length of a spherical mirror with a radius of curvature of 50 cm.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If an object is placed 30 cm away from a concave mirror with a focal length of 10 cm, where will the image form?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A convex mirror forms an image at 15 cm behind the mirror when the object is 30 cm away. Find the focal length.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the magnification produced by a mirror is -1, where is the object placed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the distance between the object and its image formed by a plane mirror placed 4 meters away from the object.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.4 Image",
+            "types": [
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why do convex mirrors always form diminished images, regardless of object distance?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Can a concave mirror be used as a rearview mirror? Why or why not?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do polished metal surfaces also act as mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if a plane mirror was curved slightly?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would a mirror function if it had both concave and convex surfaces?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is an image, and how is it formed?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Differentiate between real and virtual images.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do objects appear to be behind the mirror in a virtual image?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the formation of an image depend on the type of mirror used?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the key characteristics of real and virtual images?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A concave mirror forms a real image 30 cm from the mirror when the object is placed 15 cm in front of it. Calculate the focal length of the mirror.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "An object is placed 20 cm in front of a plane mirror. How far behind the mirror will the virtual image appear?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the magnification of an image formed by a convex mirror is \\(0.5\\), and the object height is 10 cm, find the image height.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "For an object placed at the center of curvature of a concave mirror, where will the image be formed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the distance between an object and its image formed by a plane mirror if they are 3 meters apart.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why are virtual images often used in makeup mirrors?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do real images help in projecting visuals on a screen (like in a cinema)?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the formation of an image on the retina of the human eye.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a camera lens form a real image on a digital sensor or film?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it impossible to project a virtual image on a screen?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Diagram-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Draw a ray diagram showing the formation of a virtual image by a plane mirror.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Show the image formation of an object placed between the pole and the focus of a concave mirror.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Draw a ray diagram to demonstrate image formation by a convex mirror when an object is placed far from the mirror.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Illustrate the formation of real and virtual images by a concave mirror.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why do virtual images appear to be erect while real images are often inverted?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Can a mirror ever form both a real and virtual image of the same object? Explain.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would our perception of depth be affected if mirrors did not form images at accurate distances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do objects submerged in water appear shifted when viewed from above?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would image formation differ if light rays bent instead of reflecting off surfaces?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why do plane mirrors form virtual images?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do concave mirrors produce both real and virtual images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors determine whether an image is real or virtual?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why can real images be projected on a screen but virtual images cannot?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain lateral inversion in plane mirrors with an example.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.5 Image in a Mirror",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the size of an image formed by a concave mirror with a magnification of 3, if the object height is 5 cm.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "An object is placed 10 cm in front of a convex mirror with a focal length of 20 cm. Find the position of the image.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A plane mirror forms a virtual image at 5 m behind the mirror. What is the object distance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the magnification is 0.5, what is the ratio of the image height to the object height?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "For a real image formed 25 cm from a concave mirror with a focal length of 15 cm, find the object distance.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is an image formed in a plane mirror?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are the images in a plane mirror always virtual and erect?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What determines the size and orientation of the image in a spherical mirror?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the distance between the object and the mirror affect the position of the image?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relationship between the object distance and image distance in a plane mirror?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "An object is placed 15 cm in front of a concave mirror with a focal length of 10 cm. Use the mirror formula to calculate the position of the image.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "An object is 5 cm away from a convex mirror with a focal length of 8 cm. Where will the virtual image appear?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the magnification of an image formed by a plane mirror when the object is 2 meters away.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "An object is placed 30 cm from a concave mirror. If the image forms at 60 cm from the mirror, find the magnification.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A convex mirror forms an image half the size of the object. What is the distance between the object and the mirror if the focal length is 20 cm?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do barbers and makeup artists use mirrors to see both the front and back of a person's head?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do convex mirrors provide a wider field of view compared to plane mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do dentists use concave mirrors to magnify parts of the mouth?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the use of plane mirrors in devices like periscopes.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the image in a car's rearview mirror differ from that in a side-view convex mirror?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Diagram-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Draw a ray diagram showing the formation of an image in a plane mirror.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Illustrate how an image is formed by a concave mirror when the object is between the pole and the focus.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Draw a ray diagram showing how a convex mirror forms a diminished virtual image.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Sketch the setup for viewing the front and back of a head using two plane mirrors.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why do the images in plane mirrors appear laterally inverted?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Can the image formed by a concave mirror ever be larger than the actual object? Explain.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens if an object is placed exactly at the focal point of a concave mirror?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the curvature of a mirror affect the type and size of the image formed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do convex mirrors always form smaller images regardless of object distance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.6 Some Common Phenomena of Formation of Images in Plane and Spherical Mirrors",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are multiple reflections used to create infinite images in parallel mirrors?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are concave mirrors used in makeup mirrors to magnify images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do convex mirrors help in rearview systems by creating smaller images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how virtual images are used in optical illusions.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does an image in a plane mirror appear to be the same distance behind the mirror as the object is in front?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between regular and diffused reflection?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does a periscope utilize the principles of plane mirror reflection?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are convex mirrors preferred in shops and parking areas for surveillance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how concave mirrors form magnified images used by dentists and ENT doctors.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does multiple reflections play in creating virtual images of an object in parallel mirrors?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A periscope contains two plane mirrors at an angle of 45\u00b0. If the distance between the two mirrors is 1 m, how far will light travel before entering the observer\u2019s eye?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A convex mirror has a focal length of 25 cm. Calculate the position of the image formed when an object is placed 50 cm in front of it.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Two plane mirrors are placed parallel to each other with a separation of 1 meter. If a light ray reflects back and forth 5 times, calculate the total path length.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A dentist uses a concave mirror with a focal length of 10 cm. If the image of a tooth appears magnified and at 30 cm from the mirror, where is the tooth placed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A convex mirror at the corner of a parking area shows the image of a car reduced to half its size. What is the magnification, and how far is the image behind the mirror?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do convex mirrors reduce blind spots on hilly roads?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how periscopes help in watching distant events over crowds.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are concave mirrors used in solar ovens and telescopes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the use of multiple mirrors in a beauty salon to view the front and back of a head simultaneously.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do spherical mirrors assist in focusing light beams in searchlights and headlights?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Diagram-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Draw a ray diagram of a periscope showing the reflection at two plane mirrors.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Sketch the image formation in a convex mirror for an object placed at infinity.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Draw a setup with two parallel mirrors facing each other, illustrating the formation of multiple virtual images.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Illustrate how concave mirrors are used to focus light in a solar oven.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What would happen if the angle between two mirrors in a periscope was not 45\u00b0?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the nature of the surface affect the quality of reflection?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do dentists prefer concave mirrors over plane mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can multiple reflections ever form a real image? Explain.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do objects seen in a convex mirror appear smaller, even when closer to the mirror?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do convex mirrors create a wide-angle view?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain the role of plane mirrors in periscopes.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are concave mirrors used in headlights to direct light beams?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the image change if the angle between two mirrors is reduced?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the use of multiple mirrors in optical instruments like kaleidoscopes.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do spherical mirrors focus light to a point?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the number of images formed when two plane mirrors are placed at a 60\u00b0 angle to each other.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the focal length of a concave mirror is 12 cm, where will the image form for an object placed at 24 cm?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "An image in a convex mirror appears one-third the size of the object. Find the magnification.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the distance between the object and its image when placed between two parallel mirrors 1 m apart.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A concave mirror reflects light from a point source 10 cm in front. Where will the focus be?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.7 Uses of Mirror",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are multiple reflections used in kaleidoscopes to create patterns?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how convex mirrors assist in navigation on submarines.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do car headlights use concave mirrors to focus light beams?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the difference between image formation in a spherical and parabolic mirror.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the irregular reflection from walls help in lighting up rooms?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the different types of mirrors, and how are they used in daily life?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are plane mirrors used in periscopes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do convex mirrors enhance security in shops and malls?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are concave mirrors used in telescopes and headlights?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do doctors use mirrors for medical examination?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the use of concave mirrors in shaving mirrors and makeup mirrors.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How are convex mirrors used in vehicles for rearview purposes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how concave mirrors are used to focus light in solar ovens.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do plane mirrors help in increasing brightness during film or drama shooting?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are plane mirrors placed on sharp turns of hilly roads to avoid accidents?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.8 Safe Driving",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why are convex mirrors used for safety in parking lots?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do concave mirrors help in focusing sunlight in solar concentrators?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the use of plane mirrors in laser systems and projectors.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are convex mirrors used in surveillance systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do periscopes use plane mirrors to see over obstacles?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why are mirrors essential for safe driving?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the role of side-view and rearview mirrors in vehicles?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the use of mirrors reduce accidents?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the importance of adjusting mirrors before driving?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are convex mirrors often used for vehicle rearviews instead of plane mirrors?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.9 Blind Turns on Hilly Roads",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does mirror adjustment impact safe driving on highways?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it important to use large mirrors on buses and trucks?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do side-view mirrors assist in lane changes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the significance of monitoring both front and rear traffic with mirrors.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do mirrors help in detecting blind spots while driving?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are blind turns, and why are they dangerous?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do large area mirrors installed at blind turns improve safety?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is driving at night on hilly roads particularly risky?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the ideal speed for navigating blind turns safely?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why should mirrors on blind turns be angled at 45 degrees?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "8.10 Magnification",
+            "types": [
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can drivers use mirrors to anticipate oncoming traffic on hilly roads?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it recommended to avoid driving fast on hilly roads during poor weather?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do convex mirrors help in showing a wider field of view around blind corners?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe how mirrors can prevent accidents on hairpin bends.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What additional measures, besides mirrors, can improve safety on hilly roads?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is magnification, and how is it defined mathematically?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does magnification differ for plane, concave, and convex mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do concave mirrors produce both magnified and diminished images?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the focal length of a mirror affect magnification?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In which situations is magnification greater than 1 useful?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "An object is placed 20 cm from a concave mirror with a focal length of 10 cm. Calculate the magnification.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "A convex mirror forms an image half the size of the object. What is the magnification?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Find the image height if an object 10 cm tall is placed in front of a mirror with a magnification of -2.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the magnification of a plane mirror if the object is placed 5 meters away.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "A dentist uses a concave mirror to examine a tooth. If the image is 4 times larger than the tooth, find the object and image distance.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why does magnification depend on both the focal length and object distance?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can negative magnification values indicate the orientation of the image?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain why the magnification in a plane mirror is always 1.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can the magnification ever exceed 1 in a convex mirror? Why or why not?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the image size if the object is placed at the focal point of a concave mirror?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how to use a concave mirror to project the image of a distant object onto a wall.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you design a simple periscope using two plane mirrors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you determine the focal length of a concave mirror experimentally?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe an experiment to observe multiple reflections using two plane mirrors.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What steps would you take to ensure accurate measurements when determining image distance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Diagram-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Draw the setup for an experiment using a concave mirror to form a real image.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Sketch how two plane mirrors at different angles can form multiple reflections.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Show a setup for finding the focal point of a convex mirror.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Illustrate the light path through a periscope.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

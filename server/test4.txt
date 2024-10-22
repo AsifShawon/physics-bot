@@ -1,0 +1,622 @@
+### **Topic**: 4.1 Work
+### **Type**: Conceptual
+- **Main**: Define work in the context of physics and explain how it differs from the everyday understanding of the term.
+  - **Follow-Up-1**: Why is no work done if a person holds a heavy object stationary?
+  - **Follow-Up-2**: Under what conditions can force be applied without doing work?
+  - **Follow-Up-3**: How does displacement affect the definition of work?
+  - **Follow-Up-4**: Why is pushing against a wall without moving it considered no work in physics?
+
+### **Type**: Conceptual **  
+- **Main**: Explain why work is only done when force causes displacement in the direction of force.  
+  - **Follow-Up-1**: How does the concept of work differ between a constant force and a variable force?
+  - **Follow-Up-2**: Describe how work is related to energy transfer in a physical system.
+  - **Follow-Up-3**: Can a moving object with no applied force still be doing work? Why or why not?
+  - **Follow-Up-4**: Why is it important that force and displacement must be in the same direction for work to be considered positive?
+
+### **Type**: Conceptual
+- **Main**: Discuss the concept of zero work with real-world examples.  
+  - **Follow-Up-1**: Why does carrying an object horizontally result in no work done by gravity?
+  - **Follow-Up-2**: How is zero work possible when a force is applied over a displacement?
+  - **Follow-Up-3**: Explain why walking with a heavy load on level ground does no work on the load.
+  - **Follow-Up-4**: How does the concept of zero work apply to a satellite moving in a circular orbit?
+
+### **Type**: Numerical
+- **Main**: Calculate the work done if a 10 N force moves an object 5 meters in the direction of the force.
+  - **Follow-Up-1**: What is the work done if the force is applied perpendicular to the direction of displacement?
+  - **Follow-Up-2**: A person pushes a box with a force of 20 N over a distance of 8 meters. Calculate the work done.
+  - **Follow-Up-3**: If a 15 N force moves an object 2 meters in the opposite direction of the force, what is the work done?
+  - **Follow-Up-4**: How much work is done by a 50 kg person climbing a 10 m high staircase (assuming g = 9.8 m/s²)?
+
+### **Type**: Numerical **  
+- **Main**: A force of 30 N moves an object 10 m in the direction of the force. Calculate the work done.  
+  - **Follow-Up-1**: If the same force moves the object at a 30° angle to the displacement, what is the new work done?
+  - **Follow-Up-2**: How much work is done when the force is doubled but the displacement remains the same?
+  - **Follow-Up-3**: A 500 N weight is lifted vertically 2 meters. Calculate the work done against gravity.
+  - **Follow-Up-4**: What is the work done if a 100 N force moves an object 4 meters horizontally, but friction acts against the motion with a force of 30 N?
+
+### **Type**: Numerical
+- **Main**: Calculate the work done by a 60 kg person climbing a 100 m hill (g = 9.8 m/s²).  
+  - **Follow-Up-1**: If the same person climbs a 200 m hill, how does the work change?
+  - **Follow-Up-2**: If the incline is reduced and the person climbs the same vertical height, how does the work change?
+  - **Follow-Up-3**: What is the work done if the person descends the hill instead of climbing it?
+  - **Follow-Up-4**: How much more work is required if the person carries an additional 10 kg of load?
+
+### **Type**: Application-based
+- **Main**: In what real-life situations would work be zero even though force is applied?
+  - **Follow-Up-1**: Provide an example where work is done by a force but no displacement occurs.
+  - **Follow-Up-2**: If a crane lifts a load to a certain height and holds it stationary, is work done during the lifting and holding phases?
+  - **Follow-Up-3**: How does the angle between force and displacement affect the work done in a practical scenario (e.g., carrying a suitcase)?
+  - **Follow-Up-4**: Explain how the concept of work applies to the motion of a satellite in orbit.
+
+### **Type**: Application-based
+- **Main**: Describe a situation where negative work is done, and explain its significance in everyday physics.  
+  - **Follow-Up-1**: Provide an example from sports where negative work plays a role.
+  - **Follow-Up-2**: How does the concept of negative work apply to braking in a car?
+  - **Follow-Up-3**: Can negative work occur in weightlifting exercises? Why or why not?
+  - **Follow-Up-4**: How does negative work relate to energy dissipation in mechanical systems?
+
+### **Type**: Application-based
+- **Main**: How is work done by gravitational force when an object falls freely from a certain height?  
+  - **Follow-Up-1**: Explain why the work done by gravity depends on the height the object falls from.
+  - **Follow-Up-2**: If an object is thrown upward instead, how does the work done by gravity change?
+  - **Follow-Up-3**: How does the concept of work help in determining the velocity of a falling object just before it hits the ground?
+  - **Follow-Up-4**: How does air resistance affect the work done by gravity during free fall?
+
+### **Type**: Theoretical
+- **Main**: Discuss why work is considered a scalar quantity even though force and displacement are vector quantities.
+  - **Follow-Up-1**: What would happen to the work done if the force and displacement are in opposite directions?
+  - **Follow-Up-2**: How does the magnitude of work change when the angle between force and displacement increases from 0° to 90°?
+  - **Follow-Up-3**: Why does increasing the displacement in the same direction as force increase the amount of work done?
+  - **Follow-Up-4**: Explain the difference between positive work and negative work in physics.
+
+### **Type**: Theoretical
+- **Main**: Explain how work done can be both positive and negative, and provide examples of each.  
+  - **Follow-Up-1**: What is the significance of positive work in terms of energy transfer?
+  - **Follow-Up-2**: How does the concept of negative work relate to energy absorption in a system?
+  - **Follow-Up-3**: Provide an example of negative work done in mechanical systems.
+  - **Follow-Up-4**: In what scenario would the total work done on an object be zero?
+
+### **Type**: Theoretical
+- **Main**: Discuss how work done is affected by the angle between force and displacement, and derive the mathematical relationship.  
+  - **Follow-Up-1**: If the angle between force and displacement is 90°, explain why the work done is zero.
+  - **Follow-Up-2**: Calculate the work done when a force of 50 N is applied at a 45° angle to the displacement of 5 meters.
+  - **Follow-Up-3**: How does the angle affect the amount of energy transferred through work?
+  - **Follow-Up-4**: In what real-life situations is work maximized by reducing the angle between force and displacement?
+
+### **Type**: Problem-solving
+- **Main**: A man of mass 70 kg climbs a mountain of height 200 meters. Calculate the work done by the man.
+  - **Follow-Up-1**: What factors would affect the total work done if the mountain height was doubled?
+  - **Follow-Up-2**: If the man climbs at an angle, how does the angle affect the total work done?
+  - **Follow-Up-3**: What is the difference in work done if the man descends the mountain instead of climbing?
+  - **Follow-Up-4**: How much work is done by gravity during the ascent?
+
+### **Type**: Problem-solving
+- **Main**: A force of 100 N is applied to pull a cart over a distance of 20 meters at a 60° angle. Calculate the work done.  
+  - **Follow-Up-1**: What is the work done if the angle changes to 30° while the other conditions remain the same?
+  - **Follow-Up-2**: If the force is increased to 150 N while keeping the same angle, how much work is done?
+  - **Follow-Up-3**: How does friction impact the total work done in this scenario?
+  - **Follow-Up-4**: Calculate the work done if the cart is pushed instead of pulled, with the force still at a 60° angle.
+
+### **Type**: Problem-solving
+- **Main**: A person pushes a lawnmower with a force of 200 N over a distance of 10 meters, but 50 N of friction opposes the motion. Calculate the net work done.  
+  - **Follow-Up-1**: How does increasing the force applied affect the net work done?
+  - **Follow-Up-2**: If the lawnmower is pushed at a steeper angle, how does the angle affect the work done?
+  - **Follow-Up-3**: What is the work done if the person pushes the lawnmower uphill with the same force over the same distance?
+  - **Follow-Up-4**: How does the work change if the lawnmower is pushed downhill instead?
+
+----
+### **Topic**: 4.2 energy
+
+### **Type**: Conceptual**
+- **Main**: Define energy in the context of physics and explain how it relates to the ability to do work.
+  - **Follow-Up-1**: How is energy transferred when work is done on an object?
+  - **Follow-Up-2**: What are the different forms of energy commonly encountered in everyday life?
+  - **Follow-Up-3**: How does energy relate to the conservation of mechanical systems?
+  - **Follow-Up-4**: Explain why energy is considered a scalar quantity.
+
+### **Type**: Conceptual**
+- **Main**: Discuss the relationship between work and energy.
+  - **Follow-Up-1**: How does the concept of energy explain the ability of a system to do work?
+  - **Follow-Up-2**: Explain how potential energy is related to work done against a force.
+  - **Follow-Up-3**: How does kinetic energy contribute to the total energy in a mechanical system?
+  - **Follow-Up-4**: In what situations does energy transformation occur without any work being done?
+
+---
+
+### **Type**: Numerical**
+- **Main**: A 70 kg person runs up a flight of stairs with a height of 5 meters. Calculate the gravitational potential energy gained (g = 9.8 m/s²).
+  - **Follow-Up-1**: If the same person runs up a 10-meter staircase, how does the potential energy change?
+  - **Follow-Up-2**: How much kinetic energy does the person have if they are running at 5 m/s?
+  - **Follow-Up-3**: Calculate the total mechanical energy (potential + kinetic) of the person when running at the top of the stairs.
+  - **Follow-Up-4**: How much work is done if the person descends the stairs instead?
+
+### **Type**: Numerical**
+- **Main**: A car has a mass of 1000 kg and is moving at a velocity of 20 m/s. Calculate its kinetic energy.
+  - **Follow-Up-1**: If the car’s speed doubles, how does its kinetic energy change?
+  - **Follow-Up-2**: What happens to the car's kinetic energy if its mass is halved?
+  - **Follow-Up-3**: Calculate the work required to bring the car to rest from 20 m/s.
+  - **Follow-Up-4**: How does the kinetic energy change if the car moves at 30 m/s instead of 20 m/s?
+
+---
+
+### **Type**: Application-based**
+- **Main**: Explain how energy conservation applies to the motion of a pendulum.
+  - **Follow-Up-1**: How does the pendulum transform potential energy into kinetic energy as it swings?
+  - **Follow-Up-2**: At what point in the pendulum’s motion is the potential energy maximized, and when is kinetic energy maximized?
+  - **Follow-Up-3**: How does friction affect the total energy in the pendulum system?
+  - **Follow-Up-4**: How would the length of the pendulum affect its energy transformations?
+
+### **Type**: Application-based**
+- **Main**: Describe the role of energy transformation in an electric motor.
+  - **Follow-Up-1**: How is electrical energy converted into mechanical energy in a motor?
+  - **Follow-Up-2**: How does the efficiency of energy conversion affect the motor’s performance?
+  - **Follow-Up-3**: Explain how heat energy is generated in an electric motor due to inefficiencies.
+  - **Follow-Up-4**: How can improving energy efficiency reduce the operational costs of electric motors?
+
+---
+
+### **Type**: Theoretical**
+- **Main**: Discuss the law of conservation of energy and provide examples of how energy is transformed from one form to another.
+  - **Follow-Up-1**: Why is it said that energy cannot be created or destroyed, only transformed?
+  - **Follow-Up-2**: Give an example where chemical energy is transformed into mechanical energy.
+  - **Follow-Up-3**: How does energy transformation explain the operation of a hydroelectric power plant?
+  - **Follow-Up-4**: How does the law of conservation of energy apply to closed systems, such as in a sealed container of gas?
+
+### **Type**: Theoretical**
+- **Main**: Explain the difference between kinetic and potential energy, and provide examples of each.
+  - **Follow-Up-1**: How is kinetic energy dependent on both mass and velocity?
+  - **Follow-Up-2**: Describe a scenario where potential energy is converted to kinetic energy.
+  - **Follow-Up-3**: Why does an object at a higher altitude have more potential energy than an object at ground level?
+  - **Follow-Up-4**: How is the total mechanical energy of a system conserved when only kinetic and potential energies are considered?
+
+---
+
+### **Type**: Problem-solving**
+- **Main**: A 5 kg object is placed at a height of 10 meters above the ground. Calculate its gravitational potential energy (g = 9.8 m/s²).
+  - **Follow-Up-1**: If the object falls to the ground, what will be its kinetic energy just before impact, assuming no air resistance?
+  - **Follow-Up-2**: How much work is done by gravity as the object falls?
+  - **Follow-Up-3**: If air resistance does 20 J of work on the object, what will be its kinetic energy just before hitting the ground?
+  - **Follow-Up-4**: Calculate the object’s velocity just before it hits the ground.
+
+### **Type**: Problem-solving**
+- **Main**: A 2 kg block slides down a frictionless incline of height 5 meters. Calculate the block’s speed at the bottom of the incline.
+  - **Follow-Up-1**: What is the total mechanical energy of the block at the top of the incline?
+  - **Follow-Up-2**: How does the potential energy of the block change as it slides down?
+  - **Follow-Up-3**: How does the block’s kinetic energy change as it reaches the bottom?
+  - **Follow-Up-4**: How would adding friction to the incline affect the final speed of the block?
+
+---
+
+### **Type**: Conceptual **
+- **Main**: Explain the concept of mechanical energy and its two main forms: kinetic and potential.
+  - **Follow-Up-1**: How is mechanical energy used in everyday machines, such as cars and bicycles?
+  - **Follow-Up-2**: Discuss how mechanical energy is conserved in systems without friction.
+  - **Follow-Up-3**: Why do machines need energy input to perform work if mechanical energy is conserved?
+  - **Follow-Up-4**: How does mechanical energy transform into other forms of energy, such as heat or sound, in real-life scenarios?
+
+---
+
+### **Type**: Numerical **
+- **Main**: A 10 kg object is moving with a velocity of 15 m/s. Calculate its kinetic energy.
+  - **Follow-Up-1**: If the object’s velocity is increased to 30 m/s, how does its kinetic energy change?
+  - **Follow-Up-2**: How much work is required to bring the object to rest from its initial velocity?
+  - **Follow-Up-3**: If the object’s mass is halved, how does this affect its kinetic energy at the same velocity?
+  - **Follow-Up-4**: Calculate the object’s momentum and compare it with its kinetic energy.
+
+---
+
+### **Type**: Theoretical **
+- **Main**: Discuss how energy is stored in food and how it is converted into usable mechanical energy by the human body.
+  - **Follow-Up-1**: How is chemical energy in food transformed into kinetic energy during exercise?
+  - **Follow-Up-2**: Explain how energy stored in the body as fat can be released as mechanical energy.
+  - **Follow-Up-3**: What is the role of ATP in energy transfer in biological systems?
+  - **Follow-Up-4**: How is the law of conservation of energy demonstrated in the metabolic processes of living organisms?
+
+---
+
+### **Topic**: 4.3 Prime Sources of Energy**:
+
+### **Type**: Conceptual**  
+- **Main**: What are the primary sources of energy used in modern societies?  
+  - **Follow-Up-1**: How do fossil fuels (coal, oil, and natural gas) serve as major sources of energy?
+  - **Follow-Up-2**: Explain why the sun is considered the ultimate source of energy for most of the energy sources on Earth.
+  - **Follow-Up-3**: How do renewable and nonrenewable energy sources differ in terms of availability and environmental impact?
+  - **Follow-Up-4**: What is the significance of energy conversion in various prime energy sources?
+
+---
+
+### **Type**: Conceptual**  
+- **Main**: Discuss the environmental impacts of using fossil fuels as a primary energy source.  
+  - **Follow-Up-1**: How does the burning of coal contribute to air pollution and climate change?
+  - **Follow-Up-2**: Why is oil considered both a valuable resource and a major environmental hazard?
+  - **Follow-Up-3**: What role does natural gas play in reducing carbon emissions compared to coal and oil?
+  - **Follow-Up-4**: How does acid rain result from the combustion of fossil fuels?
+
+---
+
+### **Type**: Numerical**  
+- **Main**: If a coal power plant consumes 1000 tons of coal per day to generate electricity, how much energy is produced if the energy content of coal is 24 MJ/kg?  
+  - **Follow-Up-1**: Calculate the annual energy production if the plant operates 365 days a year.
+  - **Follow-Up-2**: How much CO₂ is produced if burning 1 kg of coal releases 2.44 kg of CO₂?
+  - **Follow-Up-3**: If the efficiency of the plant is 35%, how much useful energy is generated daily?
+  - **Follow-Up-4**: How much coal would be saved annually if the plant's efficiency were increased to 40%?
+
+---
+
+### **Type**: Numerical**  
+- **Main**: A solar panel has an efficiency of 20% and receives 1000 W/m² of sunlight. Calculate the energy output of a 10 m² solar panel in one hour.  
+  - **Follow-Up-1**: How much energy would the panel generate over the course of a sunny day (10 hours)?
+  - **Follow-Up-2**: If the panel's efficiency drops to 15%, how does the energy output change?
+  - **Follow-Up-3**: How much energy would be generated in a year, assuming 300 sunny days?
+  - **Follow-Up-4**: Compare the energy output of the solar panel to that of a small wind turbine producing 200 kWh per day.
+
+---
+
+### **Type**: Application-based**  
+- **Main**: How is nuclear energy produced, and what makes it a significant source of energy?  
+  - **Follow-Up-1**: Explain the process of nuclear fission and how it generates energy.
+  - **Follow-Up-2**: What are the advantages and disadvantages of using nuclear energy compared to fossil fuels?
+  - **Follow-Up-3**: How is nuclear waste managed, and why is it a significant concern for future generations?
+  - **Follow-Up-4**: Discuss the role of nuclear energy in reducing greenhouse gas emissions.
+
+---
+
+### **Type**: Application-based**  
+- **Main**: How does hydroelectric power generation work, and what are its benefits?  
+  - **Follow-Up-1**: Explain how the potential energy of water is converted into electrical energy in a hydroelectric dam.
+  - **Follow-Up-2**: What are the environmental and social impacts of building large hydroelectric dams?
+  - **Follow-Up-3**: How does hydroelectricity contribute to energy sustainability?
+  - **Follow-Up-4**: What challenges do countries face when relying on hydroelectric power as a primary energy source?
+
+---
+
+### **Type**: Theoretical**  
+- **Main**: Discuss the differences between renewable and nonrenewable energy sources, providing examples of each.  
+  - **Follow-Up-1**: Why are fossil fuels considered nonrenewable, and how does their depletion affect global energy policies?
+  - **Follow-Up-2**: What are the main types of renewable energy, and how do they contribute to reducing environmental impact?
+  - **Follow-Up-3**: How does energy from the sun drive most renewable energy sources, including solar, wind, and hydropower?
+  - **Follow-Up-4**: In what ways are renewable energy technologies improving to make them more competitive with fossil fuels?
+
+---
+
+### **Type**: Theoretical**  
+- **Main**: Explain how biomass energy is produced and its role in the global energy mix.  
+  - **Follow-Up-1**: How is biomass converted into usable energy through processes like combustion and fermentation?
+  - **Follow-Up-2**: What are the environmental benefits and drawbacks of using biomass as a fuel source?
+  - **Follow-Up-3**: How does biomass contribute to energy sustainability, especially in developing countries?
+  - **Follow-Up-4**: Compare the efficiency of biomass energy to other renewable energy sources like wind and solar.
+
+---
+
+### **Type**: Problem-solving**  
+- **Main**: A wind turbine generates 500 kW of power at wind speeds of 12 m/s. Calculate the energy produced in one day.  
+  - **Follow-Up-1**: How much energy is produced in a week if the wind speed stays constant?
+  - **Follow-Up-2**: If the wind speed decreases to 8 m/s, how does this affect the power generated?
+  - **Follow-Up-3**: How many homes can be powered by this wind turbine if each home consumes 10 kWh per day?
+  - **Follow-Up-4**: What would be the annual energy output of the turbine if it operates at full capacity for 250 days a year?
+
+---
+
+### **Type**: Problem-solving**
+- **Main**: A geothermal plant has an output of 50 MW and operates 24 hours a day. Calculate the total energy produced in one month.  
+  - **Follow-Up-1**: How does this energy compare to that produced by a coal plant of the same capacity?
+  - **Follow-Up-2**: If the efficiency of the geothermal plant is 90%, how much total energy is utilized effectively?
+  - **Follow-Up-3**: How much CO₂ emissions are avoided by using geothermal energy compared to coal?
+  - **Follow-Up-4**: What factors could influence the energy production from a geothermal plant, and how can these be managed?
+
+---
+
+### **Type**: Conceptual **  
+- **Main**: Why is solar energy considered one of the most promising renewable energy sources?  
+  - **Follow-Up-1**: How do solar panels convert sunlight into electricity, and what are the key components involved?
+  - **Follow-Up-2**: What challenges do solar energy systems face, and how can they be overcome?
+  - **Follow-Up-3**: How does the efficiency of solar panels affect their overall energy output?
+  - **Follow-Up-4**: In what ways can solar energy be integrated into the existing power grid to improve energy sustainability?
+
+---
+
+### **Type**: Application-based **  
+- **Main**: How does the use of natural gas reduce greenhouse gas emissions compared to coal and oil?  
+  - **Follow-Up-1**: Explain the environmental advantages of natural gas as a "bridge fuel" in the transition to renewable energy.
+  - **Follow-Up-2**: What are the main environmental concerns associated with natural gas extraction and use, such as fracking?
+  - **Follow-Up-3**: How is natural gas used in combination with renewable energy sources in modern power systems?
+  - **Follow-Up-4**: What technologies are being developed to make natural gas even cleaner and more efficient?
+
+---
+
+### **Topic**: 4.4 Transformation of Energy**:
+
+### **Type**: Conceptual**  
+- **Main**: Define energy transformation and explain its significance in physical systems.  
+  - **Follow-Up-1**: How is energy transformed in a simple system like a pendulum?
+  - **Follow-Up-2**: Describe the process of energy transformation in an electric motor.
+  - **Follow-Up-3**: How does energy transformation occur in everyday activities like walking or running?
+  - **Follow-Up-4**: Explain why energy transformations are never 100% efficient in real systems.
+
+### **Type**: Conceptual**  
+- **Main**: Discuss the role of energy transformation in power generation.  
+  - **Follow-Up-1**: How is mechanical energy converted into electrical energy in a power plant?
+  - **Follow-Up-2**: Explain how chemical energy from fossil fuels is transformed into electrical energy in thermal power plants.
+  - **Follow-Up-3**: How does the transformation of energy in a hydroelectric plant differ from that in a nuclear plant?
+  - **Follow-Up-4**: Why is energy transformation essential for powering homes and industries?
+
+---
+
+### **Type**: Numerical**  
+- **Main**: A hydroelectric plant transforms potential energy into electrical energy. If the water falls from a height of 100 meters and the flow rate is 500 kg/s, calculate the power output assuming 80% efficiency (g = 9.8 m/s²).  
+  - **Follow-Up-1**: How does the power output change if the height is doubled but the flow rate remains the same?
+  - **Follow-Up-2**: Calculate the energy produced in one hour at this power output.
+  - **Follow-Up-3**: If the efficiency drops to 70%, how much energy is lost as heat?
+  - **Follow-Up-4**: How would the energy output change if the water flow rate is halved?
+
+### **Type**: Numerical**  
+- **Main**: A car engine converts 25% of the chemical energy in gasoline into mechanical energy. If the car consumes 500 MJ of energy, how much mechanical energy is produced?  
+  - **Follow-Up-1**: How much energy is lost in the form of heat and other inefficiencies?
+  - **Follow-Up-2**: If the car's efficiency improves to 30%, how much more mechanical energy is produced from the same amount of gasoline?
+  - **Follow-Up-3**: Calculate how much energy is required for the car to travel 100 km if its energy consumption is 5 MJ/km.
+  - **Follow-Up-4**: How does improving the energy efficiency of a car affect its fuel consumption?
+
+---
+
+### **Type**: Application-based**  
+- **Main**: How does energy transformation occur in a coal-fired power plant, from the burning of coal to the generation of electricity?  
+  - **Follow-Up-1**: Explain the role of steam in transforming thermal energy into mechanical energy in such a plant.
+  - **Follow-Up-2**: How does the turbine in a coal plant convert mechanical energy into electrical energy?
+  - **Follow-Up-3**: What happens to the energy that is not transformed into electricity?
+  - **Follow-Up-4**: Why is the efficiency of coal-fired power plants typically below 50%?
+
+### **Type**: Application-based**  
+- **Main**: Explain how solar panels transform light energy into electrical energy.  
+  - **Follow-Up-1**: How do photovoltaic cells convert solar radiation into usable electricity?
+  - **Follow-Up-2**: How does the efficiency of a solar panel affect its energy output?
+  - **Follow-Up-3**: What happens to the energy that is not converted into electricity in a solar panel system?
+  - **Follow-Up-4**: How can improvements in photovoltaic technology increase the overall efficiency of solar energy transformation?
+
+---
+
+### **Type**: Theoretical**  
+- **Main**: Discuss the law of conservation of energy and its role in energy transformation processes.  
+  - **Follow-Up-1**: How does the law of conservation of energy apply to the transformation of kinetic energy into potential energy and vice versa?
+  - **Follow-Up-2**: Explain why energy can neither be created nor destroyed, only transformed.
+  - **Follow-Up-3**: Provide an example of energy transformation where mechanical energy is conserved but converted into other forms.
+  - **Follow-Up-4**: How does the law of conservation of energy apply to the transformation of energy in a closed system like a battery?
+
+### **Type**: Theoretical**  
+- **Main**: Explain how energy is transformed in everyday appliances, such as a refrigerator or a television.  
+  - **Follow-Up-1**: How does electrical energy in a refrigerator transform into cooling energy to preserve food?
+  - **Follow-Up-2**: How does a television transform electrical energy into light and sound energy?
+  - **Follow-Up-3**: Discuss the inefficiencies in energy transformation in everyday household appliances.
+  - **Follow-Up-4**: How can energy-efficient appliances reduce overall energy loss during transformation?
+
+---
+
+### **Type**: Problem-solving**  
+- **Main**: A wind turbine transforms 30% of the wind's kinetic energy into electrical energy. If the wind speed is 12 m/s and the air density is 1.225 kg/m³, calculate the power generated by a turbine with a blade radius of 30 meters.  
+  - **Follow-Up-1**: How does the power output change if the wind speed increases to 15 m/s?
+  - **Follow-Up-2**: Calculate the total energy produced by the turbine in one day of operation at full capacity.
+  - **Follow-Up-3**: If the turbine's efficiency increases to 35%, how much more electrical energy is produced?
+  - **Follow-Up-4**: How does air density affect the power generated by the wind turbine?
+
+### **Type**: Problem-solving**  
+- **Main**: A solar farm transforms 20% of the solar energy it receives into electricity. If the farm has a surface area of 10,000 m² and receives 1000 W/m² of sunlight, calculate the power generated by the farm.  
+  - **Follow-Up-1**: How much energy is produced in one hour of sunlight?
+  - **Follow-Up-2**: If the farm operates for 10 hours each day, how much energy is produced in a month?
+  - **Follow-Up-3**: If the efficiency of the solar panels improves to 25%, how does the total energy output change?
+  - **Follow-Up-4**: How does the energy output change if the farm receives only 800 W/m² of sunlight due to cloudy weather?
+
+---
+
+### **Topic**: 4.5 Power**:
+
+### **Type**: Conceptual**
+- **Main**: Define power in physics and explain its relationship to work and energy.  
+  - **Follow-Up-1**: How is power different from work, even though they are closely related?
+  - **Follow-Up-2**: Why is power considered a measure of how quickly work is done?
+  - **Follow-Up-3**: Explain the difference between average power and instantaneous power.
+  - **Follow-Up-4**: How does the concept of power apply to real-life scenarios like lifting weights or running?
+
+---
+
+### **Type**: Conceptual**
+- **Main**: Discuss the factors that affect the power output of a system.  
+  - **Follow-Up-1**: How does increasing the amount of work done in a shorter time period affect power?
+  - **Follow-Up-2**: Why does doing the same amount of work more slowly result in less power?
+  - **Follow-Up-3**: Explain how force, displacement, and time interact to determine power output.
+  - **Follow-Up-4**: How does power relate to energy consumption in machines and engines?
+
+---
+
+### **Type**: Numerical**
+- **Main**: Calculate the power output of a person who lifts a 50 kg object to a height of 2 meters in 5 seconds (g = 9.8 m/s²).  
+  - **Follow-Up-1**: What is the power if the person lifts the object in 3 seconds instead of 5?
+  - **Follow-Up-2**: How much energy is expended during the lift?
+  - **Follow-Up-3**: If the object is lifted to a height of 4 meters, how does the power output change?
+  - **Follow-Up-4**: How does the power output change if the object is lifted twice as fast?
+
+---
+
+### **Type**: Numerical**
+
+- **Main**: A motor does 1000 J of work in 10 seconds. Calculate the motor's power output.  
+  - **Follow-Up-1**: What is the power output if the motor does the same work in 5 seconds?
+  - **Follow-Up-2**: How much work does the motor do in 20 seconds at this power output?
+  - **Follow-Up-3**: If the motor's efficiency is 80%, how much useful power is produced?
+  - **Follow-Up-4**: How much work does the motor do in one minute at full capacity?
+
+---
+
+### **Type**: Application-based**
+- **Main**: How is power calculated for a car engine, and why is it an important measure of performance?  
+  - **Follow-Up-1**: Explain how a car's horsepower rating relates to its acceleration and top speed.
+  - **Follow-Up-2**: How does an increase in engine power improve the car's performance on the road?
+  - **Follow-Up-3**: How does fuel efficiency relate to the power output of a car engine?
+  - **Follow-Up-4**: What role does power play in determining the towing capacity of a vehicle?
+
+---
+
+### **Type**: Application-based**
+
+- **Main**: Discuss how power is important in the context of household electrical appliances.  
+  - **Follow-Up-1**: How does the power rating of an appliance, like a microwave or refrigerator, affect its energy consumption?
+  - **Follow-Up-2**: What is the relationship between power and energy cost for operating high-power appliances?
+  - **Follow-Up-3**: Why is it important for appliances to be energy-efficient in terms of power consumption?
+  - **Follow-Up-4**: How does the power rating of an air conditioner influence its cooling capacity?
+
+---
+
+### **Type**: Theoretical**
+- **Main**: Explain the significance of the unit "watt" as a measure of power and how it relates to other energy units.  
+  - **Follow-Up-1**: Why is power measured in watts, and how is this unit related to joules and seconds?
+  - **Follow-Up-2**: How does kilowatt-hour (kWh) differ from watt as a unit of energy consumption?
+  - **Follow-Up-3**: Explain how watts, joules, and time are connected in determining the energy usage of electrical devices.
+  - **Follow-Up-4**: Why is it important to consider both power and time when calculating energy bills?
+
+---
+
+### **Type**: Theoretical**
+
+- **Main**: Discuss the importance of power in physical exercises, like sprinting or weightlifting.  
+  - **Follow-Up-1**: How does power output relate to performance in short, intense activities like sprinting?
+  - **Follow-Up-2**: Why do athletes need to maximize power for quick, explosive movements?
+  - **Follow-Up-3**: How is power output in weightlifting different from endurance-based exercises like long-distance running?
+  - **Follow-Up-4**: How does power contribute to overall athletic performance in sports that require both speed and strength?
+
+---
+
+### **Type**: Problem-solving**
+- **Main**: A pump raises 500 liters of water to a height of 20 meters in 30 seconds. Calculate the power output of the pump (1 liter of water = 1 kg, g = 9.8 m/s²).  
+  - **Follow-Up-1**: What is the power output if the pump raises the same amount of water in 20 seconds?
+  - **Follow-Up-2**: How much work is done by the pump in raising the water?
+  - **Follow-Up-3**: How does the power output change if the height is doubled but the time remains the same?
+  - **Follow-Up-4**: If the pump's efficiency is 75%, how much useful power is produced?
+
+---
+
+### **Type**: Problem-solving**
+
+- **Main**: A 1000 W motor lifts an elevator with a mass of 500 kg to a height of 10 meters. How long does it take for the motor to complete the lift (g = 9.8 m/s²)?  
+  - **Follow-Up-1**: How much work is done by the motor during the lift?
+  - **Follow-Up-2**: What is the power required if the elevator needs to be lifted in half the time?
+  - **Follow-Up-3**: How would the power output change if the motor were 85% efficient?
+  - **Follow-Up-4**: If the mass of the elevator is doubled, how does this affect the time and power required?
+
+---
+
+### **Type**: Conceptual**
+- **Main**: Why is power an important factor in determining the energy consumption of industrial machines?  
+  - **Follow-Up-1**: How does increasing the power output of a machine affect its energy usage over time?
+  - **Follow-Up-2**: Explain how power efficiency can lead to cost savings in large-scale industrial operations.
+  - **Follow-Up-3**: Why is it necessary to consider both power and time when evaluating the performance of industrial machinery?
+  - **Follow-Up-4**: How can industries reduce power consumption without sacrificing production efficiency?
+
+---
+
+### **Topic**: 4.6 Efficiency**:
+
+### **Type**: Conceptual**
+- **Main**: Define efficiency in physics and explain why no system can be 100% efficient.  
+  - **Follow-Up-1**: How is efficiency calculated in the context of energy transfer?
+  - **Follow-Up-2**: What are the main factors that cause a system to lose efficiency?
+  - **Follow-Up-3**: Why is friction a significant factor in reducing the efficiency of mechanical systems?
+  - **Follow-Up-4**: How does the efficiency of a machine affect the total energy output?
+
+---
+
+### **Type**: Conceptual**
+- **Main**: Discuss the importance of efficiency in the context of energy conservation.  
+  - **Follow-Up-1**: Why is it important to improve the efficiency of energy systems in industries and households?
+  - **Follow-Up-2**: How do improvements in efficiency contribute to reducing energy costs?
+  - **Follow-Up-3**: Explain how energy efficiency is related to environmental sustainability.
+  - **Follow-Up-4**: What role does efficiency play in the design of renewable energy systems like wind turbines and solar panels?
+
+---
+
+### **Type**: Numerical**
+- **Main**: A motor uses 100 J of energy to lift a weight but only performs 80 J of useful work. Calculate the efficiency of the motor.  
+  - **Follow-Up-1**: How much energy is wasted as heat or other forms?
+  - **Follow-Up-2**: If the motor's efficiency improves to 90%, how much more useful work is performed?
+  - **Follow-Up-3**: What is the energy loss if the motor's efficiency drops to 70%?
+  - **Follow-Up-4**: How much energy would be required to perform 100 J of useful work at 75% efficiency?
+
+---
+
+### **Type**: Numerical**
+- **Main**: A power plant generates 500 MW of electrical energy, but its input energy from coal is 1500 MW. Calculate the efficiency of the plant.  
+  - **Follow-Up-1**: How much energy is lost as waste heat?
+  - **Follow-Up-2**: If the plant's efficiency improves to 40%, how much electrical energy is produced?
+  - **Follow-Up-3**: How much coal would be saved annually if the efficiency increases from 33% to 40%?
+  - **Follow-Up-4**: Calculate the amount of energy wasted over a 24-hour period at the current efficiency.
+
+---
+
+### **Type**: Application-based**
+- **Main**: How is the efficiency of a car engine related to its fuel consumption?  
+  - **Follow-Up-1**: Explain how improving the efficiency of a car's engine reduces fuel usage.
+  - **Follow-Up-2**: How do hybrid cars increase efficiency compared to traditional internal combustion engines?
+  - **Follow-Up-3**: What are the environmental benefits of increasing the efficiency of car engines?
+  - **Follow-Up-4**: How does the efficiency of a car change when driving at higher speeds or in stop-and-go traffic?
+
+---
+
+### **Type**: Application-based**
+- **Main**: Discuss how efficiency plays a role in the performance of renewable energy systems, such as solar panels and wind turbines.  
+  - **Follow-Up-1**: How does the efficiency of a solar panel affect the total energy it can produce over a year?
+  - **Follow-Up-2**: What are the factors that reduce the efficiency of wind turbines?
+  - **Follow-Up-3**: How can technological advancements improve the efficiency of renewable energy systems?
+  - **Follow-Up-4**: Why is it crucial to maximize efficiency in renewable energy sources compared to fossil fuel power plants?
+
+---
+
+### **Type**: Theoretical**
+- **Main**: Explain why efficiency is expressed as a percentage and what it signifies about a system’s performance.  
+  - **Follow-Up-1**: Why is an efficiency greater than 100% physically impossible?
+  - **Follow-Up-2**: How is the concept of efficiency different in mechanical systems compared to electrical systems?
+  - **Follow-Up-3**: How does efficiency impact the longevity and reliability of a machine?
+  - **Follow-Up-4**: What is the significance of improving efficiency in large-scale power generation?
+
+---
+
+### **Type**: Theoretical**
+- **Main**: Discuss the relationship between energy efficiency and the law of conservation of energy.  
+  - **Follow-Up-1**: How does the law of conservation of energy explain why energy is always conserved, even in inefficient systems?
+  - **Follow-Up-2**: Explain how increasing efficiency reduces the amount of energy lost as waste.
+  - **Follow-Up-3**: Why does improving efficiency not violate the conservation of energy principle?
+  - **Follow-Up-4**: How does energy transformation in inefficient systems lead to increased waste, such as heat?
+
+---
+
+### **Type**: Problem-solving**
+- **Main**: A machine performs 1500 J of useful work but requires 2000 J of input energy. Calculate the machine’s efficiency.  
+  - **Follow-Up-1**: How much energy is wasted as heat or other forms?
+  - **Follow-Up-2**: If the machine’s efficiency improves to 90%, how much useful work will it perform for the same input energy?
+  - **Follow-Up-3**: What input energy is required for the machine to perform 1500 J of useful work at 80% efficiency?
+  - **Follow-Up-4**: Calculate how much energy would be wasted if the machine operated at 75% efficiency instead.
+
+---
+
+### **Type**: Problem-solving**
+- **Main**: A hydroelectric power plant operates with an efficiency of 85% and generates 200 MW of electricity. How much energy is input into the system to achieve this output?  
+  - **Follow-Up-1**: How much energy is lost as waste during the process?
+  - **Follow-Up-2**: If the efficiency drops to 80%, how much input energy is required to maintain the same output?
+  - **Follow-Up-3**: How much energy would be saved annually if the efficiency increases from 85% to 90%?
+  - **Follow-Up-4**: What impact does a 5% improvement in efficiency have on the overall energy output of the plant?
+
+---
+
+### **Type**: Conceptual (new)**
+- **Main**: Why is efficiency particularly important in the design of power plants and industrial machinery?  
+  - **Follow-Up-1**: How does improving efficiency lead to significant cost savings in large-scale operations?
+  - **Follow-Up-2**: Why are energy losses in the form of heat and friction more noticeable in large industrial machines?
+  - **Follow-Up-3**: How do modern technologies aim to improve the efficiency of power plants?
+  - **Follow-Up-4**: What are the environmental impacts of improving the efficiency of industrial machinery?
+
+---
+
+### **Type**: Application-based (new)**
+- **Main**: How does the efficiency of household appliances, like refrigerators and air conditioners, impact energy consumption?  
+  - **Follow-Up-1**: Why is it important for appliances to have high energy efficiency ratings?
+  - **Follow-Up-2**: How does using energy-efficient appliances help reduce electricity bills?
+  - **Follow-Up-3**: What technological advancements have improved the efficiency of household appliances?
+  - **Follow-Up-4**: How does reducing the energy consumption of appliances contribute to sustainability?
+
+---

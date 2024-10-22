@@ -1,0 +1,2587 @@
+{
+    "chapter": "",
+    "topics": [
+        {
+            "topic": "11.1 Production of Current Electricity",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is electric current?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is electric current produced from moving electrons?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Describe the flow of current when two objects with different potentials are connected.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the potential difference between two points in a conductor affect the electric current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does temperature affect the flow of electric current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the relationship between charge and current.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the formula for calculating electric current in terms of charge and time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If charge increases but time remains constant, how does current change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would a decrease in time affect the electric current for a fixed charge?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe an experiment to demonstrate the production of electric current from static electricity.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role do plug keys K1 and K2 play in the setup?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to first discharge the metal plates before closing the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the galvanometer indicate that current has been produced?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What changes would you observe in the galvanometer if the potential difference between the plates was doubled?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What materials are required to build a simple circuit demonstrating current flow?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you connect a battery, a resistor, and a galvanometer to form a simple circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if there was a break in the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the galvanometer help in detecting current flow?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How could the circuit be modified to allow for variable current flow?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If 15 C of charge flows through a conductor in 3 seconds, what is the current in the conductor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the charge increases to 30 C but the time remains the same, what will be the new current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the current change if the time taken for the charge to flow was reduced to 1 second?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the current in a wire is 5 A, how much charge flows through the wire in 10 seconds?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 2 A current flows through a circuit for 5 minutes. Calculate the total charge that passes through the circuit.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the current doubles, how much charge would pass through the circuit in the same time?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Convert the time into seconds and recalculate the charge for a current of 4 A.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the current remains 2 A but the time is halved, how does the total charge change?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it important to maintain a potential difference to ensure continuous current flow?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would happen to the flow of current if the potential difference drops to zero?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can current flow in a circuit with no potential difference? Why or why not?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of potential difference relate to energy transfer in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Could static electricity be used to produce a continuous flow of current? Why or why not?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the behavior of charges in a conductor when it is isolated versus when it is connected to a circuit.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the presence of a conducting path change the distribution of charge on a conductor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do charges remain on the surface of an isolated conductor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between electrostatic charge and electric current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the material of the conductor affect the flow of current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can you measure the current in a simple circuit?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What equipment would you need to measure the current accurately?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you connect an ammeter in a circuit to ensure correct readings?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if the ammeter was connected incorrectly?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you ensure that the current is flowing in the correct direction?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.2 Direction of Electric Current",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Design an experiment to show the effect of varying the potential difference on the electric current in a circuit.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What instruments would you use to vary and measure the potential difference?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you ensure that the circuit remains intact during the experiment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the potential difference affect the current in the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you make the experiment safer when working with high potential differences?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the conventional direction of electric current?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why was the conventional current originally thought to flow from positive to negative?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the actual direction of current differ from the conventional direction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to distinguish between conventional and actual current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how electron flow relates to the actual direction of electric current.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the role of electrons in determining the actual direction of current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the potential difference influence the movement of electrons?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the electron flow considered the true direction of current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare and contrast the flow of current and the flow of electrons in a circuit.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do conventional current and electron flow move relative to each other?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In which direction do electrons move in a battery circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does conventional current make circuit diagrams easier to interpret?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does reversing the polarity of a battery affect the direction of current in a circuit?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What happens to the flow of electrons when the battery is reversed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reversing the current affect the functioning of a device like an LED?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you use a diode to ensure the current flows in only one direction?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it important to consider the direction of current when designing a circuit?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would incorrect placement of components like a diode affect current flow?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions should be taken when connecting components to ensure correct current flow?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the direction of current influence the operation of an electric motor?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a circuit has a potential difference of 10 V and the current is 5 A, what is the direction of the current based on conventional flow?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the battery is reversed, how will the direction of current change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the new current if the potential difference is doubled but the battery\u2019s direction remains the same.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Ohm\u2019s Law relate to changes in potential difference and current direction?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 6 A current flows from the positive to the negative terminal of a battery. How much charge passes through the circuit in 2 minutes?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much charge would pass if the current was reversed but remained at 6 A?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the total charge if the current remains the same but flows for 4 minutes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the current drops to 3 A, how does this affect the total charge in 2 minutes?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is the distinction between conventional and actual current",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the incorrect assumption about current direction impact circuit design?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Does the distinction between current directions affect power consumption in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does current direction influence the safety of electrical systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.3 Electric Symbols",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Design an experiment to demonstrate the conventional and actual direction of current.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What materials would you need to differentiate between conventional and electron flow?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you measure the current in both directions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would reversing the battery affect the experimental outcomes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you ensure the safety of the experiment when dealing with high currents?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the purpose of using symbols in electrical circuit diagrams?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it important to standardize symbols in circuit diagrams?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do symbols help in understanding complex circuits?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the basic symbols used for a battery and a switch in a circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the significance of using an ammeter and a voltmeter in a circuit.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the symbol for an ammeter, and how is it connected in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is a voltmeter symbolized, and how does it differ in connection from an ammeter?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to place the ammeter in series and the voltmeter in parallel?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would you draw a simple circuit using symbols to represent a battery, a resistor, and a bulb?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the correct way to connect a switch in this circuit to control the bulb?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the circuit change if you added a second battery in series?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the addition of a second bulb in parallel affect the current in the circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Design a circuit using electric symbols to show a series connection of a battery, resistor, and ammeter.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you modify the circuit to include a voltmeter to measure the voltage across the resistor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What changes would you make to place the resistor and another device in parallel?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you depict a fuse in the circuit using the correct symbol?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a circuit has a battery of 12 V, a resistor of 5 \u03a9, and a current of 2 A, draw the circuit using appropriate symbols.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you represent the connection of an ammeter and a voltmeter to measure current and voltage, respectively?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the resistor was doubled, how would you modify the circuit diagram and calculate the new current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the power consumed by the resistor in this circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it important to ensure that symbols are correctly placed and connected in a circuit diagram?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What could happen if a voltmeter is connected in series instead of parallel?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why should fuses and switches be connected in series with the circuit components?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do incorrect symbol placements lead to misunderstandings in complex circuit designs?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.4 Conductor, Insulator, and Semiconductor",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Create a circuit diagram using symbols to represent two resistors in parallel connected to a battery.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would happen to the circuit if one of the resistors was disconnected?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you modify the circuit to include an indicator lamp that lights when current is flowing?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What safety precautions should you consider when working with this circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are conductors, and how do they facilitate the flow of electric current?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are metals like copper and silver considered good conductors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the atomic structure of conductors allow for free movement of electrons?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some common applications of conductors in daily life?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define an insulator and explain why certain materials resist the flow of electric current.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why do materials like rubber and plastic serve as good insulators?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role do insulators play in electrical safety?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the lack of free electrons in insulators affect their conductivity?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is a semiconductor, and how does it differ from conductors and insulators?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are materials like silicon and germanium used as semiconductors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the conductivity of a semiconductor be altered?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of doping in increasing semiconductor conductivity?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how conductors, insulators, and semiconductors are used in a household electrical system.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How are conductors used in wiring and electrical circuits in homes?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are insulating materials essential in the wiring of electrical appliances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How are semiconductors used in electronic devices like smartphones and computers?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a copper wire has a resistance of 2 \u03a9 and a voltage of 10 V is applied, calculate the current flowing through the wire.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the current change if the resistance was halved?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the power consumed by the copper wire if the voltage was increased to 20 V?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the wire was replaced with an insulator, what current would flow through the circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the roles of conductors, insulators, and semiconductors in electronic devices.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the combination of these materials enhance the functionality of an electronic circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it necessary to use insulators alongside conductors in electrical systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what situations would a semiconductor be preferable to a conductor or insulator?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.5 Ohm\u2019s Law",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Design an experiment to test the conductivity of different materials, including metals, plastics, and semiconductors.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you measure the current passing through each material?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would you expect to observe when testing a good conductor versus an insulator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the experiment change if you tested the materials at different temperatures?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "State Ohm\u2019s Law and explain its significance in electrical circuits.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does Ohm\u2019s Law relate voltage, current, and resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is Ohm\u2019s Law only applicable for certain materials?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the limitations of Ohm\u2019s Law in practical applications?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the resistance of a conductor calculated using Ohm\u2019s Law?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does temperature affect the resistance of a conductor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of a straight-line graph of voltage versus current in confirming Ohm\u2019s Law?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do some materials not obey Ohm\u2019s Law?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe how you would verify Ohm\u2019s Law experimentally.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What equipment would you use to measure voltage and current in the experiment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you plot a voltage-current graph to verify the proportionality between them?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What conclusions can you draw if the graph is a straight line?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Use Ohm\u2019s Law to calculate the resistance of a circuit with a 10 V battery and 2 A current.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the current change if the voltage was increased to 20 V, assuming resistance remains constant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the resistance was doubled, what would happen to the current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the total voltage needed to maintain a current of 5 A with a resistance of 4\u03a9?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 12 V battery is connected to a resistor with a current of 3 A. Calculate the resistance of the circuit.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How much power is dissipated in the resistor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the current is doubled, what happens to the power dissipation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would the voltage need to be if the current remains 3 A but the resistance increases to 10 \u03a9?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "In a circuit with a 24 V battery and a 6 \u03a9 resistor, calculate the current flowing through the resistor.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would be the current if the resistance was reduced to 3 \u03a9?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does changing the voltage to 48 V affect the current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the power dissipated in the circuit for each scenario.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is Ohm\u2019s Law fundamental to understanding electric circuits?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the concept of resistance help in controlling current in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the practical applications of Ohm\u2019s Law in household electrical devices?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would circuits be designed differently without the knowledge of Ohm\u2019s Law?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.6 Resistance: Fixed and Variable",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Create a simple circuit to verify Ohm\u2019s Law using a battery, resistor, ammeter, and voltmeter.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you ensure that the measurements of voltage and current are accurate?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions would you take to prevent overheating of the resistor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How could you adjust the circuit to explore the effect of changing resistance on current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is electrical resistance, and how does it affect the flow of current?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What factors affect the resistance of a conductor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the length of a conductor influence its resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do thicker wires have lower resistance than thinner wires?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the difference between fixed and variable resistances.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does a fixed resistor function in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the purpose of using a variable resistor in an electrical circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to control resistance in certain applications?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would you use a rheostat to control the brightness of a bulb?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What happens to the current when the resistance of the rheostat is increased?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you use a rheostat to maintain a constant current in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some practical applications of rheostats in everyday devices?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A 100 \u03a9 fixed resistor is connected to a 12 V battery. Calculate the current flowing through the resistor.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the resistance is halved, what will be the new current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the power dissipated by the resistor.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy is used by the resistor in 10 minutes?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it important to use resistors in electrical circuits?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does resistance protect electrical components from damage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if there were no resistors in circuits?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of resistance contribute to the efficient use of electrical energy?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.7 Electromotive Force and Potential Difference",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Demonstrate the use of a variable resistor to adjust the current in a circuit.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you connect the variable resistor in the circuit to control current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would you observe if the resistance was gradually increased?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How could this setup be used in real-life applications like controlling the speed of a fan?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is electromotive force (emf), and how does it differ from potential difference?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is emf often considered the source of energy in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does potential difference influence the flow of current in a conductor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of emf in maintaining the flow of current in a closed circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how the potential difference between two points in a circuit is related to work done on a charge.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does potential difference affect the energy conversion in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relationship between potential difference and current according to Ohm\u2019s Law?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is potential difference important in determining the direction of current flow?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would you measure the electromotive force of a battery using a voltmeter?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why must the battery be disconnected from the circuit to measure its emf?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you measure the potential difference across a resistor while the circuit is in operation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What does the difference between emf and potential difference indicate about the energy losses in the circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If a battery has an emf of 12 V and supplies a current of 2 A to a circuit, what is the total energy supplied in 10 seconds?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the potential difference across the load is 10 V, how much energy is lost as heat in the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the power output of the battery.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen to the power if the current was increased to 3 A?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it important to consider both emf and potential difference in circuit design?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do energy losses in a circuit impact the performance of electrical devices?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if the potential difference in a circuit was equal to the emf of the battery?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the internal resistance of a battery affect its emf?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.8 Dependence of Resistance",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Design an experiment to measure the potential difference across different components in a circuit.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you ensure accurate measurement of potential difference?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What equipment would you use to measure potential difference, and how would you connect it?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you use your measurements to calculate the total emf of the circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What factors affect the resistance of a conductor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the length of a conductor influence its resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What effect does the cross-sectional area of a conductor have on its resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the material of a conductor determine its resistance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how temperature affects the resistance of a conductor.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does resistance increase with temperature in most conductors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the exceptions where resistance decreases with increasing temperature?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the atomic structure of a conductor change with temperature, affecting its resistance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would you experimentally measure the effect of length on the resistance of a wire?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What equipment would you need to perform this experiment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you ensure that temperature remains constant during the experiment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What results would you expect if the length of the wire is doubled?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe an experiment to investigate the relationship between cross-sectional area and resistance.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What apparatus would be necessary for this experiment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you vary the cross-sectional area while keeping other factors constant?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you analyze the data to confirm the relationship between resistance and cross-sectional area?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A copper wire has a resistance of 4 \u03a9 and a length of 2 meters. If the length is doubled, what will be the new resistance?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the resistance change if the cross-sectional area was doubled instead of the length?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the resistance if the wire was made of aluminum, which has a higher resistivity than copper.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the resistance of the same copper wire at a higher temperature if its resistivity increases by 20%?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "The resistance of a wire is directly proportional to its length. If a 3 m wire has a resistance of 6 \u03a9, calculate the resistance of a 9 m wire of the same material and thickness.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the cross-sectional area of the 9 m wire is doubled, what will be its new resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the resistance of the 9 m wire if it was made of a material with twice the resistivity of the original material?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the 9 m wire is heated and its resistance increases by 10%, calculate the new resistance.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it important to consider the dependence of resistance on length and cross-sectional area in electrical wiring?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the choice of wire material affect energy loss in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the practical implications of using longer wires in an electrical system?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can engineers minimize resistance in high-voltage transmission lines?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how resistance varies with temperature and why this is significant in electronic devices.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why must devices that operate in extreme temperatures use materials with low temperature coefficients of resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does temperature dependence of resistance affect the efficiency of power transmission?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what scenarios would materials with increasing resistance at higher temperatures be useful?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.9 Resistivity and Conductivity",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Design a circuit to demonstrate the effect of length on the resistance of a wire.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you measure the resistance of different wire lengths accurately?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can you ensure that all other factors remain constant while varying the length?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you interpret the results to verify the direct proportionality between length and resistance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is resistivity, and how is it different from resistance?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does resistivity depend on the material of the conductor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the temperature affect the resistivity of materials?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the significance of low resistivity materials in electrical systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Define conductivity and explain its relationship with resistivity.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are conductors like copper and silver highly conductive?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do you calculate the conductivity of a material if you know its resistivity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some common applications of materials with high conductivity?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how resistivity varies among different materials such as metals, semiconductors, and insulators.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the atomic structure of metals contribute to their low resistivity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why do semiconductors have intermediate resistivity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What makes insulators have very high resistivity, and how is this useful in electrical systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would you experimentally determine the resistivity of a material?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What equipment would you use to measure resistivity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you ensure accurate measurements of length, cross-sectional area, and resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you calculate the resistivity using your experimental data?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe an experiment to measure the conductivity of different materials like copper, aluminum, and plastic.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you set up the experiment to compare the conductivity of these materials?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What conclusions would you expect from the comparison of metals versus plastics?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would temperature affect your results, particularly for semiconductors?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wire has a resistivity of \\(1.7 \\times 10^{-8}\\, \\Omega \\cdot m\\). If its length is 2 m and cross-sectional area is \\(1 \\times 10^{-6} m^2\\), calculate its resistance.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the resistance change if the cross-sectional area was halved?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would the resistance be if the wire was made of a material with twice the resistivity?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the conductivity of the wire based on its resistivity.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the resistivity of a material if a 5 m long wire with a cross-sectional area of \\(2 \\times 10^{-6} m^2\\) has a resistance of 0.5 \u03a9.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the length is doubled but the cross-sectional area remains the same, what will be the new resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the resistivity if the resistance increases by 20% due to a temperature change.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would the conductivity of the material be if the resistivity is known?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why is it important to use materials with low resistivity in electrical wiring?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the choice of material impact energy loss in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the consequences of using high-resistivity materials in power transmission lines?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can high-conductivity materials improve the efficiency of electrical systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "11.10 Series and Parallel Circuits",
+            "types": [
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Design an experiment to measure the resistivity and conductivity of a given material.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you ensure that temperature remains constant during the experiment?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions would you take to minimize errors in measuring resistance, length, and area?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you use the results to calculate both resistivity and conductivity?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is a series circuit, and how are components connected in such a circuit?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does current flow in a series circuit, and how is it the same through all components?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the total resistance in a series circuit calculated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the voltage different across each component in a series circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is a parallel circuit, and how are components connected in such a circuit?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the current behave in a parallel circuit, and why does it split between branches?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the total resistance calculated in a parallel circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the voltage the same across all components in a parallel circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How would you calculate the total resistance in a circuit with three resistors in series?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What changes would you observe in the current if another resistor was added to the series circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the addition of more resistors in series affect the overall current in the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the power consumption change in a series circuit when resistance is increased?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Describe an experiment to measure the total resistance of resistors connected in parallel.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you set up the circuit to ensure accurate measurements of total resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the addition of another resistor in parallel affect the overall resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does adding more resistors in parallel decrease the total resistance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "In a series circuit, three resistors of 4 \u03a9, 6 \u03a9, and 10 \u03a9 are connected. Calculate the total resistance.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the total voltage across the circuit is 20 V, calculate the current flowing through the circuit.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What will the total resistance be if a 5 \u03a9 resistor is added in series?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the voltage drop across each resistor in the original circuit.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "In a parallel circuit, two resistors of 5 \u03a9 and 10 \u03a9 are connected. Calculate the total resistance.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the total current in the circuit is 3 A, calculate the current through each resistor.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What will the total resistance be if a 15 \u03a9 resistor is added in parallel?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the voltage across the circuit is 12 V, calculate the power dissipated by each resistor.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Why are parallel circuits commonly used in household wiring systems?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do parallel circuits ensure that each appliance gets the same voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if household appliances were connected in series instead of parallel?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to calculate the total resistance in parallel circuits accurately?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Critical Thinking",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Compare the advantages and disadvantages of series and parallel circuits in different applications.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "In what situations would a series circuit be more beneficial than a parallel circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it easier to detect faults in parallel circuits compared to series circuits?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do parallel circuits improve the efficiency and safety of electrical systems?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Practical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Design an experiment to compare the total resistance in series and parallel circuits using the same resistors.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you measure the resistance in each circuit setup?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What differences in current and voltage would you expect to observe between the two setups?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you interpret the results to confirm the relationships between total resistance in series and parallel circuits?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is equivalent resistance important in analyzing circuits?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the concept of equivalent resistance simplify complex circuits?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can equivalent resistance be used to compare different types of circuits? Explain how.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the equivalent resistance in a parallel combination always smaller than the smallest resistor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the total current behave in a parallel circuit as more resistors are added?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In which scenario would you use a series combination instead of a parallel combination?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the current divide among resistors in a parallel combination?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the individual currents in each resistor if the resistance of one branch is decreased?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the potential difference remain the same across all branches of a parallel circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What will be the total current in the circuit if a 12V battery is connected?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the potential drop across each resistor.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the 4\u03a9 resistor is replaced with an 8\u03a9 resistor, how does this affect the total resistance and current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the total current in the circuit is 6A, calculate the current through each resistor.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the total power consumed by the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the total resistance change if a 20\u03a9 resistor is added in parallel?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a parallel connection ensure that each appliance operates at the same voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the other appliances if one appliance fails in a parallel circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it unsafe to connect high-power appliances in series?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the equivalent resistance of the circuit.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the current flowing through the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If one resistor is removed, how does this impact the overall circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the voltage across the entire parallel combination?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Determine the current through each resistor.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen to the current distribution if the 18\u03a9 resistor is removed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much power is consumed by the resistor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the total energy consumed in 2 hours?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the power distribution change if another 60W bulb is added in series?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the total current flowing through the circuit if a 24V battery is connected?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the voltage across the 6\u03a9 resistor.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the 8\u03a9 resistor is replaced with a 4\u03a9 resistor, how will the total resistance and current change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the SI units of power and energy in an electrical context?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is power related to voltage and current in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can power be calculated using resistance and current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is energy consumption typically measured in kWh instead of joules?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you convert kWh to joules?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors affect the total energy consumption of an electrical device?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is energy consumption in households measured?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is power considered the rate of energy transfer in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relationship between time and energy consumption for a fixed-power device?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy is consumed if the heater runs for 4 hours?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the heater's resistance is 100\u03a9, calculate the current flowing through it.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the total cost of running the heater for 5 hours a day for 30 days, if the electricity rate is $0.12 per kWh?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much will it cost if the electricity rate is $0.15 per kWh?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the television is used for 5 hours instead of 3, what will be the new energy consumption?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the power consumption change if a higher power-rated television is used?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What will happen to the power consumption if resistance remains constant but the voltage doubles?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does power consumption vary with current in a resistive circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to match the voltage rating of an appliance with the power supply?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much will it cost to run the refrigerator for a month if the electricity rate is $0.10 per kWh?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If a more energy-efficient refrigerator consumes only 0.8kWh per day, calculate the monthly savings.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What other factors might influence the actual power consumption of the refrigerator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy is consumed if the bulb is on for 6 hours?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the total cost if this bulb is used every day for a month at an electricity rate of $0.13 per kWh?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the energy consumption change if the bulb is replaced with an 80W bulb?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy is consumed in 3 hours?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the power supply is reduced to 120V, calculate the new power consumption.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the total cost of operating the heater for 6 hours a day for 20 days at a rate of $0.14 per kWh?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does resistance in transmission wires contribute to system loss?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is high-voltage transmission used to reduce system loss?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how power loss due to resistance is related to the square of the current.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What measures can be taken to minimize system loss?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does load shedding occur?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the supply-demand imbalance lead to load shedding?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What steps can be taken to prevent or minimize load shedding in a country?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does load shedding affect industries and daily life?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relationship between voltage, current, and power loss in a transmission line?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does increasing voltage lead to a decrease in current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does this reduction in current help in reducing power loss due to resistance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Can higher transmission voltage completely eliminate system loss? Why or why not?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the power loss if the current is doubled?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much power loss occurs if the resistance is reduced to 0.25\u03a9?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the transmission voltage is increased, how does that affect the current and the power loss?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the power loss if the current is 5A and the resistance remains 0.5\u03a9.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What changes can be made to transmission lines to reduce energy loss?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do transformers help in reducing system loss in long-distance electricity transmission?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to regularly maintain and upgrade transmission systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the use of alternative energy sources like solar power reduce system loss?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the role of demand-response systems in managing load shedding.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can real-time monitoring of electricity consumption help prevent load shedding?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the role of energy storage systems in preventing load shedding during peak demand hours?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can consumers contribute to reducing load shedding through energy-efficient practices?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much energy is lost due to system inefficiencies?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the system loss if the transmission line efficiency improves by 2%?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the city\u2019s demand increases by 20%, how much more electricity needs to be generated to compensate for the system loss?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the system loss affect the total energy consumption of the city over a year?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if the demand increases by 20%?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How many households could be reconnected if the supply is increased by 10MW?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How could energy-efficient appliances help in reducing the number of households affected by load shedding?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would be the economic impact of load shedding on these households over a month?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how damaged insulation can lead to electrical hazards.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it dangerous to use electrical appliances in damp conditions?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can overheating of electrical cables cause fires?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are some of the safety devices used to prevent electrical accidents?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does earthing protect users from electric shocks?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain the role of the earth wire in preventing short circuits.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why are appliances like refrigerators and washing machines required to be earthed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens if an electrical device is not properly earthed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a circuit breaker differ from a fuse?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Explain how a circuit breaker prevents electrical overloads.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to install circuit breakers in household circuits?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a circuit breaker respond to a short circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the cost of using the kettle if the electricity rate is $0.12 per kWh?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How much would the energy consumption be reduced if the kettle operates for only 1 hour per day?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the power rating of the kettle is increased to 2kW, calculate the new monthly energy consumption.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the energy consumption change if the kettle is replaced with an energy-efficient model consuming 1kW?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens if an appliance with a power rating of 1.5kW is added to the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the new total power consumption if another 500W appliance is connected.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Will the fuse blow if the total current exceeds the fuse rating? Justify your answer.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the household prevent electrical overloads in this situation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the risks of using electrical appliances with wet hands?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why should appliances in damp environments have extra insulation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What precautions should be taken to prevent electrical accidents in the kitchen?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can ground fault circuit interrupters (GFCI) improve electrical safety in bathrooms?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it dangerous to overload extension cords with multiple high-power appliances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can users ensure that extension cords are used safely?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What should be",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can smart plugs and surge protectors help in improving safety while using extension cords?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What should be done to replace the damaged wire and prevent future incidents?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can proper insulation prevent short circuits in electrical systems?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What other measures can be taken to ensure the house is electrically safe?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to regularly inspect and maintain electrical wiring in the house?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if the circuit breaker is replaced with one rated for 20A? Is this a good solution?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the electrical load be balanced to prevent the circuit breaker from tripping?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the household reduce its overall power consumption to avoid overloading the circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does energy-efficient appliances play in reducing the total electrical load?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

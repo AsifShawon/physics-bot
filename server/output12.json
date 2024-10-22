@@ -1,0 +1,2151 @@
+{
+    "chapter": "",
+    "topics": [
+        {
+            "topic": "12.1 Magnetic Effect of Current",
+            "types": [
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the magnetic effect of an electric current?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How did Oersted demonstrate the magnetic effect of current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does a compass needle move when placed near a current-carrying wire?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does changing the direction of the electric current affect the magnetic field?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the direction of the magnetic field around a current-carrying wire determined?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What rule can be used to find the direction of the magnetic field around a straight current-carrying wire?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does reversing the current reverse the direction of the magnetic field?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the magnetic field affected by the direction of current in a solenoid compared to a straight wire?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can you practically demonstrate the magnetic effect of current using a compass and wire?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe an experiment where you observe the deflection of a compass needle near a current-carrying wire.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would you modify the setup to observe the effect of increasing current on the strength of the magnetic field?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does this experiment help illustrate the relationship between current and magnetic fields?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the magnetic effect of current utilized in creating devices like electromagnets?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Explain how a solenoid enhances the magnetic effect of a current-carrying wire.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens when an iron rod is placed inside a current-carrying solenoid?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "In what practical applications are electromagnets used today, and how do they function?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the relationship between the strength of the magnetic field and the current in a wire.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does increasing the current in a wire affect the magnetic field strength?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the distance from the current-carrying wire affect the magnetic field strength?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does coiling the wire (as in a solenoid) influence the intensity of the magnetic field?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the shape of the magnetic field differ between a straight current-carrying wire and a solenoid?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Compare the magnetic field pattern around a straight wire and a solenoid.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What causes the magnetic field lines inside a solenoid to become more concentrated?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the polarity of the magnetic field in a solenoid be reversed?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If the current in a wire is 5 A and the distance from the wire is 2 cm, calculate the strength of the magnetic field using Amp\u00e8re\u2019s Law.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the magnetic field strength change if the current is doubled to 10 A while the distance remains the same?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the distance from the wire is increased to 4 cm, how does the magnetic field strength change?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the magnetic field strength if the current is reduced to half its initial value?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.2 Magnetic Effect of Current Carrying Conductor",
+            "types": [
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss how the discovery of the magnetic effect of current has influenced the development of electrical devices.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How did the understanding of current-induced magnetic fields contribute to the development of electromagnets?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does the magnetic effect of current play in modern electrical devices like motors and generators?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How has the discovery of the magnetic effect of current shaped advancements in electromagnetic theory?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What happens to the magnetic field when an electric current flows through a conductor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can the magnetic field around a conductor be visualized?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the direction of the magnetic field around the conductor change when the current direction is reversed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the magnetic field around a current-carrying conductor affected by the strength of the current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the arrangement of iron filings around a current-carrying wire demonstrate the magnetic field?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What pattern do iron filings form around a current-carrying wire, and why?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the arrangement of iron filings be used to determine the direction of the magnetic field?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing or decreasing the current affect the alignment of iron filings?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can the magnetic field produced by a current-carrying conductor be detected using a compass?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would you set up an experiment to observe the deflection of a compass near a current-carrying conductor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can changing the distance between the compass and the wire affect the deflection?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if the direction of the current was reversed during the experiment?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the magnetic field of a current-carrying conductor interact with the field of a nearby permanent magnet?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe an experiment to demonstrate the interaction between a current-carrying wire and a magnet.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the direction and strength of the current affect the force between the wire and the magnet?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What practical applications utilize the interaction between a current-carrying conductor and a magnetic field?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how the direction of the magnetic field around a current-carrying conductor is determined using the right-hand rule.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What does the right-hand rule suggest about the relationship between current direction and magnetic field direction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the field change if you alter the orientation of the conductor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the magnetic field form concentric circles around a straight current-carrying conductor?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.3 Solenoid",
+            "types": [
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the strength of the magnetic field around a conductor change with increasing distance from the wire?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What mathematical relationship describes the decrease in magnetic field strength as the distance from a current-carrying wire increases?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the current in the wire influence the strength of the magnetic field at various distances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What experimental methods could be used to measure the magnetic field strength at different points from a conductor?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is a solenoid, and how does it produce a magnetic field?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the magnetic field inside a solenoid compare to the field outside of it?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the number of coils in the solenoid affect the magnetic field strength?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the magnetic field inside a solenoid similar to that of a bar magnet?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does inserting an iron rod inside a solenoid enhance its magnetic field?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What effect does the presence of an iron core have on the magnetic field generated by a solenoid?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the solenoid become an electromagnet when an iron rod is placed inside it?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the magnetic polarity of the solenoid change when the direction of the current is reversed?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can solenoids be used to create electromagnets for practical purposes?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What are some common applications of electromagnets created by solenoids?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the strength of an electromagnet adjusted by changing the current or number of coils in the solenoid?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the use of a solenoid in devices like electric bells or motors demonstrate the principle of electromagnetism?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the magnetic field strength inside a solenoid depend on the number of turns in the coil?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the relationship between the number of turns in a solenoid and the intensity of the magnetic field it produces?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the current flowing through the solenoid affect the magnetic field strength?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does the length of the solenoid play in determining the field strength inside it?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.4 Electromagnet",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the magnetic field strength inside a solenoid with 500 turns, a current of 2 A, and a length of 0.5 m.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the magnetic field strength change if the number of turns in the solenoid is doubled?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the current is increased to 4 A, how does that affect the magnetic field strength inside the solenoid?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the magnetic field strength if the length of the solenoid is halved?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is an electromagnet, and how is it created using a solenoid?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does an electromagnet differ from a permanent magnet?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the strength of an electromagnet be controlled?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the electromagnet lose its magnetism when the current is switched off?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the shape of the iron core affect the strength of the electromagnet?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is a U-shaped iron core more effective for creating a strong electromagnet?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reducing the distance between the poles of the iron core increase the magnet's strength?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What practical applications use U-shaped electromagnets for lifting heavy objects?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are electromagnets used in devices like electric bells or cranes?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does an electric bell use an electromagnet to produce sound?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do cranes use powerful electromagnets to lift heavy steel objects?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the strength of the electromagnet in a crane controlled to release or pick up materials?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are electromagnets used in medical equipment, such as MRI machines or devices to remove metal from the eye?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do MRI machines use electromagnets to create detailed images of the human body?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can electromagnets safely remove metallic objects from a patient's body, such as metal fragments from the eye?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What safety precautions are necessary when using powerful electromagnets in medical applications?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the number of turns in a solenoid affect the strength of the electromagnet it creates?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the relationship between the number of turns in a solenoid and the intensity of the magnetic field in the electromagnet?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the current in the solenoid increase the magnetic strength of the electromagnet?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does using a soft iron core in the solenoid enhance the strength of the electromagnet?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.5 Electromagnetic Induction",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "If an electromagnet has a solenoid with 1000 turns and a current of 3 A, calculate the strength of the magnetic field it generates.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the magnetic field strength change if the current is increased to 6 A?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the solenoid has only 500 turns, how does that affect the magnetic field strength?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the electromagnet's field strength if the number of turns is doubled but the current remains constant?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is electromagnetic induction, and how does it occur?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How did Michael Faraday demonstrate electromagnetic induction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the relationship between a changing magnetic field and the production of electric current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does a closed circuit play in the process of electromagnetic induction?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does Lenz's Law explain the direction of induced current in electromagnetic induction?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What does Lenz's Law state about the direction of induced current in a loop or coil?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the induced current always in a direction that opposes the change in magnetic flux?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does Lenz's Law demonstrate the conservation of energy in electromagnetic induction?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can electromagnetic induction be demonstrated using a coil and a moving magnet?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe an experiment to observe induced current when a magnet is moved into and out of a coil.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the speed of the magnet\u2019s motion affect the amount of induced current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the direction of the induced current be changed during this experiment?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is electromagnetic induction applied in the functioning of devices like electric generators?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do generators use the principle of electromagnetic induction to convert mechanical energy into electrical energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the factors that affect the efficiency of electromagnetic induction in a generator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do power stations use electromagnetic induction to supply electricity to homes and industries?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the factors that determine the magnitude of the induced electromotive force (emf) in a coil.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the number of turns in a coil affect the amount of induced emf?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the rate of change of the magnetic field influence the induced emf?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the strength of the magnetic field contribute to the induced emf in a circuit?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the relative motion between a conductor and a magnetic field affect electromagnetic induction?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the relationship between the speed of motion of the conductor and the magnitude of induced current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reversing the direction of the motion affect the direction of the induced current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens when there is no relative motion between the conductor and the magnetic field?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.6 Induced Current and Induced Voltage",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A magnet is moved through a coil with 100 turns, inducing an emf of 2 V. What would be the induced emf if the coil had 200 turns?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "If the magnet is moved faster, how would this affect the induced emf?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the induced emf if the strength of the magnet is doubled but the number of turns in the coil remains the same?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the induced emf if the magnetic field changes at a rate of 0.5 T/s and the coil has 50 turns.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the difference between induced current and induced voltage?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is induced voltage generated in a closed circuit during electromagnetic induction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors affect the magnitude of induced current in a circuit?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does changing the distance between a coil and a magnet affect the induced voltage?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is induced voltage produced by moving a conductor through a magnetic field?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role does the relative motion between the conductor and the magnetic field play in inducing voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the strength of the magnetic field affect the amount of induced voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it necessary for the conductor to move at an angle to the magnetic field to generate induced voltage?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How can induced current be produced by moving a coil towards or away from a magnet?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe an experiment where a coil is moved towards a magnet to produce an induced current.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reversing the direction of motion of the coil affect the induced current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the number of turns in the coil or the speed of movement be adjusted to increase the induced current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do transformers use the concept of induced voltage to step up or step down voltage levels?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the ratio of turns in the primary and secondary coils of a transformer affect the induced voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How is the principle of electromagnetic induction applied in step-up and step-down transformers?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do transformers efficiently transmit electrical power over long distances using induced voltage?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the rate of change in magnetic flux affect the induced current and voltage in a circuit?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What happens to the induced current when the rate of change in magnetic flux is increased?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the angle between the magnetic field and the moving conductor affect the induced voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is there no induced voltage if the conductor moves parallel to the magnetic field lines?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.7 Effect of Magnet on Current Carrying Wire",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A coil of 100 turns is placed in a magnetic field that changes at a rate of 0.02 T/s, generating an induced voltage of 1 V. What would be the induced voltage if the coil had 200 turns?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the induced voltage change if the rate of change of the magnetic field is doubled?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the coil is rotated at a faster rate, how does that affect the induced voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the induced voltage in a coil of 500 turns if the magnetic field changes at a rate of 0.05 T/s.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the effect of a magnetic field on a current-carrying wire?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the interaction between the magnetic field of the wire and an external magnetic field cause the wire to experience a force?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the direction of the current in the wire affect the direction of the force experienced by the wire?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the wire move in a direction perpendicular to both the current and the magnetic field?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the right-hand rule help in determining the direction of the force on a current-carrying wire in a magnetic field?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How can the right-hand rule be applied to predict the movement of a wire in a magnetic field?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What factors determine the magnitude and direction of the force on the wire?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does reversing the current or the magnetic field reverse the direction of the force on the wire?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the effect of a magnetic field on a current-carrying wire demonstrated in an experiment?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Describe an experiment where a wire is placed between the poles of a magnet and current is passed through it.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can the strength of the magnetic field or the current be adjusted to increase the force on the wire?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reversing the current or the magnetic field affect the movement of the wire during the experiment?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how the force on a current-carrying wire in a magnetic field depends on the strength of the magnetic field and the current in the wire.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the mathematical relationship between the force on the wire, the current, the magnetic field strength, and the length of the wire?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the strength of the magnetic field affect the force on the wire?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the force on the wire increase if the current is increased while the magnetic field strength remains constant?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.8 Electric Motor",
+            "types": [
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A wire of length 0.5 m carries a current of 4 A and is placed in a magnetic field of 0.2 T. Calculate the force acting on the wire.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the force change if the current is increased to 8 A while the magnetic field strength remains the same?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the force on the wire if the length of the wire is doubled?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the basic principle behind an electric motor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does a current-carrying coil experience a force in a magnetic field?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the function of the commutator in an electric motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the magnetic field cause rotation in an electric motor?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is electrical energy converted into mechanical energy in an electric motor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role does the armature play in an electric motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the interaction between the magnetic field and the current in the armature create motion?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the direction of rotation if the direction of the current is reversed?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the commutator maintain continuous rotation in an electric motor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why does the commutator switch the direction of the current in the coil every half turn?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen to the rotation if the commutator was not present?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the inertia of the rotating coil assist in continuous motion during the switch in current direction?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the strength of the magnetic field affect the operation of an electric motor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What happens to the motor\u2019s speed if the strength of the magnetic field is increased?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does using a stronger magnet affect the efficiency of the motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to maintain a constant magnetic field strength for stable motor operation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the speed of an electric motor controlled in practical applications?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What methods are used to increase or decrease the speed of an electric motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does adjusting the current in the motor affect its speed?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the number of turns in the coil affect the motor\u2019s performance?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are electric motors used in common household devices?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does an electric motor function in an electric fan?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does the electric motor play in washing machines?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the electric motor work in a vacuum cleaner?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How is the efficiency of an electric motor increased in industrial applications?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How do multiple coils in the armature improve the motor\u2019s performance?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to use powerful magnets in industrial motors?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the length of the wire in the coil enhance the motor\u2019s operation?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain the role of torque in an electric motor.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the relationship between current, magnetic field, and torque in a motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the length of the coil affect the torque generated by the motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the torque on the coil vary during rotation, and how does the commutator compensate for this?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the interaction between the armature and magnetic field create rotational motion in an electric motor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the significance of the magnetic flux lines passing through the coil?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the angle between the magnetic field and the current-carrying coil affect the force on the armature?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the armature experience maximum torque when the coil is perpendicular to the magnetic field?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Calculate the force on a wire of length 0.2 m carrying a current of 5 A in a magnetic field of 0.3 T.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would happen to the force if the current is doubled to 10 A?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the force change if the length of the wire is increased to 0.4 m?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the force if the magnetic field strength is reduced to 0.1 T?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A motor with a coil of 100 turns experiences a torque of 0.4 Nm when a current of 2 A flows through it in a magnetic field of 0.5 T. Calculate the area of the coil.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the torque change if the number of turns is increased to 200?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the torque if the current is doubled to 4 A?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reducing the magnetic field strength to 0.25 T affect the torque?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss how commutation is critical to the operation of a DC motor.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the commutator ensure that the coil in a DC motor experiences torque in the same direction?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What are the advantages of using a split-ring commutator in a motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How would the motor\u2019s operation be affected if the commutator switched the current too early or too late?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.9 Generator",
+            "types": [
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the design of the armature affect the performance of an electric motor?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it advantageous to use a soft iron core in the armature of a motor?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does increasing the number of armature windings improve the motor\u2019s efficiency?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens if the armature is too large or too small for the magnetic field it interacts with?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the basic principle of an electric generator?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does an electric generator convert mechanical energy into electrical energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does electromagnetic induction play in the functioning of a generator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the rotation of a coil in a magnetic field generate an electric current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does an alternating current (AC) generator differ from a direct current (DC) generator?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the key structural difference between an AC and a DC generator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the slip-ring in an AC generator ensure the production of alternating current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is a commutator used in a DC generator to maintain unidirectional current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What factors affect the magnitude of the induced emf in a generator?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the speed of rotation of the coil influence the induced emf?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the strength of the magnetic field affect the output of the generator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does increasing the number of turns in the coil result in a higher emf?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are electric generators used to supply power in power plants?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What type of energy is used to rotate the coils in large power plant generators?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the mechanical energy from water, wind, or steam drive the generators in power plants?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do transformers work with generators to efficiently transmit electricity over long distances?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does an AC generator produce alternating current?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What role do the slip rings play in the operation of an AC generator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the changing direction of the coil in a magnetic field result in alternating current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the current reverse direction every half rotation of the coil in an AC generator?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how the induced emf in a generator depends on the rate of change of the magnetic flux.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does Faraday\u2019s Law of Electromagnetic Induction apply to the functioning of a generator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the induced emf if the speed of rotation of the coil is doubled?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the angle between the magnetic field and the coil affect the magnitude of the induced emf?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the design of the armature affect the performance of a generator?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is a soft iron core used in the armature of a generator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the number of turns in the armature coil influence the generator\u2019s output?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A generator has a coil with 200 turns and produces an emf of 12 V when rotated at a speed of 300 rpm in a magnetic field of 0.5 T. Calculate the emf if the coil is rotated at 600 rpm.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What happens to the emf if the number of turns is increased to 400?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does reducing the magnetic field strength to 0.25 T affect the emf?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the emf if the speed is increased to 900 rpm while keeping the magnetic field and number of turns constant.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A generator coil with 150 turns is rotated at 600 rpm in a magnetic field of 0.4 T, producing an emf of 10 V. What would be the emf if the magnetic field is doubled to 0.8 T?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How would the emf change if the speed of rotation is doubled to 1200 rpm?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the emf if the number of turns is reduced to 75?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the emf if the speed is halved while the magnetic field and number of turns remain constant.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss the importance of electromagnetic induction in the operation of a generator.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the rate of change of magnetic flux affect the induced current in a generator?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the direction of the induced current dependent on the direction of the coil\u2019s rotation in the magnetic field?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the strength of the magnetic field influence the overall efficiency of the generator?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "topic": "12.10 Transformer",
+            "types": [
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the frequency of the alternating current produced by a generator depend on the speed of rotation?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the relationship between the number of revolutions per second and the frequency of the current produced?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the design of the generator affect the frequency of the alternating current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What happens to the frequency if the rotational speed of the generator is increased?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What is the basic principle behind the operation of a transformer?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does a transformer use electromagnetic induction to transfer electrical energy?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What is the difference between a step-up and a step-down transformer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does a transformer only work with alternating current (AC) and not with direct current (DC)?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "What are the key components of a transformer, and how do they function?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the role of the primary coil in a transformer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the secondary coil produce an induced emf?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is a soft iron core used in a transformer?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Conceptual",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the number of turns in the primary and secondary coils affect the output of a transformer?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the ratio of turns between the primary and secondary coils determine whether the transformer is a step-up or step-down transformer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does a step-up transformer increase voltage while decreasing current?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a step-down transformer decrease voltage while increasing current?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are transformers used to transmit electrical power over long distances?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are step-up transformers used at power stations to increase voltage for transmission?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do step-down transformers reduce voltage for safe use in homes and industries?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do transformers help reduce energy loss during the transmission of electricity?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How are transformers used in everyday electrical devices?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the role of a transformer in a smartphone charger?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do transformers in appliances like televisions and computers regulate voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important for transformers to provide the correct voltage to sensitive electronic devices?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Application-Based",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How do step-up transformers play a role in the generation of electricity in power plants?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How is the voltage increased at the power plant to facilitate the efficient transmission of electricity over long distances?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do transformers protect equipment from voltage fluctuations in power generation?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does a step-up transformer contribute to improving the efficiency of electrical power distribution?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does electromagnetic induction in the primary coil lead to an induced emf in the secondary coil of a transformer?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the relationship between the changing magnetic field in the primary coil and the induced emf in the secondary coil?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the rate of change of the magnetic field affect the induced emf in the secondary coil?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the transformer core need to be laminated to reduce energy losses?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the efficiency of a transformer depend on the design and materials used?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is it important to minimize energy losses in a transformer, and how can this be achieved?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the use of high-quality materials for the core and windings improve the efficiency of a transformer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What role does insulation play in preventing energy loss in transformers?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the power transferred between the primary and secondary coils of a transformer remain constant?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the mathematical relationship between voltage, current, and power in the primary and secondary coils of a transformer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the increase in voltage in a step-up transformer result in a corresponding decrease in current to maintain constant power?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the decrease in voltage in a step-down transformer result in a corresponding increase in current to maintain constant power?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A transformer has 400 turns in its primary coil and 100 turns in its secondary coil. If the input voltage is 240 V, calculate the output voltage.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would happen to the output voltage if the number of turns in the secondary coil is increased to 200?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the input voltage is doubled to 480 V, how does that affect the output voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the output voltage if the transformer is used in reverse as a step-up transformer.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A transformer has an input voltage of 120 V and an output voltage of 30 V. If the primary coil has 800 turns, calculate the number of turns in the secondary coil.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would happen to the output voltage if the number of turns in the secondary coil is doubled?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the input voltage is increased to 240 V, how does that affect the number of turns needed in the secondary coil to maintain the same output voltage?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the number of turns in the primary coil if the transformer is used in reverse to step up the voltage.",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Numerical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A step-down transformer reduces the voltage from 240 V to 12 V. If the transformer has 600 turns in the primary coil, calculate the number of turns in the secondary coil.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What would happen to the output voltage if the number of turns in the primary coil is reduced to 300?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Calculate the output voltage if the number of turns in the secondary coil is increased to 50.",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "If the input voltage is increased to 480 V, how does that affect the output voltage?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Discuss how transformer losses, such as eddy current and hysteresis losses, affect the efficiency of a transformer.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "What is the cause of eddy current losses in a transformer, and how can they be minimized?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How do hysteresis losses occur in the transformer core, and how can they be reduced?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is it important to use laminated cores in transformers to reduce energy losses?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "How does the design of a transformer core influence its efficiency and performance?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why are soft iron cores preferred in transformers, and how do they enhance the efficiency of the device?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the shape and size of the core affect the magnetic flux and the induced emf in a transformer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why is the core of a transformer often laminated, and how does this prevent energy loss?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Advanced Analytical",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "Explain how transformers maintain constant power while adjusting voltage and current levels.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "Why is the power input to the primary coil equal to the power output from the secondary coil, assuming an ideal transformer?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the increase in voltage in a step-up transformer cause a corresponding decrease in current to maintain constant power?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How does the decrease in voltage in a step-down transformer cause a corresponding increase in current to maintain constant power?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-Solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A transformer in a power plant steps up the voltage from 11 kV to 220 kV for long-distance transmission. What is the effect on the current, and why is this important for minimizing energy losses?",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does stepping up the voltage reduce energy losses during transmission?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen if the transformer failed to step up the voltage to the required level for transmission?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "How can transformers improve efficiency in the transmission of electricity over long distances?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "Problem-Solving",
+                    "questions": [
+                        {
+                            "main_question": {
+                                "q": "A step-down transformer reduces the voltage from 240 V to 12 V for use in a residential area. If the transformer supplies a current of 10 A to the secondary coil, calculate the current in the primary coil.",
+                                "a": ""
+                            },
+                            "follow_up_questions": [
+                                {
+                                    "q": "How does the current in the primary coil compare to the current in the secondary coil, and why?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "What would happen to the current in the primary coil if the secondary coil's current is increased to 20 A?",
+                                    "a": ""
+                                },
+                                {
+                                    "q": "Why does the transformer maintain constant power while stepping down the voltage?",
+                                    "a": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

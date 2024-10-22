@@ -1,0 +1,31 @@
+{
+    "chapter": "Chapter_Name",
+    "topics": [
+      {
+        "topic": "CHAPTER_NUMBER.TOPIC_SERIAL TOPIC_NAME",
+        "types": [
+          {
+            "type": "TYPE_NAME",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "MAIN_QUESTION_TEXT",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "FOLLOW_UP_QUESTION_TEXT",
+                    "a": ""
+                  },
+                  ...more follow up questions
+                ]
+              }
+            ]
+          },
+          ...more types
+        ]
+      },
+      ...more topics
+    ]
+  }
+  

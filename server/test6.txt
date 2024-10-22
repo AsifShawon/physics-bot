@@ -1,0 +1,518 @@
+### **Topic**: 6.1 Heat and Temperature  
+
+- **Type**: Conceptual  
+- **Main**: What is the difference between heat and temperature?  
+- **Follow-Up-1**: How does heat transfer occur between two bodies of different temperatures?  
+- **Follow-Up-2**: Why does temperature remain constant during a phase change despite heat transfer?  
+- **Follow-Up-3**: Explain how the kinetic energy of molecules is related to temperature.  
+- **Follow-Up-4**: What is the significance of the triple point of water?  
+- **Follow-Up-5**: How do the units joule (J) and calorie (Cal) relate to each other?  
+
+- **Type**: Application-based  
+- **Main**: Describe a practical experiment to demonstrate the sensation of heat and cold using water at different temperatures.  
+- **Follow-Up-1**: Why does your perception of hot and cold change when moving your hand between containers of water?  
+- **Follow-Up-2**: What conclusions can be drawn about heat flow from such experiments?  
+- **Follow-Up-3**: In what ways do thermometers utilize thermal contact to measure temperature?  
+
+- **Type**: Numerical  
+- **Main**: Convert a body temperature of 98.6°F into Celsius.  
+- **Follow-Up-1**: Derive the relation between Celsius, Fahrenheit, and Kelvin scales.  
+- **Follow-Up-2**: If the temperature is raised by 20°C, what is the equivalent increase in Kelvin?  
+- **Follow-Up-3**: A sample has a temperature of 310 K. What is its temperature in Celsius?  
+
+- **Type**: Analytical  
+- **Main**: How does the flow of heat between two bodies cease at thermal equilibrium?  
+- **Follow-Up-1**: Compare the analogy between heat flow and liquid flow used in the chapter.  
+- **Follow-Up-2**: What conditions are necessary for a system to achieve thermal equilibrium?  
+- **Follow-Up-3**: How do the molecular motions change when a body is heated?  
+
+---
+
+### **Topic**: 6.2 Thermometric Properties of Matter  
+
+- **Type**: Conceptual  
+- **Main**: What are thermometric properties, and how are they utilized in thermometers?  
+- **Follow-Up-1**: Why is mercury often used in thermometers?  
+- **Follow-Up-2**: Explain the concept of thermometric substances with examples.  
+- **Follow-Up-3**: How do resistance and pressure serve as thermometric properties?  
+
+- **Type**: Application-based  
+- **Main**: Describe how a mercury thermometer measures temperature.  
+- **Follow-Up-1**: What role does the length of the mercury column play in temperature measurement?  
+- **Follow-Up-2**: How does a gas thermometer differ from a mercury thermometer in operation?  
+- **Follow-Up-3**: Discuss the advantages of using gas thermometers at constant volume.  
+
+- **Type**: Numerical  
+- **Main**: A thermometer shows a reading of 100°C. What is the equivalent temperature in Fahrenheit?  
+- **Follow-Up-1**: Derive the relation between the Celsius and Fahrenheit scales from fixed points.  
+- **Follow-Up-2**: If a thermometer reads 37°C, what would be the reading in Kelvin?  
+- **Follow-Up-3**: Convert 273 K into Celsius.  
+
+- **Type**: Analytical  
+- **Main**: What factors influence the choice of thermometric properties for practical applications?  
+- **Follow-Up-1**: Compare the sensitivity of different thermometric substances like mercury and gas.  
+- **Follow-Up-2**: Why is it essential to maintain standard pressure while measuring temperature?  
+- **Follow-Up-3**: How would the reading of a mercury thermometer change if the atmospheric pressure fluctuates?  
+
+---
+
+### **Topic**: 6.3 Relation among Celsius, Fahrenheit, and Kelvin Scale  
+
+- **Type**: Conceptual  
+- **Main**: Explain the relationship between the Celsius, Fahrenheit, and Kelvin scales.  
+- **Follow-Up-1**: What are the fixed points used in constructing temperature scales?  
+- **Follow-Up-2**: Why do scientists prefer the Kelvin scale for thermodynamic calculations?  
+- **Follow-Up-3**: How does the fundamental interval differ between Celsius and Fahrenheit scales?  
+- **Follow-Up-4**: What is the significance of absolute zero in the Kelvin scale?  
+
+- **Type**: Application-based  
+- **Main**: Derive the equation relating the Celsius, Fahrenheit, and Kelvin scales.  
+- **Follow-Up-1**: Explain the practical importance of converting temperatures between these scales.  
+- **Follow-Up-2**: How can one accurately measure temperature in scientific experiments using multiple scales?  
+- **Follow-Up-3**: When and why is it necessary to use Kelvin instead of Celsius or Fahrenheit in experiments?  
+
+- **Type**: Numerical  
+- **Main**: Convert 100°C into Fahrenheit and Kelvin.  
+- **Follow-Up-1**: What is the Celsius equivalent of a temperature of 273 K?  
+- **Follow-Up-2**: Find the temperature in Fahrenheit if it is 310 K.  
+- **Follow-Up-3**: At what temperature will the readings on the Celsius and Fahrenheit scales be the same?  
+- **Follow-Up-4**: A thermometer shows 32°F. What is the equivalent temperature in Celsius and Kelvin?  
+
+- **Type**: Analytical  
+- **Main**: Compare the advantages and limitations of using Celsius, Fahrenheit, and Kelvin scales in different scenarios.  
+- **Follow-Up-1**: How does the boiling and freezing point of water vary across the three temperature scales?  
+- **Follow-Up-2**: Why is the Fahrenheit scale not commonly used in scientific research?  
+- **Follow-Up-3**: How would the absence of the Kelvin scale affect thermodynamic studies?  
+
+---
+
+### **Topic**: 6.4 Raise of Temperature and Internal Energy of a Body  
+
+- **Type**: Conceptual  
+- **Main**: Define internal energy. How is it related to the temperature of a body?  
+- **Follow-Up-1**: How do molecular movements contribute to the internal energy of a substance?  
+- **Follow-Up-2**: What role does potential and kinetic energy play in the internal energy of solids and gases?  
+- **Follow-Up-3**: Why does an increase in temperature result only from the increase in kinetic energy?  
+- **Follow-Up-4**: How does internal energy differ between solids, liquids, and gases?  
+
+- **Type**: Application-based  
+- **Main**: Explain with an example how applying heat to a body increases its internal energy.  
+- **Follow-Up-1**: Describe the molecular changes that occur when a solid is heated.  
+- **Follow-Up-2**: What happens to the internal energy of a gas when compressed under high temperature?  
+- **Follow-Up-3**: How does the concept of internal energy apply to everyday appliances like refrigerators?  
+
+- **Type**: Numerical  
+- **Main**: If 100 J of heat energy is supplied to a gas, and its temperature increases by 2 K, calculate the change in internal energy.  
+- **Follow-Up-1**: A gas absorbs 200 J of energy, and only 50 J is used for external work. What is the change in its internal energy?  
+- **Follow-Up-2**: If the internal energy of a body increases by 500 J, and its temperature rises from 25°C to 35°C, what is the heat supplied?  
+- **Follow-Up-3**: A body has an internal energy of 800 J at 300 K. If the temperature increases to 320 K, what is the new internal energy?  
+
+- **Type**: Analytical  
+- **Main**: Explain why only kinetic energy contributes to the temperature rise in a substance.  
+- **Follow-Up-1**: How does the increase in temperature differ between solids and gases when internal energy increases?  
+- **Follow-Up-2**: Why does temperature remain constant during a phase change despite the supply of heat?  
+- **Follow-Up-3**: How do intermolecular forces affect the internal energy of liquids?  
+
+---
+
+### **Topic**: 6.5 Thermal Expansion of Substance  
+
+- **Type**: Conceptual  
+- **Main**: What is thermal expansion, and why do substances expand when heated?  
+- **Follow-Up-1**: How does the expansion differ among solids, liquids, and gases?  
+- **Follow-Up-2**: Why is the expansion of gases greater than that of solids or liquids?  
+- **Follow-Up-3**: Explain how molecular vibrations are responsible for thermal expansion in solids.  
+- **Follow-Up-4**: How does the nature of intermolecular forces affect the thermal expansion of a material?  
+
+- **Type**: Application-based  
+- **Main**: Why are gaps left between railway tracks or bridges during construction?  
+- **Follow-Up-1**: How does the knowledge of thermal expansion help engineers in designing structures?  
+- **Follow-Up-2**: Explain the working of a bimetallic strip based on thermal expansion principles.  
+- **Follow-Up-3**: How does thermal expansion affect the functioning of a thermometer?  
+- **Follow-Up-4**: In what ways is thermal expansion relevant to household appliances, such as pressure cookers or thermostats?  
+
+- **Type**: Numerical  
+- **Main**: A copper rod of length 1 m expands by 1.67 × 10⁻⁵ m when the temperature increases by 1 K. What is its coefficient of linear expansion?  
+- **Follow-Up-1**: If a steel rod of length 2 m expands by 0.02 m after heating from 20°C to 70°C, find the coefficient of linear expansion.  
+- **Follow-Up-2**: Calculate the increase in length of an aluminum rod (initial length 1.5 m) when the temperature rises from 30°C to 80°C, given the coefficient of linear expansion is 24 × 10⁻⁶ K⁻¹.  
+- **Follow-Up-3**: If a rod has a coefficient of linear expansion 12 × 10⁻⁶ K⁻¹, how much will a 3 m rod expand for a 50 K rise in temperature?  
+- **Follow-Up-4**: A glass sheet with an area of 2 m² expands by 4 × 10⁻⁶ m² for each degree rise in temperature. What is its coefficient of superficial expansion?  
+
+- **Type**: Analytical  
+- **Main**: How does thermal expansion affect solids differently along their length, area, and volume?  
+- **Follow-Up-1**: Why do solids, though having rigid structures, still expand when heated?  
+- **Follow-Up-2**: Explain how the non-linear relationship between attractive and repulsive forces among molecules affects expansion.  
+- **Follow-Up-3**: How do temperature changes impact the equilibrium position of molecules in solids?  
+- **Follow-Up-4**: Why is the expansion of a material dependent on its coefficient of expansion and not just the initial size?  
+
+---
+
+### **Topic**: 6.6 Expansion of Solids  
+
+- **Type**: Conceptual  
+- **Main**: What is the linear expansion of a solid?  
+- **Follow-Up-1**: How does the molecular structure of solids affect their expansion?  
+- **Follow-Up-2**: Explain the difference between linear, superficial, and volumetric expansion.  
+- **Follow-Up-3**: Why do different materials have different coefficients of thermal expansion?  
+- **Follow-Up-4**: What is meant by the coefficient of linear expansion, and how is it measured?  
+
+- **Type**: Application-based  
+- **Main**: Why do engineers allow expansion gaps in railway lines and metal bridges?  
+- **Follow-Up-1**: How does the coefficient of linear expansion influence the design of buildings and machinery?  
+- **Follow-Up-2**: Describe how the concept of linear expansion is used in measuring temperature with a bimetallic strip.  
+- **Follow-Up-3**: What precautions need to be taken in the construction of pipelines due to thermal expansion?  
+- **Follow-Up-4**: How does thermal expansion help in fitting metal tires on wooden wheels?  
+
+- **Type**: Numerical  
+- **Main**: A steel rod of length 1 m expands by 0.01 m when heated from 20°C to 70°C. What is the coefficient of linear expansion of steel?  
+- **Follow-Up-1**: If a brass rod is 2 m long at 25°C, what will its length be at 75°C? Assume the coefficient of linear expansion is 19 × 10⁻⁶ K⁻¹.  
+- **Follow-Up-2**: Calculate the increase in length of an iron bar (length 3 m) when the temperature rises from 0°C to 50°C, given the coefficient of linear expansion as 12 × 10⁻⁶ K⁻¹.  
+- **Follow-Up-3**: A rod's initial length is 4 m, and it expands to 4.004 m after heating. If the temperature rise is 25 K, find the coefficient of linear expansion.  
+- **Follow-Up-4**: How much will a 5 m long copper rod expand when the temperature rises by 40 K, given α = 17 × 10⁻⁶ K⁻¹?  
+
+- **Type**: Analytical  
+- **Main**: Why does the linear expansion occur along a specific direction in solids?  
+- **Follow-Up-1**: How does thermal expansion affect mechanical stress in materials?  
+- **Follow-Up-2**: Explain how superficial and volumetric expansions relate to linear expansion.  
+- **Follow-Up-3**: Why is it necessary to account for the thermal expansion of solids in precision instruments?  
+- **Follow-Up-4**: Discuss the role of temperature and material properties in determining the extent of expansion.  
+
+---
+
+### **Topic**: 6.7 Expansion of Liquids  
+
+- **Type**: Conceptual  
+- **Main**: What is meant by the expansion of liquids, and how does it differ from the expansion of solids?  
+- **Follow-Up-1**: Why do liquids expand more than solids for the same temperature increase?  
+- **Follow-Up-2**: What factors influence the rate of expansion in liquids?  
+- **Follow-Up-3**: How does the expansion behavior of water differ from other liquids?  
+- **Follow-Up-4**: Why don't liquids have a defined shape or linear expansion, unlike solids?  
+
+- **Type**: Application-based  
+- **Main**: Describe an experiment to compare the expansion of different liquids.  
+- **Follow-Up-1**: How is the expansion of liquids utilized in mercury thermometers?  
+- **Follow-Up-2**: Why is it necessary to account for liquid expansion when filling containers to full capacity?  
+- **Follow-Up-3**: How does the expansion of liquid fuel in vehicle tanks affect transportation safety?  
+- **Follow-Up-4**: What are the practical consequences of liquid expansion in industrial pipelines?  
+
+- **Type**: Numerical  
+- **Main**: If a liquid expands by 0.02 L when heated from 25°C to 75°C, calculate the coefficient of volumetric expansion.  
+- **Follow-Up-1**: A liquid at 20°C has a volume of 500 mL. If it expands by 5 mL when heated to 70°C, what is its coefficient of volume expansion?  
+- **Follow-Up-2**: Calculate the final volume of 1.5 L of ethanol after it is heated from 30°C to 60°C, assuming the volumetric expansion coefficient is 1.12 × 10⁻³ K⁻¹.  
+- **Follow-Up-3**: A flask containing 2 L of liquid expands to 2.005 L when heated by 50 K. Find the volumetric expansion coefficient of the liquid.  
+- **Follow-Up-4**: A 1.2 L liquid expands by 0.004 L for every 10°C rise in temperature. How much will it expand for a 30°C increase?  
+
+- **Type**: Analytical  
+- **Main**: How does the molecular structure of liquids affect their expansion?  
+- **Follow-Up-1**: Why do different liquids expand at different rates under the same temperature increase?  
+- **Follow-Up-2**: How does the absence of intermolecular bonding in gases lead to greater expansion compared to liquids?  
+- **Follow-Up-3**: What role does pressure play in the thermal expansion of liquids?  
+- **Follow-Up-4**: Why is it important to use liquids with a known expansion coefficient in scientific measurements?  
+
+---
+
+### **Topic**: 6.8 Real and Apparent Expansion of Liquids  
+
+- **Type**: Conceptual  
+- **Main**: What is the difference between real and apparent expansion of liquids?  
+- **Follow-Up-1**: Why is it not possible to observe the real expansion of a liquid directly?  
+- **Follow-Up-2**: How does the expansion of the container affect the measurement of liquid expansion?  
+- **Follow-Up-3**: What are some examples where apparent expansion is observed in daily life?  
+- **Follow-Up-4**: How is real expansion calculated if only the apparent expansion is measured?  
+
+- **Type**: Application-based  
+- **Main**: Describe an experiment to demonstrate the difference between real and apparent expansion.  
+- **Follow-Up-1**: How do laboratories account for the expansion of measuring instruments containing liquids?  
+- **Follow-Up-2**: What are the practical implications of ignoring the difference between real and apparent expansion in engineering?  
+- **Follow-Up-3**: How does the expansion of liquid mercury affect the accuracy of thermometers?  
+- **Follow-Up-4**: Explain how the real expansion of liquids is considered in the design of industrial storage tanks.  
+
+- **Type**: Numerical  
+- **Main**: If the apparent expansion of a liquid is 5 × 10⁻⁶ m³ and the expansion of the container is 2 × 10⁻⁶ m³, calculate the real expansion.  
+- **Follow-Up-1**: A liquid in a glass container shows an apparent expansion of 0.03 L when heated by 30 K. If the expansion of the glass is 0.01 L, find the real expansion.  
+- **Follow-Up-2**: The real expansion of a liquid is 8 × 10⁻⁶ m³ for a certain temperature rise, and the container’s expansion is 3 × 10⁻⁶ m³. What is the apparent expansion?  
+- **Follow-Up-3**: A glass container expands by 0.002 L when heated, and the liquid inside shows a total expansion of 0.008 L. What is the real expansion of the liquid?  
+- **Follow-Up-4**: If the coefficient of real expansion is 1.2 × 10⁻³ K⁻¹ and the liquid volume is 1.5 L, how much will the liquid expand for a 40 K temperature rise?  
+
+- **Type**: Analytical  
+- **Main**: Why is it important to account for the expansion of containers when measuring liquid expansion?  
+- **Follow-Up-1**: How do different container materials affect the measurement of apparent expansion?  
+- **Follow-Up-2**: Why is the real expansion always greater than the apparent expansion?  
+- **Follow-Up-3**: How does the temperature dependence of materials complicate real and apparent expansion calculations?  
+- **Follow-Up-4**: What are the consequences of incorrect measurements of liquid expansion in practical applications?  
+
+---
+
+### **Topic**: 6.9 Effect of Heat on Change of State  
+
+- **Type**: Conceptual  
+- **Main**: How does heat affect the state of matter?  
+- **Follow-Up-1**: Explain why temperature remains constant during a phase change.  
+- **Follow-Up-2**: What is the role of heat in breaking molecular bonds during a state change?  
+- **Follow-Up-3**: Why is the amount of energy required to change the state of a substance greater than just raising its temperature?  
+- **Follow-Up-4**: How does pressure influence the state changes of matter?  
+
+- **Type**: Application-based  
+- **Main**: Describe how heat transforms ice into water and then into steam.  
+- **Follow-Up-1**: Why does sweating help in cooling the body?  
+- **Follow-Up-2**: How is the principle of state change used in refrigeration?  
+- **Follow-Up-3**: What role does state change play in the water cycle?  
+- **Follow-Up-4**: How does the melting of glaciers illustrate the effect of heat on the change of state?  
+
+- **Type**: Numerical  
+- **Main**: How much heat is required to melt 5 kg of ice at 0°C if the latent heat of fusion is 334,000 J/kg?  
+- **Follow-Up-1**: Calculate the energy needed to convert 2 kg of water at 100°C into steam, given the latent heat of vaporization is 2,256,000 J/kg.  
+- **Follow-Up-2**: If 100 g of ice is heated to water at 0°C, how much energy is absorbed? Assume the specific latent heat of fusion for ice is 334 J/g.  
+- **Follow-Up-3**: How long will it take to boil 1 L of water (starting at 25°C) with a heater that supplies 500 W of power? (Assume no heat loss, specific heat of water = 4,200 J/kg·K).  
+- **Follow-Up-4**: How much heat must be removed to freeze 3 kg of water at 0°C into ice?  
+
+- **Type**: Analytical  
+- **Main**: Explain why gases require more energy to condense than liquids require to freeze.  
+- **Follow-Up-1**: How do intermolecular forces differ in solids, liquids, and gases, and how does that affect heat absorption or release during state changes?  
+- **Follow-Up-2**: Why does adding heat during a state change not increase the temperature?  
+- **Follow-Up-3**: How does the concept of latent heat explain the cooling effect of evaporation?  
+- **Follow-Up-4**: Compare the effects of heat on state changes under different atmospheric pressures.  
+
+---
+
+### **Topic**: 6.10 Fusion, Vaporization, and Condensation  
+
+- **Type**: Conceptual  
+- **Main**: Define fusion, vaporization, and condensation.  
+- **Follow-Up-1**: How is the latent heat of fusion different from the latent heat of vaporization?  
+- **Follow-Up-2**: What happens to the molecular arrangement during fusion and vaporization?  
+- **Follow-Up-3**: Explain how condensation is the reverse process of vaporization.  
+- **Follow-Up-4**: How does pressure affect the boiling point and the condensation of liquids?  
+
+- **Type**: Application-based  
+- **Main**: How does the concept of latent heat apply to the functioning of a pressure cooker?  
+- **Follow-Up-1**: Why do clothes dry faster on a windy day compared to a humid day?  
+- **Follow-Up-2**: How does the phenomenon of condensation help in the formation of dew?  
+- **Follow-Up-3**: Describe the role of latent heat in cloud formation and precipitation.  
+- **Follow-Up-4**: How does vaporization contribute to the cooling of water in an earthen pitcher?  
+
+- **Type**: Numerical  
+- **Main**: Calculate the heat required to convert 500 g of ice at -10°C to steam at 100°C. (Given: specific heat of ice = 2,100 J/kg·K, latent heat of fusion = 334,000 J/kg, latent heat of vaporization = 2,256,000 J/kg).  
+- **Follow-Up-1**: How much energy is released when 1 kg of steam condenses to water at 100°C?  
+- **Follow-Up-2**: Determine the time required to melt 1 kg of ice at 0°C using a 200 W heater. (Latent heat of fusion = 334,000 J/kg).  
+- **Follow-Up-3**: A refrigerator extracts 100 kJ of heat to freeze 500 g of water. What is the latent heat per gram of water?  
+- **Follow-Up-4**: How much energy is needed to vaporize 2.5 kg of water at 100°C?  
+
+- **Type**: Analytical  
+- **Main**: Why does vaporization occur at the surface of a liquid during evaporation?  
+- **Follow-Up-1**: Compare the energy required for fusion and vaporization and explain why vaporization requires more energy.  
+- **Follow-Up-2**: Why does the boiling point of water change with altitude?  
+- **Follow-Up-3**: How does the process of condensation release energy into the environment?  
+- **Follow-Up-4**: What are the implications of latent heat transfer in weather phenomena like thunderstorms?  
+
+---
+
+### **Topic**: 6.11 Effect of Pressure on Boiling Point  
+
+- **Type**: Conceptual  
+- **Main**: How does pressure affect the boiling point of a liquid?  
+- **Follow-Up-1**: Why does water boil at a lower temperature at high altitudes?  
+- **Follow-Up-2**: How does increased pressure raise the boiling point of water?  
+- **Follow-Up-3**: What is the relationship between atmospheric pressure and vapor pressure during boiling?  
+- **Follow-Up-4**: Explain how a pressure cooker uses increased pressure to cook food faster.  
+
+- **Type**: Application-based  
+- **Main**: How would the boiling point of water change on top of a mountain?  
+- **Follow-Up-1**: Why is it difficult to boil an egg at high altitudes?  
+- **Follow-Up-2**: Describe how the principles of boiling are applied in distillation processes.  
+- **Follow-Up-3**: How do industrial boilers use pressure control to manage boiling points?  
+- **Follow-Up-4**: Explain why astronauts need specialized equipment for boiling water in space.  
+
+- **Type**: Numerical  
+- **Main**: If water boils at 95°C at a certain altitude, what would be the pressure there compared to standard atmospheric pressure? (Assume normal boiling point is 100°C).  
+- **Follow-Up-1**: A pressure cooker raises the pressure to 2 atm. Calculate the new boiling point of water (latent heat and exact constants not needed for conceptual understanding).  
+- **Follow-Up-2**: At 80°C, the vapor pressure of a liquid is 0.5 atm. What must the pressure be for it to boil at 100°C?  
+- **Follow-Up-3**: If the atmospheric pressure decreases by 10%, how will the boiling point of water change approximately?  
+- **Follow-Up-4**: Calculate the boiling point of a liquid at 0.7 atm using basic principles of vapor pressure.  
+
+- **Type**: Analytical  
+- **Main**: Why does reducing the atmospheric pressure reduce the energy required to boil a liquid?  
+- **Follow-Up-1**: How does boiling under reduced pressure benefit pharmaceutical industries?  
+- **Follow-Up-2**: Why do pressure differences affect the cooking of food differently in liquids versus solids?  
+- **Follow-Up-3**: Compare the effects of boiling at sea level and at high altitudes.  
+- **Follow-Up-4**: How would changes in atmospheric pressure influence weather phenomena like fog or dew?  
+
+---
+
+### **Topic**: 6.12 Latent Heat of Fusion and Latent Heat of Vaporization  
+
+- **Type**: Conceptual  
+- **Main**: What is latent heat of fusion and latent heat of vaporization?  
+- **Follow-Up-1**: Why does temperature remain constant during fusion and vaporization?  
+- **Follow-Up-2**: How does latent heat differ between different substances?  
+- **Follow-Up-3**: Why does vaporization require more energy than fusion?  
+- **Follow-Up-4**: How is latent heat used in air conditioning systems?  
+
+- **Type**: Application-based  
+- **Main**: Explain how the concept of latent heat is applied in the cooling effect of evaporation.  
+- **Follow-Up-1**: How do refrigerators use the latent heat of vaporization to keep food cool?  
+- **Follow-Up-2**: Describe the role of latent heat in weather phenomena such as thunderstorms.  
+- **Follow-Up-3**: How does the melting of icebergs affect ocean temperatures?  
+- **Follow-Up-4**: Why do burns caused by steam tend to be more severe than those caused by boiling water?  
+
+- **Type**: Numerical  
+- **Main**: Calculate the energy required to melt 1.5 kg of ice at 0°C. (Latent heat of fusion = 334,000 J/kg).  
+- **Follow-Up-1**: How much energy is needed to vaporize 2 kg of water at 100°C? (Latent heat of vaporization = 2,256,000 J/kg).  
+- **Follow-Up-2**: If 500 g of steam condenses into water at 100°C, how much heat is released?  
+- **Follow-Up-3**: A heater supplies 300 W of power. How long will it take to melt 2 kg of ice?  
+- **Follow-Up-4**: What is the energy absorbed when 0.1 kg of water turns to steam at 100°C?  
+
+- **Type**: Analytical  
+- **Main**: Compare the latent heat requirements for fusion and vaporization and explain why vaporization requires more energy.  
+- **Follow-Up-1**: How does latent heat play a role in the formation and dissipation of clouds?  
+- **Follow-Up-2**: Why is the latent heat of fusion critical in determining the freezing point of solutions?  
+- **Follow-Up-3**: Explain how latent heat transfer impacts environmental cooling during evaporation.  
+- **Follow-Up-4**: What role does latent heat play in the design of industrial cooling systems?  
+
+---
+
+### **Topic**: 6.13 Dependence of Evaporation on Various Factors  
+
+- **Type**: Conceptual  
+- **Main**: What factors influence the rate of evaporation?  
+- **Follow-Up-1**: How does wind speed affect the rate of evaporation?  
+- **Follow-Up-2**: Why does evaporation increase with surface area?  
+- **Follow-Up-3**: How do temperature and humidity impact the rate of evaporation?  
+- **Follow-Up-4**: Explain how atmospheric pressure affects evaporation.  
+
+- **Type**: Application-based  
+- **Main**: Why do clothes dry faster on a sunny, windy day than on a humid day?  
+- **Follow-Up-1**: How is evaporation used in cooling towers in power plants?  
+- **Follow-Up-2**: Describe how evaporation helps in the natural cooling of the human body through sweating.  
+- **Follow-Up-3**: How does the evaporation of water from soil affect agricultural productivity?  
+- **Follow-Up-4**: Why do puddles evaporate faster on a dry day than on a humid day?  
+
+- **Type**: Numerical  
+- **Main**: A puddle of 0.5 L evaporates in 4 hours. What is the rate of evaporation in liters per hour?  
+- **Follow-Up-1**: Calculate the heat required to evaporate 3 kg of water, given the latent heat of vaporization is 2,256,000 J/kg.  
+- **Follow-Up-2**: If the evaporation rate doubles when the wind speed increases by 50%, what will happen to the rate if wind speed triples?  
+- **Follow-Up-3**: If 0.1 kg of water evaporates at 25°C, how much energy is lost to the environment?  
+- **Follow-Up-4**: A cooling tower evaporates 10 kg of water every hour. Calculate the total energy consumed in 5 hours.  
+
+- **Type**: Analytical  
+- **Main**: How do temperature, humidity, and pressure interact to influence evaporation rates?  
+- **Follow-Up-1**: Why is evaporation a crucial factor in the design of cooling systems?  
+- **Follow-Up-2**: How does a decrease in humidity affect the rate of evaporation in arid regions?  
+- **Follow-Up-3**: Compare the impact of evaporation on environmental cooling in tropical and desert climates.  
+- **Follow-Up-4**: What are the implications of evaporation on water conservation in agriculture?  
+
+---
+
+### **Topic**: 6.14 Thermal Capacity  
+
+- **Type**: Conceptual  
+- **Main**: What is thermal capacity, and how is it defined?  
+- **Follow-Up-1**: How does the thermal capacity of an object depend on its material and mass?  
+- **Follow-Up-2**: What is the difference between heat capacity and specific heat?  
+- **Follow-Up-3**: Why does a larger body generally have greater thermal capacity?  
+- **Follow-Up-4**: What are the SI units of thermal capacity, and how are they derived?  
+
+- **Type**: Application-based  
+- **Main**: Explain how the thermal capacity of cooking pots affects their performance in kitchens.  
+- **Follow-Up-1**: How does the thermal capacity of building materials influence indoor temperature regulation?  
+- **Follow-Up-2**: In what ways does thermal capacity impact the design of thermal storage systems?  
+- **Follow-Up-3**: Why are water bodies better at moderating temperature changes compared to land masses?  
+- **Follow-Up-4**: How does the thermal capacity of an object affect how quickly it heats or cools?  
+
+- **Type**: Numerical  
+- **Main**: If 500 J of energy raises the temperature of an object by 5 K, what is its thermal capacity?  
+- **Follow-Up-1**: Calculate the heat required to raise the temperature of a metal block with thermal capacity 200 J/K by 15 K.  
+- **Follow-Up-2**: An object has a thermal capacity of 150 J/K. How much heat is needed to increase its temperature by 10 K?  
+- **Follow-Up-3**: If the temperature of a 2 kg metal block rises by 20 K after absorbing 4000 J, what is its thermal capacity?  
+- **Follow-Up-4**: How much energy is needed to heat an object with thermal capacity 500 J/K from 30°C to 80°C?  
+
+- **Type**: Analytical  
+- **Main**: How does the thermal capacity of an object influence energy transfer between hot and cold bodies?  
+- **Follow-Up-1**: Why do objects with higher thermal capacities cool down more slowly?  
+- **Follow-Up-2**: How does thermal capacity relate to climate control in different regions?  
+- **Follow-Up-3**: What are the implications of thermal capacity in designing spacecraft insulation?  
+- **Follow-Up-4**: Compare the thermal capacities of water and metals. What are the consequences for heat storage?  
+
+---
+
+### **Topic**: 6.15 Specific Heat  
+
+- **Type**: Conceptual  
+- **Main**: Define specific heat and explain its importance.  
+- **Follow-Up-1**: How does specific heat differ from thermal capacity?  
+- **Follow-Up-2**: Why does water have a higher specific heat than most other substances?  
+- **Follow-Up-3**: What factors determine the specific heat of a substance?  
+- **Follow-Up-4**: How does specific heat influence weather and climate patterns?  
+
+- **Type**: Application-based  
+- **Main**: How does specific heat help explain why land heats and cools faster than water?  
+- **Follow-Up-1**: Describe how engineers use specific heat data to design cooling systems.  
+- **Follow-Up-2**: Why is water often used as a coolant in power plants?  
+- **Follow-Up-3**: How does specific heat affect the choice of materials for kitchen utensils?  
+- **Follow-Up-4**: What role does specific heat play in regulating the Earth's climate?  
+
+- **Type**: Numerical  
+- **Main**: How much energy is needed to raise the temperature of 2 kg of water by 10 K? (Specific heat of water = 4200 J/kg·K).  
+- **Follow-Up-1**: A 1.5 kg iron block is heated from 20°C to 100°C. Calculate the heat required if the specific heat of iron is 450 J/kg·K.  
+- **Follow-Up-2**: What is the specific heat of a material if 500 J of heat raises the temperature of 1 kg of it by 5 K?  
+- **Follow-Up-3**: Calculate the heat absorbed by 3 kg of copper (specific heat = 400 J/kg·K) when its temperature increases by 30 K.  
+- **Follow-Up-4**: If the temperature of a 0.5 kg sample rises by 10 K after absorbing 1000 J, what is its specific heat?  
+
+- **Type**: Analytical  
+- **Main**: Why do substances with high specific heat take longer to heat and cool?  
+- **Follow-Up-1**: Compare the specific heat of water with metals and explain the significance of the difference.  
+- **Follow-Up-2**: How does the specific heat of air influence weather conditions?  
+- **Follow-Up-3**: Why are substances with low specific heat better suited for rapid heating applications?  
+- **Follow-Up-4**: Discuss the importance of specific heat in thermal regulation of living organisms.  
+
+---
+
+### **Topic**: 6.16 Relation Between Specific Heat and Thermal Capacity  
+
+- **Type**: Conceptual  
+- **Main**: How are specific heat and thermal capacity related?  
+- **Follow-Up-1**: Derive the formula that relates specific heat, thermal capacity, and mass.  
+- **Follow-Up-2**: How does the mass of an object affect its thermal capacity if specific heat is constant?  
+- **Follow-Up-3**: Why is specific heat independent of the object's size, but thermal capacity is not?  
+- **Follow-Up-4**: What happens to the thermal capacity of an object if the specific heat is doubled?  
+
+- **Type**: Application-based  
+- **Main**: Explain how knowledge of the relation between specific heat and thermal capacity helps in designing heating systems.  
+- **Follow-Up-1**: How do architects use specific heat and thermal capacity data to improve energy efficiency in buildings?  
+- **Follow-Up-2**: Describe the role of thermal capacity in managing temperature changes in batteries.  
+- **Follow-Up-3**: How does the specific heat of food influence cooking times?  
+- **Follow-Up-4**: Why is it essential to consider both specific heat and thermal capacity in industrial processes?  
+
+- **Type**: Numerical  
+- **Main**: Calculate the thermal capacity of a 5 kg object with a specific heat of 900 J/kg·K.  
+- **Follow-Up-1**: An object with a mass of 10 kg has a thermal capacity of 2500 J/K. What is its specific heat?  
+- **Follow-Up-2**: If the specific heat of a material is 500 J/kg·K, what will be the thermal capacity of a 3 kg sample?  
+- **Follow-Up-3**: How much heat is required to raise the temperature of 4 kg of a substance with specific heat 600 J/kg·K by 15 K?  
+- **Follow-Up-4**: A block with mass 2 kg has a specific heat of 420 J/kg·K. Find its thermal capacity.  
+
+---
+
+### **Topic**: 6.17 Fundamental Principle of Calorimetry  
+
+- **Type**: Conceptual  
+- **Main**: What is the fundamental principle of calorimetry?  
+- **Follow-Up-1**: How does the principle of conservation of energy apply in calorimetry?  
+- **Follow-Up-2**: Explain how thermal equilibrium is achieved between two bodies in a calorimeter.  
+- **Follow-Up-3**: Why is it essential to minimize heat loss in calorimetry experiments?  
+- **Follow-Up-4**: How does the principle of calorimetry help determine the specific heat of a substance?  
+
+- **Type**: Application-based  
+- **Main**: How is calorimetry used to measure the heat of fusion of ice?  
+- **Follow-Up-1**: Describe how calorimetry is applied in determining the heat content of foods.  
+- **Follow-Up-2**: How is the principle of calorimetry used in designing thermal insulation systems?  
+- **Follow-Up-3**: Explain the role of calorimeters in industrial processes requiring precise temperature control.  
+- **Follow-Up-4**: How can calorimetry be used to study chemical reactions that release or absorb heat?  
+
+- **Type**: Numerical  
+- **Main**: In a calorimetry experiment, 500 g of water at 80°C is mixed with 200 g of water at 20°C. What will be the final temperature? (Assume no heat loss, specific heat of water = 4200 J/kg·K).  
+- **Follow-Up-1**: A 1 kg metal block at 100°C is placed in 2 kg of water at 20°C. If the final temperature is 25°C, calculate the specific heat of the metal.  
+- **Follow-Up-2**: How much heat is released when 0.5 kg of steam at 100°C condenses into water?  
+- **Follow-Up-3**: In a calorimeter, 200 g of copper at 150°C is mixed with 300 g of water at 25°C. Calculate the final temperature of the mixture.  
+- **Follow-Up-4**: How much heat is needed to raise the temperature of 1 kg of water from 25°C to 75°C?  
+
+---
