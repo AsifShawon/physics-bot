@@ -120,7 +120,7 @@ Please provide a comprehensive answer that:
 
 def main():
     GOOGLE_API_KEY = "AIzaSyAfBDLnOerYntiLjmwA0PmJ-yZmN5LvCJ0"
-    input_file = "output2.json"
+    input_file = "output3.json"
     
     try:
         generator = PhysicsQAGenerator(GOOGLE_API_KEY, input_file)

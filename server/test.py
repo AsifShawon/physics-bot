@@ -64,4 +64,4 @@ def get_reply_and_save(json_file):
     save_json_data("llm_output1.json", json_data)
 
 # Call the function
-get_reply_and_save('test1.json')
+get_reply_and_save('output1.json')
