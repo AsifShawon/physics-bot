@@ -15,7 +15,7 @@ class ConversationTurn:
     context: Optional[str] = None
 
 class ChatHistoryManager:
-    def __init__(self, max_turns=3, max_age_minutes=30):  # Reduced max_turns
+    def __init__(self, max_turns=5, max_age_minutes=30):
         self.max_turns = max_turns
         self.max_age_minutes = max_age_minutes
         self.history = deque(maxlen=max_turns)
@@ -48,7 +48,7 @@ You will be given additional context to guide your responses. Focus strictly on 
         self.history.clear()
 
 # Global instances
-history_manager = ChatHistoryManager(max_turns=3)  # Reduced max_turns
+history_manager = ChatHistoryManager(max_turns=5)
 ollama_model = None
 
 def initialize_model(model_name="gemma2:2b-instruct-q4_K_M"):

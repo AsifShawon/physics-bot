@@ -27,41 +27,48 @@ def get_reply_and_save(json_file):
                                 # Handle main question
                                 if 'main_question' in question_obj:
                                     main_question = question_obj['main_question']['q']
-                                    start_time = time.time()  # Start the timer
-                                    main_answer = generate_text(main_question)  # Get the answer for the main question
-                                    end_time = time.time()  # End the timer
-                                    response_time = end_time - start_time  # Calculate the time taken
+                                    
+                                    # Check if "time_taken" is missing
+                                    if 'time_taken' not in question_obj['main_question']:
+                                        start_time = time.time()  # Start the timer
+                                        main_answer = generate_text(main_question)  # Get the answer for the main question
+                                        end_time = time.time()  # End the timer
+                                        response_time = end_time - start_time  # Calculate the time taken
+                                        
+                                        # Update the question object with the new answer and time taken
+                                        question_obj['main_question']['a'] = main_answer
+                                        question_obj['main_question']['time_taken'] = response_time
 
-                                    # Save answer and response time
-                                    question_obj['main_question']['a'] = main_answer
-                                    question_obj['main_question']['time_taken'] = response_time
+                                        # Save the updated JSON data to the same file
+                                        save_json_data(json_file, json_data)
 
                                 # Handle follow-up questions
                                 if 'follow_up_questions' in question_obj:
                                     for follow_up in question_obj['follow_up_questions']:
                                         follow_up_question = follow_up['q']
-                                        start_time = time.time()  # Start the timer for follow-up
-                                        follow_up_answer = generate_text(follow_up_question)  # Get the answer for the follow-up
-                                        end_time = time.time()  # End the timer
-                                        response_time = end_time - start_time  # Calculate the time taken
+                                        
+                                        # Check if "time_taken" is missing for follow-up questions
+                                        if 'time_taken' not in follow_up:
+                                            start_time = time.time()  # Start the timer for follow-up
+                                            follow_up_answer = generate_text(follow_up_question)  # Get the answer for the follow-up
+                                            end_time = time.time()  # End the timer
+                                            response_time = end_time - start_time  # Calculate the time taken
+                                            
+                                            # Update the follow-up question object with the new answer and time taken
+                                            follow_up['a'] = follow_up_answer
+                                            follow_up['time_taken'] = response_time
 
-                                        # Save follow-up answer and response time
-                                        follow_up['a'] = follow_up_answer
-                                        follow_up['time_taken'] = response_time
-                                    save_json_data("llm_replied.json", json_data)
-                                    return
+                                            # Save the updated JSON data to the same file
+                                            save_json_data(json_file, json_data)
 
-                                
+                            # Clear chat history after processing all questions of the current type
+                            clear_chat_history()  
+
                 else:
                     print(f"Warning: 'types' key not found in topic: {topic}")
                 
         else:
             print(f"Warning: 'topics' key not found in chapter: {chapter}")
-        
-        clear_chat_history()  # Clear chat history for the next question
-
-    # Save the updated JSON data back to the file
-    save_json_data("llm_output1.json", json_data)
 
 # Call the function
-get_reply_and_save('output1.json')
+get_reply_and_save('llm_output2.json')
