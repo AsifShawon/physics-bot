@@ -1,8 +1,8 @@
-from langchain_google_genai import ChatGoogleGenerativeAI
+import streamlit as st
+from st_chat_message import message
 
-API_KEY = "AIzaSyAfBDLnOerYntiLjmwA0PmJ-yZmN5LvCJ0"
+message("Hello world!", is_user=True, avatar_style="")
+message("Hi", avatar_style="b")
 
-llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", api_key=API_KEY)
-response = llm.invoke("What is the speed of light?")
 
-print(response.content)
+
