@@ -560,7 +560,7 @@
                   },
                   {
                     "q": "How do doctors use X-rays to treat cancer cells?",
-                    "a": ""
+                    "a": "Doctors use X-rays to treat cancer cells through a process called radiotherapy. Highly energized X-rays are directed at cancer cells, damaging their DNA and inhibiting their ability to multiply and grow. This method selectively targets cancerous tissue, with minimal impact on surrounding healthy cells. By destroying the DNA within tumor cells, radiotherapy effectively reduces the size of the tumor and slows the progression of cancer."
                   },
                   {
                     "q": "What precautions should be taken during X-ray procedures to minimize radiation exposure?",
@@ -1125,7 +1125,7 @@
               {
                 "main_question": {
                   "q": "A CT scan takes 150 slices of a patient’s brain, each slice being 0.4 mm thick. Calculate the total thickness of the brain section scanned.",
-                  "a": ""
+                  "a": "To calculate the total thickness scanned:\n\nTotal thickness = Number of slices * Thickness per slice\n\nTotal thickness = 150 * 0.4 mm = 60 mm.\n\nThus, the total thickness of the brain section scanned is 60 mm."
                 },
                 "follow_up_questions": [
                   {
@@ -1969,7 +1969,7 @@
               {
                 "main_question": {
                   "q": "What is radiotherapy, and how does it work to treat cancer?",
-                  "a": ""
+                  "a": "Radiotherapy, or radiation therapy, is a medical treatment that uses ionizing radiation to target and kill cancer cells. This therapy works by directing high-energy radiation beams, such as X-rays, gamma rays, or proton beams, towards the cancerous area. The radiation damages the DNA within cancer cells, preventing them from growing and dividing, ultimately leading to their death. Radiotherapy can be applied externally or internally and is often used to shrink tumors or eradicate remaining cancer cells after surgery."
                 },
                 "follow_up_questions": [
                   {
@@ -2058,7 +2058,7 @@
                   },
                   {
                     "q": "What are the potential side effects of increasing the radiation dose per session?",
-                    "a": ""
+                    "a": "Increasing the radiation dose per session can lead to several potential side effects, including:\n1. **Skin irritation**: Redness, blistering, or peeling at the treatment site.\n2. **Fatigue**: Higher doses can cause greater fatigue as the body works to repair radiation-induced cell damage.\n3. **Organ Damage**: Higher doses increase the risk of damaging healthy tissues near the treatment site, potentially affecting organs such as the lungs or heart.\n4. **Risk of Secondary Cancers**: Prolonged exposure to high radiation doses can increase the likelihood of developing secondary cancers in the future due to DNA damage in healthy cells."
                   },
                   {
                     "q": "How is the total dose of radiation spread across multiple sessions to reduce damage to healthy tissues?",
@@ -2720,7 +2720,7 @@
               {
                 "main_question": {
                   "q": "How are isotopes used in radiotherapy for treating cancer?",
-                  "a": ""
+                  "a": "In radiotherapy, radioactive isotopes are used to target and treat cancerous cells. Isotopes such as cobalt-60 emit gamma rays that can penetrate tissues and are used in external radiotherapy to destroy tumor cells. Another example is iodine-131, which is used in treating thyroid cancer by being absorbed specifically by thyroid tissue, allowing for targeted therapy. These isotopes are carefully chosen based on their radiation properties and ability to localize within specific tissues."
                 },
                 "follow_up_questions": [
                   {
@@ -2733,7 +2733,7 @@
                   },
                   {
                     "q": "How are isotopes targeted to specific cancerous tissues without affecting healthy cells?",
-                    "a": ""
+                    "a": "Isotopes are targeted to specific cancerous tissues through methods such as selective absorption and delivery techniques. For example, iodine-131 naturally accumulates in thyroid tissue, making it effective for thyroid cancer treatment with minimal impact on other tissues. Additionally, brachytherapy involves placing radioactive sources directly within or near the tumor, concentrating radiation on the cancer cells while minimizing exposure to surrounding healthy tissues. These methods allow isotopes to deliver therapeutic radiation to the intended area with reduced harm to nearby healthy cells."
                   }
                 ]
               },

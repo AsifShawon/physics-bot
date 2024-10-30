@@ -115,7 +115,7 @@
                 "follow_up_questions": [
                   {
                     "q": "How are radioactive isotopes used in cancer treatment (radiotherapy)?",
-                    "a": ""
+                    "a": "Radioactive isotopes are used in radiotherapy to treat cancer by targeting and killing cancer cells. For example, isotopes such as cobalt-60 emit high-energy gamma rays that can penetrate tissues, damaging the DNA of cancer cells and preventing them from multiplying. Additionally, isotopes like iodine-131 are absorbed by specific organs like the thyroid, allowing for targeted treatment with minimal impact on surrounding healthy cells"
                   },
                   {
                     "q": "How is radioactivity used to determine the age of archaeological findings (carbon dating)?",
@@ -301,7 +301,7 @@
                   },
                   {
                     "q": "How do alpha, beta, and gamma rays differ in terms of their effects on human tissue?",
-                    "a": ""
+                    "a": "Alpha, beta, and gamma rays differ significantly in their penetration and ionization capabilities. Alpha particles have a high ionization potential but low penetration, unable to pass through skin; however, they can be dangerous if inhaled or ingested. Beta particles penetrate skin to a certain extent but are generally blocked by materials like aluminum. Gamma rays have the highest penetration power and can pass through the body, making them effective for deep-tissue treatments but requiring shielding to protect healthy tissues"
                   }
                 ]
               }
@@ -330,7 +330,7 @@
                   },
                   {
                     "q": "What is the significance of alpha particle ionization in radiation therapy?",
-                    "a": ""
+                    "a": "Alpha particle ionization is significant in radiation therapy as it causes intense ionization in targeted cells, particularly effective in killing cancer cells with minimal penetration into surrounding tissues. Due to their high ionizing capability but low penetration, alpha particles are ideal for targeting specific areas, especially when delivered directly into tumors, thus sparing nearby healthy tissues"
                   },
                   {
                     "q": "What materials can block the passage of alpha particles?",
@@ -392,7 +392,7 @@
                   },
                   {
                     "q": "Which type of radiation is most dangerous when inhaled or ingested, and why?",
-                    "a": ""
+                    "a": "Alpha radiation is most dangerous when inhaled or ingested because, although it cannot penetrate the skin, it causes intense ionization within body tissues. Once inside the body, alpha particles can damage cells and DNA, leading to higher risks of cancer or radiation sickness compared to beta or gamma radiation"
                   },
                   {
                     "q": "What is the comparative range of each type of radiation in air and in biological tissues?",
@@ -1028,7 +1028,7 @@
                   },
                   {
                     "q": "What types of mutations are most commonly caused by radiation exposure?",
-                    "a": ""
+                    "a": "Radiation exposure commonly causes mutations such as double-strand DNA breaks and chromosomal aberrations. These mutations can lead to cancerous growths if cells replicate with damaged DNA. Prolonged exposure, especially to gamma rays, increases the likelihood of permanent genetic mutations that may be inherited by future generations"
                   },
                   {
                     "q": "How can these mutations lead to the development of cancer?",

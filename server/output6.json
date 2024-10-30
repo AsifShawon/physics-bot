@@ -1369,7 +1369,7 @@
                   },
                   {
                     "q": "A heater supplies 300 W of power. How long will it take to melt 2 kg of ice?",
-                    "a": ""
+                    "a": "To find the time required, we use the concept of latent heat of fusion. The latent heat of fusion for ice is 334,000 J/kg. Since the heater supplies 300 W (or 300 J/s), we can calculate:\n\nQ = m * L = 2 kg * 334,000 J/kg = 668,000 J\n\nTime = Q / Power = 668,000 J / 300 W ≈ 2227 seconds ≈ 37 minutes"
                   },
                   {
                     "q": "What is the energy absorbed when 0.1 kg of water turns to steam at 100°C?",
@@ -1494,7 +1494,7 @@
                   },
                   {
                     "q": "A cooling tower evaporates 10 kg of water every hour. Calculate the total energy consumed in 5 hours.",
-                    "a": ""
+                    "a": "The latent heat of vaporization for water is approximately 2,260,000 J/kg. For 10 kg of water:\n\nQ = m * L = 10 kg * 2,260,000 J/kg = 22,600,000 J\n\nOver 5 hours:\n\nTotal Energy = 22,600,000 J * 5 = 113,000,000 J"
                   }
                 ]
               }

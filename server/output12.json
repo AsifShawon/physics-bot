@@ -1,6 +1,6 @@
 [
   {
-    "chapter": "",
+    "chapter": "12 - MAGNETIC EFFECT OF CURRENT",
     "topics": [
       {
         "topic": "12.1 Magnetic Effect of Current",
@@ -886,7 +886,7 @@
               {
                 "main_question": {
                   "q": "How can induced current be produced by moving a coil towards or away from a magnet?",
-                  "a": ""
+                  "a": "Induced current is generated when there is relative motion between a magnet and a coil. According to electromagnetic induction, moving a coil towards or away from a magnet changes the magnetic field within the coil, creating an electromotive force (EMF). This change in the magnetic field produces a temporary current, called induced current. The faster the relative motion, the greater the induced current. This process relies on Faraday's law of induction, where a changing magnetic field in a closed circuit induces voltage and current"
                 },
                 "follow_up_questions": [
                   {
@@ -1180,7 +1180,7 @@
                   },
                   {
                     "q": "How does the inertia of the rotating coil assist in continuous motion during the switch in current direction?",
-                    "a": "The inertia of the rotating coil plays a crucial role in ensuring continuous motion even when the current direction switches. Here's how:\n\n**Inertia: The Resistance to Change in Motion**\n\nInertia is a fundamental property of matter that describes its tendency to resist changes in its state of motion. In simpler terms, an object in motion wants to stay in motion, and an object at rest wants to stay at rest.\n\n**How Inertia Works in the Rotating Coil**\n\n1. **Initial Momentum:** When the coil starts rotating, it gains momentum. Momentum is a measure of an object's mass and velocity. The coil's momentum is a product of its mass and its rotational velocity.\n2. **Commutator Switch:**  The commutator switches the current direction, causing the magnetic force on the coil to reverse. This reversal would normally cause the coil to slow down and potentially stop.\n3. **Inertia's Role:** However, due to its inertia, the coil continues to rotate in the same direction for a brief period, even though the magnetic force is now opposing its motion. This brief period is crucial.\n4. **New Force Application:** As the coil continues rotating due to its inertia, it eventually reaches a position where the commutator reconnects the current, applying a new magnetic force in the same direction as the coil's motion. This new force helps maintain the coil's rotation.\n\n**Example:** Imagine pushing a heavy box across a smooth floor. You need to exert a force to get it moving. Once it's moving, you can reduce the force, but the box will continue moving due to its inertia. If you then push it in the opposite direction, the box will slow down, but its inertia will keep it moving for a short time before it stops.\n\n**In Summary**\n\nThe inertia of the rotating coil acts as a bridge between the moments when the current direction switches. It ensures that the coil doesn't immediately stop rotating, giving the commutator enough time to reapply the magnetic force in the right direction to maintain the continuous rotation. This interplay between inertia and the commutator's switching mechanism is essential for the continuous operation of electric motors.\n"
+                    "a": "The inertia of the rotating coil plays a crucial role in ensuring continuous motion even when the current direction switches. Here's how:\\n\\n**Inertia: The Resistance to Change in Motion**\\n\\nInertia is a fundamental property of matter that describes its tendency to resist changes in its state of motion. In simpler terms, an object in motion wants to stay in motion, and an object at rest wants to stay at rest.\\n\\n**How Inertia Works in the Rotating Coil**\\n\\n1. **Initial Momentum:** When the coil starts rotating, it gains momentum. Momentum is a measure of an object's mass and velocity. The coil's momentum is a product of its mass and its rotational velocity.\\n2. **Commutator Switch:**  The commutator switches the current direction, causing the magnetic force on the coil to reverse. This reversal would normally cause the coil to slow down and potentially stop.\\n3. **Inertia's Role:** However, due to its inertia, the coil continues to rotate in the same direction for a brief period, even though the magnetic force is now opposing its motion. This brief period is crucial.\\n4. **New Force Application:** As the coil continues rotating due to its inertia, it eventually reaches a position where the commutator reconnects the current, applying a new magnetic force in the same direction as the coil's motion. This new force helps maintain the coil's rotation.\\n\\n**Example:** Imagine pushing a heavy box across a smooth floor. You need to exert a force to get it moving. Once it's moving, you can reduce the force, but the box will continue moving due to its inertia. If you then push it in the opposite direction, the box will slow down, but its inertia will keep it moving for a short time before it stops.\\n\\n**In Summary**\\n\\nThe inertia of the rotating coil acts as a bridge between the moments when the current direction switches. It ensures that the coil doesn't immediately stop rotating, giving the commutator enough time to reapply the magnetic force in the right direction to maintain the continuous rotation. This interplay between inertia and the commutator's switching mechanism is essential for the continuous operation of electric motors.\\n"
                   }
                 ]
               }
@@ -1347,7 +1347,7 @@
                 "follow_up_questions": [
                   {
                     "q": "What would happen to the force if the current is doubled to 10 A?",
-                    "a": ""
+                    "a": "If the current is doubled, the force exerted on a current-carrying conductor within a magnetic field also doubles. This relationship is based on the formula \\( F = BIL \\sin \\theta \\), where \\( F \\) is the force, \\( B \\) is the magnetic field strength, \\( I \\) is the current, and \\( L \\) is the length of the conductor in the field. Thus, if the current increases from 5 A to 10 A, the force will double, assuming the magnetic field and other factors remain constant"
                   },
                   {
                     "q": "How does the force change if the length of the wire is increased to 0.4 m?",

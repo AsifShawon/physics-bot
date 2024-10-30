@@ -334,11 +334,11 @@
                   },
                   {
                     "q": "What is vibratory motion, and how does it differ from periodic motion?",
-                    "a": ""
+                    "a": "Vibratory motion is a specific type of motion where an object moves repeatedly back and forth around a central or equilibrium position. This motion is a subset of periodic motion, meaning it happens in a regular cycle or interval. Unlike general periodic motion, which can occur along a straight, circular, or elliptical path, vibratory motion is typically constrained to a short distance around a fixed central point. An example of periodic motion is the Earth's orbit around the Sun, which occurs in a regular interval along an elliptical path. In contrast, vibratory motion, like a guitar string's vibration, stays within a limited range around its resting position, going equally in both directions from this point."
                   },
                   {
                     "q": "Explain how the motion of a guitar string represents vibratory motion.",
-                    "a": ""
+                    "a": "When a guitar string is plucked, it is displaced from its central resting position and begins to move back and forth around this point. This rapid oscillation is an example of vibratory motion, where the string alternates in opposite directions in quick succession. This vibration compresses and expands air molecules around the string, generating sound waves that travel to our ears. The motion is periodic and confined to the area around the string’s central point, fulfilling the criteria for vibratory motion. As the string vibrates, it gradually loses energy to its surroundings, and the amplitude (extent of displacement from the central position) of its motion decreases until it eventually comes to rest."
                   },
                   {
                     "q": "How is the motion of the Earth around the Sun considered periodic motion?",
@@ -426,7 +426,7 @@
                   },
                   {
                     "q": "Give examples of vibratory motion in daily life.",
-                    "a": ""
+                    "a": "Vibratory motion can be observed in several everyday activities. For example, the swinging of a pendulum in a wall clock is a form of vibratory motion, where the pendulum oscillates back and forth from its central rest position. Similarly, a tuning fork vibrates when struck, producing sound by displacing air molecules in a rhythmic back-and-forth motion. Another example is seen in musical instruments, like guitar strings, which produce sound by vibrating when plucked. Lastly, even devices like cell phones use vibratory motion for their silent vibration alerts, where an internal motor rapidly moves to create a back-and-forth motion that we feel as vibration."
                   }
                 ]
               }
