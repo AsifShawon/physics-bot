@@ -1,0 +1,3319 @@
+[
+  {
+    "chapter": "1. Physical Quantities and Measurement",
+    "topics": [
+      {
+        "topic": "1.1 Units and Measurements",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Convert 1500 millimeters to meters.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If a car travels 2 kilometers, how many meters has it traveled?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Express 0.75 meters in centimeters.",
+                    "a": ""
+                  },
+                  {
+                    "q": "How many meters are in 5000 millimeters?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A distance of 1.5 kilometers is measured. Convert it to centimeters.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If 1.5 kilometers is converted to millimeters, what is the result?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Convert 3000 centimeters to meters.",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "1.2 Dimensional Analysis",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Use dimensional analysis to determine the dimensions of speed.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What are the dimensions of acceleration?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How would you represent force in terms of its fundamental dimensions?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Find the dimensional formula for energy.",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "What is the dimensional formula for momentum?",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "Express the dimensions of pressure.",
+                    "a": ""
+                  },
+                  {
+                    "q": "Determine the dimensional formula for work.",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "1.3 Significant Figures",
+        "types": [
+          {
+            "type": "Conceptual",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "How many significant figures are in the measurement 0.005230?",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "Identify the number of significant figures in 500.10.",
+                    "a": ""
+                  },
+                  {
+                    "q": "How many significant figures does the number 0.03040 have?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+        },
+        {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Round 245.678 to 3 significant figures.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "Round 0.007895 to 2 significant figures.",
+                    "a": ""
+                  },
+                  {
+                    "q": "Express 12345 in 4 significant figures.",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "1.4 Measurement Errors",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "If a measured value is 50.0 cm with an error margin of ±0.2 cm, what is the range of possible values?",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the range if the measurement is 100.0 cm ±0.5 cm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Calculate the percentage error if the measurement is 25.0 cm with an error of ±0.1 cm.",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A length is measured as 30.5 cm with a systematic error of +0.3 cm. What is the corrected length?",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the measurement error was -0.2 cm, what would the corrected length be?",
+                    "a": ""
+                  },
+                  {
+                    "q": "A measurement of 120 cm is found to have a random error of ±2 cm. What is the maximum and minimum range?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "1.5 SI Units and Conversions",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Convert 500 grams to kilograms.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "How many grams are there in 0.75 kilograms?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Convert 1.25 liters to milliliters.",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A mass of 0.25 kg is converted to milligrams. What is the result?",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "Express 3 liters in terms of cubic centimeters.",
+                    "a": ""
+                  },
+                  {
+                    "q": "How many milligrams are there in 1.5 kg?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "2. Motion",
+    "topics": [
+      {
+        "topic": "2.1 Linear Motion",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A car travels 120 meters in 15 seconds. Calculate its average speed.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the car takes 10 seconds instead, what would its new average speed be?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How far would the car travel in 20 seconds at its original speed?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the car's speed is doubled, what distance would it cover in 15 seconds?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the distance covered by an object moving at 5 m/s for 10 seconds.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the object moves for 20 seconds instead, what would be the distance covered?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would be the time taken to cover 100 meters at the same speed?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "2.2 Velocity and Acceleration",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "An object accelerates from 0 to 20 m/s in 5 seconds. Calculate its acceleration.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the acceleration if it reached 30 m/s in 5 seconds?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the object accelerates at this rate for 10 seconds, what would its final speed be?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A car decelerates from 25 m/s to 10 m/s over a distance of 60 meters. Find its deceleration.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the deceleration were doubled, over what distance would the car stop?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would be the stopping distance if the initial speed was 50 m/s with the same deceleration?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "2.3 Equations of Motion",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Using the equation v = u + at, find the final velocity of an object starting from rest and accelerating at 2 m/s² for 8 seconds.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the acceleration was 4 m/s², what would the final velocity be after 8 seconds?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would the final velocity be after 5 seconds at the same acceleration?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object moves with an initial velocity of 10 m/s and accelerates at 3 m/s². Using the formula s = ut + (1/2)at², calculate the distance traveled in 5 seconds.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the initial velocity was 20 m/s with the same acceleration, what would the distance traveled be in 5 seconds?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How far would the object travel in 3 seconds at this acceleration and initial velocity?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "2.4 Projectile Motion",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A projectile is launched with an initial velocity of 30 m/s at an angle of 45° to the horizontal. Calculate its horizontal range (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the range if the angle was changed to 60° with the same speed?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the initial speed was 40 m/s at 45°, what would the range be?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the maximum height of a projectile launched with an initial velocity of 20 m/s at 30° (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the maximum height be if the angle was 45° with the same initial speed?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How would the maximum height change if the initial velocity was 25 m/s at 30°?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "2.5 Relative Velocity",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A boat moves across a river with a velocity of 4 m/s relative to the water, and the river flows at 3 m/s. Calculate the boat’s resultant velocity relative to the riverbank.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the resultant velocity if the river speed increased to 5 m/s?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the boat’s speed was 5 m/s and the river 3 m/s, what would be the new resultant velocity?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A car travels north at 60 km/h, while a truck moves east at 80 km/h. Calculate the relative velocity of the truck with respect to the car.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the relative velocity be if the car's speed was reduced to 40 km/h?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How would the relative velocity change if the truck’s speed was increased to 100 km/h?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "3. Force",
+    "topics": [
+      {
+        "topic": "3.1 Newton’s Laws of Motion",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the force exerted on a 10 kg object accelerating at 2 m/s² (Use F = ma).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the acceleration is doubled, what is the new force on the object?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What force would be required to accelerate a 20 kg object at the same rate?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object with a mass of 5 kg is subject to a force of 15 N. Calculate its acceleration.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the mass is increased to 10 kg with the same force, what would the acceleration be?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What force is required to achieve an acceleration of 3 m/s² for this object?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "3.2 Frictional Force",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the frictional force for an object with a normal force of 50 N and a coefficient of friction of 0.4.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the coefficient of friction increases to 0.6, what is the new frictional force?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would be the frictional force if the normal force is doubled?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object on a surface has a mass of 10 kg and a coefficient of kinetic friction of 0.2. Calculate the frictional force (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the frictional force be if the mass is increased to 20 kg?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the coefficient of friction changes to 0.5, what is the new frictional force for the original mass?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "3.3 Tension in Cables",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the tension in a rope holding a 5 kg mass in equilibrium (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the mass increases to 10 kg, what is the new tension in the rope?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would the tension be if gravity were 10 m/s²?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A cable supports a 20 kg mass. Calculate the tension if the cable is accelerating the mass upwards at 2 m/s².",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the tension be if the cable accelerates the mass downwards at 2 m/s²?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the mass increases to 30 kg with the same upward acceleration, what would the tension be?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "3.4 Normal Force",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the normal force on a 15 kg object resting on a horizontal surface (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If an additional downward force of 20 N is applied, what is the new normal force?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would the normal force be if the object was on an incline at 30°?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object with a weight of 100 N is on a flat surface. What is the normal force acting on it?",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the surface is inclined at 45°, how does this affect the normal force?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would the normal force be if an upward force of 20 N was applied to the object?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "3.5 Force Components on Inclined Planes",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "An object with a mass of 10 kg is on an incline of 30°. Calculate the component of gravitational force parallel to the incline (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the parallel component be if the incline angle is increased to 45°?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Calculate the perpendicular component of the gravitational force for the same setup.",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the force required to push a 20 kg object up a 30° incline at constant speed (Assume g = 9.8 m/s² and no friction).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If friction is present with a coefficient of 0.2, what would the force required be?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How would the required force change if the incline angle is increased to 45°?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "3.6 Free-Body Diagrams",
+        "types": [
+          {
+            "type": "Conceptual",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Draw the free-body diagram for an object at rest on a flat surface with a force pushing it horizontally.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "Identify the forces acting on the object in your free-body diagram.",
+                    "a": ""
+                  },
+                  {
+                    "q": "How would the diagram change if friction is added?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Sketch the free-body diagram for an object moving up an incline with a constant speed.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "Indicate the direction of the frictional force in the diagram.",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the incline angle increases, how would this affect the force components in your diagram?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "4. Work, Power, and Energy",
+    "topics": [
+      {
+        "topic": "4.1 Work Done by a Force",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the work done by a 10 N force moving an object 5 meters in the direction of the force.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the work done if the force is doubled to 20 N over the same distance?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the distance is reduced to 2 meters with the original force, what is the work done?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object is pushed with a force of 15 N at an angle of 30° to the horizontal over a distance of 8 meters. Calculate the work done.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the work done be if the angle changed to 45° with the same force and distance?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How much work is done if the distance is increased to 12 meters with the original angle?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "4.2 Power and Rate of Work",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the power required to do 500 J of work in 10 seconds.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the power be if the work is done in 5 seconds?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the work done increases to 1000 J over the same 10 seconds, what is the power required?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A machine exerts a power of 200 W to lift a weight. How much work is done in 15 seconds?",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the work done be if the machine’s power output increased to 300 W over the same time?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How long would it take to do 6000 J of work with a power output of 200 W?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "4.3 Kinetic Energy",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the kinetic energy of a 2 kg object moving at 5 m/s.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the kinetic energy if the speed is doubled to 10 m/s?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the mass is increased to 4 kg with the original speed, what is the new kinetic energy?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A car with a mass of 1000 kg is moving at 20 m/s. Calculate its kinetic energy.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the kinetic energy be if the speed is increased to 30 m/s?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the car’s mass is halved while maintaining a speed of 20 m/s, what is the new kinetic energy?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "4.4 Potential Energy",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the gravitational potential energy of a 5 kg object lifted to a height of 10 meters (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the potential energy if the height is doubled to 20 meters?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the mass of the object is increased to 10 kg at the original height, what is the new potential energy?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object weighing 50 N is raised to a height of 15 meters. Calculate its potential energy.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the potential energy be if the height is reduced to 5 meters?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How much potential energy does the object have if its weight increases to 75 N at 15 meters?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "4.5 Conservation of Mechanical Energy",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A 2 kg object falls from a height of 10 meters. Assuming no air resistance, calculate its speed just before hitting the ground using conservation of energy (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be its speed just before impact if the height was increased to 20 meters?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the object’s mass was 4 kg, how would this affect the final speed?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object with a mass of 5 kg slides down a frictionless incline of height 12 meters. Calculate its speed at the bottom of the incline using conservation of energy (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the height of the incline is reduced to 6 meters, what is the new speed at the bottom?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would the speed be at the bottom if the mass was increased to 10 kg at the original height?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "4.6 Power Efficiency",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A machine does 600 J of useful work using 1000 J of energy. Calculate its efficiency.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the machine's useful work output is increased to 800 J with the same energy input, what is the new efficiency?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would the efficiency be if the energy input is reduced to 800 J with 600 J of useful work?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An electric motor has an input power of 500 W and an output power of 400 W. Calculate its efficiency.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the efficiency be if the output power increased to 450 W with the same input power?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the input power is reduced to 400 W and the output remains 400 W, what is the efficiency?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "5. Pressure and States of Matter",
+    "topics": [
+      {
+        "topic": "5.1 Pressure in Fluids",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the pressure exerted by a 1000 N force on an area of 0.5 m².",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the pressure if the area is increased to 1 m² with the same force?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the force is doubled while keeping the area at 0.5 m², what would the pressure be?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A block exerts a pressure of 3000 Pa on a surface. If its weight is 1500 N, calculate the area of contact.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the area be if the weight is increased to 3000 N with the same pressure?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the pressure is reduced to 1500 Pa, what is the new contact area?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "5.2 Pascal’s Principle",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A hydraulic press has an input piston area of 0.02 m² and an output piston area of 1 m². If a force of 50 N is applied to the input piston, calculate the force exerted by the output piston.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the output force if the input force is increased to 100 N?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the output piston area is reduced to 0.5 m² with the original input force, what is the output force?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Using Pascal's Principle, calculate the pressure exerted by a 25 N force on a piston with an area of 0.01 m².",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the pressure be if the area is doubled with the same force?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the force is increased to 50 N on the original area, what is the new pressure?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "5.3 Density and Buoyancy",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the density of an object with a mass of 500 g and a volume of 250 cm³.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the density be if the volume is reduced to 125 cm³ with the same mass?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the mass is doubled with the original volume, what is the new density?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object with a volume of 0.02 m³ is placed in water, which has a density of 1000 kg/m³. Calculate the buoyant force acting on the object (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the buoyant force be if the object’s volume increased to 0.04 m³?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the fluid density is reduced to 800 kg/m³, what is the new buoyant force on the original volume?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "5.4 Archimedes' Principle",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "According to Archimedes' Principle, calculate the buoyant force on a 5 kg object submerged in water, given the object’s volume is 0.005 m³ (Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the buoyant force be if the object’s volume increased to 0.01 m³?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the fluid is changed to oil with a density of 900 kg/m³, what is the new buoyant force for the original volume?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An object with a density of 800 kg/m³ is placed in water. Calculate the percentage of its volume that will float above the water surface.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the object’s density is increased to 1000 kg/m³, will it float or sink?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What percentage of the volume will be submerged if the object’s density is reduced to 600 kg/m³?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "5.5 Atmospheric Pressure",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "At sea level, the atmospheric pressure is 101,325 Pa. Calculate the force exerted on an area of 0.5 m².",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the force on an area of 1 m² under the same atmospheric pressure?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the area is reduced to 0.2 m², what is the force exerted by the atmosphere?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the height of a mercury column that exerts the same pressure as 101,325 Pa (Density of mercury = 13,600 kg/m³; Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the height of the mercury column be if atmospheric pressure increased to 120,000 Pa?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the density of mercury is reduced to 13,000 kg/m³ with the original pressure, what is the new height of the column?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "5.6 Fluid Pressure at Depth",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the pressure at a depth of 10 meters in water (Density of water = 1000 kg/m³; Assume g = 9.8 m/s²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the pressure be at a depth of 20 meters?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the fluid density is increased to 1200 kg/m³, what is the pressure at the original depth?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A diver goes to a depth where the pressure is 3 atmospheres (1 atmosphere = 101,325 Pa). Calculate this pressure in Pascals.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the pressure at 5 atmospheres in Pascals?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Convert the pressure of 3 atmospheres to kilopascals (kPa).",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "6. Heat and Thermodynamics",
+    "topics": [
+      {
+        "topic": "6.1 Temperature and Heat",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Convert a temperature of 25°C to Kelvin.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the temperature in Fahrenheit?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the temperature increases to 50°C, what is it in Kelvin?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A sample is heated from 20°C to 80°C. Calculate the temperature change in Kelvin.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the temperature change if the final temperature was 100°C?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the initial temperature was 10°C, what would be the new temperature change for a final temperature of 80°C?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "6.2 Specific Heat Capacity",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the heat required to raise the temperature of 2 kg of water from 25°C to 75°C (specific heat of water = 4184 J/kg°C).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "How much heat is needed if the mass is increased to 4 kg?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would be the heat required if the temperature change was from 25°C to 100°C for 2 kg of water?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A metal with a mass of 0.5 kg requires 2000 J of heat to increase its temperature by 20°C. Calculate its specific heat capacity.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the specific heat if the heat supplied is doubled to 4000 J with the same mass and temperature change?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the mass is reduced to 0.25 kg with 2000 J of heat, what is the new specific heat capacity?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "6.3 Heat Transfer (Conduction, Convection, and Radiation)",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the rate of heat transfer by conduction through a 0.2 m thick wall with an area of 10 m² and thermal conductivity of 0.04 W/m°C, if the temperature difference is 30°C.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the rate of heat transfer if the temperature difference is increased to 60°C?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the thickness of the wall is doubled, what is the new rate of heat transfer?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A hot object at 500 K radiates heat. Calculate the heat radiated per unit area per second if the emissivity is 0.85 and the Stefan-Boltzmann constant is 5.67 x 10^-8 W/m²K⁴.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the radiated heat if the temperature of the object is increased to 600 K?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the emissivity changes to 0.95 at 500 K, what is the new rate of radiation?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "6.4 Latent Heat",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the heat required to completely melt 0.5 kg of ice at 0°C (latent heat of fusion of ice = 334,000 J/kg).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "How much heat is needed to melt 1 kg of ice?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If only 0.2 kg of ice is available, how much heat is required?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A 2 kg sample of water is to be converted to steam at 100°C. Calculate the heat required (latent heat of vaporization of water = 2,260,000 J/kg).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "How much heat would be required if only 1 kg of water is converted to steam?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would be the heat requirement if the mass is increased to 3 kg?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "6.5 Thermodynamic Laws",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Using the first law of thermodynamics, if a system absorbs 500 J of heat and does 200 J of work, calculate the change in internal energy.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the change in internal energy if the work done is increased to 300 J with the same heat absorbed?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the system absorbs 600 J of heat with 200 J of work done, what is the new change in internal energy?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the work done by an ideal gas expanding from 2 L to 5 L at a constant pressure of 100 Pa.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the work done if the pressure increased to 200 Pa for the same volume change?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the volume expands from 1 L to 4 L at 100 Pa, what is the work done?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "6.6 Heat Engines and Efficiency",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A heat engine absorbs 3000 J of heat and exhausts 2000 J. Calculate its efficiency.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "If the exhaust energy is reduced to 1500 J, what is the new efficiency?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would the efficiency be if the absorbed heat increased to 4000 J with the same exhaust?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An engine operates between temperatures of 600 K and 300 K. Calculate its maximum theoretical efficiency (Carnot efficiency).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the efficiency be if the lower temperature is reduced to 200 K?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the upper temperature increases to 800 K, what is the new theoretical efficiency?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "7. Waves and Sound",
+    "topics": [
+      {
+        "topic": "7.1 Wave Properties",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the wavelength of a wave with a frequency of 200 Hz and a speed of 340 m/s.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the wavelength if the frequency is doubled to 400 Hz with the same speed?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the wave speed is reduced to 300 m/s, what is the wavelength at the original frequency?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A wave has a wavelength of 2 meters and a frequency of 150 Hz. Calculate its speed.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the speed be if the frequency increases to 200 Hz with the same wavelength?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the wavelength is increased to 4 meters at the original frequency, what is the new speed?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "7.2 Wave Equation",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Given a wave equation y(x, t) = 0.05 sin(4πx - 2πt), calculate the wavelength of the wave.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the frequency of this wave?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Determine the speed of the wave using the wave equation.",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A wave is represented by the equation y(x, t) = 0.1 sin(6πx + 3πt). Calculate its wave number.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the angular frequency of this wave?",
+                    "a": ""
+                  },
+                  {
+                    "q": "Determine the direction in which the wave is traveling.",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "7.3 Sound Intensity and Decibel Scale",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the sound intensity at a distance of 5 meters from a source emitting 10 watts of power (Assume spherical spreading).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the intensity be at 10 meters from the source?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the power is increased to 20 watts, what is the new intensity at 5 meters?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Convert a sound intensity of 10^-5 W/m² to decibels (Use I₀ = 10^-12 W/m² as the reference intensity).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the decibel level if the intensity is doubled to 2 x 10^-5 W/m²?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the intensity is reduced to 10^-6 W/m², what is the new decibel level?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "7.4 Doppler Effect",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the observed frequency of a 500 Hz sound source moving towards a stationary observer at a speed of 20 m/s (Assume speed of sound = 340 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the observed frequency if the source speed is increased to 40 m/s?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the observer is moving towards the stationary source at 20 m/s, what is the observed frequency?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An ambulance with a siren at 800 Hz moves away from a stationary observer at 30 m/s. Calculate the frequency heard by the observer (Assume speed of sound = 340 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the observed frequency if the ambulance was moving towards the observer at the same speed?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the observer is moving towards the ambulance at 15 m/s, what is the observed frequency?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "7.5 Resonance and Harmonics",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the fundamental frequency of a string with a length of 0.5 meters, fixed at both ends, if the speed of waves on the string is 300 m/s.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the frequency of the second harmonic for this string?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the string length is doubled, what is the new fundamental frequency?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A closed pipe resonates at its fundamental frequency of 200 Hz. Calculate the length of the pipe if the speed of sound is 340 m/s.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the length if the fundamental frequency is increased to 400 Hz?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the pipe is open at both ends, what is the new fundamental frequency for the same length?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "7.6 Speed of Sound in Different Mediums",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the speed of sound in air at 30°C (Use v = 331 + 0.6T, where T is the temperature in °C).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the speed of sound be at 0°C?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the temperature increases to 40°C, what is the new speed of sound?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "The speed of sound in water is 1500 m/s. Calculate the wavelength of a 1000 Hz sound wave traveling in water.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the wavelength if the frequency is increased to 2000 Hz?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the speed of sound in another medium is 1200 m/s, what is the wavelength for a 1000 Hz sound wave in that medium?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "8. Light and Optics",
+    "topics": [
+      {
+        "topic": "8.1 Nature of Light",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the energy of a photon with a wavelength of 500 nm (Use Planck's constant h = 6.63 x 10^-34 J·s and speed of light c = 3 x 10^8 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the energy if the wavelength is changed to 400 nm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the wavelength is doubled, what happens to the photon energy?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A light wave has a frequency of 6 x 10^14 Hz. Calculate its wavelength (Use speed of light c = 3 x 10^8 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the wavelength if the frequency is doubled?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the speed of light in a medium is reduced to 2.5 x 10^8 m/s, what is the new wavelength for the same frequency?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "8.2 Reflection of Light",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A light ray strikes a mirror at an angle of 40° to the normal. Calculate the angle of reflection.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the angle of incidence if the angle of reflection is 50°?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the angle of incidence is reduced to 30°, what is the new angle of reflection?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A ray of light is incident at an angle of 45° on a plane mirror. Determine the angle between the incident ray and the reflected ray.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the angle between the incident and reflected rays if the incidence angle is 60°?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the incidence angle is 0°, what would be the angle between the incident and reflected rays?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "8.3 Refraction of Light",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A light ray passes from air (n = 1) to water (n = 1.33) at an incidence angle of 30°. Calculate the angle of refraction using Snell's Law.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the angle of refraction be if the incidence angle is 45°?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the refractive index of water changes to 1.5, what is the new angle of refraction for the original incidence angle?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A light ray enters a glass block (n = 1.5) from air at an angle of incidence of 40°. Calculate the angle of refraction.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the angle of refraction be if the angle of incidence is increased to 60°?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the light exits into water (n = 1.33) instead of air, what is the new angle of refraction for the original incidence angle?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "8.4 Lenses and Focal Length",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "An object is placed 10 cm from a convex lens with a focal length of 5 cm. Calculate the image distance using the lens formula (1/f = 1/v - 1/u).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the image distance if the object is moved to 15 cm from the lens?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the focal length changes to 10 cm with the original object distance, what is the new image distance?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A concave lens has a focal length of -20 cm. An object is placed 30 cm from the lens. Calculate the image distance.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the image distance if the object is moved to 40 cm from the lens?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the focal length is changed to -10 cm, what is the new image distance for the original object distance?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "8.5 Total Internal Reflection",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the critical angle for light passing from glass (n = 1.5) to air (n = 1).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the critical angle if the light passes from water (n = 1.33) to air?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the refractive index of glass changes to 1.6, what is the new critical angle?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A light ray passes from diamond (n = 2.42) to air. Calculate the critical angle.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the critical angle be if the diamond is replaced with a medium of n = 2?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the light exits into water (n = 1.33) instead of air, what is the new critical angle?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "8.6 Magnification and Optical Instruments",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "An object 2 cm high is placed 15 cm from a convex lens of focal length 10 cm. Calculate the magnification and image height.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the magnification if the object is moved to 20 cm from the lens?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the focal length is changed to 15 cm, what is the new magnification for the original object distance?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A microscope with an objective lens of focal length 2 cm and an eyepiece of focal length 5 cm produces a total magnification of 100x. Calculate the magnification provided by the objective lens.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the magnification be if the eyepiece focal length is changed to 10 cm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the objective lens focal length is reduced to 1 cm, what is the new magnification with the original eyepiece?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "9. Electricity and Magnetism",
+    "topics": [
+      {
+        "topic": "9.1 Static Electricity",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the electrostatic force between two charges of 2 μC and 3 μC separated by a distance of 0.5 meters (Use Coulomb’s constant k = 8.99 x 10^9 N·m²/C²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the force be if the distance is doubled?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If one charge is increased to 6 μC, what is the new force with the original distance?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Two charges of -4 μC and +5 μC are placed 0.2 meters apart. Calculate the force of attraction between them.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the force be if the separation is reduced to 0.1 meters?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If both charges are doubled, what is the new force with the original separation?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "9.2 Electric Field and Potential",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the electric field strength at a point 0.3 meters from a charge of 6 μC (Use Coulomb’s constant k = 8.99 x 10^9 N·m²/C²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the field strength be if the distance is increased to 0.6 meters?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the charge is doubled to 12 μC, what is the new field strength at the original distance?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A charge of 5 μC creates an electric potential of 450 V at a certain distance. Calculate this distance (Use k = 8.99 x 10^9 N·m²/C²).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the distance be if the potential is doubled to 900 V?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the charge is reduced to 2.5 μC, what is the new distance for the original potential?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "9.3 Ohm’s Law and Resistance",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A resistor has a current of 2 A flowing through it when a potential difference of 12 V is applied. Calculate its resistance.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the resistance be if the potential difference is increased to 24 V with the same current?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the current is reduced to 1 A, what is the new resistance with the original potential difference?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the current through a 50 Ω resistor when a voltage of 10 V is applied across it.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the current be if the resistance is reduced to 25 Ω with the same voltage?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the voltage is doubled to 20 V, what is the new current through the original resistance?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "9.4 Series and Parallel Circuits",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the equivalent resistance of three resistors with values of 10 Ω, 20 Ω, and 30 Ω connected in series.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the equivalent resistance if they are connected in parallel?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If a fourth resistor of 40 Ω is added in series, what is the new equivalent resistance?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Two resistors, 12 Ω and 18 Ω, are connected in parallel. Calculate their equivalent resistance.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the equivalent resistance if they are connected in series?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If another resistor of 24 Ω is added in parallel, what is the new equivalent resistance?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "9.5 Electrical Power and Energy",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the power dissipated in a resistor with a resistance of 5 Ω when a current of 3 A flows through it.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the power be if the current is increased to 4 A?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the resistance is doubled to 10 Ω with the original current, what is the new power?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An electric device operates at 240 V and draws a current of 2 A. Calculate its power consumption.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the power consumption if the voltage is reduced to 120 V with the same current?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the current is increased to 3 A at 240 V, what is the new power consumption?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "9.6 Magnetic Fields and Forces",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the magnetic force on a 1.5 m long wire carrying a current of 10 A in a 0.2 T magnetic field perpendicular to the current (Use F = BIL).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the force be if the magnetic field is increased to 0.4 T?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the current is doubled to 20 A with the original magnetic field, what is the new force?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An electron moves with a speed of 2 x 10^6 m/s perpendicular to a 0.1 T magnetic field. Calculate the magnetic force acting on the electron (Use charge of electron, e = 1.6 x 10^-19 C).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the force be if the magnetic field strength is doubled?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the electron’s speed is increased to 3 x 10^6 m/s, what is the new magnetic force?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "9.7 Electromagnetic Induction",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the induced EMF in a coil with 50 turns and a magnetic flux change of 0.02 Wb in 0.1 seconds (Use Faraday’s Law: EMF = -N ΔΦ/Δt).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the EMF be if the number of turns is doubled to 100 with the same flux change?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the time is reduced to 0.05 seconds, what is the new EMF with the original parameters?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A magnetic field through a 200-turn coil changes from 0.1 T to 0.3 T over an area of 0.05 m² in 0.2 seconds. Calculate the induced EMF.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the EMF be if the coil area is doubled to 0.1 m²?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the time for the magnetic change is reduced to 0.1 seconds, what is the new EMF?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "10. Modern Physics",
+    "topics": [
+      {
+        "topic": "10.1 Photoelectric Effect",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the kinetic energy of an electron emitted by light with a frequency of 6 x 10^14 Hz and a work function of 2.5 eV (Use Planck's constant h = 6.63 x 10^-34 J·s, and 1 eV = 1.6 x 10^-19 J).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the kinetic energy if the frequency is increased to 8 x 10^14 Hz with the same work function?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the work function is increased to 3.5 eV at the original frequency, what is the new kinetic energy?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Light with a wavelength of 400 nm is incident on a metal with a work function of 2 eV. Calculate the maximum kinetic energy of the emitted electron (Use c = 3 x 10^8 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the kinetic energy be if the wavelength is reduced to 300 nm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the work function is increased to 2.5 eV, what is the new kinetic energy with the original wavelength?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "10.2 Atomic Structure",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the radius of the second Bohr orbit for a hydrogen atom (Use r₁ = 5.29 x 10^-11 m).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the radius of the third Bohr orbit for hydrogen?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the radius of the first Bohr orbit is doubled, what is the radius of the second orbit under the new scaling?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the energy of an electron in the third orbit of a hydrogen atom (Use E₁ = -13.6 eV for the first orbit).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the energy of an electron in the fourth orbit?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the energy of the first orbit changes to -10 eV, what is the energy of the third orbit?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "10.3 Quantum Mechanics",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "An electron has a de Broglie wavelength of 0.5 nm. Calculate its momentum (Use Planck's constant h = 6.63 x 10^-34 J·s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the momentum if the wavelength is reduced to 0.25 nm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the wavelength is doubled, what is the new momentum?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the uncertainty in position for an electron with an uncertainty in momentum of 1 x 10^-24 kg·m/s (Use Heisenberg’s uncertainty principle, ΔxΔp ≥ h/4π).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the uncertainty in position be if the uncertainty in momentum is doubled?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the uncertainty in momentum is reduced by half, what is the new uncertainty in position?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "10.4 Nuclear Physics",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the binding energy of a helium nucleus with a mass of 4.0015 u (mass of a proton = 1.0073 u, mass of a neutron = 1.0087 u, and 1 u = 931.5 MeV).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the binding energy be if the mass of the helium nucleus is changed to 4.0025 u?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the mass of each neutron is increased by 0.001 u, how does this affect the binding energy?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A radioactive substance has a half-life of 10 years. Calculate the amount of substance remaining after 30 years if the initial amount is 100 grams.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "How much would remain after 50 years?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the initial amount was 200 grams, what would remain after 30 years?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "10.5 Radioactivity and Decay",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the decay constant of a radioactive isotope with a half-life of 5 hours (Use λ = ln(2) / T₁/₂).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the decay constant be if the half-life is doubled to 10 hours?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the half-life is reduced to 2.5 hours, what is the new decay constant?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A radioactive sample has a decay constant of 0.1 hr⁻¹. Calculate the remaining quantity of a 50-gram sample after 20 hours.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would remain after 10 hours?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the initial quantity is increased to 100 grams, how much remains after 20 hours?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "10.6 Semiconductors and Energy Bands",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A semiconductor has an energy band gap of 1.2 eV. Calculate the wavelength of light required to excite an electron from the valence band to the conduction band (Use Planck's constant h = 6.63 x 10^-34 J·s and c = 3 x 10^8 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the wavelength if the band gap is increased to 2 eV?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the band gap is reduced to 0.8 eV, what is the required wavelength?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the intrinsic carrier concentration of a semiconductor at a temperature of 300 K, given that the energy gap is 1.1 eV (Use the equation n₀ = N_c * e^(-E_g/2kT) with suitable constants).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the carrier concentration be if the temperature is increased to 350 K?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the energy gap is increased to 1.5 eV, what is the new carrier concentration at 300 K?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "11. Applications of Physics in Health and Safety",
+    "topics": [
+      {
+        "topic": "11.1 X-Rays and Medical Imaging",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the energy of an X-ray photon with a wavelength of 0.1 nm (Use Planck's constant h = 6.63 x 10^-34 J·s and speed of light c = 3 x 10^8 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the energy if the wavelength is reduced to 0.05 nm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the X-ray wavelength increases to 0.2 nm, how does the energy change?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An X-ray machine operates at 80 kV. Calculate the maximum energy of the X-ray photons produced (Use e = 1.6 x 10^-19 C for electron charge).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the maximum energy if the voltage is increased to 100 kV?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the voltage is reduced to 50 kV, what is the new maximum energy of the photons?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "11.2 Ultrasound in Medicine",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the wavelength of a 2 MHz ultrasound wave in human tissue, where the speed of sound is approximately 1500 m/s.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the wavelength if the frequency is increased to 5 MHz?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the speed of sound in a different tissue is 1600 m/s, what is the wavelength of the 2 MHz wave in that tissue?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An ultrasound pulse travels 0.04 m in tissue. If the speed of sound in the tissue is 1500 m/s, calculate the time taken for the pulse to travel this distance.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the time be if the distance increases to 0.08 m?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the speed of sound decreases to 1400 m/s, what is the time taken for the original distance?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "11.3 MRI (Magnetic Resonance Imaging)",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "An MRI machine operates with a magnetic field strength of 1.5 T. Calculate the Larmor frequency for hydrogen nuclei, given that the gyromagnetic ratio for hydrogen is 42.58 MHz/T.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the frequency be if the magnetic field strength is increased to 3 T?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the gyromagnetic ratio changes to 40 MHz/T, what is the new frequency with a 1.5 T field?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the energy of a photon at the Larmor frequency of 64 MHz (Use Planck’s constant h = 6.63 x 10^-34 J·s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the photon energy if the frequency is increased to 128 MHz?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the frequency is reduced to 32 MHz, how does the energy change?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "11.4 Radiation Dosimetry",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A patient receives a dose of 0.2 Gy. If the radiation weighting factor for X-rays is 1, calculate the equivalent dose in sieverts.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the equivalent dose if the radiation weighting factor is increased to 5?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the dose is increased to 0.5 Gy with a weighting factor of 1, what is the new equivalent dose?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the absorbed dose for a person who absorbs 0.15 J of energy in a tissue mass of 0.3 kg.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the absorbed dose if the energy absorbed is increased to 0.3 J?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the tissue mass is doubled to 0.6 kg, what is the new absorbed dose with the original energy?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "11.5 Radiation Safety and Shielding",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the attenuation of a radiation beam with an initial intensity of 1000 μGy when it passes through a material with a thickness of 5 cm and an attenuation coefficient of 0.2 cm⁻¹ (Use I = I₀e^(-μx)).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the intensity be if the material thickness is increased to 10 cm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the attenuation coefficient is doubled, what is the new intensity for the original thickness?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A shielding material has an attenuation coefficient of 0.15 cm⁻¹. Calculate the thickness required to reduce the intensity of a radiation beam from 800 μGy to 100 μGy.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the required thickness be if the attenuation coefficient is reduced to 0.1 cm⁻¹?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the initial intensity is doubled to 1600 μGy, what is the new required thickness for the original attenuation coefficient?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "11.6 Laser Therapy and Eye Safety",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A laser beam has a power of 5 mW and an area of 0.01 cm². Calculate the intensity of the laser beam.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the intensity if the area is reduced to 0.005 cm² with the same power?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the power is increased to 10 mW, what is the new intensity for the original area?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A laser used in therapy has a wavelength of 650 nm. Calculate the energy of each photon in the beam (Use Planck's constant h = 6.63 x 10^-34 J·s and c = 3 x 10^8 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the photon energy if the wavelength is reduced to 500 nm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the wavelength is increased to 700 nm, how does the photon energy change?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "12. Magnetic Effect of Current",
+    "topics": [
+      {
+        "topic": "12.1 Magnetic Field around a Current-Carrying Conductor",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the magnetic field strength 5 cm away from a long, straight conductor carrying a current of 10 A (Use μ₀ = 4π x 10^-7 T·m/A and the formula B = μ₀I / 2πr).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the magnetic field strength be if the distance is reduced to 2.5 cm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the current is doubled to 20 A, what is the new magnetic field strength at 5 cm?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A current of 5 A flows through a long, straight wire. Calculate the magnetic field 10 cm from the wire.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the magnetic field if the distance is increased to 20 cm?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the current is halved to 2.5 A, what is the magnetic field at 10 cm?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "12.2 Magnetic Force on a Current-Carrying Conductor",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the force on a 1.5 m conductor carrying a current of 8 A perpendicular to a magnetic field of 0.3 T (Use F = BIL).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the force be if the magnetic field is increased to 0.5 T?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the length of the conductor is doubled, what is the new force at the original magnetic field strength?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A 2 m wire carries a current of 5 A in a 0.4 T magnetic field. Calculate the magnetic force acting on the wire.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the force be if the current is increased to 10 A?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the wire length is reduced to 1 m, what is the new force with the original current and magnetic field?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "12.3 Magnetic Field Due to a Circular Loop",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the magnetic field at the center of a circular loop with a radius of 0.1 m carrying a current of 5 A (Use B = μ₀I / 2R).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the magnetic field be if the current is increased to 10 A?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the radius is doubled, what is the new magnetic field with the original current?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A circular loop of radius 0.2 m carries a current of 3 A. Calculate the magnetic field at the center of the loop.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the magnetic field be if the radius is reduced to 0.1 m?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the current is increased to 6 A, what is the new magnetic field for the original radius?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "12.4 Solenoid and Toroid",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the magnetic field inside a solenoid with 1000 turns per meter carrying a current of 2 A (Use B = μ₀nI).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the magnetic field if the current is increased to 4 A?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the turns per meter are increased to 2000, what is the new magnetic field with the original current?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A solenoid with 800 turns per meter carries a current of 3 A. Calculate the magnetic field inside the solenoid.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the magnetic field be if the turns per meter are increased to 1600?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the current is halved to 1.5 A, what is the new magnetic field with the original turns per meter?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "12.5 Electromagnetic Induction and Faraday’s Law",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A coil with 50 turns experiences a magnetic flux change of 0.02 Wb in 0.1 seconds. Calculate the induced EMF (Use Faraday’s Law: EMF = -N ΔΦ/Δt).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the EMF be if the number of turns is doubled to 100?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the flux change occurs in 0.05 seconds, what is the new EMF with the original parameters?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the induced EMF in a coil with 200 turns when the magnetic flux changes from 0.1 Wb to 0.3 Wb over 0.2 seconds.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the EMF be if the time for flux change is reduced to 0.1 seconds?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the number of turns is reduced to 100, what is the new EMF for the original flux change and time?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "12.6 Lenz’s Law and Conservation of Energy",
+        "types": [
+          {
+            "type": "Conceptual",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Explain how Lenz’s Law illustrates the principle of conservation of energy in electromagnetic induction.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "How does Lenz’s Law predict the direction of the induced current?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What happens to the induced current if the rate of change of magnetic flux increases?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Describe a scenario where Lenz’s Law prevents perpetual motion in an electromagnetic system.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "How does the induced current counteract the change in magnetic flux?",
+                    "a": ""
+                  },
+                  {
+                    "q": "What would happen if the induced current did not oppose the magnetic flux change?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "chapter": "13. Modern Physics and Electronics",
+    "topics": [
+      {
+        "topic": "13.1 Atomic Models and Spectra",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the energy of an electron in the second orbit of a hydrogen atom using the Bohr model (Use E₁ = -13.6 eV for the first orbit).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the energy of an electron in the third orbit?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the energy of the first orbit is increased to -10 eV, what is the energy in the second orbit?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the wavelength of light emitted when an electron in a hydrogen atom transitions from the third orbit to the second orbit (Use E₁ = -13.6 eV and c = 3 x 10^8 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the wavelength if the transition is from the fourth orbit to the second orbit?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the speed of light is reduced to 2.5 x 10^8 m/s, what is the new wavelength for the same transition?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "13.2 Quantum Mechanics and Uncertainty",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Calculate the de Broglie wavelength of an electron moving with a speed of 2 x 10^6 m/s (Use Planck's constant h = 6.63 x 10^-34 J·s and electron mass m = 9.11 x 10^-31 kg).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the wavelength if the electron's speed is doubled?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the speed is reduced to 1 x 10^6 m/s, what is the new wavelength?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An electron has an uncertainty in position of 1 x 10^-10 m. Calculate the minimum uncertainty in its momentum (Use Heisenberg’s uncertainty principle, ΔxΔp ≥ h/4π).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the uncertainty in momentum be if the position uncertainty is reduced to 5 x 10^-11 m?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the position uncertainty is increased to 2 x 10^-10 m, how does the uncertainty in momentum change?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "13.3 Semiconductors and Energy Bands",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A semiconductor has an energy band gap of 1.1 eV. Calculate the wavelength of light required to excite an electron from the valence band to the conduction band (Use Planck's constant h = 6.63 x 10^-34 J·s and speed of light c = 3 x 10^8 m/s).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the wavelength if the band gap is increased to 2 eV?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the band gap is reduced to 0.8 eV, what is the required wavelength?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Calculate the intrinsic carrier concentration in a semiconductor at 300 K, given the energy gap is 1.2 eV (Use an appropriate formula for intrinsic carrier concentration with suitable constants).",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the carrier concentration be if the temperature is increased to 350 K?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the energy gap is increased to 1.5 eV, what is the new carrier concentration at 300 K?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "13.4 Diodes and Transistors",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "A diode has a forward voltage of 0.7 V and a current of 10 mA. Calculate its power dissipation.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the power dissipation be if the current increases to 20 mA?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the forward voltage is increased to 1 V, what is the new power dissipation with the original current?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "A transistor in a circuit has a collector current of 20 mA and a collector-emitter voltage of 5 V. Calculate the power dissipated in the transistor.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would the power be if the collector current is increased to 30 mA?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the collector-emitter voltage is reduced to 3 V, what is the new power dissipation with the original current?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "13.5 Logic Gates and Digital Circuits",
+        "types": [
+          {
+            "type": "Conceptual",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "Explain the function of an AND gate in a digital circuit.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the output of an AND gate when both inputs are high?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How does the output change if one input is low and the other is high?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "Describe the difference between an OR gate and a NOR gate.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What is the output of a NOR gate when both inputs are low?",
+                    "a": ""
+                  },
+                  {
+                    "q": "How does the output of an OR gate compare to that of a NOR gate with the same inputs?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "13.6 Operational Amplifiers (Op-Amps)",
+        "types": [
+          {
+            "type": "Calculation",
+            "questions": [
+              {
+                "main_question": {
+                  "q": "An inverting amplifier has a feedback resistor of 10 kΩ and an input resistor of 1 kΩ. Calculate the gain of the amplifier.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the gain if the input resistor is increased to 2 kΩ?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the feedback resistor is doubled to 20 kΩ, what is the new gain with the original input resistor?",
+                    "a": ""
+                  }
+                ]
+              },
+              {
+                "main_question": {
+                  "q": "An Op-Amp has a non-inverting configuration with a feedback resistor of 8 kΩ and an input resistor of 2 kΩ. Calculate the gain of the amplifier.",
+                  "a": ""
+                },
+                "follow_up_questions": [
+                  {
+                    "q": "What would be the gain if the feedback resistor is increased to 12 kΩ?",
+                    "a": ""
+                  },
+                  {
+                    "q": "If the input resistor is reduced to 1 kΩ, what is the new gain with the original feedback resistor?",
+                    "a": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+
+]
