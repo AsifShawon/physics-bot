@@ -566,7 +566,7 @@
               {
                 "main_question": {
                   "q": "How can the refractive index of a glass slab be determined using a ray box and a protractor?",
-                  "a": ""
+                  "a": "To determine the refractive index of a glass slab, place a glass slab on a sheet of paper, then draw the outline and mark an incident ray towards one side of the slab using a ray box. Use a protractor to measure the angle of incidence (i) and the angle of refraction (r) within the glass. According to Snell's law, the refractive index n is calculated by the formula: n = sin(i) / sin(r)&#8203;:contentReference[oaicite:0]{index=0}."
                 },
                 "follow_up_questions": [
                   {
@@ -687,7 +687,7 @@
               {
                 "main_question": {
                   "q": "What is the critical angle, and how is it defined?",
-                  "a": ""
+                  "a": "The critical angle is the angle of incidence in a denser medium at which the angle of refraction in the rarer medium becomes 90°. At angles greater than the critical angle, total internal reflection occurs, and the light is completely reflected back into the denser medium. This angle depends on the refractive indices of the two media involved&#8203;:contentReference[oaicite:1]{index=1}."
                 },
                 "follow_up_questions": [
                   {
@@ -1023,7 +1023,7 @@
               {
                 "main_question": {
                   "q": "A mirage occurs when light passes through layers of air with different refractive indices. If the refractive index of hot air near the ground is 1.0002 and the refractive index of cooler air above is 1.0003, calculate the angle at which total internal reflection occurs between the layers.",
-                  "a": ""
+                  "a": "To find the critical angle (θc) for total internal reflection between the cooler air (n = 1.0003) and hot air (n = 1.0002), we use the formula:\nθc = arcsin(n2 / n1) = arcsin(1.0002 / 1.0003) ≈ 86.26°.\nTherefore, total internal reflection will occur if the angle of incidence is equal to or greater than approximately 86.26°&#8203;:contentReference[oaicite:2]{index=2}."
                 },
                 "follow_up_questions": [
                   {
@@ -2427,7 +2427,7 @@
                   },
                   {
                     "q": "Explain the difference between rods and cones in the retina.",
-                    "a": ""
+                    "a": "Rods and cones are two types of photoreceptor cells in the retina. Rods are highly sensitive to light and are primarily responsible for vision in low-light conditions; however, they do not detect color. Cones, on the other hand, function best in bright light and enable color vision, with three types of cones sensitive to red, green, and blue wavelengths. Together, rods and cones contribute to a comprehensive range of vision under varying light conditions&#8203;:contentReference[oaicite:3]{index=3}."
                   }
                 ]
               }
@@ -2780,7 +2780,7 @@
               {
                 "main_question": {
                   "q": "How does the structure of the eye ensure clear vision under different lighting conditions?",
-                  "a": ""
+                  "a": "The eye adapts to different lighting conditions through structures like the iris, which controls the amount of light entering by adjusting the size of the pupil. In low light, the pupil dilates to let in more light, while in bright conditions, it constricts to reduce light intake. Additionally, the retina contains both rods and cones, allowing the eye to maintain vision across a range of lighting conditions&#8203;:contentReference[oaicite:4]{index=4}."
                 },
                 "follow_up_questions": [
                   {
@@ -3264,9 +3264,9 @@
             "type": "Experimental/Practical",
             "questions": [
               {
-                "main_question": {
+                "main_question":  {
                   "q": "How can you demonstrate the refraction of light using a glass of water and a straw?",
-                  "a": ""
+                  "a": "To demonstrate refraction, place a straw in a glass of water and observe how the straw appears to bend at the water's surface. This effect occurs because light rays change speed and direction when passing from air into water, a denser medium, creating the visual illusion of the bent straw due to refraction&#8203;:contentReference[oaicite:5]{index=5}."
                 },
                 "follow_up_questions": [
                   {
