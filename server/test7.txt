@@ -606,6 +606,7 @@
 ---
 
 #### **Type**: Conceptual  
+
 - **Main**: How does noise pollution affect the performance of students and workers?
 - **Follow-Up-1**: Why is it essential to control noise levels in educational institutions and offices?
 - **Follow-Up-2**: How can background noise impact concentration and productivity in workplaces?
