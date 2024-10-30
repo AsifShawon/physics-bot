@@ -340,7 +340,7 @@
                 "follow_up_questions": [
                   {
                     "q": "What happens to the force if the distance between the objects is doubled?",
-                    "a": ""
+                    "a": "According to Coulomb’s law, the electric force between two charges is inversely proportional to the square of the distance between them. If the distance is doubled, the force will become one-fourth of the original force."
                   },
                   {
                     "q": "How does the force change if the charge on one of the objects is increased by 50%?",
@@ -355,7 +355,7 @@
               {
                 "main_question": {
                   "q": "A polythene rod is rubbed with flannel, and the rod gains a charge of \\(10 \\, C\\). Calculate the force of attraction between the rod and the flannel if they are 2 meters apart.",
-                  "a": ""
+                  "a": "Using Coulomb's Law, the force F between two charges (q1 and q2) separated by distance d in vacuum is given by: F = k * (q1 * q2) / d^2. Here, with q1 = q2 = 10 C, d = 2 m, and Coulomb's constant k = 9 x 10^9 Nm^2/C^2, the force F = (9 x 10^9) * (10 * 10) / (2^2) = 2.25 x 10^11 N."
                 },
                 "follow_up_questions": [
                   {
@@ -1864,7 +1864,7 @@
                   },
                   {
                     "q": "What happens to the force if the electric field strength is halved?",
-                    "a": ""
+                    "a": "The electric force experienced by a charge in an electric field is given by F = E * q, where E is the electric field strength and q is the charge. If the electric field strength is halved, the force on the charge will also be halved, assuming the charge remains constant."
                   },
                   {
                     "q": "How does the motion of the droplet change as it passes through regions of different electric field strength?",

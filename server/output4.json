@@ -821,7 +821,7 @@
                   },
                   {
                     "q": "How is the law of conservation of energy demonstrated in the metabolic processes of living organisms?",
-                    "a": ""
+                    "a": "The law of conservation of energy is demonstrated in living organisms as they transform energy from one form to another without any net loss of energy. For instance, when food is consumed, its chemical energy is converted into kinetic energy for movement, thermal energy for body heat, and other forms needed for cellular processes. This continuous energy transformation supports all biological functions while adhering to the principle that energy is neither created nor destroyed but merely converted from one form to another&#8203;:contentReference[oaicite:0]{index=0}."
                   }
                 ]
               }
@@ -1950,7 +1950,7 @@
               {
                 "main_question": {
                   "q": "Discuss how efficiency plays a role in the performance of renewable energy systems, such as solar panels and wind turbines.",
-                  "a": ""
+                  "a": "Efficiency is crucial in renewable energy systems, as it determines how much of the available energy can be converted into usable electrical power. For example, solar panels convert sunlight into electricity, but some energy is lost due to reflection, material limitations, and environmental factors. Higher efficiency in panels means more electricity generation from the same amount of sunlight. Similarly, wind turbines convert kinetic energy from the wind into electricity, and their efficiency is influenced by turbine design, wind speed, and energy loss due to friction. Improvements in efficiency enhance energy output and make these systems more cost-effective and sustainable&#8203;:contentReference[oaicite:1]{index=1}."
                 },
                 "follow_up_questions": [
                   {

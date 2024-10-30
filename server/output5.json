@@ -128,7 +128,7 @@
                 "follow_up_questions": [
                   {
                     "q": "How can this principle of pressure be used to prevent accidents or improve safety in industrial settings?",
-                    "a": ""
+                    "a": "The principle of pressure can enhance safety in industrial settings by distributing forces evenly across areas, thereby preventing equipment damage and minimizing risks. For example, hydraulic systems use Pascal's law, which states that pressure applied to an enclosed fluid is transmitted equally in all directions. This allows machines to lift heavy loads safely. Pressure sensors also monitor fluid pressure levels in pipelines, alerting operators to potential issues before they lead to accidents&#8203;:contentReference[oaicite:0]{index=0}."
                   },
                   {
                     "q": "What everyday items are designed to increase pressure to function properly? Give examples.",
@@ -571,7 +571,7 @@
                   },
                   {
                     "q": "Explain the effects of atmospheric pressure on human physiology during deep-sea diving.",
-                    "a": ""
+                    "a": "During deep-sea diving, atmospheric pressure increases significantly with depth, causing physiological effects on the human body. High pressure compresses gases in the diver’s blood and tissues, leading to increased nitrogen absorption, which can cause nitrogen narcosis. Rapid ascent may cause decompression sickness due to the formation of gas bubbles in the bloodstream. Divers manage these risks by ascending slowly to allow for safe gas release from the body&#8203;:contentReference[oaicite:1]{index=1}."
                   },
                   {
                     "q": "How does atmospheric pressure influence the functioning of car engines at high altitudes?",
@@ -1806,7 +1806,7 @@
                 "follow_up_questions": [
                   {
                     "q": "Why does a person float more easily in the Dead Sea than in a freshwater lake?",
-                    "a": ""
+                    "a": "A person floats more easily in the Dead Sea than in a freshwater lake because the Dead Sea has a much higher density due to its high salt content. According to Archimedes' principle, an object immersed in a fluid experiences an upward buoyant force equal to the weight of the displaced fluid. Since the dense saltwater exerts a stronger buoyant force, it provides greater support, making it easier to float&#8203;:contentReference[oaicite:2]{index=2}."
                   },
                   {
                     "q": "How does a submarine adjust its buoyancy to sink or float based on Archimedes' law?",
@@ -2117,7 +2117,7 @@
               {
                 "main_question": {
                   "q": "How is Hooke's law applied in real-world engineering applications?",
-                  "a": ""
+                  "a": "Hooke's law, which states that the force needed to extend or compress a spring by some distance is proportional to that distance, is applied in various engineering fields. For example, it is used in designing suspension systems for vehicles, where springs absorb shocks by compressing under force. It also applies to load cells in weighing scales and structural analysis of buildings to ensure materials can withstand loads without permanent deformation&#8203;:contentReference[oaicite:3]{index=3}."
                 },
                 "follow_up_questions": [
                   {

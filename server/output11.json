@@ -103,7 +103,7 @@
                   },
                   {
                     "q": "What would happen if there was a break in the circuit?",
-                    "a": ""
+                    "a": "If there is a break in the circuit, the continuous path for current flow is interrupted, which stops the flow of electric current. This break could be caused by a disconnection in wiring, a blown fuse, or a broken component. As a result, no current will flow, and any devices connected to the circuit will not function until the break is repaired&#8203;:contentReference"
                   },
                   {
                     "q": "How does the galvanometer help in detecting current flow?",
@@ -943,7 +943,7 @@
                 "follow_up_questions": [
                   {
                     "q": "What equipment would you use to measure voltage and current in the experiment?",
-                    "a": ""
+                    "a": "To measure voltage in a circuit, a voltmeter is used, which is connected in parallel to the component whose voltage you wish to measure. For current measurement, an ammeter is used and is connected in series within the circuit. These devices allow for accurate monitoring of voltage and current, helping ensure safe and effective circuit operation&#8203;:contentReference"
                   },
                   {
                     "q": "How would you plot a voltage-current graph to verify the proportionality between them?",
@@ -1051,7 +1051,7 @@
                   },
                   {
                     "q": "How would circuits be designed differently without the knowledge of Ohm’s Law?",
-                    "a": ""
+                    "a": "Without Ohm's Law, which defines the relationship between voltage, current, and resistance, designing circuits would lack a fundamental understanding of how to control current flow through resistors and other components. Engineers would not be able to predict the current flow in circuits or optimize components for efficiency, potentially leading to less reliable and less efficient electrical systems&#8203;:contentReference"
                   }
                 ]
               }
@@ -2192,7 +2192,7 @@
                   },
                   {
                     "q": "Calculate the voltage across the 6Ω resistor.",
-                    "a": ""
+                    "a": "The voltage across a resistor can be calculated using Ohm's Law, \\( V = I \\times R \\). If the current flowing through the 6Ω resistor is known, simply multiply the current (I) by 6Ω to find the voltage. For example, if the current is 2A, then the voltage would be \\( V = 2A \\times 6Ω = 12V \\)&#8203;:contentReference"
                   },
                   {
                     "q": "If the 8Ω resistor is replaced with a 4Ω resistor, how will the total resistance and current change?",
@@ -2436,7 +2436,7 @@
                   },
                   {
                     "q": "Explain how damaged insulation can lead to electrical hazards.",
-                    "a": ""
+                    "a": "Damaged insulation on electrical wires can lead to electrical hazards in several ways. Over time, the insulation around live wires can become worn, cracked, or damaged, exposing the underlying conductive materials. If someone touches an exposed live wire, they could receive a severe electric shock. Additionally, if the live and neutral wires come into direct contact due to damaged insulation, a short circuit may occur, potentially leading to overheating and even causing an electrical fire. Such hazards highlight the importance of regular inspection and replacement of worn insulation to ensure safety&#8203;:contentReference[oaicite:0]{index=0}."
                   },
                   {
                     "q": "Why is it dangerous to use electrical appliances in damp conditions?",
@@ -2524,7 +2524,7 @@
                   },
                   {
                     "q": "What precautions should be taken to prevent electrical accidents in the kitchen?",
-                    "a": ""
+                    "a": "To prevent electrical accidents in the kitchen, consider the following precautions:\n1. **Avoid using wet hands** when operating electrical appliances to reduce the risk of electric shock.\n2. **Use appliances with insulated cords** and avoid placing them near water sources.\n3. **Regularly check cords and plugs** for any damage or fraying, and replace them if necessary.\n4. **Install circuit breakers and fuses** to prevent short circuits and potential fires.\nThese measures help ensure safety while using electrical devices in a potentially damp environment&#8203;:contentReference"
                   },
                   {
                     "q": "How can ground fault circuit interrupters (GFCI) improve electrical safety in bathrooms?",

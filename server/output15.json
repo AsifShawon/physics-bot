@@ -1786,7 +1786,7 @@
               {
                 "main_question": {
                   "q": "Describe the relationship between mass and energy.",
-                  "a": ""
+                  "a": "The relationship between mass and energy is defined by Einstein's equation, \\( E = mc^2 \\), which states that energy (E) is equal to mass (m) multiplied by the speed of light (c) squared. This equation implies that mass can be converted into energy and vice versa, showing that mass and energy are interchangeable. In nuclear reactions, for instance, a small amount of mass is converted into a large amount of energy, which is the principle behind nuclear power and atomic bombs."
                 },
                 "follow_up_questions": [
                   {
@@ -2626,7 +2626,7 @@
               {
                 "main_question": {
                   "q": "What is the Standard Model of particle physics?",
-                  "a": ""
+                  "a": "The Standard Model of particle physics is a theory that describes the fundamental particles and forces (except gravity) that constitute the universe. It includes elementary particles such as quarks, leptons, and gauge bosons, which mediate the strong, weak, and electromagnetic forces. The Higgs boson, responsible for giving particles mass, is also part of the Standard Model. While the model successfully explains most observed particle phenomena, it does not account for gravity or dark matter."
                 },
                 "follow_up_questions": [
                   {
@@ -3208,7 +3208,7 @@
               {
                 "main_question": {
                   "q": "What is a scintillation detector?",
-                  "a": ""
+                  "a": "A scintillation detector is a device used to detect and measure ionizing radiation. It operates by using a scintillating material that emits light (photons) when struck by radiation. This light is then converted into an electrical signal by a photomultiplier tube, allowing the radiation's energy and intensity to be measured. Scintillation detectors are widely used in medical imaging, nuclear security, and research laboratories."
                 },
                 "follow_up_questions": [
                   {
@@ -3247,7 +3247,7 @@
               {
                 "main_question": {
                   "q": "What is Cherenkov radiation?",
-                  "a": ""
+                  "a": "Cherenkov radiation occurs when a charged particle, such as an electron, moves through a medium faster than the speed of light in that medium, typically water or glass. This speed mismatch produces a shockwave of light, which appears as a blue glow. Cherenkov radiation is commonly observed in nuclear reactors and is used in particle physics to identify high-speed particles."
                 },
                 "follow_up_questions": []
               }
@@ -3471,7 +3471,7 @@
               {
                 "main_question": {
                   "q": "What are the two main categories of condensed matter?",
-                  "a": ""
+                  "a": "The two main categories of condensed matter are **crystalline** and **amorphous** solids. Crystalline solids have an ordered structure with repeating atomic arrangements, as seen in metals and salts. Amorphous solids, such as glass and plastics, lack long-range atomic order and have a more disordered structure. This structural difference affects their physical properties, such as melting points and electrical conductivity."
                 },
                 "follow_up_questions": [
                   {
@@ -3729,7 +3729,7 @@
                 "follow_up_questions": [
                   {
                     "q": "How does it explain electrical conductivity?",
-                    "a": ""
+                    "a": "In condensed matter physics, electrical conductivity is explained by the behavior of electrons within the material. In crystalline solids, especially metals, free electrons can move through a lattice structure, allowing them to conduct electricity. In contrast, in amorphous solids, the lack of order restricts electron movement, typically resulting in lower conductivity. This difference arises due to band theory, where the presence of 'conduction bands' in metals allows for free electron flow, whereas insulators have wider band gaps that inhibit conductivity."
                   }
                 ]
               }

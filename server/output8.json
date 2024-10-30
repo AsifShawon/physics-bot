@@ -1291,7 +1291,7 @@
                 "follow_up_questions": [
                   {
                     "q": "What is the role of side-view and rearview mirrors in vehicles?",
-                    "a": ""
+                    "a": "Side-view and rearview mirrors in vehicles help drivers monitor the areas behind and beside the vehicle, increasing awareness of surroundings. Rearview mirrors provide a direct view of traffic behind the car, while side-view mirrors allow the driver to check adjacent lanes. Convex mirrors are commonly used for side-view mirrors as they offer a wider field of vision, though objects appear smaller and farther away. These mirrors are essential for safe lane changes, reversing, and preventing collisions&#8203;:contentReference[oaicite:0]{index=0}."
                   },
                   {
                     "q": "How does the use of mirrors reduce accidents?",
@@ -1349,7 +1349,7 @@
               {
                 "main_question": {
                   "q": "What are blind turns, and why are they dangerous?",
-                  "a": ""
+                  "a": "Blind turns occur on roads, especially in hilly areas, where a sharp curve limits the driver's line of sight, preventing them from seeing oncoming traffic or obstacles. Blind turns are dangerous as drivers from opposite directions may be unaware of each other, increasing the risk of collision. To mitigate this, mirrors are sometimes installed at such turns to provide visibility around the bend&#8203;:contentReference[oaicite:1]{index=1}."
                 },
                 "follow_up_questions": [
                   {
@@ -1358,7 +1358,7 @@
                   },
                   {
                     "q": "Why is driving at night on hilly roads particularly risky?",
-                    "a": ""
+                    "a": "Driving on hilly roads at night is risky due to limited visibility and the challenging, winding nature of the terrain. Hilly roads often have sharp curves, steep inclines, and descents that require caution and slow speeds. Reduced lighting conditions make it harder to see these obstacles, increasing the chance of accidents. Drivers are advised to avoid nighttime driving in hilly areas unless necessary&#8203;:contentReference[oaicite:2]{index=2}."
                   },
                   {
                     "q": "What is the ideal speed for navigating blind turns safely?",
@@ -1388,7 +1388,7 @@
                 "follow_up_questions": [
                   {
                     "q": "Why is it recommended to avoid driving fast on hilly roads during poor weather?",
-                    "a": ""
+                    "a": "Driving fast on hilly roads during poor weather, such as rain or fog, is dangerous due to reduced traction and visibility. Wet or icy roads increase the risk of skidding, and fog obscures the road ahead. Hilly roads also often have sharp turns and steep gradients, which require slow, controlled driving to navigate safely. Reducing speed helps maintain control and visibility under these challenging conditions&#8203;:contentReference[oaicite:3]{index=3}."
                   },
                   {
                     "q": "How do convex mirrors help in showing a wider field of view around blind corners?",
