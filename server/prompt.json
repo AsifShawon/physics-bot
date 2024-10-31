@@ -1,0 +1,29 @@
+[
+    {
+        "chapter": "chapter_name",
+        "topics": [
+            {
+                "topic": "topic_name",
+                "types": [
+                    {
+                        "types": "type_name",
+                        "questions": [
+                            {
+                                "main_question": {
+                                    "q": "Sample LLM Question 1",
+                                    "a": "Sample LLM Answer 1"
+                                },
+                                "follow_up_questions": [
+                                    {
+                                        "q": "Sample LLM Follow Up Question 1",
+                                        "a": "Sample LLM Answer 2"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

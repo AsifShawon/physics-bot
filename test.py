@@ -1,8 +1,5 @@
-import streamlit as st
-from st_chat_message import message
-
-message("Hello world!", is_user=True, avatar_style="")
-message("Hi", avatar_style="b")
-
-
-
+import spacy
+nlp = spacy.load("en_core_web_md")
+doc1 = nlp("Hello")
+doc2 = nlp("Hi there")
+print("Similarity:", doc1.similarity(doc2))

@@ -5,6 +5,7 @@ from langchain_chroma import Chroma
 from langchain.schema import Document
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
+
 # embedding = OllamaEmbeddings(model="all-minilm:33m")
 embedding = OllamaEmbeddings(model="nomic-embed-text:latest")
 # embedding = OllamaEmbeddings(model="mxbai-embed-large:latest")
