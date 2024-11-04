@@ -1,31 +1,94 @@
-{
-    "chapter": "Chapter_Name",
-    "topics": [
-      {
-        "topic": "CHAPTER_NUMBER.TOPIC_SERIAL TOPIC_NAME",
-        "types": [
-          {
-            "type": "TYPE_NAME",
-            "questions": [
-              {
-                "main_question": {
-                  "q": "MAIN_QUESTION_TEXT",
-                  "a": ""
-                },
-                "follow_up_questions": [
-                  {
-                    "q": "FOLLOW_UP_QUESTION_TEXT",
-                    "a": ""
-                  },
-                  ...more follow up questions
-                ]
-              }
-            ]
-          },
-          ...more types
-        ]
-      },
-      ...more topics
-    ]
-  }
-  
+import json
+import matplotlib.pyplot as plt
+import numpy as np
+import seaborn as sns
+from scipy.stats import linregress
+
+# File paths for each category
+file_paths = {
+    "Conceptual": "category_conceptual_output.json",
+    "General": "category_general_output.json",
+    "Mathematical": "category_mathematical_output.json"
+}
+
+# Output directory for saving the plots
+output_dir = "D:\\SUMMER24\\CSE299[NBM]\\project\\automated"
+
+# Function to plot scores for each category file with a trend line
+def plot_category_scores(category_name, file_path):
+    # Load JSON data
+    with open(file_path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    
+    # Prepare data for plotting
+    chapter_numbers = []
+    chapter_averages = []
+    chapter_colors = {}
+    all_question_scores = []
+
+    # Unique color for each chapter
+    chapter_names = [chapter["chapter"] for chapter in data]
+    colors_palette = sns.color_palette("husl", len(chapter_names))
+    chapter_color_map = {name: colors_palette[i] for i, name in enumerate(chapter_names)}
+
+    # Extract average score per chapter and collect scores
+    for chapter in data:
+        chapter_name = chapter["chapter"]
+        chapter_number = chapter_name.split()[0]  # Extract chapter number
+        chapter_numbers.append(chapter_number)
+        chapter_color = chapter_color_map[chapter_name]
+        
+        # Collect scores for each question within the chapter
+        scores = []
+        for topic in chapter["topics"]:
+            for question in topic["questions"]:
+                # Main question score
+                scores.append(question["main_question"]["score"])
+                # Follow-up question scores
+                scores.extend(follow_up["score"] for follow_up in question.get("follow_up_questions", []))   
+        
+        # Calculate overall chapter average for plotting
+        if scores:
+            chapter_avg_score = np.mean(scores)
+            chapter_averages.append(chapter_avg_score)
+            all_question_scores.append((chapter_number, chapter_avg_score, chapter_color))
+
+    # Plot setup
+    plt.figure(figsize=(14, 7))
+
+    # Plot each chapter's average score in distinct colors
+    x_positions = range(len(all_question_scores))
+    scores = [score for _, score, _ in all_question_scores]
+    colors = [color for _, _, color in all_question_scores]
+
+    plt.bar(x_positions, scores, color=colors, alpha=0.7)
+
+    # Add a trend line (linear regression line)
+    slope, intercept, _, _, _ = linregress(x_positions, scores)
+    trend_line = [slope * x + intercept for x in x_positions]
+    plt.plot(x_positions, trend_line, color='red', linestyle='--', linewidth=2, label='Trend Line')
+
+    # Customize the plot
+    plt.xlabel('Chapter Number', fontsize=12)
+    plt.ylabel('Score', fontsize=12)
+    plt.title(f'{category_name} Questions Scores by Chapter', fontsize=14, pad=20)
+    plt.xticks(x_positions, chapter_numbers, rotation=45, ha='right', fontsize=10)  # Set x-labels to chapter numbers
+    plt.grid(True, axis='y', linestyle='--', alpha=0.3)
+
+    # Legend with chapter colors
+    legend_elements = [plt.Line2D([0], [0], color='red', linestyle='--', label='Trend Line')] + \
+                      [plt.Rectangle((0, 0), 1, 1, facecolor=chapter_color_map[chapter], label=f"Chapter {chapter.split()[0]}")
+                       for chapter in chapter_names]
+    plt.legend(handles=legend_elements, loc='upper center', bbox_to_anchor=(0.5, -0.15), ncol=4, title="Chapters")
+
+    # Save and show the plot for this category
+    output_path = f"{output_dir}/{category_name.lower()}_questions_plot_with_trend.png"
+    plt.tight_layout(rect=[0, 0.1, 1, 1])  # Add space at bottom for legend
+    plt.savefig(output_path)
+    plt.close()
+
+    print(f"Saved plot for {category_name} questions to {output_path}")
+
+# Generate plots for each category
+for category_name, file_path in file_paths.items():
+    plot_category_scores(category_name, file_path)

@@ -1,0 +1,1310 @@
+Chapter: 1 - PHYSICAL QUANTITIES AND MEASUREMENT
+================================================
+  Topic: 1.1 Physics
+  ------------------
+    Type: Definition of Physics
+    Type: Branches of Physics
+    Type: Historical Contributions to Physics
+    Type: Physics in Modern Technology
+    Type: The Scope of Physics
+    Type: The Philosophy of Physics
+    Type: Calculation
+  Topic: 1.2 Objectives of Physics
+  --------------------------------
+    Type: Purpose of Physics
+    Type: Real-World Applications
+    Type: Physics and Other Sciences
+    Type: Physics and Society
+    Type: Limitations of Physics**
+    Type: Calculation
+  Topic: 1.3 Space and Time
+  -------------------------
+    Type: Concept of Space
+    Type: Concept of Time
+    Type: Space-Time Continuum
+    Type: Time and Motion
+    Type: Space-Time Geometry**
+    Type: Time Travel in Physics**
+    Type: Calculation
+  Topic: 1.4 Physical Quantities
+  ------------------------------
+    Type: Definition of Physical Quantities
+    Type: Fundamental Quantities
+    Type: Derived Physical Quantities
+    Type: Measuring Physical Quantities
+    Type: Scalars and Vectors**
+    Type: Dimensional Homogeneity**
+    Type: Calculation
+  Topic: 1.5 Units of Measurements
+  --------------------------------
+    Type: SI Units
+    Type: Fundamental and Derived Units
+    Type: Unit Conversion
+    Type: Historical Units of Measurement
+    Type: Precision and Accuracy**
+    Type: Evolution of the Metric System**
+    Type: Calculation
+  Topic: 1.6 Dimensions
+  ---------------------
+    Type: Dimensional Formula
+    Type: Application of Dimensions
+    Type: Verification of Equations
+    Type: Dimensional Consistency**
+    Type: Real-World Applications of Dimensions**
+  Topic: 1.7 Scientific Symbols and Notations
+  -------------------------------------------
+    Type: Understanding Symbols
+    Type: Scientific Notation
+    Type: Dimensional Analysis
+    Type: Mathematical Notations in Physics**
+  Topic: 1.8 Measuring Instruments
+  --------------------------------
+    Type: Understanding Instruments
+    Type: Least Count of Instruments
+    Type: Vernier Scale
+    Type: Slide Calipers
+  Topic: 1.9 Error and Accuracy in Measurement
+  --------------------------------------------
+    Type: Understanding Errors in Measurement
+    Type: Types of Errors in Measurement
+    Type: Error Propagation
+    Type: Accuracy in Measurement
+    Type: Precision in Measurement
+    Type: Error Calculation
+    Type: Significant Figures and Errors
+
+########################################
+
+Chapter: 2 - Motion
+===================
+  Topic: 2.1 Rest and Motion
+  --------------------------
+    Type: Definition
+    Type: Explanation
+    Type: Examples
+    Type: Conceptual
+    Type: Analytical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Analytical
+    Type: Examples
+    Type: Conceptual
+    Type: Calculation
+  Topic: 2.2 Types of Motion
+  --------------------------
+    Type: Application
+    Type: Linear Motion
+    Type: Rotational Motion
+    Type: Periodic and Vibratory Motion
+    Type: Multiple
+    Type: Conceptual
+    Type: Analytical
+    Type: Definition
+    Type: Conceptual
+    Type: Examples
+    Type: Analytical
+    Type: Conceptual
+    Type: Application
+    Type: Calculation
+  Topic: 2.3 Scalar and Vector Quantities
+  ---------------------------------------
+    Type: Definition
+    Type: Scalar Quantity
+    Type: Vector Quantity
+    Type: Representation
+    Type: Conceptual
+    Type: Analytical
+    Type: Conceptual
+    Type: Analytical
+    Type: Graphical
+    Type: Conceptual
+    Type: Calculation
+  Topic: 2.4 Quantities Related to Motion
+  ---------------------------------------
+    Type: Application
+    Type: Distance and Displacement
+    Type: Speed and Velocity
+    Type: Average and Instantaneous Speed
+    Type: Conceptual
+    Type: Analytical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Analytical
+    Type: Examples
+    Type: Analytical
+    Type: Calculation
+  Topic: 2.5 Equations of Motion
+  ------------------------------
+    Type: Graphical
+    Type: First Equation of Motion
+    Type: Second Equation of Motion
+    Type: Multiple
+    Type: Conceptual
+    Type: Analytical
+    Type: Definition
+    Type: Conceptual
+    Type: Analytical
+    Type: Conceptual
+    Type: Calculation
+  Topic: 2.6 Motion of Falling Bodies
+  -----------------------------------
+    Type: Application
+    Type: Acceleration due to Gravity
+    Type: Laws of Falling Bodies
+    Type: Mathematical
+    Type: Conceptual
+    Type: Analytical
+    Type: Conceptual
+    Type: Analytical
+    Type: Examples
+    Type: Conceptual
+    Type: Analytical
+  Topic: 2.7 Motion and Graphs
+  ----------------------------
+    Type: Applications
+    Type: Distance-Time Graph
+    Type: Velocity-Time Graph
+    Type: Graphical Interpretation
+    Type: Conceptual
+    Type: Analytical
+    Type: Conceptual
+    Type: Analytical
+    Type: Multiple
+    Type: Analytical
+    Type: Graphical Interpretation
+    Type: Experimental
+    Type: Real-Life Applications
+
+########################################
+
+Chapter: 3 - Force
+==================
+  Topic: 3.1 Inertia and Qualitative Concept of Force
+  ---------------------------------------------------
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Calculation
+  Topic: 3.2 Nature of Force
+  --------------------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Calculation
+  Topic: 3.3 Balanced and Unbalanced Forces
+  -----------------------------------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+    Type: Calculation
+  Topic: 3.4 Momentum
+  -------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+    Type: Calculation
+  Topic: 3.5 Effect of Force on Motion
+  ------------------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Conceptual
+    Type: Calculation
+  Topic: 3.6 Relation Between Force and Acceleration (Newton’s Second Law)
+  ------------------------------------------------------------------------
+    Type: Application-based
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+  Topic: 3.7 Action and Reaction Force (Newton’s Third Law)
+  ---------------------------------------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 3.8 Safe Journey: Force and Motion
+  -----------------------------------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 3.9 Friction and Force of Friction
+  -----------------------------------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 3.10 Effects of Friction on Motion
+  -----------------------------------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 3.11 Increasing and Decreasing Friction
+  ----------------------------------------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 3.12 Friction: A Necessary Evil
+  --------------------------------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Critical Thinking
+
+########################################
+
+Chapter: 4 - Work, Power, and Energy
+====================================
+  Topic: 4.1 Work
+  ---------------
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Numerical
+    Type: Application-based
+    Type: Application-based
+    Type: Application-based
+    Type: Theoretical
+    Type: Theoretical
+    Type: Theoretical
+    Type: Problem-solving
+    Type: Problem-solving
+    Type: Calculation
+  Topic: 4.2 energy
+  -----------------
+    Type: Problem-solving
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-based
+    Type: Application-based
+    Type: Theoretical
+    Type: Theoretical
+    Type: Problem-solving
+    Type: Problem-solving
+    Type: Conceptual
+    Type: Numerical
+    Type: Calculation
+  Topic: 4.3 Prime Sources of Energy:
+  -----------------------------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-based
+    Type: Application-based
+    Type: Theoretical
+    Type: Theoretical
+    Type: Problem-solving
+    Type: Problem-solving
+    Type: Conceptual
+    Type: Calculation
+  Topic: 4.4 Transformation of Energy:
+  ------------------------------------
+    Type: Application-based
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-based
+    Type: Application-based
+    Type: Theoretical
+    Type: Theoretical
+    Type: Problem-solving
+    Type: Calculation
+  Topic: 4.5 Power:
+  -----------------
+    Type: Problem-solving
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-based
+    Type: Application-based
+    Type: Theoretical
+    Type: Theoretical
+    Type: Problem-solving
+    Type: Problem-solving
+    Type: Calculation
+  Topic: 4.6 Efficiency:
+  ----------------------
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-based
+    Type: Application-based
+    Type: Theoretical
+    Type: Theoretical
+    Type: Problem-solving
+    Type: Problem-solving
+    Type: Conceptual (new)
+    Type: Application-based (new)
+    Type: Calculation
+
+########################################
+
+Chapter: 5 - Pressure and States of Matter
+==========================================
+  Topic: 5.1 Pressure and Area
+  ----------------------------
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Comparative
+    Type: Real-world scenario
+    Type: Calculation
+  Topic: 5.2 Density
+  ------------------
+    Type: Experimental
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Real-world scenario
+    Type: Experimental
+    Type: Comparative
+    Type: Calculation
+  Topic: 5.3 Atmospheric Pressure
+  -------------------------------
+    Type: Critical thinking
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Experimental
+    Type: Real-world scenario
+    Type: Comparative
+    Type: Calculation
+  Topic: 5.4 Altitude and Atmospheric Pressure
+  --------------------------------------------
+    Type: Critical thinking
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Experimental
+    Type: Real-world scenario
+    Type: Calculation
+  Topic: 5.5 Change in Atmospheric Pressure and Weather
+  -----------------------------------------------------
+    Type: Comparative
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Experimental
+    Type: Real-world scenario
+    Type: Calculation
+  Topic: 5.6 Pressure at a Point in a Liquid at Equilibrium
+  ---------------------------------------------------------
+    Type: Comparative
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Experimental
+    Type: Real-world scenario
+    Type: Calculation
+  Topic: 5.7 Pressure of a Fluid and Buoyancy
+  -------------------------------------------
+    Type: Comparative
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Experimental
+    Type: Real-world scenario
+  Topic: 5.8 Floatation and Immersion of a Body
+  ---------------------------------------------
+    Type: Comparative
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Experimental
+    Type: Real-world scenario
+  Topic: 5.9 Archimedes' Law
+  --------------------------
+    Type: Comparative
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Experimental
+    Type: Real-world scenario
+  Topic: 5.10 Pascal’s Law
+  ------------------------
+    Type: Comparative
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-based
+    Type: Experimental
+    Type: Real-world scenario
+  Topic: 5.11 Elasticity: Stress and Strain
+  -----------------------------------------
+    Type: Comparative
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+  Topic: 5.12 Molecular Kinetic Theory of Matter
+  ----------------------------------------------
+    Type: True/False
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+  Topic: 5.13 Plasma State of Matter
+  ----------------------------------
+    Type: True/False
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: True/False
+
+########################################
+
+Chapter: 6 - Heat and Thermodynamics
+====================================
+  Topic: 6.1 Heat and Temperature
+  -------------------------------
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Calculation
+  Topic: 6.2 Thermometric Properties of Matter
+  --------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Calculation
+  Topic: 6.3 Relation among Celsius, Fahrenheit, and Kelvin Scale
+  ---------------------------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Calculation
+  Topic: 6.4 Raise of Temperature and Internal Energy of a Body
+  -------------------------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Calculation
+  Topic: 6.5 Thermal Expansion of Substance
+  -----------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Calculation
+  Topic: 6.6 Expansion of Solids
+  ------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Calculation
+  Topic: 6.7 Expansion of Liquids
+  -------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.8 Real and Apparent Expansion of Liquids
+  -------------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.9 Effect of Heat on Change of State
+  --------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.10 Fusion, Vaporization, and Condensation
+  --------------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.11 Effect of Pressure on Boiling Point
+  -----------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.12 Latent Heat of Fusion and Latent Heat of Vaporization
+  -----------------------------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.13 Dependence of Evaporation on Various Factors
+  --------------------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.14 Thermal Capacity
+  ----------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.15 Specific Heat
+  -------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+  Topic: 6.16 Relation Between Specific Heat and Thermal Capacity
+  ---------------------------------------------------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Application-based
+  Topic: 6.17 Fundamental Principle of Calorimetry
+  ------------------------------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+
+########################################
+
+Chapter: 7 - Waves and Sound
+============================
+  Topic: 7.1 Periodic Motion Oscillatory or Harmonic Motion
+  ---------------------------------------------------------
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Calculation
+  Topic: 7.2 Waves
+  ----------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Conceptual
+    Type: Calculation
+  Topic: 7.3 Wave Related Quantities
+  ----------------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Numerical
+    Type: Conceptual
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-Based
+    Type: Conceptual
+    Type: Numerical
+    Type: Conceptual
+    Type: Calculation
+  Topic: 7.4 A Few Relations
+  --------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Numerical
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Calculation
+  Topic: 7.5 Sound Wave
+  ---------------------
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Conceptual
+    Type: Calculation
+  Topic: 7.6 Echo
+  ---------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Application-Based
+    Type: Numerical
+    Type: Calculation
+  Topic: 7.7 Uses of Echo
+  -----------------------
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Numerical
+    Type: Conceptual
+  Topic: 7.8 Variation of Velocity of Sound
+  -----------------------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Conceptual
+  Topic: 7.9 Audibility Range and Their Uses
+  ------------------------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Numerical
+    Type: Conceptual
+  Topic: 7.10 Musical Sound and Its Characteristics
+  -------------------------------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-Based
+  Topic: 7.11 Noise Pollution
+  ---------------------------
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-Based
+
+########################################
+
+Chapter: 8 - Light and Optics
+=============================
+  Topic: 8.1 Nature of Light
+  --------------------------
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Calculation
+  Topic: 8.2 Laws of Reflection of Light
+  --------------------------------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Numerical
+    Type: Conceptual
+    Type: Calculation
+  Topic: 8.3 Mirror
+  -----------------
+    Type: Diagram-Based
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Diagram-Based
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Numerical
+    Type: Calculation
+  Topic: 8.4 Image
+  ----------------
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Diagram-Based
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Calculation
+  Topic: 8.5 Image in a Mirror
+  ----------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Diagram-Based
+    Type: Critical Thinking
+    Type: Calculation
+  Topic: 8.6 Some Common Phenomena of Formation of Images in Plane and Spherical Mirrors
+  --------------------------------------------------------------------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Diagram-Based
+    Type: Critical Thinking
+    Type: Conceptual
+    Type: Numerical
+    Type: Calculation
+  Topic: 8.7 Uses of Mirror
+  -------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Application-Based
+  Topic: 8.8 Safe Driving
+  -----------------------
+    Type: Application-Based
+    Type: Conceptual
+  Topic: 8.9 Blind Turns on Hilly Roads
+  -------------------------------------
+    Type: Application-Based
+    Type: Conceptual
+  Topic: 8.10 Magnification
+  -------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Numerical
+    Type: Conceptual
+    Type: Application-Based
+    Type: Diagram-Based
+
+########################################
+
+Chapter: 9 - Electricity and Magnetism
+======================================
+  Topic: 9.1 Refraction of Light
+  ------------------------------
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Experimental/Practical
+    Type: Critical Thinking
+    Type: Theoretical
+    Type: Theoretical
+    Type: Calculation
+  Topic: 9.2 Refractive Index
+  ---------------------------
+    Type: Historical Context
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Experimental/Practical
+    Type: Critical Thinking
+    Type: Theoretical
+    Type: Calculation
+  Topic: 9.3 Critical Angle and Total Internal Reflection
+  -------------------------------------------------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Critical Thinking
+    Type: Calculation
+  Topic: 9.4 Mirage
+  -----------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Critical Thinking
+    Type: Calculation
+  Topic: 9.5 Optical Fiber
+  ------------------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Calculation
+  Topic: 9.6 Lenses and Their Classification
+  ------------------------------------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Calculation
+  Topic: 9.7 Few Definitions Related to Lens
+  ------------------------------------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Experimental/Practical
+    Type: Critical Thinking
+    Type: Theoretical
+    Type: Calculation
+  Topic: 9.8 Power of Lens
+  ------------------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Critical Thinking
+  Topic: 9.9 Human Eye
+  --------------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Critical Thinking
+  Topic: 9.10 Function of an Eye
+  ------------------------------
+    Type: Theoretical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+  Topic: 9.11 Defects of Vision and its Remedy
+  --------------------------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Application-Based
+  Topic: 9.12 Perceptions of Coloured Object
+  ------------------------------------------
+    Type: Experimental/Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+  Topic: 9.13 Uses of Refraction in Our Daily Life
+  ------------------------------------------------
+    Type: Experimental/Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Experimental/Practical
+    Type: Critical Thinking
+
+########################################
+
+Chapter: 10 - STATICAL ELECTRICITY
+==================================
+  Topic: 10.1 Charge
+  ------------------
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Analytical
+    Type: Experimental
+    Type: Calculation
+  Topic: 10.2 Electrification by Friction
+  ---------------------------------------
+    Type: Conceptual (Advanced)
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Analytical
+    Type: Calculation
+  Topic: 10.3 Electric Induction
+  ------------------------------
+    Type: Experimental
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Analytical
+    Type: Calculation
+  Topic: 10.4 Electroscope
+  ------------------------
+    Type: Experimental
+    Type: Conceptual
+    Type: Numerical
+    Type: Calculation
+  Topic: 10.5 Electric Force
+  --------------------------
+    Type: Application-Based
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Analytical
+    Type: Calculation
+  Topic: 10.6 Electric Field
+  --------------------------
+    Type: Experimental
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Analytical
+    Type: Calculation
+  Topic: 10.7 Electric Potential
+  ------------------------------
+    Type: Experimental
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Analytical
+  Topic: 10.8 Electric Capacitor
+  ------------------------------
+    Type: Experimental
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Analytical
+  Topic: 10.9 Uses and Dangers of Static Electricity
+  --------------------------------------------------
+    Type: Experimental
+    Type: Conceptual
+    Type: Numerical
+    Type: Application-Based
+    Type: Analytical
+    Type: Experimental
+
+########################################
+
+Chapter: 11 - CURRENT ELECTRICITY
+=================================
+  Topic: 11.1 Production of Current Electricity
+  ---------------------------------------------
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Application-based
+    Type: Numerical
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Critical Thinking
+    Type: Practical
+    Type: Calculation
+  Topic: 11.2 Direction of Electric Current
+  -----------------------------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Application-based
+    Type: Numerical
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Calculation
+  Topic: 11.3 Electric Symbols
+  ----------------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Application-based
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Calculation
+  Topic: 11.4 Conductor, Insulator, and Semiconductor
+  ---------------------------------------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Calculation
+  Topic: 11.5 Ohm’s Law
+  ---------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Application-based
+    Type: Numerical
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Calculation
+  Topic: 11.6 Resistance: Fixed and Variable
+  ------------------------------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Calculation
+  Topic: 11.7 Electromotive Force and Potential Difference
+  --------------------------------------------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Numerical
+    Type: Critical Thinking
+  Topic: 11.8 Dependence of Resistance
+  ------------------------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Application-based
+    Type: Numerical
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Critical Thinking
+  Topic: 11.9 Resistivity and Conductivity
+  ----------------------------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Application-based
+    Type: Numerical
+    Type: Numerical
+    Type: Critical Thinking
+  Topic: 11.10 Series and Parallel Circuits
+  -----------------------------------------
+    Type: Practical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-based
+    Type: Application-based
+    Type: Numerical
+    Type: Numerical
+    Type: Critical Thinking
+    Type: Critical Thinking
+    Type: Practical
+
+########################################
+
+Chapter: 12 - MAGNETIC EFFECT OF CURRENT
+========================================
+  Topic: 12.1 Magnetic Effect of Current
+  --------------------------------------
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Analytical
+    Type: Analytical
+    Type: Numerical
+    Type: Calculation
+  Topic: 12.2 Magnetic Effect of Current Carrying Conductor
+  ---------------------------------------------------------
+    Type: Advanced Analytical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Analytical
+    Type: Calculation
+  Topic: 12.3 Solenoid
+  --------------------
+    Type: Analytical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Analytical
+    Type: Calculation
+  Topic: 12.4 Electromagnet
+  -------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Analytical
+    Type: Calculation
+  Topic: 12.5 Electromagnetic Induction
+  -------------------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Analytical
+    Type: Analytical
+    Type: Calculation
+  Topic: 12.6 Induced Current and Induced Voltage
+  -----------------------------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Analytical
+  Topic: 12.7 Effect of Magnet on Current Carrying Wire
+  -----------------------------------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Analytical
+  Topic: 12.8 Electric Motor
+  --------------------------
+    Type: Numerical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Application-Based
+    Type: Analytical
+    Type: Analytical
+    Type: Numerical
+    Type: Numerical
+    Type: Advanced Analytical
+  Topic: 12.9 Generator
+  ---------------------
+    Type: Advanced Analytical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Analytical
+    Type: Analytical
+    Type: Numerical
+    Type: Numerical
+    Type: Advanced Analytical
+  Topic: 12.10 Transformer
+  ------------------------
+    Type: Advanced Analytical
+    Type: Conceptual
+    Type: Conceptual
+    Type: Conceptual
+    Type: Application-Based
+    Type: Application-Based
+    Type: Application-Based
+    Type: Analytical
+    Type: Analytical
+    Type: Analytical
+    Type: Numerical
+    Type: Numerical
+    Type: Numerical
+    Type: Advanced Analytical
+    Type: Advanced Analytical
+    Type: Advanced Analytical
+    Type: Problem-Solving
+    Type: Problem-Solving
+
+########################################
+
+Chapter: 13 - Modern Physics and Electronics
+============================================
+  Topic: 13.1 Radioactivity
+  -------------------------
+    Type: Conceptual Questions
+    Type: Historical Questions
+    Type: Definition Questions
+    Type: Application Questions
+    Type: Experimental Questions
+    Type: Safety and Awareness Questions
+    Type: Mathematical Problems
+    Type: Calculation
+  Topic: 13.2 Properties of Alpha, Beta, and Gamma Rays
+  -----------------------------------------------------
+    Type: Analytical Questions
+    Type: Conceptual Questions
+    Type: Definition Questions
+    Type: Application Questions
+    Type: Comparative Questions
+    Type: Experimental Questions
+    Type: Calculation
+  Topic: 13.3 Half-life of a Radioactive Element
+  ----------------------------------------------
+    Type: Mathematical Problems
+    Type: Definition Questions
+    Type: Conceptual Questions
+    Type: Mathematical Problems
+    Type: Application Questions
+    Type: Safety and Awareness Questions
+    Type: Calculation
+  Topic: 13.4 Uses of Radioactivity
+  ---------------------------------
+    Type: Experimental Questions
+    Type: Medical Applications
+    Type: Agricultural Applications
+    Type: Industrial Applications
+    Type: Calculation
+  Topic: 13.5 Dangers of Radioactivity
+  ------------------------------------
+    Type: Environmental Applications
+    Type: Health Risks
+    Type: Environmental Risks
+    Type: Safety Measures
+    Type: Long-Term Effects
+  Topic: 13.6 Development of Electronics
+  --------------------------------------
+    Type: Nuclear Accidents and Disasters
+    Type: Historical Questions
+    Type: Definition Questions
+    Type: Conceptual Questions
+    Type: Calculation
+  Topic: 13.7 Analogue and Digital Electronics
+  --------------------------------------------
+    Type: Application Questions
+    Type: Conceptual Questions
+    Type: Comparative Questions
+  Topic: 13.8 Semiconductor and Integrated Circuit
+  ------------------------------------------------
+    Type: Application Questions
+    Type: Definition Questions
+    Type: Conceptual Questions
+  Topic: 13.9 Microphone and Speaker
+  ----------------------------------
+    Type: Application Questions
+    Type: Conceptual Questions
+    Type: Application Questions
+    Type: Comparative Questions
+    Type: Historical Questions
+  Topic: 13.10 Information and Communication Technology
+  -----------------------------------------------------
+    Type: Mathematical/Physics-Based Questions
+    Type: Conceptual Questions
+    Type: Comparative Questions
+    Type: Application Questions
+    Type: Security and Privacy Questions
+    Type: Future Trends in ICT
+
+########################################
+

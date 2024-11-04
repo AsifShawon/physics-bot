@@ -1,6 +1,6 @@
 [
     {
-        "chapter": "1. Physical Quantities and Measurement",
+        "chapter": "1 - PHYSICAL QUANTITIES AND MEASUREMENT",
         "topics": [
             {
                 "topic": "1.1 Units and Measurements",
@@ -292,7 +292,7 @@
         ]
     },
     {
-        "chapter": "2. Motion",
+        "chapter": "2 - Motion",
         "topics": [
             {
                 "topic": "2.1 Linear Motion",
@@ -573,7 +573,7 @@
         ]
     },
     {
-        "chapter": "3. Force",
+        "chapter": "3 - Force",
         "topics": [
             {
                 "topic": "3.1 Newton’s Laws of Motion",
@@ -902,7 +902,7 @@
         ]
     },
     {
-        "chapter": "4. Work, Power, and Energy",
+        "chapter": "4 - Work, Energy, and Power",
         "topics": [
             {
                 "topic": "4.1 Work Done by a Force",
@@ -1560,7 +1560,7 @@
         ]
     },
     {
-        "chapter": "6. Heat and Thermodynamics",
+        "chapter": "6 - EFFECT OF HEAT ON SUBSTANCES",
         "topics": [
             {
                 "topic": "6.1 Temperature and Heat",
@@ -2930,7 +2930,7 @@
         ]
     },
     {
-        "chapter": "10. Modern Physics",
+        "chapter": "10 - STATICAL ELECTRICITY",
         "topics": [
             {
                 "topic": "10.1 Photoelectric Effect",
@@ -3259,7 +3259,7 @@
         ]
     },
     {
-        "chapter": "11. Applications of Physics in Health and Safety",
+        "chapter": "11 - CURRENT ELECTRICITY",
         "topics": [
             {
                 "topic": "11.1 X-Rays and Medical Imaging",
@@ -3588,7 +3588,7 @@
         ]
     },
     {
-        "chapter": "12. Magnetic Effect of Current",
+        "chapter": "12 - MAGNETIC EFFECT OF CURRENT",
         "topics": [
             {
                 "topic": "12.1 Magnetic Field around a Current-Carrying Conductor",
@@ -3917,7 +3917,7 @@
         ]
     },
     {
-        "chapter": "13. Modern Physics and Electronics",
+        "chapter": "13 - Modern Physics and Electronics",
         "topics": [
             {
                 "topic": "13.1 Atomic Models and Spectra",

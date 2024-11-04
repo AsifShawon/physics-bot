@@ -1,3 +1,4 @@
+llm_output[1-13] format = ```
 [
     {
         "chapter": "chapter_name",
@@ -11,19 +12,23 @@
                             {
                                 "main_question": {
                                     "q": "Sample LLM Question 1",
-                                    "a": "Sample LLM Answer 1"
+                                    "a": "Sample LLM Answer 1",
+                                    "time_taken": time_in_seconds
                                 },
                                 "follow_up_questions": [
                                     {
                                         "q": "Sample LLM Follow Up Question 1",
-                                        "a": "Sample LLM Answer 2"
+                                        "a": "Sample LLM Answer 2",
+                                        "time_taken": time_in_seconds
                                     }
                                 ]
                             }
                         ]
-                    }
+                    },
+                    "Add more types here..."
                 ]
-            }
+            },
+            "Add more topics here..."
         ]
     }
-]
+]```
