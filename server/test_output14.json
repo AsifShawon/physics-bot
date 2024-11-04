@@ -881,6 +881,26 @@
                 ]
             },
             {
+                "topic": ": 14.6 CT Scan",
+                "types": []
+            },
+            {
+                "topic": ": 14.7 Magnetic Resonance Imaging (MRI)",
+                "types": []
+            },
+            {
+                "topic": ": 14.8 ECG (Electrocardiogram)",
+                "types": []
+            },
+            {
+                "topic": ": 14.8 Endoscopy",
+                "types": []
+            },
+            {
+                "topic": ": 14.8 Radiotherapy",
+                "types": []
+            },
+            {
                 "topic": ": 14.8 Exercise Tolerance Test (ETT)",
                 "types": [
                     {

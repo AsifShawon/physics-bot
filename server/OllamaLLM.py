@@ -61,8 +61,25 @@ def clear_chat_history():
     history_manager.clear_history()
     initialize_model()
 
-def get_prompt_template(query: str) -> str:
-    if any(keyword in query.lower() for keyword in ['calculate', 'solve', 'find the value']):
+def get_prompt_template(query: str, is_math_follow_up=False) -> str:
+    """
+    Generate a prompt template based on the query type.
+    If it's a math follow-up, use a calculation-focused prompt template.
+    """
+    if is_math_follow_up:
+        return """Previous Relevant Discussion:
+{chat_history}
+
+Current Question: {query}
+
+Context: {context}
+
+This is a mathematical follow-up. Please:
+1. Refer to any related prior conversation or calculations.
+2. Provide detailed step-by-step calculations.
+3. Present the final answer with units and clarify assumptions or approximations used."""
+    
+    elif any(keyword in query.lower() for keyword in ['calculate', 'solve', 'find the value']):
         return """Previous Relevant Discussion:
 {chat_history}
 
@@ -96,18 +113,38 @@ Context: {context}
 Please provide a clear answer, referencing our previous discussion where relevant."""
 
 def is_follow_up(query: str) -> bool:
+    """
+    Determine if the query is a follow-up question, specifically for math if needed.
+    """
     follow_up_keywords = [
         'tell me more', 'describe', 'give an example', 'explain further', 
-        'clarify', 'elaborate', 'more details', 'expand on', 'what about'
+        'clarify', 'elaborate', 'more details', 'expand on', 'what about', 'how about',
+        'further explanation', 'more information', 'more context', 'more details',
+        'more examples', 'more explanation', 'more clarification', 'more elaboration',
     ]
-    return any(keyword in query.lower() for keyword in follow_up_keywords)
+    math_follow_up_keywords = [
+        'calculate', 'step-by-step', 'how did you', 'derive', 'solution', 'math details', 'mathematically', 
+        'show the math', 'mathematical explanation', 'mathematical example', 'math steps', 'math process', 
+        'math calculation', 'math formula', 'math concept', 'math reasoning', 'math derivation', 'math proof', 
+        'mathematical reasoning', 'mathematical derivation', 'mathematical proof', 
+    ]
+    
+    if any(keyword in query.lower() for keyword in math_follow_up_keywords):
+        return "math"
+    elif any(keyword in query.lower() for keyword in follow_up_keywords):
+        return "general"
+    else:
+        return False
 
 def generate_text(query: str) -> str:
     # Initialize model if not already done
     model = initialize_model()
     
     # Get context based on query type
-    if is_follow_up(query):
+    follow_up_type = is_follow_up(query)
+    is_math_follow_up = follow_up_type == "math"
+    
+    if follow_up_type:
         context = "Using previous conversation context."
     else:
         retrieved_text = search(query)
@@ -115,7 +152,7 @@ def generate_text(query: str) -> str:
                   else "Using general physics knowledge and conversation context.")
 
     # Get prompt template and format it
-    prompt_template = get_prompt_template(query)
+    prompt_template = get_prompt_template(query, is_math_follow_up=is_math_follow_up)
     chat_history = history_manager.get_relevant_history()
     
     full_prompt = prompt_template.format(
