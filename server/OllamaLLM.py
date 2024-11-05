@@ -120,7 +120,8 @@ def is_follow_up(query: str) -> bool:
         'tell me more', 'describe', 'give an example', 'explain further', 
         'clarify', 'elaborate', 'more details', 'expand on', 'what about', 'how about',
         'further explanation', 'more information', 'more context', 'more details',
-        'more examples', 'more explanation', 'more clarification', 'more elaboration',
+        'more examples', 'more explanation', 'more clarification', 'more elaboration', 'practical example',
+        
     ]
     math_follow_up_keywords = [
         'calculate', 'step-by-step', 'how did you', 'derive', 'solution', 'math details', 'mathematically', 
