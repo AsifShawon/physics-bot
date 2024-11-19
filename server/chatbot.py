@@ -1,7 +1,7 @@
 import streamlit as st
 import time
 from st_chat_message import message as stcm
-from OllamaLLM import generate_text, clear_chat_history
+from OllamaLLM import generate_text, clear_chat_history, initialize_model
 
 # Configure Streamlit page
 st.set_page_config(
@@ -27,21 +27,38 @@ st.markdown("""
 
 st.title("Physics Chatbot 🔬", anchor=False)
 
+# Initialize session states
+if "messages" not in st.session_state:
+    st.session_state.messages = [{"role": "assistant", "content": "Hello! I'm your physics assistant. How can I help you today?"}]
+if "current_model" not in st.session_state:
+    st.session_state.current_model = "gemma2:2b-instruct-q4_K_M"
+
 # Sidebar configuration
 with st.sidebar:
     st.header('Welcome! 👋', divider="red")
-    model = "gemma2:2b-instruct-q4_K_M"
-    st.subheader(f"Model: :red[{model}]", divider="gray")
     
-    # New chat button with session state management
+    # Model selection with proper state management
+    model_options = ["gemma2:2b-instruct-q4_K_M", "gemma2:9b", "llama3.2:3b", "mistral:latest"]
+    new_model = st.selectbox(
+        "Select LLM Model",
+        model_options,
+        index=model_options.index(st.session_state.current_model)
+    )
+    
+    # Handle model switching
+    if new_model != st.session_state.current_model:
+        with st.spinner(f"Switching to {new_model}..."):
+            if initialize_model(new_model):
+                st.session_state.current_model = new_model
+                st.success(f"Successfully switched to {new_model}")
+            else:
+                st.error(f"Failed to switch to {new_model}")
+    
+    # New chat button
     if st.button("New Chat 🔄"):
-        st.session_state.messages = []
         st.session_state.messages = [{"role": "assistant", "content": "Hello! I'm your physics assistant. How can I help you today?"}]
         clear_chat_history()
-
-# Initialize session state for messages
-if "messages" not in st.session_state:
-    st.session_state.messages = [{"role": "assistant", "content": "Hello! I'm your physics assistant. How can I help you today?"}]
+        st.rerun()
 
 # Display chat history
 for message in st.session_state.messages:
@@ -61,9 +78,8 @@ if prompt := st.chat_input("Ask me anything about physics..."):
         with st.spinner("🤔 Thinking..."):
             try:
                 start_time = time.time()
-                response = generate_text(prompt)
+                response = generate_text(prompt, st.session_state.current_model)
                 end_time = time.time()
-                print(f"Response time: {(end_time - start_time):.2f} seconds")
                 
                 # Display response
                 stcm(response, avatar_style="bottts")

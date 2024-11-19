@@ -1,3 +1,4 @@
+# OllamaLLM.py
 from langchain_community.llms import Ollama
 from langchain_core.output_parsers import StrOutputParser
 from langchain.schema import SystemMessage, AIMessage, HumanMessage
@@ -47,19 +48,31 @@ You will be given additional context to guide your responses. Focus strictly on 
     def clear_history(self):
         self.history.clear()
 
-# Global instances
+# Global instances with model tracking
 history_manager = ChatHistoryManager(max_turns=5)
 ollama_model = None
+current_model_name = None
 
-def initialize_model(model_name="gemma2:2b-instruct-q4_K_M"):
-    global ollama_model
-    if ollama_model is None:
-        ollama_model = Ollama(model=model_name)
-    return ollama_model
+def initialize_model(model_name: str = "gemma2:2b-instruct-q4_K_M"):
+    """
+    Initialize or reinitialize the LLM model with the specified model name.
+    Returns True if a new model was initialized, False if using existing model.
+    """
+    global ollama_model, current_model_name
+    
+    if ollama_model is None or current_model_name != model_name:
+        try:
+            ollama_model = Ollama(model=model_name)
+            current_model_name = model_name
+            return True
+        except Exception as e:
+            print(f"Error initializing model: {e}")
+            return False
+    return False
 
 def clear_chat_history():
+    """Clear chat history and reset model"""
     history_manager.clear_history()
-    initialize_model()
 
 def get_prompt_template(query: str, is_math_follow_up=False) -> str:
     """
@@ -137,11 +150,16 @@ def is_follow_up(query: str) -> bool:
     else:
         return False
 
-def generate_text(query: str) -> str:
-    # Initialize model if not already done
-    model = initialize_model()
+def generate_text(query: str, model_name: str = None) -> str:
+    """
+    Generate response text, optionally switching models if specified.
+    """
+    # Initialize or switch model if needed
+    if model_name:
+        initialize_model(model_name)
+    elif ollama_model is None:
+        initialize_model()
     
-    # Get context based on query type
     follow_up_type = is_follow_up(query)
     is_math_follow_up = follow_up_type == "math"
     
@@ -152,7 +170,6 @@ def generate_text(query: str) -> str:
         context = (retrieved_text if retrieved_text != "No relevant docs were retrieved using the relevance score threshold 0.5"
                   else "Using general physics knowledge and conversation context.")
 
-    # Get prompt template and format it
     prompt_template = get_prompt_template(query, is_math_follow_up=is_math_follow_up)
     chat_history = history_manager.get_relevant_history()
     
@@ -163,14 +180,10 @@ def generate_text(query: str) -> str:
     )
 
     try:
-        # Generate response
-        response = model.invoke(full_prompt)
+        print("Model : ", ollama_model)
+        response = ollama_model.invoke(full_prompt)
         response = StrOutputParser().parse(response)
-        
-        # Add to history
         history_manager.add_turn(query, response, context)
-        
-        # Return response character by character for streaming
         return response
     except Exception as e:
         error_message = f"Error generating response: {e}"
