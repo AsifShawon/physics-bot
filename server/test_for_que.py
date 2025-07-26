@@ -119,7 +119,7 @@ Please provide a comprehensive answer that:
             print(f"Completed Chapter {chapter_idx}: {chapter['chapter']}")
 
 def main():
-    GOOGLE_API_KEY = "AIzaSyAfBDLnOerYntiLjmwA0PmJ-yZmN5LvCJ0"
+    GOOGLE_API_KEY = ""
     input_file = "output10.json"
     
     try:
