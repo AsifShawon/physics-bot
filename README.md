@@ -54,7 +54,7 @@ To get started with the Physics Chatbot, you'll need to have Python 3.8 or highe
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/your-username/physics-bot.git](https://github.com/your-username/physics-bot.git)
+    git clone https://github.com/your-username/physics-bot.git
     cd physics-bot
     ```
 
