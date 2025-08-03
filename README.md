@@ -23,7 +23,7 @@ The Physics Chatbot is an interactive, AI-powered educational tool designed to a
 
 The project's core logic and main application are located within the `server/` directory.
 
-
+```
 .
 ├── server/
 │   ├── chatbot.py
@@ -36,7 +36,7 @@ The project's core logic and main application are located within the `server/` d
 │   ├── db/
 │   └── Datasets/
 └── ... (other project files)
-
+```
 
 - **`server/`**: This directory contains the heart of the application.
   - **`chatbot.py`**: The main application script. Running this file with Streamlit launches the web-based chatbot interface.
